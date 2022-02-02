@@ -1,0 +1,596 @@
+#__AW_Repository_Version '14.2.10.0000';
+#__AW_Product_Version '14.2.10.1748';
+#__AW_ATL_Locale 'eng_us.utf-8';
+ AlGUIComment ("ActaName_1" = 'RSavedAfterCheckOut', "ActaName_2" = 'RDate_modified', "ActaName_3" = 'RDate_created', "ActaName_4" = 'RDescription', "ActaValue_1" = 'YES', "ActaValue_2" = 'Wed Oct 21 08:07:04 2020', "ActaValue_3" = 'Mon Oct  5 13:25:49 2020', "ActaValue_4" = 'Staging IN Tables Pointing to HANA STAGING DB', "x" = '-1', "y" = '-1')
+CREATE DATABASE DATASTORE DS_STAGING::'0dada503-8919-4e25-99dc-b404cf84ebe3' SET ("DBLiveLoad" = 'no', "application_type" = 'Custom', "cdc_enabled" = 'no', "cdc_type" = 'native', "datastore_repotype" = 'local', "ds_configuration_enabled" = 'yes', "ds_configurations" = '<?xml version="1.0" encoding="WINDOWS-1252" ?>
+<DSConfigurations>
+<DSConfiguration default="true" name="DEV">
+<case_sensitive>yes</case_sensitive>
+<cdc_ra_password>+0400000000120303000803E8E5FB5F9DCD61D9AECBF2841182B893DB6182A297E210923A363715308E50824C298BDF3DD5E3149DEBD592E5ED</cdc_ra_password>
+<cdc_ra_server>DS_RA</cdc_ra_server>
+<cdc_ra_user>sa</cdc_ra_user>
+<cdc_rs_password>+0400000000120303000803E8B4945C10F01AE3FBE419DEAF2D806A81DF3A27DB9AC48B188A7CF1FD377A01E1B1EAF8BEBA620B7D98B9853384</cdc_rs_password>
+<cdc_rs_retention>0</cdc_rs_retention>
+<cdc_rs_server>SAMPLE_RS</cdc_rs_server>
+<cdc_rs_user>ds</cdc_rs_user>
+<database_subtype>On Premise</database_subtype>
+<database_type>Microsoft_SQL_Server</database_type>
+<db_alias_name1>DBO</db_alias_name1>
+<db_alias_user1>dbo</db_alias_user1>
+<loader_xact_size>1000</loader_xact_size>
+<locale_codepage>&lt;default&gt;</locale_codepage>
+<locale_language>&lt;default&gt;</locale_language>
+<locale_territory>&lt;default&gt;</locale_territory>
+<mssql_windows_authentication>no</mssql_windows_authentication>
+<password>+0400000000120303000803E8AE079163FB4AE22A47C6552514E337864CC01FAA17A93E4029E332A3109D42DE55B028585F5C310C30EF61CC1E2DCE9416FEAC75</password>
+<server_codepage>&lt;default&gt;</server_codepage>
+<sql_server_database>DB_DEV</sql_server_database>
+<sql_server_dataserver>GDSSAP002</sql_server_dataserver>
+<sql_server_version>Microsoft SQL Server 2008</sql_server_version>
+<use_ssl_encryption>no</use_ssl_encryption>
+<user>Developer</user>
+</DSConfiguration>
+<DSConfiguration default="false" name="QA">
+<case_sensitive>yes</case_sensitive>
+<cdc_ra_password>+0400000000120303000803E8C2C4296DA7CEBCE61E576C49F86D363339F88A181B39BF78BE23DEC91DB0A38DF09C19B7C71CBB4D015AAD379B</cdc_ra_password>
+<cdc_ra_server>DS_RA</cdc_ra_server>
+<cdc_ra_user>sa</cdc_ra_user>
+<cdc_rs_password>+0400000000120303000803E8EBF2FCF45E21326E5956B39D3F3D25ECED28F589F9B7D6C26538419BEEE8B3ED8EFBEE85E132A82FC3E3228005</cdc_rs_password>
+<cdc_rs_retention>0</cdc_rs_retention>
+<cdc_rs_server>SAMPLE_RS</cdc_rs_server>
+<cdc_rs_user>ds</cdc_rs_user>
+<database_subtype>On Premise</database_subtype>
+<database_type>Microsoft_SQL_Server</database_type>
+<db_alias_name1>DBO</db_alias_name1>
+<db_alias_user1>dbo</db_alias_user1>
+<db_mssql_change_data_tracking_method>MSSQL_Replication</db_mssql_change_data_tracking_method>
+<loader_xact_size>1000</loader_xact_size>
+<locale_codepage>&lt;default&gt;</locale_codepage>
+<locale_language>&lt;default&gt;</locale_language>
+<locale_territory>&lt;default&gt;</locale_territory>
+<mssql_windows_authentication>no</mssql_windows_authentication>
+<server_codepage>&lt;default&gt;</server_codepage>
+<sql_server_database>DB_DEV</sql_server_database>
+<sql_server_dataserver>GDSSAP002</sql_server_dataserver>
+<sql_server_version>Microsoft SQL Server 2008</sql_server_version>
+<use_ssl_encryption>no</use_ssl_encryption>
+<user>Developer</user>
+</DSConfiguration>
+<DSConfiguration default="false" name="PROD">
+<case_sensitive>yes</case_sensitive>
+<cdc_ra_password>+0400000000120303000803E89EA61E947122887E52D395BB5E21B2CACB5EB742970DB3FE2E259C6FC26EFDCFFA160615138268C33BAF8B2962</cdc_ra_password>
+<cdc_ra_server>DS_RA</cdc_ra_server>
+<cdc_ra_user>sa</cdc_ra_user>
+<cdc_rs_password>+0400000000120303000803E8D13F7B5500A91639213358C2DF454007B2C81ACF01A211D056F9F27B7F2388C5FF850F9F2F12945BC50B3EB31A</cdc_rs_password>
+<cdc_rs_retention>0</cdc_rs_retention>
+<cdc_rs_server>SAMPLE_RS</cdc_rs_server>
+<cdc_rs_user>ds</cdc_rs_user>
+<database_subtype>On Premise</database_subtype>
+<database_type>Microsoft_SQL_Server</database_type>
+<db_alias_name1>DBO</db_alias_name1>
+<db_alias_user1>dbo</db_alias_user1>
+<db_mssql_change_data_tracking_method>MSSQL_Replication</db_mssql_change_data_tracking_method>
+<loader_xact_size>1000</loader_xact_size>
+<locale_codepage>&lt;default&gt;</locale_codepage>
+<locale_language>&lt;default&gt;</locale_language>
+<locale_territory>&lt;default&gt;</locale_territory>
+<mssql_windows_authentication>no</mssql_windows_authentication>
+<server_codepage>&lt;default&gt;</server_codepage>
+<sql_server_database>DB_DEV</sql_server_database>
+<sql_server_dataserver>GDSSAP002</sql_server_dataserver>
+<sql_server_version>Microsoft SQL Server 2008</sql_server_version>
+<use_ssl_encryption>no</use_ssl_encryption>
+<user>Developer</user>
+</DSConfiguration>
+</DSConfigurations>
+', "enable_data_transfer" = 'yes', "import_unknown_type" = 'no', "name" = 'DS_STAGING', "pcache_force_utf16" = 'no', "unknown_type_size" = '255');
+
+ AlGUIComment (ActaName_1 = 'RDatabase_Object_Type',ActaValue_1 = 'TABLE' , 
+ActaName_2 = 'RTable_Type',ActaValue_2 = 'TABLE' , 
+ActaName_3 = 'RDescription',ActaValue_3 = '' , 
+ActaName_4 = 'REstimated_Row_Count',ActaValue_4 = '50000' , 
+ActaName_5 = 'RLoader_Is_Template_Table',ActaValue_5 = 'yes' , 
+ActaName_6 = 'RSavedAfterCheckOut',ActaValue_6 = 'YES' , 
+ActaName_7 = 'RDate_modified',ActaValue_7 = 'Tue Oct 20 06:19:34 2020' , 
+ActaName_8 = 'RDate_created',ActaValue_8 = 'Wed Oct 21 08:07:20 2020' , 
+ActaName_9 = 'RDate_last_loaded',ActaValue_9 = 'NotYetLoaded' )
+CREATE TABLE DS_STAGING.dbo.PRFL_XXX_DEDUP_RESULTS_VENDOR_MASTER(DI_SOURCE_SYSTEM NVARCHAR(255)  NULL  SET("ui_mapping_text" = 'Base_Match.DI_SOURCE_SYSTEM'), 
+DI_SOURCE_KEY NVARCHAR(255)  NULL  SET("ui_mapping_text" = 'Base_Match.DI_SOURCE_KEY'), 
+RUN_ID INT  NULL  SET("ui_mapping_text" = '$G_RUN_ID'), 
+RECORD_ID INT  NULL  SET("ui_mapping_text" = 'gen_row_num( )'), 
+IS_MASTER NVARCHAR(255)  NULL  SET("Description" = 'Mark the vendors to be migrated', "ui_mapping_text" = 'NULL'), 
+LIFNR NVARCHAR(10)  NULL  SET("ui_mapping_text" = 'Base_Match.LIFNR'), 
+LAND1 NVARCHAR(2)  NULL  SET("ui_mapping_text" = 'Base_Match.LAND1'), 
+NAME1 NVARCHAR(18)  NULL  SET("ui_mapping_text" = 'Base_Match.NAME1'), 
+ORT01 NVARCHAR(14)  NULL  SET("ui_mapping_text" = 'Base_Match.ORT01'), 
+PSTLZ INT  NULL  SET("ui_mapping_text" = 'Base_Match.PSTLZ'), 
+REGIO NVARCHAR(2)  NULL  SET("ui_mapping_text" = 'Base_Match.REGIO'), 
+STRAS NVARCHAR(22)  NULL  SET("ui_mapping_text" = 'Base_Match.STRAS'), 
+HOUSE_NO NVARCHAR(50)  NULL  SET("ui_mapping_text" = 'Base_Match.HOUSE_NO'), 
+VATTAX_CODE NVARCHAR(9)  NULL  SET("ui_mapping_text" = 'Base_Match.VATTAX_CODE'), 
+DUNS NVARCHAR(9)  NULL  SET("ui_mapping_text" = 'Base_Match.DUNS'), 
+BANKN1 NVARCHAR(30)  NULL  SET("ui_mapping_text" = 'Base_Match.BANKN1'), 
+BANKN2 NVARCHAR(30)  NULL  SET("ui_mapping_text" = 'Base_Match.BANKN2'), 
+BANKN3 NVARCHAR(30)  NULL  SET("ui_mapping_text" = 'Base_Match.BANKN3'), 
+BANKN4 NVARCHAR(40)  NULL  SET("ui_mapping_text" = 'Base_Match.BANKN4'), 
+BANKN5 NVARCHAR(40)  NULL  SET("ui_mapping_text" = 'Base_Match.BANKN5'), 
+TAXCODE1 NVARCHAR(40)  NULL  SET("ui_mapping_text" = 'Base_Match.TAXCODE1'), 
+TAXCODE2 NVARCHAR(40)  NULL  SET("ui_mapping_text" = 'Base_Match.TAXCODE2'), 
+TAXCODE3 NVARCHAR(40)  NULL  SET("ui_mapping_text" = 'Base_Match.TAXCODE3', "ui_pasting" = 'INP_BP_P20_VENDOR.TAXCODE2'), 
+TAXCODE4 NVARCHAR(40)  NULL  SET("ui_mapping_text" = 'Base_Match.TAXCODE4', "ui_pasting" = 'INP_BP_P20_VENDOR.TAXCODE2'), 
+TAXCODE5 NVARCHAR(40)  NULL  SET("ui_mapping_text" = 'Base_Match.TAXCODE5', "ui_pasting" = 'INP_BP_P20_VENDOR.TAXCODE2'), 
+BREAKKEY NVARCHAR(30)  NULL  SET("ui_mapping_text" = 'Base_Match.BREAKKEY'), 
+GROUP_NUMBER INT  NULL  SET("Content_Type" = 'Group Number', "Description" = 'Set1_LEVEL_GROUP_NUMBER', "ui_mapping_text" = 'Base_Match.Set1_LEVEL_GROUP_NUMBER'), 
+MATCH_SCORE INT  NULL  SET("Content_Type" = 'None', "Description" = 'Set1_LEVEL_MATCH_SCORE', "ui_mapping_text" = 'Base_Match.Set1_LEVEL_MATCH_SCORE'), 
+MATCH_CRITERION NVARCHAR(40)  NULL  SET("Content_Type" = 'None', "Description" = 'Set1_LEVEL_MATCH_CRITERION', "ui_mapping_text" = 'ifthenelse(Base_Match.Set1_LEVEL_MATCH_CRITERION is null and Base_Match.Set1_LEVEL_GROUP_STATS_GROUP_RANK=\'S\',\'ADDRESS\',Base_Match.Set1_LEVEL_MATCH_CRITERION)'), 
+GROUP_RANK NVARCHAR(1)  NULL  SET("Content_Type" = 'None', "Description" = 'Set1_LEVEL_GROUP_STATS_GROUP_RANK', "ui_mapping_text" = 'Base_Match.Set1_LEVEL_GROUP_STATS_GROUP_RANK'), 
+GROUP_COUNT INT  NULL  SET("Content_Type" = 'None', "Description" = 'Set1_LEVEL_GROUP_STATS_GROUP_COUNT', "ui_mapping_text" = 'Base_Match.Set1_LEVEL_GROUP_STATS_GROUP_COUNT')) 
+SET("db_alias_name" = 'DBO')
+;
+
+ AlGUIComment (ActaName_1 = 'RDatabase_Object_Type',ActaValue_1 = 'TABLE' , 
+ActaName_2 = 'RTable_Type',ActaValue_2 = 'TABLE' , 
+ActaName_3 = 'RDescription',ActaValue_3 = '' , 
+ActaName_4 = 'REstimated_Row_Count',ActaValue_4 = '50000' , 
+ActaName_5 = 'RLoader_Is_Template_Table',ActaValue_5 = 'yes' , 
+ActaName_6 = 'RSavedAfterCheckOut',ActaValue_6 = 'YES' , 
+ActaName_7 = 'RDate_modified',ActaValue_7 = 'Fri Oct 23 12:59:07 2020' )
+CREATE TABLE DS_STAGING.dbo.PRFL_XXX_MATCH_REVIEW_VENDOR_MASTER(DI_SOURCE_SYSTEM NVARCHAR(255)  NULL  SET("ui_mapping_text" = 'PRFL_XXX_DEDUP_RESULTS_VENDOR_MASTER.DI_SOURCE_SYSTEM'), 
+DI_SOURCE_KEY NVARCHAR(255)  NULL  SET("ui_mapping_text" = 'PRFL_XXX_DEDUP_RESULTS_VENDOR_MASTER.DI_SOURCE_KEY'), 
+RUN_ID INT  NULL  SET("ui_mapping_text" = 'PRFL_XXX_DEDUP_RESULTS_VENDOR_MASTER.RUN_ID'), 
+RECORD_ID INT  NULL  SET("ui_mapping_text" = 'PRFL_XXX_DEDUP_RESULTS_VENDOR_MASTER.RECORD_ID'), 
+IS_MASTER NVARCHAR(255)  NULL  SET("Description" = 'Mark the vendors to be migrated', "ui_mapping_text" = 'PRFL_XXX_DEDUP_RESULTS_VENDOR_MASTER.IS_MASTER'), 
+LIFNR NVARCHAR(10)  NULL  SET("ui_mapping_text" = 'PRFL_XXX_DEDUP_RESULTS_VENDOR_MASTER.LIFNR'), 
+LAND1 NVARCHAR(2)  NULL  SET("ui_mapping_text" = 'PRFL_XXX_DEDUP_RESULTS_VENDOR_MASTER.LAND1'), 
+NAME1 NVARCHAR(18)  NULL  SET("ui_mapping_text" = 'PRFL_XXX_DEDUP_RESULTS_VENDOR_MASTER.NAME1'), 
+ORT01 NVARCHAR(14)  NULL  SET("ui_mapping_text" = 'PRFL_XXX_DEDUP_RESULTS_VENDOR_MASTER.ORT01'), 
+PSTLZ INT  NULL  SET("ui_mapping_text" = 'PRFL_XXX_DEDUP_RESULTS_VENDOR_MASTER.PSTLZ'), 
+REGIO NVARCHAR(2)  NULL  SET("ui_mapping_text" = 'PRFL_XXX_DEDUP_RESULTS_VENDOR_MASTER.REGIO'), 
+STRAS NVARCHAR(22)  NULL  SET("ui_mapping_text" = 'PRFL_XXX_DEDUP_RESULTS_VENDOR_MASTER.STRAS'), 
+HOUSE_NO NVARCHAR(50)  NULL  SET("ui_mapping_text" = 'PRFL_XXX_DEDUP_RESULTS_VENDOR_MASTER.HOUSE_NO'), 
+VATTAX_CODE NVARCHAR(9)  NULL  SET("ui_mapping_text" = 'PRFL_XXX_DEDUP_RESULTS_VENDOR_MASTER.VATTAX_CODE'), 
+DUNS NVARCHAR(9)  NULL  SET("ui_mapping_text" = 'PRFL_XXX_DEDUP_RESULTS_VENDOR_MASTER.DUNS'), 
+BANKN1 NVARCHAR(30)  NULL  SET("ui_mapping_text" = 'PRFL_XXX_DEDUP_RESULTS_VENDOR_MASTER.BANKN1'), 
+BANKN2 NVARCHAR(30)  NULL  SET("ui_mapping_text" = 'PRFL_XXX_DEDUP_RESULTS_VENDOR_MASTER.BANKN2'), 
+BANKN3 NVARCHAR(30)  NULL  SET("ui_mapping_text" = 'PRFL_XXX_DEDUP_RESULTS_VENDOR_MASTER.BANKN3'), 
+BANKN4 NVARCHAR(40)  NULL  SET("ui_mapping_text" = 'PRFL_XXX_DEDUP_RESULTS_VENDOR_MASTER.BANKN4'), 
+BANKN5 NVARCHAR(40)  NULL  SET("ui_mapping_text" = 'PRFL_XXX_DEDUP_RESULTS_VENDOR_MASTER.BANKN5'), 
+TAXCODE1 NVARCHAR(40)  NULL  SET("ui_mapping_text" = 'PRFL_XXX_DEDUP_RESULTS_VENDOR_MASTER.TAXCODE1'), 
+TAXCODE2 NVARCHAR(40)  NULL  SET("ui_mapping_text" = 'PRFL_XXX_DEDUP_RESULTS_VENDOR_MASTER.TAXCODE2'), 
+TAXCODE3 NVARCHAR(40)  NULL  SET("ui_mapping_text" = 'PRFL_XXX_DEDUP_RESULTS_VENDOR_MASTER.TAXCODE3', "ui_pasting" = 'INP_BP_P20_VENDOR.TAXCODE2'), 
+TAXCODE4 NVARCHAR(40)  NULL  SET("ui_mapping_text" = 'PRFL_XXX_DEDUP_RESULTS_VENDOR_MASTER.TAXCODE4', "ui_pasting" = 'INP_BP_P20_VENDOR.TAXCODE2'), 
+TAXCODE5 NVARCHAR(40)  NULL  SET("ui_mapping_text" = 'PRFL_XXX_DEDUP_RESULTS_VENDOR_MASTER.TAXCODE5', "ui_pasting" = 'INP_BP_P20_VENDOR.TAXCODE2'), 
+BREAKKEY NVARCHAR(30)  NULL  SET("ui_mapping_text" = 'PRFL_XXX_DEDUP_RESULTS_VENDOR_MASTER.BREAKKEY'), 
+GROUP_NUMBER INT  NULL  SET("Content_Type" = 'Group Number', "Description" = 'Set1_LEVEL_GROUP_NUMBER', "ui_mapping_text" = 'PRFL_XXX_DEDUP_RESULTS_VENDOR_MASTER.GROUP_NUMBER'), 
+MATCH_SCORE INT  NULL  SET("Content_Type" = 'None', "Description" = 'Set1_LEVEL_MATCH_SCORE', "ui_mapping_text" = 'PRFL_XXX_DEDUP_RESULTS_VENDOR_MASTER.MATCH_SCORE'), 
+MATCH_CRITERION NVARCHAR(40)  NULL  SET("Content_Type" = 'None', "Description" = 'Set1_LEVEL_MATCH_CRITERION', "ui_mapping_text" = 'PRFL_XXX_DEDUP_RESULTS_VENDOR_MASTER.MATCH_CRITERION'), 
+GROUP_RANK NVARCHAR(1)  NULL  SET("Content_Type" = 'None', "Description" = 'Set1_LEVEL_GROUP_STATS_GROUP_RANK', "ui_mapping_text" = 'PRFL_XXX_DEDUP_RESULTS_VENDOR_MASTER.GROUP_RANK'), 
+GROUP_COUNT INT  NULL  SET("Content_Type" = 'None', "Description" = 'Set1_LEVEL_GROUP_STATS_GROUP_COUNT', "ui_mapping_text" = 'PRFL_XXX_DEDUP_RESULTS_VENDOR_MASTER.GROUP_COUNT'), 
+ID INT  NULL  SET("ui_mapping_text" = 'gen_row_num( )'), 
+JOB_RUN_ID INT  NULL  SET("ui_mapping_text" = 'job_run_id( )'), 
+REVIEW_STATUS NVARCHAR(10)  NULL  SET("ui_mapping_text" = 'NULL')) 
+SET("db_alias_name" = 'DBO')
+;
+
+ AlGUIComment (ActaName_1 = 'RDatabase_Object_Type',ActaValue_1 = 'TABLE' , 
+ActaName_2 = 'RTable_Type',ActaValue_2 = 'TABLE' , 
+ActaName_3 = 'RDescription',ActaValue_3 = '' , 
+ActaName_4 = 'REstimated_Row_Count',ActaValue_4 = '50000' , 
+ActaName_5 = 'RSavedAfterCheckOut',ActaValue_5 = 'YES' , 
+ActaName_6 = 'RLoader_Is_Template_Table',ActaValue_6 = 'no' , 
+ActaName_7 = 'RDate_created',ActaValue_7 = 'Fri Oct 23 12:00:52 2020' , 
+ActaName_8 = 'RDate_last_loaded',ActaValue_8 = 'NotYetLoaded' )
+CREATE TABLE DS_STAGING.dbo.PRFL_XXX_MATCH_REVIEW_VENDOR_MASTER_ACT(JOB_RUN_ID INT  KEY  NOT NULL , 
+DI_SOURCE_SYSTEM NVARCHAR(255)  KEY  NOT NULL , 
+RECORD_ID INT  KEY  NOT NULL , 
+GROUP_NUMBER INT  NOT NULL  SET("Content_Type" = 'GROUP_NUMBER'), 
+ORIG_GROUP_NUMBER INT  NULL , 
+GROUP_RANK NVARCHAR(1)  NOT NULL , 
+ORIG_GROUP_RANK NVARCHAR(1)  NULL , 
+IS_FINISHED_ CHAR(1)  NULL ) 
+PRIMARY KEY (JOB_RUN_ID, DI_SOURCE_SYSTEM, RECORD_ID) 
+CREATE_INDEX IDX_PRFL_XXX_MATCH_REVIEW_VENDOR_MASTER_ACT ON (ORIG_GROUP_NUMBER, DI_SOURCE_SYSTEM, RECORD_ID) 
+CREATE_INDEX PK_PRFL_XXX_MATCH_REVIEW_VENDOR_MASTER_ACT ON (JOB_RUN_ID, DI_SOURCE_SYSTEM, RECORD_ID) PRIMARY 
+SET("db_alias_name" = 'DBO')
+;
+
+ AlGUIComment (ActaName_1 = 'RDatabase_Object_Type',ActaValue_1 = 'TABLE' , 
+ActaName_2 = 'RTable_Type',ActaValue_2 = 'TABLE' , 
+ActaName_3 = 'RDescription',ActaValue_3 = '' , 
+ActaName_4 = 'REstimated_Row_Count',ActaValue_4 = '50000' , 
+ActaName_5 = 'RLoader_Is_Template_Table',ActaValue_5 = 'yes' , 
+ActaName_6 = 'RSavedAfterCheckOut',ActaValue_6 = 'YES' , 
+ActaName_7 = 'RDate_modified',ActaValue_7 = 'Fri Oct 23 12:59:07 2020' )
+CREATE TABLE DS_STAGING.dbo.PRFL_XXX_MR_JOB_STATUS_VENDOR_MASTER(JOB_RUN_ID INT  NULL  SET("ui_mapping_text" = 'job_run_id( )'), 
+JOB_STATUS NVARCHAR(30)  NULL  SET("ui_mapping_text" = '\'Pending Match Review\'')) 
+SET("db_alias_name" = 'DBO')
+;
+
+ AlGUIComment (ActaName_1 = 'RDatabase_Object_Type',ActaValue_1 = 'TABLE' , 
+ActaName_2 = 'RTable_Type',ActaValue_2 = 'TABLE' , 
+ActaName_3 = 'RDescription',ActaValue_3 = '' , 
+ActaName_4 = 'REstimated_Row_Count',ActaValue_4 = '50000' , 
+ActaName_5 = 'RLoader_Is_Template_Table',ActaValue_5 = 'yes' , 
+ActaName_6 = 'RSavedAfterCheckOut',ActaValue_6 = 'YES' , 
+ActaName_7 = 'RDate_modified',ActaValue_7 = 'Fri Oct 23 12:56:07 2020' )
+CREATE TABLE DS_STAGING.dbo.PRFL_XXX_VENDOR_MASTER_MATCH_REVIEW_OP(DI_SOURCE_SYSTEM NVARCHAR(255)  NULL  SET("ui_mapping_text" = 'QRY_SOURCE.DI_SOURCE_SYSTEM'), 
+DI_SOURCE_KEY NVARCHAR(255)  NULL  SET("ui_mapping_text" = 'QRY_SOURCE.DI_SOURCE_KEY'), 
+RUN_ID INT  NULL  SET("ui_mapping_text" = 'QRY_SOURCE.RUN_ID'), 
+RECORD_ID INT  NULL  SET("ui_mapping_text" = 'QRY_SOURCE.RECORD_ID'), 
+IS_MASTER NVARCHAR(255)  NULL  SET("Description" = 'Mark the vendors to be migrated', "ui_mapping_text" = 'QRY_SOURCE.IS_MASTER'), 
+LIFNR NVARCHAR(10)  NULL  SET("ui_mapping_text" = 'QRY_SOURCE.LIFNR'), 
+LAND1 NVARCHAR(2)  NULL  SET("ui_mapping_text" = 'QRY_SOURCE.LAND1'), 
+NAME1 NVARCHAR(18)  NULL  SET("ui_mapping_text" = 'QRY_SOURCE.NAME1'), 
+ORT01 NVARCHAR(14)  NULL  SET("ui_mapping_text" = 'QRY_SOURCE.ORT01'), 
+PSTLZ INT  NULL  SET("ui_mapping_text" = 'QRY_SOURCE.PSTLZ'), 
+REGIO NVARCHAR(2)  NULL  SET("ui_mapping_text" = 'QRY_SOURCE.REGIO'), 
+STRAS NVARCHAR(22)  NULL  SET("ui_mapping_text" = 'QRY_SOURCE.STRAS'), 
+HOUSE_NO NVARCHAR(50)  NULL  SET("ui_mapping_text" = 'QRY_SOURCE.HOUSE_NO'), 
+VATTAX_CODE NVARCHAR(9)  NULL  SET("ui_mapping_text" = 'QRY_SOURCE.VATTAX_CODE'), 
+DUNS NVARCHAR(9)  NULL  SET("ui_mapping_text" = 'QRY_SOURCE.DUNS'), 
+BANKN1 NVARCHAR(30)  NULL  SET("ui_mapping_text" = 'QRY_SOURCE.BANKN1'), 
+BANKN2 NVARCHAR(30)  NULL  SET("ui_mapping_text" = 'QRY_SOURCE.BANKN2'), 
+BANKN3 NVARCHAR(30)  NULL  SET("ui_mapping_text" = 'QRY_SOURCE.BANKN3'), 
+BANKN4 NVARCHAR(40)  NULL  SET("ui_mapping_text" = 'QRY_SOURCE.BANKN4'), 
+BANKN5 NVARCHAR(40)  NULL  SET("ui_mapping_text" = 'QRY_SOURCE.BANKN5'), 
+TAXCODE1 NVARCHAR(40)  NULL  SET("ui_mapping_text" = 'QRY_SOURCE.TAXCODE1'), 
+TAXCODE2 NVARCHAR(40)  NULL  SET("ui_mapping_text" = 'QRY_SOURCE.TAXCODE2'), 
+TAXCODE3 NVARCHAR(40)  NULL  SET("ui_mapping_text" = 'QRY_SOURCE.TAXCODE3', "ui_pasting" = 'INP_BP_P20_VENDOR.TAXCODE2'), 
+TAXCODE4 NVARCHAR(40)  NULL  SET("ui_mapping_text" = 'QRY_SOURCE.TAXCODE4', "ui_pasting" = 'INP_BP_P20_VENDOR.TAXCODE2'), 
+TAXCODE5 NVARCHAR(40)  NULL  SET("ui_mapping_text" = 'QRY_SOURCE.TAXCODE5', "ui_pasting" = 'INP_BP_P20_VENDOR.TAXCODE2'), 
+BREAKKEY NVARCHAR(30)  NULL  SET("ui_mapping_text" = 'QRY_SOURCE.BREAKKEY'), 
+GROUP_NUMBER INT  NULL  SET("Content_Type" = 'Group Number', "Description" = 'Set1_LEVEL_GROUP_NUMBER', "ui_mapping_text" = 'QRY_SOURCE.GROUP_NUMBER'), 
+MR_GROUP_NUMBER INT  NULL  SET("Content_Type" = 'GROUP_NUMBER', "ui_mapping_text" = 'QRY_MATCH_STATUS.GROUP_NUMBER'), 
+MATCH_SCORE INT  NULL  SET("Content_Type" = 'None', "Description" = 'Set1_LEVEL_MATCH_SCORE', "ui_mapping_text" = 'QRY_SOURCE.MATCH_SCORE'), 
+MATCH_CRITERION NVARCHAR(40)  NULL  SET("Content_Type" = 'None', "Description" = 'Set1_LEVEL_MATCH_CRITERION', "ui_mapping_text" = 'QRY_SOURCE.MATCH_CRITERION'), 
+GROUP_RANK NVARCHAR(1)  NULL  SET("Content_Type" = 'None', "Description" = 'Set1_LEVEL_GROUP_STATS_GROUP_RANK', "ui_mapping_text" = 'QRY_SOURCE.GROUP_RANK'), 
+MR_GROUP_RANK NVARCHAR(1)  NULL  SET("ui_mapping_text" = 'QRY_MATCH_STATUS.GROUP_RANK'), 
+GROUP_COUNT INT  NULL  SET("Content_Type" = 'None', "Description" = 'Set1_LEVEL_GROUP_STATS_GROUP_COUNT', "ui_mapping_text" = 'QRY_SOURCE.GROUP_COUNT'), 
+JOB_RUN_ID INT  NULL  SET("ui_mapping_text" = 'QRY_SOURCE.JOB_RUN_ID'), 
+REVIEW_STATUS NVARCHAR(10)  NULL  SET("ui_mapping_text" = 'QRY_MATCH_STATUS.IS_FINISHED_')) 
+SET("db_alias_name" = 'DBO')
+;
+ AlGUIComment ("ActaName_1" = 'RSavedAfterCheckOut', "ActaName_2" = 'RDate_created', "ActaName_3" = 'RDate_modified', "ActaValue_1" = 'YES', "ActaValue_2" = 'Fri Oct 23 06:20:35 2020', "ActaValue_3" = 'Fri Oct 23 12:08:00 2020', "x" = '-1', "y" = '-1')
+CREATE  DATAFLOW DF_VENDOR_MATCH_REVIEW_INPUT::'33204836-4920-4dcd-aac8-4ac62b6e1d9a'
+BEGIN
+
+ALGUIComment ("InputSchema_WidthProp" = '36', "Input_1st_Column_Name" = 'Type', "Input_2nd_Column_Name" = 'Description', "Input_Column_Name_3" = 'Content_Type', "Input_Column_Name_4" = 'Business_Name', "Input_Column_Width_3" = '100', "Input_Column_Width_4" = '100', "Input_Width_Description" = '130', "Input_Width_Type" = '85', "Output_1st_Column_Name" = 'Type', "Output_2nd_Column_Name" = 'Mapping', "Output_3rd_Column_Name" = 'Description', "Output_Column_Name_4" = 'Content_Type', "Output_Column_Name_5" = 'Business_Name', "Output_Column_Width_4" = '100', "Output_Column_Width_5" = '100', "Output_Width_Decsription" = '130', "Output_Width_Mapping" = '85', "Output_Width_Type" = '80', "UI_DATA_XML" = '<UIDATA><MAINICON><LOCATION><X>0</X><Y>0</Y></LOCATION><SIZE><CX>1069</CX><CY>-183</CY></SIZE></MAINICON><DESCRIPTION><LOCATION><X>0</X><Y>-175</Y></LOCATION><SIZE><CX>200</CX><CY>200</CY></SIZE><VISIBLE>0</VISIBLE></DESCRIPTION></UIDATA>', "UpperContainer_HeightProp" = '51', "x" = '345', "y" = '-426')
+GUID::'1ac93fc7-5f45-4ffa-90bd-b4a2ff285f66' READ TABLE DS_STAGING.DBO.PRFL_XXX_DEDUP_RESULTS_VENDOR_MASTER OUTPUT(PRFL_XXX_DEDUP_RESULTS_VENDOR_MASTER)
+SET("Initial_Load" = 'no', "array_fetch_size" = '1000', "cache" = 'yes', "connection_port" = 'no', "enable_partitioning" = 'no', "name" = 'DS_STAGING', "package_size" = '0', "parallel_sap_connections" = '0', "reader_is_DB2CDC_table" = 'no', "reader_overflow_file" = 'overflow_file', "reader_template_table" = 'no', "reader_use_overflow_file" = 'no', "reader_use_trex_transaction" = 'no', "sap_odp_cwf_delay" = '5', "table_weight" = '0', "teradata_bulk_rdr_cleanup" = 'yes');
+
+ALGUIComment ("InputSchema_WidthProp" = '36', "Input_1st_Column_Name" = 'Type', "Input_2nd_Column_Name" = 'Description', "Input_Column_Name_3" = 'Content_Type', "Input_Column_Name_4" = 'Business_Name', "Input_Column_Width_3" = '100', "Input_Column_Width_4" = '100', "Input_Width_Description" = '130', "Input_Width_Type" = '85', "Output_1st_Column_Name" = 'Type', "Output_2nd_Column_Name" = 'Mapping', "Output_3rd_Column_Name" = 'Description', "Output_Column_Name_4" = 'Content_Type', "Output_Column_Name_5" = 'Business_Name', "Output_Column_Width_4" = '100', "Output_Column_Width_5" = '100', "Output_Width_Decsription" = '130', "Output_Width_Mapping" = '85', "Output_Width_Type" = '80', "UI_DATA_XML" = '<UIDATA><MAINICON><LOCATION><X>0</X><Y>0</Y></LOCATION><SIZE><CX>335</CX><CY>-164</CY></SIZE></MAINICON><DESCRIPTION><LOCATION><X>0</X><Y>-175</Y></LOCATION><SIZE><CX>200</CX><CY>200</CY></SIZE><VISIBLE>0</VISIBLE></DESCRIPTION></UIDATA>', "UI_PASSTHRU_VSPLIT_PCT" = '50', "UpperContainer_HeightProp" = '51', "ui_acta_from_schema_0" = 'PRFL_XXX_DEDUP_RESULTS_VENDOR_MASTER', "ui_display_name" = 'QRY_DEDUP_MAP', "x" = '1501', "y" = '-425')
+GUID::'21bf3db5-75da-4da2-8a2c-78711df7bdc3' CREATE VIEW QRY_DEDUP_MAP( DI_SOURCE_SYSTEM VARCHAR(255)  SET( "ui_mapping_text" = 'PRFL_XXX_DEDUP_RESULTS_VENDOR_MASTER.DI_SOURCE_SYSTEM') ,
+ DI_SOURCE_KEY VARCHAR(255)  SET( "ui_mapping_text" = 'PRFL_XXX_DEDUP_RESULTS_VENDOR_MASTER.DI_SOURCE_KEY') ,
+ RUN_ID INT  SET( "ui_mapping_text" = 'PRFL_XXX_DEDUP_RESULTS_VENDOR_MASTER.RUN_ID') ,
+ RECORD_ID INT  SET( "ui_mapping_text" = 'PRFL_XXX_DEDUP_RESULTS_VENDOR_MASTER.RECORD_ID') ,
+ IS_MASTER VARCHAR(255)  SET( "Description" = 'Mark the vendors to be migrated', "ui_mapping_text" = 'PRFL_XXX_DEDUP_RESULTS_VENDOR_MASTER.IS_MASTER') ,
+ LIFNR VARCHAR(10)  SET( "ui_mapping_text" = 'PRFL_XXX_DEDUP_RESULTS_VENDOR_MASTER.LIFNR') ,
+ LAND1 VARCHAR(2)  SET( "ui_mapping_text" = 'PRFL_XXX_DEDUP_RESULTS_VENDOR_MASTER.LAND1') ,
+ NAME1 VARCHAR(18)  SET( "ui_mapping_text" = 'PRFL_XXX_DEDUP_RESULTS_VENDOR_MASTER.NAME1') ,
+ ORT01 VARCHAR(14)  SET( "ui_mapping_text" = 'PRFL_XXX_DEDUP_RESULTS_VENDOR_MASTER.ORT01') ,
+ PSTLZ INT  SET( "ui_mapping_text" = 'PRFL_XXX_DEDUP_RESULTS_VENDOR_MASTER.PSTLZ') ,
+ REGIO VARCHAR(2)  SET( "ui_mapping_text" = 'PRFL_XXX_DEDUP_RESULTS_VENDOR_MASTER.REGIO') ,
+ STRAS VARCHAR(22)  SET( "ui_mapping_text" = 'PRFL_XXX_DEDUP_RESULTS_VENDOR_MASTER.STRAS') ,
+ HOUSE_NO VARCHAR(50)  SET( "ui_mapping_text" = 'PRFL_XXX_DEDUP_RESULTS_VENDOR_MASTER.HOUSE_NO') ,
+ VATTAX_CODE VARCHAR(9)  SET( "ui_mapping_text" = 'PRFL_XXX_DEDUP_RESULTS_VENDOR_MASTER.VATTAX_CODE') ,
+ DUNS VARCHAR(9)  SET( "ui_mapping_text" = 'PRFL_XXX_DEDUP_RESULTS_VENDOR_MASTER.DUNS') ,
+ BANKN1 VARCHAR(30)  SET( "ui_mapping_text" = 'PRFL_XXX_DEDUP_RESULTS_VENDOR_MASTER.BANKN1') ,
+ BANKN2 VARCHAR(30)  SET( "ui_mapping_text" = 'PRFL_XXX_DEDUP_RESULTS_VENDOR_MASTER.BANKN2') ,
+ BANKN3 VARCHAR(30)  SET( "ui_mapping_text" = 'PRFL_XXX_DEDUP_RESULTS_VENDOR_MASTER.BANKN3') ,
+ BANKN4 VARCHAR(40)  SET( "ui_mapping_text" = 'PRFL_XXX_DEDUP_RESULTS_VENDOR_MASTER.BANKN4') ,
+ BANKN5 VARCHAR(40)  SET( "ui_mapping_text" = 'PRFL_XXX_DEDUP_RESULTS_VENDOR_MASTER.BANKN5') ,
+ TAXCODE1 VARCHAR(40)  SET( "ui_mapping_text" = 'PRFL_XXX_DEDUP_RESULTS_VENDOR_MASTER.TAXCODE1') ,
+ TAXCODE2 VARCHAR(40)  SET( "ui_mapping_text" = 'PRFL_XXX_DEDUP_RESULTS_VENDOR_MASTER.TAXCODE2') ,
+ TAXCODE3 VARCHAR(40)  SET( "ui_mapping_text" = 'PRFL_XXX_DEDUP_RESULTS_VENDOR_MASTER.TAXCODE3', "ui_pasting" = 'INP_BP_P20_VENDOR.TAXCODE2') ,
+ TAXCODE4 VARCHAR(40)  SET( "ui_mapping_text" = 'PRFL_XXX_DEDUP_RESULTS_VENDOR_MASTER.TAXCODE4', "ui_pasting" = 'INP_BP_P20_VENDOR.TAXCODE2') ,
+ TAXCODE5 VARCHAR(40)  SET( "ui_mapping_text" = 'PRFL_XXX_DEDUP_RESULTS_VENDOR_MASTER.TAXCODE5', "ui_pasting" = 'INP_BP_P20_VENDOR.TAXCODE2') ,
+ BREAKKEY VARCHAR(30)  SET( "ui_mapping_text" = 'PRFL_XXX_DEDUP_RESULTS_VENDOR_MASTER.BREAKKEY') ,
+ GROUP_NUMBER INT  SET( "Content_Type" = 'Group Number', "Description" = 'Set1_LEVEL_GROUP_NUMBER', "ui_mapping_text" = 'PRFL_XXX_DEDUP_RESULTS_VENDOR_MASTER.GROUP_NUMBER') ,
+ MATCH_SCORE INT  SET( "Content_Type" = 'None', "Description" = 'Set1_LEVEL_MATCH_SCORE', "ui_mapping_text" = 'PRFL_XXX_DEDUP_RESULTS_VENDOR_MASTER.MATCH_SCORE') ,
+ MATCH_CRITERION VARCHAR(40)  SET( "Content_Type" = 'None', "Description" = 'Set1_LEVEL_MATCH_CRITERION', "ui_mapping_text" = 'PRFL_XXX_DEDUP_RESULTS_VENDOR_MASTER.MATCH_CRITERION') ,
+ GROUP_RANK VARCHAR(1)  SET( "Content_Type" = 'None', "Description" = 'Set1_LEVEL_GROUP_STATS_GROUP_RANK', "ui_mapping_text" = 'PRFL_XXX_DEDUP_RESULTS_VENDOR_MASTER.GROUP_RANK') ,
+ GROUP_COUNT INT  SET( "Content_Type" = 'None', "Description" = 'Set1_LEVEL_GROUP_STATS_GROUP_COUNT', "ui_mapping_text" = 'PRFL_XXX_DEDUP_RESULTS_VENDOR_MASTER.GROUP_COUNT') ,
+ ID INT  SET( "ui_mapping_text" = 'gen_row_num( )') ,
+ JOB_RUN_ID INT  SET( "ui_mapping_text" = 'job_run_id( )') ,
+ REVIEW_STATUS VARCHAR(10)  SET( "ui_mapping_text" = 'NULL')  )
+ AS
+SELECT PRFL_XXX_DEDUP_RESULTS_VENDOR_MASTER.DI_SOURCE_SYSTEM, PRFL_XXX_DEDUP_RESULTS_VENDOR_MASTER.DI_SOURCE_KEY, PRFL_XXX_DEDUP_RESULTS_VENDOR_MASTER.RUN_ID, PRFL_XXX_DEDUP_RESULTS_VENDOR_MASTER.RECORD_ID, PRFL_XXX_DEDUP_RESULTS_VENDOR_MASTER.IS_MASTER, PRFL_XXX_DEDUP_RESULTS_VENDOR_MASTER.LIFNR, PRFL_XXX_DEDUP_RESULTS_VENDOR_MASTER.LAND1, PRFL_XXX_DEDUP_RESULTS_VENDOR_MASTER.NAME1, PRFL_XXX_DEDUP_RESULTS_VENDOR_MASTER.ORT01, PRFL_XXX_DEDUP_RESULTS_VENDOR_MASTER.PSTLZ, PRFL_XXX_DEDUP_RESULTS_VENDOR_MASTER.REGIO, PRFL_XXX_DEDUP_RESULTS_VENDOR_MASTER.STRAS, PRFL_XXX_DEDUP_RESULTS_VENDOR_MASTER.HOUSE_NO, PRFL_XXX_DEDUP_RESULTS_VENDOR_MASTER.VATTAX_CODE, PRFL_XXX_DEDUP_RESULTS_VENDOR_MASTER.DUNS, PRFL_XXX_DEDUP_RESULTS_VENDOR_MASTER.BANKN1, PRFL_XXX_DEDUP_RESULTS_VENDOR_MASTER.BANKN2, PRFL_XXX_DEDUP_RESULTS_VENDOR_MASTER.BANKN3, PRFL_XXX_DEDUP_RESULTS_VENDOR_MASTER.BANKN4, PRFL_XXX_DEDUP_RESULTS_VENDOR_MASTER.BANKN5, PRFL_XXX_DEDUP_RESULTS_VENDOR_MASTER.TAXCODE1, PRFL_XXX_DEDUP_RESULTS_VENDOR_MASTER.TAXCODE2, PRFL_XXX_DEDUP_RESULTS_VENDOR_MASTER.TAXCODE3, PRFL_XXX_DEDUP_RESULTS_VENDOR_MASTER.TAXCODE4, PRFL_XXX_DEDUP_RESULTS_VENDOR_MASTER.TAXCODE5, PRFL_XXX_DEDUP_RESULTS_VENDOR_MASTER.BREAKKEY, PRFL_XXX_DEDUP_RESULTS_VENDOR_MASTER.GROUP_NUMBER, PRFL_XXX_DEDUP_RESULTS_VENDOR_MASTER.MATCH_SCORE, PRFL_XXX_DEDUP_RESULTS_VENDOR_MASTER.MATCH_CRITERION, PRFL_XXX_DEDUP_RESULTS_VENDOR_MASTER.GROUP_RANK, PRFL_XXX_DEDUP_RESULTS_VENDOR_MASTER.GROUP_COUNT, gen_row_num(), job_run_id(),  NULL  FROM PRFL_XXX_DEDUP_RESULTS_VENDOR_MASTER 
+SET("distinct_run_as_separate_process" = 'no', "group_by_run_as_separate_process" = 'no', "join_run_as_separate_process" = 'no', "order_by_run_as_separate_process" = 'no', "run_as_separate_process" = 'no')
+;
+
+ALGUIComment ("InputSchema_WidthProp" = '36', "Input_1st_Column_Name" = 'Type', "Input_2nd_Column_Name" = 'Description', "Input_Column_Name_3" = 'Content_Type', "Input_Column_Name_4" = 'Business_Name', "Input_Column_Width_3" = '100', "Input_Column_Width_4" = '100', "Input_Width_Description" = '130', "Input_Width_Type" = '85', "Output_1st_Column_Name" = 'Type', "Output_2nd_Column_Name" = 'Description', "Output_3rd_Column_Name" = 'Content_Type', "Output_Column_Name_4" = 'Business_Name', "Output_Column_Name_5" = 'Description', "Output_Column_Width_4" = '100', "Output_Column_Width_5" = '100', "Output_Width_Decsription" = '130', "Output_Width_Mapping" = '85', "Output_Width_Type" = '80', "UI_DATA_XML" = '<UIDATA><MAINICON><LOCATION><X>0</X><Y>0</Y></LOCATION><SIZE><CX>266</CX><CY>-164</CY></SIZE></MAINICON><DESCRIPTION><LOCATION><X>0</X><Y>-175</Y></LOCATION><SIZE><CX>200</CX><CY>200</CY></SIZE><VISIBLE>0</VISIBLE></DESCRIPTION></UIDATA>', "UpperContainer_HeightProp" = '51', "x" = '369', "y" = '-944')
+GUID::'466d39a4-59d3-4f12-86c6-33096d2e91bd' CALL TRANSFORM Row_Generation() OUTPUT(Row_Generation( DI_ROW_ID INT  SET( "Description" = 'The integer type is automatically generated by the Row_Generation transform')  )
+)
+SET("cache" = 'no', "row_count" = '1', "starting_row_number" = '0', "table_weight" = '0');
+
+ALGUIComment ("InputSchema_WidthProp" = '36', "Input_1st_Column_Name" = 'Type', "Input_2nd_Column_Name" = 'Description', "Input_Column_Name_3" = 'Content_Type', "Input_Column_Name_4" = 'Business_Name', "Input_Column_Width_3" = '100', "Input_Column_Width_4" = '100', "Input_Width_Description" = '130', "Input_Width_Type" = '85', "Output_1st_Column_Name" = 'Type', "Output_2nd_Column_Name" = 'Mapping', "Output_3rd_Column_Name" = 'Description', "Output_Column_Name_4" = 'Content_Type', "Output_Column_Name_5" = 'Business_Name', "Output_Column_Width_4" = '100', "Output_Column_Width_5" = '100', "Output_Width_Decsription" = '130', "Output_Width_Mapping" = '85', "Output_Width_Name" = '398', "Output_Width_Type" = '312', "UI_DATA_XML" = '<UIDATA><MAINICON><LOCATION><X>0</X><Y>0</Y></LOCATION><SIZE><CX>353</CX><CY>-164</CY></SIZE></MAINICON><DESCRIPTION><LOCATION><X>0</X><Y>-175</Y></LOCATION><SIZE><CX>200</CX><CY>200</CY></SIZE><VISIBLE>0</VISIBLE></DESCRIPTION></UIDATA>', "UI_PASSTHRU_VSPLIT_PCT" = '50', "UpperContainer_HeightProp" = '51', "ui_acta_from_schema_0" = 'Row_Generation', "ui_display_name" = 'QRY_JOB_STATUS', "x" = '1505', "y" = '-944')
+GUID::'2c9e4f98-3a67-4ec0-af8d-fbeef32d48f6' CREATE VIEW QRY_JOB_STATUS( JOB_RUN_ID INT  SET( "ui_mapping_text" = 'job_run_id( )') ,
+ JOB_STATUS VARCHAR(30)  SET( "ui_mapping_text" = '\'Pending Match Review\'')  )
+ AS
+SELECT job_run_id(), 'Pending Match Review' FROM Row_Generation 
+SET("distinct_run_as_separate_process" = 'no', "group_by_run_as_separate_process" = 'no', "join_run_as_separate_process" = 'no', "order_by_run_as_separate_process" = 'no', "run_as_separate_process" = 'no')
+;
+
+ALGUIComment ("InputSchema_WidthProp" = '36', "Input_1st_Column_Name" = 'Type', "Input_2nd_Column_Name" = 'Description', "Input_Column_Name_3" = 'Content_Type', "Input_Column_Name_4" = 'Business_Name', "Input_Column_Width_3" = '100', "Input_Column_Width_4" = '100', "Input_Width_Description" = '130', "Input_Width_Type" = '85', "Output_1st_Column_Name" = 'Type', "Output_2nd_Column_Name" = 'Description', "Output_3rd_Column_Name" = 'Content_Type', "Output_Column_Name_4" = 'Business_Name', "Output_Column_Name_5" = '', "Output_Column_Width_4" = '100', "Output_Column_Width_5" = '100', "Output_Width_Decsription" = '130', "Output_Width_Mapping" = '85', "Output_Width_Type" = '80', "UI_DATA_XML" = '<UIDATA><MAINICON><LOCATION><X>0</X><Y>0</Y></LOCATION><SIZE><CX>1122</CX><CY>-183</CY></SIZE></MAINICON><DESCRIPTION><LOCATION><X>0</X><Y>-175</Y></LOCATION><SIZE><CX>200</CX><CY>200</CY></SIZE><VISIBLE>0</VISIBLE></DESCRIPTION></UIDATA>', "UI_PASSTHRU_VSPLIT_PCT" = '50', "UpperContainer_HeightProp" = '51', "x" = '2212', "y" = '-943')
+GUID::'75ab387a-ac43-4f36-9cf0-291bfa528ac4' LOAD TABLE DS_STAGING.DBO.PRFL_XXX_MR_JOB_STATUS_VENDOR_MASTER INPUT(QRY_JOB_STATUS)
+SET("connection_port" = 'no', "ldr_configuration_enabled" = 'yes', "ldr_configurations" = '<?xml version="1.0" encoding="UTF-8"?>
+<LDRConfigurations>
+<LDRConfiguration database_type="Microsoft_SQL_Server" database_version="Microsoft SQL Server 2008">
+<auto_correct_using_merge>yes</auto_correct_using_merge>
+<bulk_col_delimiter>/127</bulk_col_delimiter>
+<bulk_ldr_all_rows></bulk_ldr_all_rows>
+<bulk_ldr_cleanup>yes</bulk_ldr_cleanup>
+<bulk_ldr_max_errors></bulk_ldr_max_errors>
+<bulk_ldr_rows_per_commit>1000</bulk_ldr_rows_per_commit>
+<enable_partitioning>no</enable_partitioning>
+<ignore_column_case>yes</ignore_column_case>
+<ignore_columns_null>no</ignore_columns_null>
+<ignore_columns_value></ignore_columns_value>
+<loader_auto_correct>no</loader_auto_correct>
+<loader_bulk_load></loader_bulk_load>
+<loader_compare_column>compare_by_name</loader_compare_column>
+<loader_delete_map></loader_delete_map>
+<loader_drop_and_create_table>yes</loader_drop_and_create_table>
+<loader_fl_object_name></loader_fl_object_name>
+<loader_insert_map></loader_insert_map>
+<loader_load_choice>append</loader_load_choice>
+<loader_num_parallel_loaders>1</loader_num_parallel_loaders>
+<loader_overflow_file>DS_STAGING_DBO_PRFL_XXX_MR_JOB_STATUS_VENDOR_MASTER.txt</loader_overflow_file>
+<loader_post_load1></loader_post_load1>
+<loader_pre_load1></loader_pre_load1>
+<loader_quote_names>0</loader_quote_names>
+<loader_transactional>no</loader_transactional>
+<loader_transactional_order>0</loader_transactional_order>
+<loader_update_key_columns>no</loader_update_key_columns>
+<loader_update_map></loader_update_map>
+<loader_use_user_defined_keys>no</loader_use_user_defined_keys>
+<loader_xact_size>1000</loader_xact_size>
+<mssql_bulk_ldr_mode>append</mssql_bulk_ldr_mode>
+<mssql_bulk_ldr_packet_size>4</mssql_bulk_ldr_packet_size>
+<mssql_ldr_identity_insert>off</mssql_ldr_identity_insert>
+<overflow_file_format>write_data</overflow_file_format>
+<overriding_substitution_parameter_for_tablename></overriding_substitution_parameter_for_tablename>
+<text_delimiter></text_delimiter>
+<use_overflow_file>no</use_overflow_file>
+<use_unicode_varchar>yes</use_unicode_varchar>
+<sql_text></sql_text>
+</LDRConfiguration>
+</LDRConfigurations>', "loader_template_table" = 'yes', "name" = 'DS_STAGING', "use_unicode_varchar" = 'yes');
+
+ALGUIComment ("InputSchema_WidthProp" = '36', "Input_1st_Column_Name" = 'Type', "Input_2nd_Column_Name" = 'Description', "Input_Column_Name_3" = 'Content_Type', "Input_Column_Name_4" = 'Business_Name', "Input_Column_Width_3" = '100', "Input_Column_Width_4" = '100', "Input_Width_Description" = '130', "Input_Width_Type" = '85', "Output_1st_Column_Name" = 'Type', "Output_2nd_Column_Name" = 'Description', "Output_3rd_Column_Name" = 'Content_Type', "Output_Column_Name_4" = 'Business_Name', "Output_Column_Name_5" = '', "Output_Column_Width_4" = '100', "Output_Column_Width_5" = '100', "Output_Width_Decsription" = '130', "Output_Width_Mapping" = '85', "Output_Width_Type" = '80', "UI_DATA_XML" = '<UIDATA><MAINICON><LOCATION><X>0</X><Y>0</Y></LOCATION><SIZE><CX>1100</CX><CY>-183</CY></SIZE></MAINICON><DESCRIPTION><LOCATION><X>0</X><Y>-175</Y></LOCATION><SIZE><CX>200</CX><CY>200</CY></SIZE><VISIBLE>0</VISIBLE></DESCRIPTION></UIDATA>', "UI_PASSTHRU_VSPLIT_PCT" = '50', "UpperContainer_HeightProp" = '51', "x" = '2184', "y" = '-424')
+GUID::'99e91d35-9321-4253-ba96-e01efcd0fcb1' LOAD TABLE DS_STAGING.DBO.PRFL_XXX_MATCH_REVIEW_VENDOR_MASTER INPUT(QRY_DEDUP_MAP)
+SET("connection_port" = 'no', "ldr_configuration_enabled" = 'yes', "ldr_configurations" = '<?xml version="1.0" encoding="UTF-8"?>
+<LDRConfigurations>
+<LDRConfiguration database_type="Microsoft_SQL_Server" database_version="Microsoft SQL Server 2008">
+<auto_correct_using_merge>yes</auto_correct_using_merge>
+<bulk_col_delimiter>/127</bulk_col_delimiter>
+<bulk_ldr_all_rows></bulk_ldr_all_rows>
+<bulk_ldr_cleanup>yes</bulk_ldr_cleanup>
+<bulk_ldr_max_errors></bulk_ldr_max_errors>
+<bulk_ldr_rows_per_commit>1000</bulk_ldr_rows_per_commit>
+<enable_partitioning>no</enable_partitioning>
+<ignore_column_case>yes</ignore_column_case>
+<ignore_columns_null>no</ignore_columns_null>
+<ignore_columns_value></ignore_columns_value>
+<loader_auto_correct>no</loader_auto_correct>
+<loader_bulk_load></loader_bulk_load>
+<loader_compare_column>compare_by_name</loader_compare_column>
+<loader_delete_map></loader_delete_map>
+<loader_drop_and_create_table>yes</loader_drop_and_create_table>
+<loader_fl_object_name></loader_fl_object_name>
+<loader_insert_map></loader_insert_map>
+<loader_load_choice>append</loader_load_choice>
+<loader_num_parallel_loaders>1</loader_num_parallel_loaders>
+<loader_overflow_file>DS_STAGING_DBO_PRFL_XXX_MATCH_REVIEW_VENDOR_MASTER.txt</loader_overflow_file>
+<loader_post_load1></loader_post_load1>
+<loader_pre_load1></loader_pre_load1>
+<loader_quote_names>0</loader_quote_names>
+<loader_transactional>no</loader_transactional>
+<loader_transactional_order>0</loader_transactional_order>
+<loader_update_key_columns>no</loader_update_key_columns>
+<loader_update_map></loader_update_map>
+<loader_use_user_defined_keys>no</loader_use_user_defined_keys>
+<loader_xact_size>1000</loader_xact_size>
+<mssql_bulk_ldr_mode>append</mssql_bulk_ldr_mode>
+<mssql_bulk_ldr_packet_size>4</mssql_bulk_ldr_packet_size>
+<mssql_ldr_identity_insert>off</mssql_ldr_identity_insert>
+<overflow_file_format>write_data</overflow_file_format>
+<overriding_substitution_parameter_for_tablename></overriding_substitution_parameter_for_tablename>
+<text_delimiter></text_delimiter>
+<use_overflow_file>no</use_overflow_file>
+<use_unicode_varchar>yes</use_unicode_varchar>
+<sql_text></sql_text>
+</LDRConfiguration>
+</LDRConfigurations>', "loader_template_table" = 'yes', "name" = 'DS_STAGING', "use_unicode_varchar" = 'yes');
+
+END
+ SET ("Cache_type" = 'pageable_cache', "Parallelism_degree" = 'default', "allows_both_input_and_output" = 'yes', "dataflow_loader_bulk_load" = 'no', "dataflow_loader_commit_size" = 'default', "dataflow_loader_row_size_bytes" = '0', "dataflow_number_of_loaders" = '0', "run_once" = 'no', "use_dataflow_links" = 'no', "use_datastore_links" = 'yes', "validation_xform_exists" = 'no', "validation_xform_stats" = 'no')
+ AlGUIComment ("ActaName_1" = 'RSavedAfterCheckOut', "ActaName_2" = 'RDate_created', "ActaName_3" = 'RDate_modified', "ActaValue_1" = 'YES', "ActaValue_2" = 'Fri Oct 23 12:08:01 2020', "ActaValue_3" = 'Fri Oct 23 12:15:02 2020', "x" = '-1', "y" = '-1')
+CREATE  DATAFLOW DF_VENDOR_MATCH_REVIEW_OUTPUT::'b06626ad-4e7c-4605-8294-3132bd24b9cf'
+BEGIN
+
+ALGUIComment ("InputSchema_WidthProp" = '36', "Input_1st_Column_Name" = 'Type', "Input_2nd_Column_Name" = 'Description', "Input_Column_Name_3" = 'Content_Type', "Input_Column_Name_4" = 'Business_Name', "Input_Column_Width_3" = '100', "Input_Column_Width_4" = '100', "Input_Width_Description" = '130', "Input_Width_Type" = '85', "Output_1st_Column_Name" = 'Type', "Output_2nd_Column_Name" = 'Mapping', "Output_3rd_Column_Name" = 'Description', "Output_Column_Name_4" = 'Content_Type', "Output_Column_Name_5" = 'Business_Name', "Output_Column_Width_4" = '100', "Output_Column_Width_5" = '100', "Output_Width_Decsription" = '130', "Output_Width_Mapping" = '85', "Output_Width_Type" = '80', "UI_DATA_XML" = '<UIDATA><MAINICON><LOCATION><X>0</X><Y>0</Y></LOCATION><SIZE><CX>1141</CX><CY>-183</CY></SIZE></MAINICON><DESCRIPTION><LOCATION><X>0</X><Y>-175</Y></LOCATION><SIZE><CX>200</CX><CY>200</CY></SIZE><VISIBLE>0</VISIBLE></DESCRIPTION></UIDATA>', "UpperContainer_HeightProp" = '51', "x" = '788', "y" = '-944')
+GUID::'fdbc6682-e662-43a0-8abb-8acca541634f' READ TABLE DS_STAGING.DBO.PRFL_XXX_MATCH_REVIEW_VENDOR_MASTER_ACT OUTPUT(PRFL_XXX_MATCH_REVIEW_VENDOR_MASTER_ACT)
+SET("Initial_Load" = 'no', "array_fetch_size" = '1000', "cache" = 'yes', "connection_port" = 'no', "enable_partitioning" = 'no', "name" = 'DS_STAGING', "package_size" = '0', "parallel_sap_connections" = '0', "reader_is_DB2CDC_table" = 'no', "reader_overflow_file" = 'overflow_file', "reader_template_table" = 'no', "reader_use_overflow_file" = 'no', "reader_use_trex_transaction" = 'no', "sap_odp_cwf_delay" = '5', "table_weight" = '0', "teradata_bulk_rdr_cleanup" = 'yes');
+
+ALGUIComment ("InputSchema_WidthProp" = '36', "Input_1st_Column_Name" = 'Type', "Input_2nd_Column_Name" = 'Description', "Input_Column_Name_3" = 'Content_Type', "Input_Column_Name_4" = 'Business_Name', "Input_Column_Width_3" = '100', "Input_Column_Width_4" = '100', "Input_Width_Description" = '130', "Input_Width_Type" = '85', "Output_1st_Column_Name" = 'Type', "Output_2nd_Column_Name" = 'Mapping', "Output_3rd_Column_Name" = 'Description', "Output_Column_Name_4" = 'Content_Type', "Output_Column_Name_5" = 'Business_Name', "Output_Column_Width_4" = '100', "Output_Column_Width_5" = '100', "Output_Width_Decsription" = '130', "Output_Width_Mapping" = '85', "Output_Width_Type" = '80', "UI_DATA_XML" = '<UIDATA><MAINICON><LOCATION><X>0</X><Y>0</Y></LOCATION><SIZE><CX>1056</CX><CY>-183</CY></SIZE></MAINICON><DESCRIPTION><LOCATION><X>0</X><Y>-175</Y></LOCATION><SIZE><CX>200</CX><CY>200</CY></SIZE><VISIBLE>0</VISIBLE></DESCRIPTION></UIDATA>', "UpperContainer_HeightProp" = '51', "x" = '778', "y" = '-481')
+GUID::'cec80ffc-2d92-41f7-a443-4927e92f543f' READ TABLE DS_STAGING.DBO.PRFL_XXX_MATCH_REVIEW_VENDOR_MASTER OUTPUT(PRFL_XXX_MATCH_REVIEW_VENDOR_MASTER)
+SET("Initial_Load" = 'no', "array_fetch_size" = '1000', "cache" = 'yes', "connection_port" = 'no', "enable_partitioning" = 'no', "name" = 'DS_STAGING', "package_size" = '0', "parallel_sap_connections" = '0', "reader_is_DB2CDC_table" = 'no', "reader_overflow_file" = 'overflow_file', "reader_template_table" = 'no', "reader_use_overflow_file" = 'no', "reader_use_trex_transaction" = 'no', "sap_odp_cwf_delay" = '5', "table_weight" = '0', "teradata_bulk_rdr_cleanup" = 'yes');
+
+ALGUIComment ("InputSchema_WidthProp" = '36', "Input_1st_Column_Name" = 'Type', "Input_2nd_Column_Name" = 'Description', "Input_Column_Name_3" = 'Content_Type', "Input_Column_Name_4" = 'Business_Name', "Input_Column_Width_3" = '100', "Input_Column_Width_4" = '100', "Input_Width_Description" = '130', "Input_Width_Type" = '85', "Output_1st_Column_Name" = 'Type', "Output_2nd_Column_Name" = 'Mapping', "Output_3rd_Column_Name" = 'Description', "Output_Column_Name_4" = 'Content_Type', "Output_Column_Name_5" = 'Business_Name', "Output_Column_Width_4" = '100', "Output_Column_Width_5" = '100', "Output_Width_Decsription" = '130', "Output_Width_Mapping" = '85', "Output_Width_Type" = '80', "UI_DATA_XML" = '<UIDATA><MAINICON><LOCATION><X>0</X><Y>0</Y></LOCATION><SIZE><CX>275</CX><CY>-164</CY></SIZE></MAINICON><DESCRIPTION><LOCATION><X>0</X><Y>-175</Y></LOCATION><SIZE><CX>200</CX><CY>200</CY></SIZE><VISIBLE>0</VISIBLE></DESCRIPTION></UIDATA>', "UI_PASSTHRU_VSPLIT_PCT" = '50', "UpperContainer_HeightProp" = '51', "ui_acta_from_schema_0" = 'PRFL_XXX_MATCH_REVIEW_VENDOR_MASTER', "ui_display_name" = 'QRY_SOURCE', "x" = '1965', "y" = '-485')
+GUID::'1a4a6cb0-db04-435d-9a1e-d669f3bb128d' CREATE VIEW QRY_SOURCE( DI_SOURCE_SYSTEM VARCHAR(255)  SET( "ui_mapping_text" = 'PRFL_XXX_MATCH_REVIEW_VENDOR_MASTER.DI_SOURCE_SYSTEM') ,
+ DI_SOURCE_KEY VARCHAR(255)  SET( "ui_mapping_text" = 'PRFL_XXX_MATCH_REVIEW_VENDOR_MASTER.DI_SOURCE_KEY') ,
+ RUN_ID INT  SET( "ui_mapping_text" = 'PRFL_XXX_MATCH_REVIEW_VENDOR_MASTER.RUN_ID') ,
+ RECORD_ID INT  SET( "ui_mapping_text" = 'PRFL_XXX_MATCH_REVIEW_VENDOR_MASTER.RECORD_ID') ,
+ IS_MASTER VARCHAR(255)  SET( "Description" = 'Mark the vendors to be migrated', "ui_mapping_text" = 'PRFL_XXX_MATCH_REVIEW_VENDOR_MASTER.IS_MASTER') ,
+ LIFNR VARCHAR(10)  SET( "ui_mapping_text" = 'PRFL_XXX_MATCH_REVIEW_VENDOR_MASTER.LIFNR') ,
+ LAND1 VARCHAR(2)  SET( "ui_mapping_text" = 'PRFL_XXX_MATCH_REVIEW_VENDOR_MASTER.LAND1') ,
+ NAME1 VARCHAR(18)  SET( "ui_mapping_text" = 'PRFL_XXX_MATCH_REVIEW_VENDOR_MASTER.NAME1') ,
+ ORT01 VARCHAR(14)  SET( "ui_mapping_text" = 'PRFL_XXX_MATCH_REVIEW_VENDOR_MASTER.ORT01') ,
+ PSTLZ INT  SET( "ui_mapping_text" = 'PRFL_XXX_MATCH_REVIEW_VENDOR_MASTER.PSTLZ') ,
+ REGIO VARCHAR(2)  SET( "ui_mapping_text" = 'PRFL_XXX_MATCH_REVIEW_VENDOR_MASTER.REGIO') ,
+ STRAS VARCHAR(22)  SET( "ui_mapping_text" = 'PRFL_XXX_MATCH_REVIEW_VENDOR_MASTER.STRAS') ,
+ HOUSE_NO VARCHAR(50)  SET( "ui_mapping_text" = 'PRFL_XXX_MATCH_REVIEW_VENDOR_MASTER.HOUSE_NO') ,
+ VATTAX_CODE VARCHAR(9)  SET( "ui_mapping_text" = 'PRFL_XXX_MATCH_REVIEW_VENDOR_MASTER.VATTAX_CODE') ,
+ DUNS VARCHAR(9)  SET( "ui_mapping_text" = 'PRFL_XXX_MATCH_REVIEW_VENDOR_MASTER.DUNS') ,
+ BANKN1 VARCHAR(30)  SET( "ui_mapping_text" = 'PRFL_XXX_MATCH_REVIEW_VENDOR_MASTER.BANKN1') ,
+ BANKN2 VARCHAR(30)  SET( "ui_mapping_text" = 'PRFL_XXX_MATCH_REVIEW_VENDOR_MASTER.BANKN2') ,
+ BANKN3 VARCHAR(30)  SET( "ui_mapping_text" = 'PRFL_XXX_MATCH_REVIEW_VENDOR_MASTER.BANKN3') ,
+ BANKN4 VARCHAR(40)  SET( "ui_mapping_text" = 'PRFL_XXX_MATCH_REVIEW_VENDOR_MASTER.BANKN4') ,
+ BANKN5 VARCHAR(40)  SET( "ui_mapping_text" = 'PRFL_XXX_MATCH_REVIEW_VENDOR_MASTER.BANKN5') ,
+ TAXCODE1 VARCHAR(40)  SET( "ui_mapping_text" = 'PRFL_XXX_MATCH_REVIEW_VENDOR_MASTER.TAXCODE1') ,
+ TAXCODE2 VARCHAR(40)  SET( "ui_mapping_text" = 'PRFL_XXX_MATCH_REVIEW_VENDOR_MASTER.TAXCODE2') ,
+ TAXCODE3 VARCHAR(40)  SET( "ui_mapping_text" = 'PRFL_XXX_MATCH_REVIEW_VENDOR_MASTER.TAXCODE3', "ui_pasting" = 'INP_BP_P20_VENDOR.TAXCODE2') ,
+ TAXCODE4 VARCHAR(40)  SET( "ui_mapping_text" = 'PRFL_XXX_MATCH_REVIEW_VENDOR_MASTER.TAXCODE4', "ui_pasting" = 'INP_BP_P20_VENDOR.TAXCODE2') ,
+ TAXCODE5 VARCHAR(40)  SET( "ui_mapping_text" = 'PRFL_XXX_MATCH_REVIEW_VENDOR_MASTER.TAXCODE5', "ui_pasting" = 'INP_BP_P20_VENDOR.TAXCODE2') ,
+ BREAKKEY VARCHAR(30)  SET( "ui_mapping_text" = 'PRFL_XXX_MATCH_REVIEW_VENDOR_MASTER.BREAKKEY') ,
+ GROUP_NUMBER INT  SET( "Content_Type" = 'Group Number', "Description" = 'Set1_LEVEL_GROUP_NUMBER', "ui_mapping_text" = 'PRFL_XXX_MATCH_REVIEW_VENDOR_MASTER.GROUP_NUMBER') ,
+ MATCH_SCORE INT  SET( "Content_Type" = 'None', "Description" = 'Set1_LEVEL_MATCH_SCORE', "ui_mapping_text" = 'PRFL_XXX_MATCH_REVIEW_VENDOR_MASTER.MATCH_SCORE') ,
+ MATCH_CRITERION VARCHAR(40)  SET( "Content_Type" = 'None', "Description" = 'Set1_LEVEL_MATCH_CRITERION', "ui_mapping_text" = 'PRFL_XXX_MATCH_REVIEW_VENDOR_MASTER.MATCH_CRITERION') ,
+ GROUP_RANK VARCHAR(1)  SET( "Content_Type" = 'None', "Description" = 'Set1_LEVEL_GROUP_STATS_GROUP_RANK', "ui_mapping_text" = 'PRFL_XXX_MATCH_REVIEW_VENDOR_MASTER.GROUP_RANK') ,
+ GROUP_COUNT INT  SET( "Content_Type" = 'None', "Description" = 'Set1_LEVEL_GROUP_STATS_GROUP_COUNT', "ui_mapping_text" = 'PRFL_XXX_MATCH_REVIEW_VENDOR_MASTER.GROUP_COUNT') ,
+ ID INT  SET( "ui_mapping_text" = 'PRFL_XXX_MATCH_REVIEW_VENDOR_MASTER.ID') ,
+ JOB_RUN_ID INT  SET( "ui_mapping_text" = 'PRFL_XXX_MATCH_REVIEW_VENDOR_MASTER.JOB_RUN_ID') ,
+ REVIEW_STATUS VARCHAR(10)  SET( "ui_mapping_text" = 'PRFL_XXX_MATCH_REVIEW_VENDOR_MASTER.REVIEW_STATUS')  )
+ AS
+SELECT PRFL_XXX_MATCH_REVIEW_VENDOR_MASTER.DI_SOURCE_SYSTEM, PRFL_XXX_MATCH_REVIEW_VENDOR_MASTER.DI_SOURCE_KEY, PRFL_XXX_MATCH_REVIEW_VENDOR_MASTER.RUN_ID, PRFL_XXX_MATCH_REVIEW_VENDOR_MASTER.RECORD_ID, PRFL_XXX_MATCH_REVIEW_VENDOR_MASTER.IS_MASTER, PRFL_XXX_MATCH_REVIEW_VENDOR_MASTER.LIFNR, PRFL_XXX_MATCH_REVIEW_VENDOR_MASTER.LAND1, PRFL_XXX_MATCH_REVIEW_VENDOR_MASTER.NAME1, PRFL_XXX_MATCH_REVIEW_VENDOR_MASTER.ORT01, PRFL_XXX_MATCH_REVIEW_VENDOR_MASTER.PSTLZ, PRFL_XXX_MATCH_REVIEW_VENDOR_MASTER.REGIO, PRFL_XXX_MATCH_REVIEW_VENDOR_MASTER.STRAS, PRFL_XXX_MATCH_REVIEW_VENDOR_MASTER.HOUSE_NO, PRFL_XXX_MATCH_REVIEW_VENDOR_MASTER.VATTAX_CODE, PRFL_XXX_MATCH_REVIEW_VENDOR_MASTER.DUNS, PRFL_XXX_MATCH_REVIEW_VENDOR_MASTER.BANKN1, PRFL_XXX_MATCH_REVIEW_VENDOR_MASTER.BANKN2, PRFL_XXX_MATCH_REVIEW_VENDOR_MASTER.BANKN3, PRFL_XXX_MATCH_REVIEW_VENDOR_MASTER.BANKN4, PRFL_XXX_MATCH_REVIEW_VENDOR_MASTER.BANKN5, PRFL_XXX_MATCH_REVIEW_VENDOR_MASTER.TAXCODE1, PRFL_XXX_MATCH_REVIEW_VENDOR_MASTER.TAXCODE2, PRFL_XXX_MATCH_REVIEW_VENDOR_MASTER.TAXCODE3, PRFL_XXX_MATCH_REVIEW_VENDOR_MASTER.TAXCODE4, PRFL_XXX_MATCH_REVIEW_VENDOR_MASTER.TAXCODE5, PRFL_XXX_MATCH_REVIEW_VENDOR_MASTER.BREAKKEY, PRFL_XXX_MATCH_REVIEW_VENDOR_MASTER.GROUP_NUMBER, PRFL_XXX_MATCH_REVIEW_VENDOR_MASTER.MATCH_SCORE, PRFL_XXX_MATCH_REVIEW_VENDOR_MASTER.MATCH_CRITERION, PRFL_XXX_MATCH_REVIEW_VENDOR_MASTER.GROUP_RANK, PRFL_XXX_MATCH_REVIEW_VENDOR_MASTER.GROUP_COUNT, PRFL_XXX_MATCH_REVIEW_VENDOR_MASTER.ID, PRFL_XXX_MATCH_REVIEW_VENDOR_MASTER.JOB_RUN_ID, PRFL_XXX_MATCH_REVIEW_VENDOR_MASTER.REVIEW_STATUS FROM PRFL_XXX_MATCH_REVIEW_VENDOR_MASTER 
+SET("distinct_run_as_separate_process" = 'no', "group_by_run_as_separate_process" = 'no', "join_run_as_separate_process" = 'no', "order_by_run_as_separate_process" = 'no', "run_as_separate_process" = 'no')
+;
+
+ALGUIComment ("InputSchema_WidthProp" = '36', "Input_1st_Column_Name" = 'Type', "Input_2nd_Column_Name" = 'Description', "Input_Column_Name_3" = 'Content_Type', "Input_Column_Name_4" = 'Business_Name', "Input_Column_Width_3" = '100', "Input_Column_Width_4" = '100', "Input_Width_Description" = '130', "Input_Width_Type" = '85', "Output_1st_Column_Name" = 'Type', "Output_2nd_Column_Name" = 'Mapping', "Output_3rd_Column_Name" = 'Description', "Output_Column_Name_4" = 'Content_Type', "Output_Column_Name_5" = 'Business_Name', "Output_Column_Width_4" = '100', "Output_Column_Width_5" = '100', "Output_Width_Decsription" = '130', "Output_Width_Mapping" = '85', "Output_Width_Type" = '80', "UI_DATA_XML" = '<UIDATA><MAINICON><LOCATION><X>0</X><Y>0</Y></LOCATION><SIZE><CX>403</CX><CY>-164</CY></SIZE></MAINICON><DESCRIPTION><LOCATION><X>0</X><Y>-175</Y></LOCATION><SIZE><CX>200</CX><CY>200</CY></SIZE><VISIBLE>0</VISIBLE></DESCRIPTION></UIDATA>', "UI_PASSTHRU_VSPLIT_PCT" = '50', "UpperContainer_HeightProp" = '51', "ui_acta_from_schema_0" = 'PRFL_XXX_MATCH_REVIEW_VENDOR_MASTER_ACT', "ui_display_name" = 'QRY_MATCH_STATUS', "x" = '1978', "y" = '-944')
+GUID::'284c4dd1-365d-4fdb-82f8-94305ff4be32' CREATE VIEW QRY_MATCH_STATUS( JOB_RUN_ID INT  SET( "ui_mapping_text" = 'PRFL_XXX_MATCH_REVIEW_VENDOR_MASTER_ACT.JOB_RUN_ID') ,
+ DI_SOURCE_SYSTEM VARCHAR(255)  SET( "ui_mapping_text" = 'PRFL_XXX_MATCH_REVIEW_VENDOR_MASTER_ACT.DI_SOURCE_SYSTEM') ,
+ RECORD_ID INT  SET( "ui_mapping_text" = 'PRFL_XXX_MATCH_REVIEW_VENDOR_MASTER_ACT.RECORD_ID') ,
+ GROUP_NUMBER INT  SET( "Content_Type" = 'GROUP_NUMBER', "ui_mapping_text" = 'PRFL_XXX_MATCH_REVIEW_VENDOR_MASTER_ACT.GROUP_NUMBER') ,
+ ORIG_GROUP_NUMBER INT  SET( "ui_mapping_text" = 'PRFL_XXX_MATCH_REVIEW_VENDOR_MASTER_ACT.ORIG_GROUP_NUMBER') ,
+ GROUP_RANK VARCHAR(1)  SET( "ui_mapping_text" = 'PRFL_XXX_MATCH_REVIEW_VENDOR_MASTER_ACT.GROUP_RANK') ,
+ ORIG_GROUP_RANK VARCHAR(1)  SET( "ui_mapping_text" = 'PRFL_XXX_MATCH_REVIEW_VENDOR_MASTER_ACT.ORIG_GROUP_RANK') ,
+ IS_FINISHED_ VARCHAR(1)  SET( "ui_mapping_text" = 'PRFL_XXX_MATCH_REVIEW_VENDOR_MASTER_ACT.IS_FINISHED_')  )
+ AS
+SELECT PRFL_XXX_MATCH_REVIEW_VENDOR_MASTER_ACT.JOB_RUN_ID, PRFL_XXX_MATCH_REVIEW_VENDOR_MASTER_ACT.DI_SOURCE_SYSTEM, PRFL_XXX_MATCH_REVIEW_VENDOR_MASTER_ACT.RECORD_ID, PRFL_XXX_MATCH_REVIEW_VENDOR_MASTER_ACT.GROUP_NUMBER, PRFL_XXX_MATCH_REVIEW_VENDOR_MASTER_ACT.ORIG_GROUP_NUMBER, PRFL_XXX_MATCH_REVIEW_VENDOR_MASTER_ACT.GROUP_RANK, PRFL_XXX_MATCH_REVIEW_VENDOR_MASTER_ACT.ORIG_GROUP_RANK, PRFL_XXX_MATCH_REVIEW_VENDOR_MASTER_ACT.IS_FINISHED_ FROM PRFL_XXX_MATCH_REVIEW_VENDOR_MASTER_ACT 
+SET("distinct_run_as_separate_process" = 'no', "group_by_run_as_separate_process" = 'no', "join_run_as_separate_process" = 'no', "order_by_run_as_separate_process" = 'no', "run_as_separate_process" = 'no')
+;
+
+ALGUIComment ("InputSchema_WidthProp" = '36', "Input_1st_Column_Name" = 'Type', "Input_2nd_Column_Name" = 'Description', "Input_Column_Name_3" = 'Content_Type', "Input_Column_Name_4" = 'Business_Name', "Input_Column_Width_3" = '100', "Input_Column_Width_4" = '100', "Input_Width_Description" = '130', "Input_Width_Name" = '402', "Input_Width_Type" = '148', "Output_1st_Column_Name" = 'Type', "Output_2nd_Column_Name" = 'Mapping', "Output_3rd_Column_Name" = 'Description', "Output_Column_Name_4" = 'Content_Type', "Output_Column_Name_5" = 'Business_Name', "Output_Column_Width_4" = '100', "Output_Column_Width_5" = '100', "Output_Width_Decsription" = '130', "Output_Width_Mapping" = '85', "Output_Width_Name" = '398', "Output_Width_Type" = '207', "UI_DATA_XML" = '<UIDATA><MAINICON><LOCATION><X>0</X><Y>0</Y></LOCATION><SIZE><CX>416</CX><CY>-164</CY></SIZE></MAINICON><DESCRIPTION><LOCATION><X>0</X><Y>-175</Y></LOCATION><SIZE><CX>200</CX><CY>200</CY></SIZE><VISIBLE>0</VISIBLE></DESCRIPTION></UIDATA>', "UI_PASSTHRU_VSPLIT_PCT" = '50', "UpperContainer_HeightProp" = '51', "ui_acta_from_schema_0" = 'QRY_MATCH_STATUS', "ui_acta_from_schema_1" = 'QRY_SOURCE', "ui_display_name" = 'QRY_STATUS_UPDATE', "x" = '2518', "y" = '-706')
+GUID::'772c6c8c-25a5-4128-9207-c668085eda4b' CREATE VIEW QRY_STATUS_UPDATE( DI_SOURCE_SYSTEM VARCHAR(255)  SET( "ui_mapping_text" = 'QRY_SOURCE.DI_SOURCE_SYSTEM') ,
+ DI_SOURCE_KEY VARCHAR(255)  SET( "ui_mapping_text" = 'QRY_SOURCE.DI_SOURCE_KEY') ,
+ RUN_ID INT  SET( "ui_mapping_text" = 'QRY_SOURCE.RUN_ID') ,
+ RECORD_ID INT  SET( "ui_mapping_text" = 'QRY_SOURCE.RECORD_ID') ,
+ IS_MASTER VARCHAR(255)  SET( "Description" = 'Mark the vendors to be migrated', "ui_mapping_text" = 'QRY_SOURCE.IS_MASTER') ,
+ LIFNR VARCHAR(10)  SET( "ui_mapping_text" = 'QRY_SOURCE.LIFNR') ,
+ LAND1 VARCHAR(2)  SET( "ui_mapping_text" = 'QRY_SOURCE.LAND1') ,
+ NAME1 VARCHAR(18)  SET( "ui_mapping_text" = 'QRY_SOURCE.NAME1') ,
+ ORT01 VARCHAR(14)  SET( "ui_mapping_text" = 'QRY_SOURCE.ORT01') ,
+ PSTLZ INT  SET( "ui_mapping_text" = 'QRY_SOURCE.PSTLZ') ,
+ REGIO VARCHAR(2)  SET( "ui_mapping_text" = 'QRY_SOURCE.REGIO') ,
+ STRAS VARCHAR(22)  SET( "ui_mapping_text" = 'QRY_SOURCE.STRAS') ,
+ HOUSE_NO VARCHAR(50)  SET( "ui_mapping_text" = 'QRY_SOURCE.HOUSE_NO') ,
+ VATTAX_CODE VARCHAR(9)  SET( "ui_mapping_text" = 'QRY_SOURCE.VATTAX_CODE') ,
+ DUNS VARCHAR(9)  SET( "ui_mapping_text" = 'QRY_SOURCE.DUNS') ,
+ BANKN1 VARCHAR(30)  SET( "ui_mapping_text" = 'QRY_SOURCE.BANKN1') ,
+ BANKN2 VARCHAR(30)  SET( "ui_mapping_text" = 'QRY_SOURCE.BANKN2') ,
+ BANKN3 VARCHAR(30)  SET( "ui_mapping_text" = 'QRY_SOURCE.BANKN3') ,
+ BANKN4 VARCHAR(40)  SET( "ui_mapping_text" = 'QRY_SOURCE.BANKN4') ,
+ BANKN5 VARCHAR(40)  SET( "ui_mapping_text" = 'QRY_SOURCE.BANKN5') ,
+ TAXCODE1 VARCHAR(40)  SET( "ui_mapping_text" = 'QRY_SOURCE.TAXCODE1') ,
+ TAXCODE2 VARCHAR(40)  SET( "ui_mapping_text" = 'QRY_SOURCE.TAXCODE2') ,
+ TAXCODE3 VARCHAR(40)  SET( "ui_mapping_text" = 'QRY_SOURCE.TAXCODE3', "ui_pasting" = 'INP_BP_P20_VENDOR.TAXCODE2') ,
+ TAXCODE4 VARCHAR(40)  SET( "ui_mapping_text" = 'QRY_SOURCE.TAXCODE4', "ui_pasting" = 'INP_BP_P20_VENDOR.TAXCODE2') ,
+ TAXCODE5 VARCHAR(40)  SET( "ui_mapping_text" = 'QRY_SOURCE.TAXCODE5', "ui_pasting" = 'INP_BP_P20_VENDOR.TAXCODE2') ,
+ BREAKKEY VARCHAR(30)  SET( "ui_mapping_text" = 'QRY_SOURCE.BREAKKEY') ,
+ GROUP_NUMBER INT  SET( "Content_Type" = 'Group Number', "Description" = 'Set1_LEVEL_GROUP_NUMBER', "ui_mapping_text" = 'QRY_SOURCE.GROUP_NUMBER') ,
+ MR_GROUP_NUMBER INT  SET( "Content_Type" = 'GROUP_NUMBER', "ui_mapping_text" = 'QRY_MATCH_STATUS.GROUP_NUMBER') ,
+ MATCH_SCORE INT  SET( "Content_Type" = 'None', "Description" = 'Set1_LEVEL_MATCH_SCORE', "ui_mapping_text" = 'QRY_SOURCE.MATCH_SCORE') ,
+ MATCH_CRITERION VARCHAR(40)  SET( "Content_Type" = 'None', "Description" = 'Set1_LEVEL_MATCH_CRITERION', "ui_mapping_text" = 'QRY_SOURCE.MATCH_CRITERION') ,
+ GROUP_RANK VARCHAR(1)  SET( "Content_Type" = 'None', "Description" = 'Set1_LEVEL_GROUP_STATS_GROUP_RANK', "ui_mapping_text" = 'QRY_SOURCE.GROUP_RANK') ,
+ MR_GROUP_RANK VARCHAR(1)  SET( "ui_mapping_text" = 'QRY_MATCH_STATUS.GROUP_RANK') ,
+ GROUP_COUNT INT  SET( "Content_Type" = 'None', "Description" = 'Set1_LEVEL_GROUP_STATS_GROUP_COUNT', "ui_mapping_text" = 'QRY_SOURCE.GROUP_COUNT') ,
+ JOB_RUN_ID INT  SET( "ui_mapping_text" = 'QRY_SOURCE.JOB_RUN_ID') ,
+ REVIEW_STATUS VARCHAR(10)  SET( "ui_mapping_text" = 'QRY_MATCH_STATUS.IS_FINISHED_')  )
+ AS
+SELECT QRY_SOURCE.DI_SOURCE_SYSTEM, QRY_SOURCE.DI_SOURCE_KEY, QRY_SOURCE.RUN_ID, QRY_SOURCE.RECORD_ID, QRY_SOURCE.IS_MASTER, QRY_SOURCE.LIFNR, QRY_SOURCE.LAND1, QRY_SOURCE.NAME1, QRY_SOURCE.ORT01, QRY_SOURCE.PSTLZ, QRY_SOURCE.REGIO, QRY_SOURCE.STRAS, QRY_SOURCE.HOUSE_NO, QRY_SOURCE.VATTAX_CODE, QRY_SOURCE.DUNS, QRY_SOURCE.BANKN1, QRY_SOURCE.BANKN2, QRY_SOURCE.BANKN3, QRY_SOURCE.BANKN4, QRY_SOURCE.BANKN5, QRY_SOURCE.TAXCODE1, QRY_SOURCE.TAXCODE2, QRY_SOURCE.TAXCODE3, QRY_SOURCE.TAXCODE4, QRY_SOURCE.TAXCODE5, QRY_SOURCE.BREAKKEY, QRY_SOURCE.GROUP_NUMBER, QRY_MATCH_STATUS.GROUP_NUMBER, QRY_SOURCE.MATCH_SCORE, QRY_SOURCE.MATCH_CRITERION, QRY_SOURCE.GROUP_RANK, QRY_MATCH_STATUS.GROUP_RANK, QRY_SOURCE.GROUP_COUNT, QRY_SOURCE.JOB_RUN_ID, QRY_MATCH_STATUS.IS_FINISHED_ FROM QRY_SOURCE  __SAP_LEFT_OUTER_JOIN QRY_MATCH_STATUS  ON ((((QRY_SOURCE.JOB_RUN_ID = QRY_MATCH_STATUS.JOB_RUN_ID) AND
+   (QRY_SOURCE.DI_SOURCE_SYSTEM = QRY_MATCH_STATUS.DI_SOURCE_SYSTEM)) AND
+   (QRY_SOURCE.RECORD_ID = QRY_MATCH_STATUS.RECORD_ID)) AND
+   (QRY_SOURCE.GROUP_NUMBER = QRY_MATCH_STATUS.GROUP_NUMBER))SET("ui_on_text" = 'QRY_SOURCE.JOB_RUN_ID = QRY_MATCH_STATUS.JOB_RUN_ID AND 
+QRY_SOURCE.DI_SOURCE_SYSTEM = QRY_MATCH_STATUS.DI_SOURCE_SYSTEM AND 
+QRY_SOURCE.RECORD_ID = QRY_MATCH_STATUS.RECORD_ID AND 
+QRY_SOURCE.GROUP_NUMBER = QRY_MATCH_STATUS.GROUP_NUMBER ')
+
+SET("distinct_run_as_separate_process" = 'no', "group_by_run_as_separate_process" = 'no', "join_run_as_separate_process" = 'no', "order_by_run_as_separate_process" = 'no', "run_as_separate_process" = 'no')
+;
+
+ALGUIComment ("InputSchema_WidthProp" = '36', "Input_1st_Column_Name" = 'Type', "Input_2nd_Column_Name" = 'Description', "Input_Column_Name_3" = 'Content_Type', "Input_Column_Name_4" = 'Business_Name', "Input_Column_Width_3" = '100', "Input_Column_Width_4" = '100', "Input_Width_Description" = '130', "Input_Width_Type" = '85', "Output_1st_Column_Name" = 'Type', "Output_2nd_Column_Name" = 'Description', "Output_3rd_Column_Name" = 'Content_Type', "Output_Column_Name_4" = 'Business_Name', "Output_Column_Name_5" = '', "Output_Column_Width_4" = '100', "Output_Column_Width_5" = '100', "Output_Width_Decsription" = '130', "Output_Width_Mapping" = '85', "Output_Width_Type" = '80', "UI_DATA_XML" = '<UIDATA><MAINICON><LOCATION><X>0</X><Y>0</Y></LOCATION><SIZE><CX>1163</CX><CY>-183</CY></SIZE></MAINICON><DESCRIPTION><LOCATION><X>0</X><Y>-175</Y></LOCATION><SIZE><CX>200</CX><CY>200</CY></SIZE><VISIBLE>0</VISIBLE></DESCRIPTION></UIDATA>', "UI_PASSTHRU_VSPLIT_PCT" = '50', "UpperContainer_HeightProp" = '51', "x" = '3140', "y" = '-706')
+GUID::'4ea3d852-6ac5-47db-a373-73cf16aa5eda' LOAD TABLE DS_STAGING.DBO.PRFL_XXX_VENDOR_MASTER_MATCH_REVIEW_OP INPUT(QRY_STATUS_UPDATE)
+SET("connection_port" = 'no', "ldr_configuration_enabled" = 'yes', "ldr_configurations" = '<?xml version="1.0" encoding="UTF-8"?>
+<LDRConfigurations>
+<LDRConfiguration database_type="Microsoft_SQL_Server" database_version="Microsoft SQL Server 2008">
+<auto_correct_using_merge>yes</auto_correct_using_merge>
+<bulk_col_delimiter>/127</bulk_col_delimiter>
+<bulk_ldr_all_rows></bulk_ldr_all_rows>
+<bulk_ldr_cleanup>yes</bulk_ldr_cleanup>
+<bulk_ldr_max_errors></bulk_ldr_max_errors>
+<bulk_ldr_rows_per_commit>1000</bulk_ldr_rows_per_commit>
+<enable_partitioning>no</enable_partitioning>
+<ignore_column_case>yes</ignore_column_case>
+<ignore_columns_null>no</ignore_columns_null>
+<ignore_columns_value></ignore_columns_value>
+<loader_auto_correct>no</loader_auto_correct>
+<loader_bulk_load></loader_bulk_load>
+<loader_compare_column>compare_by_name</loader_compare_column>
+<loader_delete_map></loader_delete_map>
+<loader_drop_and_create_table>yes</loader_drop_and_create_table>
+<loader_fl_object_name></loader_fl_object_name>
+<loader_insert_map></loader_insert_map>
+<loader_load_choice>append</loader_load_choice>
+<loader_num_parallel_loaders>1</loader_num_parallel_loaders>
+<loader_overflow_file>DS_STAGING_DBO_PRFL_XXX_VENDOR_MASTER_MATCH_REVIEW_OP.txt</loader_overflow_file>
+<loader_post_load1></loader_post_load1>
+<loader_pre_load1></loader_pre_load1>
+<loader_quote_names>0</loader_quote_names>
+<loader_transactional>no</loader_transactional>
+<loader_transactional_order>0</loader_transactional_order>
+<loader_update_key_columns>no</loader_update_key_columns>
+<loader_update_map></loader_update_map>
+<loader_use_user_defined_keys>no</loader_use_user_defined_keys>
+<loader_xact_size>1000</loader_xact_size>
+<mssql_bulk_ldr_mode>append</mssql_bulk_ldr_mode>
+<mssql_bulk_ldr_packet_size>4</mssql_bulk_ldr_packet_size>
+<mssql_ldr_identity_insert>off</mssql_ldr_identity_insert>
+<overflow_file_format>write_data</overflow_file_format>
+<overriding_substitution_parameter_for_tablename></overriding_substitution_parameter_for_tablename>
+<text_delimiter></text_delimiter>
+<use_overflow_file>no</use_overflow_file>
+<use_unicode_varchar>yes</use_unicode_varchar>
+<sql_text></sql_text>
+</LDRConfiguration>
+</LDRConfigurations>', "loader_template_table" = 'yes', "name" = 'DS_STAGING', "use_unicode_varchar" = 'yes');
+
+END
+ SET ("Cache_type" = 'pageable_cache', "Parallelism_degree" = 'default', "allows_both_input_and_output" = 'yes', "dataflow_loader_bulk_load" = 'no', "dataflow_loader_commit_size" = 'default', "dataflow_loader_row_size_bytes" = '0', "dataflow_number_of_loaders" = '0', "run_once" = 'no', "use_dataflow_links" = 'no', "use_datastore_links" = 'yes', "validation_xform_exists" = 'no', "validation_xform_stats" = 'no')
+ AlGUIComment ("ActaName_1" = 'RSavedAfterCheckOut', "ActaName_2" = 'RDate_created', "ActaName_3" = 'RDate_modified', "ActaValue_1" = 'YES', "ActaValue_2" = 'Fri Oct 23 06:15:34 2020', "ActaValue_3" = 'Fri Oct 23 12:59:07 2020', "x" = '-1', "y" = '-1')
+CREATE SESSION JB_VENDOR_MATCH_REVIEW::'64410be4-c912-44cb-a684-ff7f8f1645b6'( )
+DECLARE
+     GLOBAL $G_MR_Input_Req VARCHAR(4) ;
+     GLOBAL $G_MR_Output_Req VARCHAR(4) ;
+BEGIN
+ AlGUIComment ("UI_DATA_XML" = '<UIDATA><MAINICON><LOCATION><X>0</X><Y>0</Y></LOCATION><SIZE><CX>528</CX><CY>-179</CY></SIZE></MAINICON><DESCRIPTION><LOCATION><X>0</X><Y>-190</Y></LOCATION><SIZE><CX>200</CX><CY>200</CY></SIZE><VISIBLE>0</VISIBLE></DESCRIPTION></UIDATA>', "x" = '1006', "y" = '-612')
+CALL PLAN WF_VENDOR_MATCH_REVIEW::'0a848b7d-7778-4429-8e24-8ff4c5edc3b0'();
+END
+ SET ("job_GV_$G_MR_Input_Req" = '\'N\'', "job_GV_$G_MR_Output_Req" = '\'N\'', "job_checkpoint_enabled" = 'no', "job_collect_statistics" = 'no', "job_collect_statistics_monitor" = 'no', "job_create_debug_package" = 'no', "job_enable_assemblers" = 'yes', "job_enable_audit" = 'yes', "job_enable_dataquality" = 'yes', "job_export_repo" = 'no', "job_export_reports" = 'no', "job_guid" = '64410be4-c912-44cb-a684-ff7f8f1645b6', "job_isrecoverable" = 'no', "job_mode" = 'Multi-Process', "job_monitor_sample_rate" = '1000', "job_monitor_timer_rate" = '5', "job_name" = 'JB_VENDOR_MATCH_REVIEW', "job_print_version" = 'no', "job_testmode_enabled" = 'no', "job_trace_abapquery" = 'no', "job_trace_all" = 'no', "job_trace_ascomm" = 'no', "job_trace_assemblers" = 'no', "job_trace_audit" = 'no', "job_trace_dataflow" = 'yes', "job_trace_idoc_file" = 'no', "job_trace_memory_loader" = 'no', "job_trace_memory_reader" = 'no', "job_trace_optimized_dataflow" = 'no', "job_trace_parallel_execution" = 'no', "job_trace_rfc_function" = 'no', "job_trace_row" = 'no', "job_trace_script" = 'no', "job_trace_session" = 'yes', "job_trace_sql_only" = 'no', "job_trace_sqlfunctions" = 'no', "job_trace_sqlloaders" = 'no', "job_trace_sqlreaders" = 'no', "job_trace_sqltransforms" = 'no', "job_trace_stored_procedure" = 'no', "job_trace_table" = 'no', "job_trace_table_reader" = 'no', "job_trace_transform" = 'no', "job_trace_userfunction" = 'no', "job_trace_usertransform" = 'no', "job_trace_workflow" = 'yes', "job_type" = 'batch', "job_use_statistics" = 'yes', "locale_codepage" = '<default>', "locale_language" = '<default>', "locale_territory" = '<default>')
+ AlGUIComment ("x" = '-1', "y" = '-1')
+CREATE PLAN WF_VENDOR_MATCH_REVIEW::'0a848b7d-7778-4429-8e24-8ff4c5edc3b0'( )
+BEGIN
+ AlGUIComment ("If_condition" = 'UPPER($G_MR_Input_Req)=\'Y\'', "UI_DATA_XML" = '<UIDATA><MAINICON><LOCATION><X>0</X><Y>0</Y></LOCATION><SIZE><CX>466</CX><CY>-179</CY></SIZE></MAINICON><DESCRIPTION><LOCATION><X>0</X><Y>-190</Y></LOCATION><SIZE><CX>200</CX><CY>200</CY></SIZE><VISIBLE>0</VISIBLE></DESCRIPTION></UIDATA>', "ui_display_name" = 'COND_INPUT_MATCH_REQ', "x" = '969', "y" = '-356')
+IF ((upper($G_MR_Input_Req) = 'Y') )
+BEGIN
+ AlGUIComment ("UI_DATA_XML" = '<UIDATA><MAINICON><LOCATION><X>0</X><Y>0</Y></LOCATION><SIZE><CX>625</CX><CY>-179</CY></SIZE></MAINICON><DESCRIPTION><LOCATION><X>0</X><Y>-190</Y></LOCATION><SIZE><CX>200</CX><CY>200</CY></SIZE><VISIBLE>0</VISIBLE></DESCRIPTION></UIDATA>', "x" = '1181', "y" = '-272')
+CALL DATAFLOW DF_VENDOR_MATCH_REVIEW_INPUT::'33204836-4920-4dcd-aac8-4ac62b6e1d9a'();
+END
+ AlGUIComment ("If_condition" = 'UPPER($G_MR_Output_Req)=\'Y\'', "UI_DATA_XML" = '<UIDATA><MAINICON><LOCATION><X>0</X><Y>0</Y></LOCATION><SIZE><CX>503</CX><CY>-179</CY></SIZE></MAINICON><DESCRIPTION><LOCATION><X>0</X><Y>-190</Y></LOCATION><SIZE><CX>200</CX><CY>200</CY></SIZE><VISIBLE>0</VISIBLE></DESCRIPTION></UIDATA>', "ui_display_name" = 'COND_OUTPUT_MATCH_REQ', "x" = '1585', "y" = '-618')
+IF ((upper($G_MR_Output_Req) = 'Y') )
+BEGIN
+ AlGUIComment ("UI_DATA_XML" = '<UIDATA><MAINICON><LOCATION><X>0</X><Y>0</Y></LOCATION><SIZE><CX>663</CX><CY>-179</CY></SIZE></MAINICON><DESCRIPTION><LOCATION><X>0</X><Y>-190</Y></LOCATION><SIZE><CX>200</CX><CY>200</CY></SIZE><VISIBLE>0</VISIBLE></DESCRIPTION></UIDATA>', "x" = '1291', "y" = '-384')
+CALL DATAFLOW DF_VENDOR_MATCH_REVIEW_OUTPUT::'b06626ad-4e7c-4605-8294-3132bd24b9cf'();
+END
+END
+ SET ("run_once" = 'no', "unit_of_recovery" = 'no', "workflow_type" = 'Regular')

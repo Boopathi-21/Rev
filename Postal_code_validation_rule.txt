@@ -1,0 +1,99 @@
+DECLARE
+$varPostCodeLen int;
+$varCheckRule varchar(1);
+$varLength int;
+
+BEGIN 
+$varPostCodeLen = length($PR_PSTLZ_LFA1);
+$varCheckRule =  lookup('IS_ECC_IDS', 'T005', 'LAND1', $PR_LAND1_LFA1, 'PRPLZ', null);
+$varLength =  lookup('IS_ECC_IDS', 'T005', 'LAND1', $PR_LAND1_LFA1, 'LNPLZ', null);
+IF ($PR_LAND1_LFA1 = 'US')
+		#USA: The system checks, independently of check rule '9', whether the postal code for an address in the USA satisfies the format NNNNN-NNNN or NNNNN.
+		RETURN (match_pattern($PR_PSTLZ_LFA1, '99999-9999') OR match_pattern($PR_PSTLZ_LFA1, '99999'));
+ELSE IF ( $varCheckRule = '1')
+   BEGIN
+      #Maximum value length, without gaps
+	     IF (length(replace_substr($PR_PSTLZ_LFA1, ' ', '', 1, 10)) <= $varLength)
+		RETURN TRUE;
+	     ELSE
+		RETURN FALSE;
+   END
+ELSE IF ( $varCheckRule = '2')
+   BEGIN
+      #Maximum value length, numerical, without gaps
+	     IF (length(replace_substr($PR_PSTLZ_LFA1, ' ', '', 1, 10)) <= $varLength AND is_valid_int($PR_PSTLZ_LFA1, '##########'))
+		RETURN TRUE;
+	     ELSE
+		RETURN FALSE;
+   END
+ELSE IF ( $varCheckRule = '3')
+   BEGIN
+      #Length to be kept to exactly, without gaps
+	     IF (length(replace_substr($PR_PSTLZ_LFA1, ' ', '', 1, 10)) = $varLength)
+		RETURN TRUE;
+	     ELSE
+		RETURN FALSE;
+   END
+ELSE IF ( $varCheckRule = '4')
+   BEGIN
+      #Length to be kept to exactly, numerical, without gaps
+	     IF (length(replace_substr($PR_PSTLZ_LFA1, ' ', '', 1, 10)) = $varLength AND is_valid_int($PR_PSTLZ_LFA1, '##########'))
+		RETURN TRUE;
+	     ELSE
+		RETURN FALSE;
+   END
+ELSE IF ( $varCheckRule = '5')
+   BEGIN
+      #Maximum value length
+	     IF (length($PR_PSTLZ_LFA1) <= $varLength)
+		RETURN TRUE;
+	     ELSE
+		RETURN FALSE;
+   END
+ELSE IF ( $varCheckRule = '6')
+   BEGIN
+      #Maximum value length, numerical
+	     IF (length($PR_PSTLZ_LFA1) <= $varLength AND is_valid_int($PR_PSTLZ_LFA1, '##########'))
+		RETURN TRUE;
+	     ELSE
+		RETURN FALSE;
+   END
+ELSE IF ( $varCheckRule = '7')
+   BEGIN
+      #Length to be kept exactly
+	     IF (length($PR_PSTLZ_LFA1) = $varLength)
+		RETURN TRUE;
+	     ELSE
+		RETURN FALSE;
+   END
+ELSE IF ( $varCheckRule = '8')
+   BEGIN
+      #Length to be kept exactly, numerical
+	     IF (length($PR_PSTLZ_LFA1) = $varLength AND is_valid_int($PR_PSTLZ_LFA1, '##########'))
+		RETURN TRUE;
+	     ELSE
+		RETURN FALSE;
+   END
+ELSE IF ( $varCheckRule = '9')
+   BEGIN
+      #Check against country-specific edit format
+	     IF ($PR_LAND1_LFA1 = 'CA')
+		RETURN match_pattern($PR_PSTLZ_LFA1, 'X9X 9X9');
+	     ELSE IF ($PR_LAND1_LFA1 = 'NL')
+		RETURN match_pattern($PR_PSTLZ_LFA1, '9999 XX');
+	     ELSE IF ($PR_LAND1_LFA1 = 'PL')
+		RETURN match_pattern($PR_PSTLZ_LFA1, '99-999');
+     ELSE IF ($PR_LAND1_LFA1 = 'SE' OR $PR_LAND1_LFA1 = 'SK' OR $PR_LAND1_LFA1 = 'CZ')
+		RETURN match_pattern($PR_PSTLZ_LFA1, '999 99');
+	     ELSE IF ($PR_LAND1_LFA1 = 'KR')
+		RETURN match_pattern($PR_PSTLZ_LFA1, '999-999');
+     ELSE IF ($PR_LAND1_LFA1 = 'PT')
+		RETURN (match_pattern($PR_PSTLZ_LFA1, '9999-999') OR match_pattern($PR_PSTLZ_LFA1, '9999'));
+	     ELSE
+		RETURN FALSE;
+   END
+ELSE
+   BEGIN
+      RETURN FALSE;
+   END
+END
