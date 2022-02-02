@@ -1,0 +1,484 @@
+#__AW_Repository_Version '14.2.5.0000';
+#__AW_Product_Version '14.2.5.800';
+#__AW_ATL_Locale 'eng_us.utf-8';
+ AlGUIComment ("ActaName_1" = 'RSavedAfterCheckOut', "ActaName_2" = 'RDescription', "ActaName_3" = 'RDate_created', "ActaName_4" = 'RDate_modified', "ActaValue_1" = 'YES', "ActaValue_2" = 'Datastore connecting to IDOC repository', "ActaValue_3" = 'Mon May 16 12:23:01 2011', "ActaValue_4" = 'Sun Oct 31 21:33:55 2010', "x" = '-1', "y" = '-1')
+CREATE DATABASE DATASTORE DS_DM_REPO_IDOC::'a90cf387-23fd-4ff9-b679-384a905779ec' SET ("DBLiveLoad" = 'no', "application_type" = 'Custom', "cdc_enabled" = 'no', "datastore_repotype" = 'local', "ds_configuration_enabled" = 'yes', "ds_configurations" = '<?xml version="1.0" encoding="UTF-8" ?>
+<DSConfigurations>
+<DSConfiguration default="false" name="SQL_Server_2005_CI">
+<case_sensitive>yes</case_sensitive>
+<database_type>Microsoft_SQL_Server</database_type>
+<db_alias_name1>DS_OWNER</db_alias_name1>
+<db_alias_user1>DBO</db_alias_user1>
+<loader_xact_size>1000</loader_xact_size>
+<locale_codepage>&lt;default&gt;</locale_codepage>
+<locale_language>&lt;default&gt;</locale_language>
+<locale_territory>&lt;default&gt;</locale_territory>
+<mssql_windows_authentication>yes</mssql_windows_authentication>
+<server_codepage>&lt;default&gt;</server_codepage>
+<sql_server_database>AIO_REPO_IDOC</sql_server_database>
+<sql_server_dataserver>&lt;Your System Name&gt;\\SAPAIOBPDM</sql_server_dataserver>
+<sql_server_version>Microsoft SQL Server 2005</sql_server_version>
+</DSConfiguration>
+<DSConfiguration default="true" name="SQL_Server_2008_CI">
+<case_sensitive>yes</case_sensitive>
+<database_type>Microsoft_SQL_Server</database_type>
+<db_alias_name1>DS_OWNER</db_alias_name1>
+<db_alias_user1>DBO</db_alias_user1>
+<loader_xact_size>1000</loader_xact_size>
+<locale_codepage>&lt;default&gt;</locale_codepage>
+<locale_language>&lt;default&gt;</locale_language>
+<locale_territory>&lt;default&gt;</locale_territory>
+<mssql_windows_authentication>yes</mssql_windows_authentication>
+<server_codepage>&lt;default&gt;</server_codepage>
+<sql_server_database>AIO_REPO_IDOC</sql_server_database>
+<sql_server_dataserver>&lt;Your System Name&gt;\\SAPAIOBPDM</sql_server_dataserver>
+<sql_server_version>Microsoft SQL Server 2008</sql_server_version>
+</DSConfiguration>
+<DSConfiguration default="false" name="XE">
+<Oracle_default_number_precision>28</Oracle_default_number_precision>
+<Oracle_default_number_scale>7</Oracle_default_number_scale>
+<case_sensitive>no</case_sensitive>
+<database_type>Oracle</database_type>
+<db_alias_name1>DS_OWNER</db_alias_name1>
+<db_alias_user1>AIO_REPO_IDOC</db_alias_user1>
+<loader_xact_size>1000</loader_xact_size>
+<locale_codepage>&lt;default&gt;</locale_codepage>
+<locale_language>&lt;default&gt;</locale_language>
+<locale_territory>&lt;default&gt;</locale_territory>
+<oracle_host_string>XE</oracle_host_string>
+<oracle_version>Oracle 10g</oracle_version>
+<password>+0400000000120303000803E8EC2957F1B2CB4D3BAAD4C121C950B1D3654095E7BEEB9D8E7EDA5CAEC3684C81E7A28647DE18DD9A4B7B7025B1E37E5BD0DD34AB55</password>
+<server_codepage>&lt;default&gt;</server_codepage>
+<user>AIO_REPO_IDOC</user>
+</DSConfiguration>
+<DSConfiguration default="false" name="SQL_Server_2005_CS">
+<case_sensitive>yes</case_sensitive>
+<database_type>Microsoft_SQL_Server</database_type>
+<db_alias_name1>DS_OWNER</db_alias_name1>
+<db_alias_user1>dbo</db_alias_user1>
+<loader_xact_size>1000</loader_xact_size>
+<locale_codepage>&lt;default&gt;</locale_codepage>
+<locale_language>&lt;default&gt;</locale_language>
+<locale_territory>&lt;default&gt;</locale_territory>
+<mssql_windows_authentication>yes</mssql_windows_authentication>
+<server_codepage>&lt;default&gt;</server_codepage>
+<sql_server_database>AIO_REPO_IDOC</sql_server_database>
+<sql_server_dataserver>&lt;Your System Name&gt;\\SAPAIOBPDM</sql_server_dataserver>
+<sql_server_version>Microsoft SQL Server 2005</sql_server_version>
+</DSConfiguration>
+<DSConfiguration default="false" name="SQL_Server_2008_CS">
+<case_sensitive>yes</case_sensitive>
+<database_type>Microsoft_SQL_Server</database_type>
+<db_alias_name1>DS_OWNER</db_alias_name1>
+<db_alias_user1>dbo</db_alias_user1>
+<loader_xact_size>1000</loader_xact_size>
+<locale_codepage>&lt;default&gt;</locale_codepage>
+<locale_language>&lt;default&gt;</locale_language>
+<locale_territory>&lt;default&gt;</locale_territory>
+<mssql_windows_authentication>yes</mssql_windows_authentication>
+<server_codepage>&lt;default&gt;</server_codepage>
+<sql_server_database>AIO_REPO_IDOC</sql_server_database>
+<sql_server_dataserver>&lt;Your System Name&gt;\\SAPAIOBPDM</sql_server_dataserver>
+<sql_server_version>Microsoft SQL Server 2008</sql_server_version>
+</DSConfiguration>
+</DSConfigurations>
+', "enable_data_transfer" = 'yes', "import_unknown_type" = 'no', "name" = 'DS_DM_REPO_IDOC', "pcache_force_utf16" = 'no', "unknown_type_size" = '255');
+ AlGUIComment ("ActaName_1" = 'RSavedAfterCheckOut', "ActaName_2" = 'RDate_modified', "ActaName_3" = 'RDate_created', "ActaValue_1" = 'YES', "ActaValue_2" = 'Tue Aug 09 08:58:16 2011', "ActaValue_3" = 'Mon Jul 18 11:05:17 2011', "x" = '-1', "y" = '-1')
+CREATE DATABASE DATASTORE DS_RT_MEMORY::'352980f2-bec6-4d93-8b30-8359a3bc773b' SET ("DBLiveLoad" = 'no', "application_type" = 'Custom', "cdc_enabled" = 'no', "datastore_repotype" = 'local', "ds_configuration_enabled" = 'yes', "ds_configurations" = '<?xml version="1.0" encoding="UTF-8" ?>
+<DSConfigurations>
+<DSConfiguration default="true" name="Configuration1">
+<case_sensitive>no</case_sensitive>
+<database_type>Memory</database_type>
+<js_db_on_same_machine>no</js_db_on_same_machine>
+</DSConfiguration>
+</DSConfigurations>
+', "enable_data_transfer" = 'yes', "import_unknown_type" = 'no', "name" = 'DS_RT_MEMORY', "pcache_force_utf16" = 'no', "unknown_type_size" = '255');
+ AlGUIComment ("ActaName_1" = 'RDescription', "ActaName_2" = 'RDate_modified', "ActaName_3" = 'RSavedAfterCheckOut', "ActaName_4" = 'RDate_created', "ActaValue_1" = 'Datastore connecting to the SAP application for lookup population and loading', "ActaValue_2" = 'Thu Oct 14 14:40:02 2010', "ActaValue_3" = 'YES', "ActaValue_4" = 'Mon May 16 12:23:01 2011', "x" = '-1', "y" = '-1')
+CREATE DATABASE DATASTORE DS_SAP::'d4c80597-1792-42d1-af0d-046a9df12a55' SET ("DBLiveLoad" = 'no', "application_type" = 'R/3', "cdc_enabled" = 'no', "datastore_repotype" = 'local', "ds_configuration_enabled" = 'yes', "ds_configurations" = '<?xml version="1.0" encoding="UTF-8" ?>
+<DSConfigurations>
+<DSConfiguration default="true" name="SAP_SYSTEM1">
+<DB_connection_retry_count>3</DB_connection_retry_count>
+<DB_retry_interval>10000</DB_retry_interval>
+<abap_batch_mode>no</abap_batch_mode>
+<abap_client_download_dir>C:\\temp</abap_client_download_dir>
+<abap_execution_mode>generate_and_execute</abap_execution_mode>
+<abap_job_class>C</abap_job_class>
+<abap_server_dir>&lt;SAP Working directory&gt;</abap_server_dir>
+<abap_upload_application>S - Basis</abap_upload_application>
+<abap_upload_package>$TMP</abap_upload_package>
+<abap_upload_status>T - Test Program</abap_upload_status>
+<case_sensitive>no</case_sensitive>
+<database_type>R/3</database_type>
+<ftp_host>&lt;SAP host name&gt;</ftp_host>
+<ftp_user_name>&lt;SAP login user name&gt;</ftp_user_name>
+<generated_abap_dir>C:\\temp</generated_abap_dir>
+<loader_file_location>ftp</loader_file_location>
+<locale_codepage>utf-8</locale_codepage>
+<locale_language>&lt;default&gt;</locale_language>
+<locale_territory>&lt;default&gt;</locale_territory>
+<password>+0400000000120303000803E8AFBD4E375DC24FB99D70A4C76441DA0B98BE14A1B986EEA123E5977847E83ECACB29A5A6C39EDC5F633B257C13CC6378E742F43B20A7B5</password>
+<sap_client>&lt;SAP Client number&gt;</sap_client>
+<sap_host_name>&lt;SAP Application Server&gt;</sap_host_name>
+<sap_language>E - English</sap_language>
+<sap_system_number>&lt;SAP System number&gt;</sap_system_number>
+<sap_use_rfc_ini>no</sap_use_rfc_ini>
+<user>&lt;SAP User Name&gt;</user>
+</DSConfiguration>
+<DSConfiguration default="false" name="SAP_SYSTEM2">
+<DB_connection_retry_count>3</DB_connection_retry_count>
+<DB_retry_interval>10000</DB_retry_interval>
+<abap_batch_mode>no</abap_batch_mode>
+<abap_client_download_dir>C:\\temp</abap_client_download_dir>
+<abap_execution_mode>generate_and_execute</abap_execution_mode>
+<abap_job_class>C</abap_job_class>
+<abap_server_dir>&lt;SAP Working directory&gt;</abap_server_dir>
+<abap_upload_application>S - Basis</abap_upload_application>
+<abap_upload_package>$TMP</abap_upload_package>
+<abap_upload_status>T - Test Program</abap_upload_status>
+<case_sensitive>no</case_sensitive>
+<database_type>R/3</database_type>
+<ftp_host>&lt;SAP host name&gt;</ftp_host>
+<ftp_user_name>&lt;SAP login user name&gt;</ftp_user_name>
+<generated_abap_dir>C:\\temp</generated_abap_dir>
+<loader_file_location>ftp</loader_file_location>
+<locale_codepage>utf-8</locale_codepage>
+<locale_language>&lt;default&gt;</locale_language>
+<locale_territory>&lt;default&gt;</locale_territory>
+<password>+0400000000120303000803E85073ECA830E8E7B678A1FB1DA3C7F23AD635B39AD834A844F2BA4DBFC1C00F84408E9EC771D8699A8029A819F2D61347E50826E99D96FF</password>
+<sap_client>&lt;SAP Client number&gt;</sap_client>
+<sap_host_name>&lt;SAP Application Server&gt;</sap_host_name>
+<sap_language>E - English</sap_language>
+<sap_system_number>&lt;SAP System number&gt;</sap_system_number>
+<sap_use_rfc_ini>no</sap_use_rfc_ini>
+<user>&lt;SAP User Name&gt;</user>
+</DSConfiguration>
+</DSConfigurations>
+', "enable_data_transfer" = 'yes', "import_unknown_type" = 'no', "name" = 'DS_SAP', "pcache_force_utf16" = 'no', "unknown_type_size" = '255');
+ AlGUIComment ("ActaName_1" = 'RDate_created', "ActaName_2" = 'RDate_modified', "ActaName_3" = 'RSavedAfterCheckOut', "ActaName_4" = 'RDescription', "ActaValue_1" = 'Mon May 16 12:30:47 2011', "ActaValue_2" = 'Sun Oct 31 21:34:09 2010', "ActaValue_3" = 'YES', "ActaValue_4" = 'Data Store for the staging of lookups and management tables', "x" = '-1', "y" = '-1')
+CREATE DATABASE DATASTORE DS_STG_MGMT_LKP::'2194952d-fd5a-4d01-a345-8235d81458a1' SET ("DBLiveLoad" = 'no', "application_type" = 'Custom', "cdc_enabled" = 'no', "datastore_repotype" = 'local', "ds_configuration_enabled" = 'yes', "ds_configurations" = '<?xml version="1.0" encoding="UTF-8" ?>
+<DSConfigurations>
+<DSConfiguration default="false" name="SQL_Server_2005_CI">
+<case_sensitive>yes</case_sensitive>
+<database_type>Microsoft_SQL_Server</database_type>
+<db_alias_name1>DS_OWNER</db_alias_name1>
+<db_alias_user1>DBO</db_alias_user1>
+<loader_xact_size>1000</loader_xact_size>
+<locale_codepage>&lt;default&gt;</locale_codepage>
+<locale_language>&lt;default&gt;</locale_language>
+<locale_territory>&lt;default&gt;</locale_territory>
+<mssql_windows_authentication>yes</mssql_windows_authentication>
+<server_codepage>&lt;default&gt;</server_codepage>
+<sql_server_database>AIO_BPDM_IDOC</sql_server_database>
+<sql_server_dataserver>&lt;Your System Name&gt;\\SAPAIOBPDM</sql_server_dataserver>
+<sql_server_version>Microsoft SQL Server 2005</sql_server_version>
+</DSConfiguration>
+<DSConfiguration default="true" name="SQL_Server_2008_CI">
+<case_sensitive>yes</case_sensitive>
+<database_type>Microsoft_SQL_Server</database_type>
+<db_alias_name1>DS_OWNER</db_alias_name1>
+<db_alias_user1>DBO</db_alias_user1>
+<loader_xact_size>1000</loader_xact_size>
+<locale_codepage>&lt;default&gt;</locale_codepage>
+<locale_language>&lt;default&gt;</locale_language>
+<locale_territory>&lt;default&gt;</locale_territory>
+<mssql_windows_authentication>yes</mssql_windows_authentication>
+<server_codepage>&lt;default&gt;</server_codepage>
+<sql_server_database>AIO_BPDM_IDOC</sql_server_database>
+<sql_server_dataserver>&lt;Your System Name&gt;\\SAPAIOBPDM</sql_server_dataserver>
+<sql_server_version>Microsoft SQL Server 2008</sql_server_version>
+</DSConfiguration>
+<DSConfiguration default="false" name="XE">
+<Oracle_default_number_precision>28</Oracle_default_number_precision>
+<Oracle_default_number_scale>7</Oracle_default_number_scale>
+<case_sensitive>no</case_sensitive>
+<database_type>Oracle</database_type>
+<db_alias_name1>DS_OWNER</db_alias_name1>
+<db_alias_user1>AIO_BPDM_IDOC</db_alias_user1>
+<loader_xact_size>1000</loader_xact_size>
+<locale_codepage>&lt;default&gt;</locale_codepage>
+<locale_language>&lt;default&gt;</locale_language>
+<locale_territory>&lt;default&gt;</locale_territory>
+<oracle_host_string>XE</oracle_host_string>
+<oracle_version>Oracle 10g</oracle_version>
+<password>+0400000000120303000803E85396E068487A83B8CBC1599C323197772FB815AE908A8816C331289C6532A115AC8C678A50104F041763FC4F0C57C1C81C17A3ED52</password>
+<server_codepage>&lt;default&gt;</server_codepage>
+<user>AIO_BPDM_IDOC</user>
+</DSConfiguration>
+<DSConfiguration default="false" name="SQL_Server_2005_CS">
+<case_sensitive>yes</case_sensitive>
+<database_type>Microsoft_SQL_Server</database_type>
+<db_alias_name1>DS_OWNER</db_alias_name1>
+<db_alias_user1>dbo</db_alias_user1>
+<loader_xact_size>1000</loader_xact_size>
+<locale_codepage>&lt;default&gt;</locale_codepage>
+<locale_language>&lt;default&gt;</locale_language>
+<locale_territory>&lt;default&gt;</locale_territory>
+<mssql_windows_authentication>yes</mssql_windows_authentication>
+<server_codepage>&lt;default&gt;</server_codepage>
+<sql_server_database>AIO_BPDM_IDOC</sql_server_database>
+<sql_server_dataserver>&lt;Your System Name&gt;\\SAPAIOBPDM</sql_server_dataserver>
+<sql_server_version>Microsoft SQL Server 2005</sql_server_version>
+</DSConfiguration>
+<DSConfiguration default="false" name="SQL_Server_2008_CS">
+<case_sensitive>yes</case_sensitive>
+<database_type>Microsoft_SQL_Server</database_type>
+<db_alias_name1>DS_OWNER</db_alias_name1>
+<db_alias_user1>dbo</db_alias_user1>
+<loader_xact_size>1000</loader_xact_size>
+<locale_codepage>&lt;default&gt;</locale_codepage>
+<locale_language>&lt;default&gt;</locale_language>
+<locale_territory>&lt;default&gt;</locale_territory>
+<mssql_windows_authentication>yes</mssql_windows_authentication>
+<server_codepage>&lt;default&gt;</server_codepage>
+<sql_server_database>AIO_BPDM_IDOC</sql_server_database>
+<sql_server_dataserver>&lt;Your System Name&gt;\\SAPAIOBPDM</sql_server_dataserver>
+<sql_server_version>Microsoft SQL Server 2008</sql_server_version>
+</DSConfiguration>
+</DSConfigurations>
+', "enable_data_transfer" = 'yes', "import_unknown_type" = 'no', "name" = 'DS_STG_MGMT_LKP', "pcache_force_utf16" = 'no', "unknown_type_size" = '255');
+ AlGUIComment ("ActaName_1" = 'RDate_modified', "ActaName_2" = 'RSavedAfterCheckOut', "ActaName_3" = 'RDescription', "ActaName_4" = 'RDate_created', "ActaValue_1" = 'Sun Oct 31 21:34:24 2010', "ActaValue_2" = 'YES', "ActaValue_3" = 'Data Store for the staging of lookups and management tables', "ActaValue_4" = 'Mon May 16 12:30:55 2011', "x" = '-1', "y" = '-1')
+CREATE DATABASE DATASTORE DS_STG_MGMT_LKP_INIT::'0244385e-fb64-4d2d-8f7d-b4f929c0e98d' SET ("DBLiveLoad" = 'no', "application_type" = 'Custom', "cdc_enabled" = 'no', "datastore_repotype" = 'local', "ds_configuration_enabled" = 'yes', "ds_configurations" = '<?xml version="1.0" encoding="UTF-8" ?>
+<DSConfigurations>
+<DSConfiguration default="false" name="SQL_Server_2005_CI">
+<case_sensitive>yes</case_sensitive>
+<database_type>Microsoft_SQL_Server</database_type>
+<db_alias_name1>DS_OWNER</db_alias_name1>
+<db_alias_user1>DBO</db_alias_user1>
+<loader_xact_size>1000</loader_xact_size>
+<locale_codepage>&lt;default&gt;</locale_codepage>
+<locale_language>&lt;default&gt;</locale_language>
+<locale_territory>&lt;default&gt;</locale_territory>
+<mssql_windows_authentication>yes</mssql_windows_authentication>
+<server_codepage>&lt;default&gt;</server_codepage>
+<sql_server_database>AIO_BPDM_IDOC</sql_server_database>
+<sql_server_dataserver>&lt;Your System Name&gt;\\SAPAIOBPDM</sql_server_dataserver>
+<sql_server_version>Microsoft SQL Server 2005</sql_server_version>
+</DSConfiguration>
+<DSConfiguration default="true" name="SQL_Server_2008_CI">
+<case_sensitive>yes</case_sensitive>
+<database_type>Microsoft_SQL_Server</database_type>
+<db_alias_name1>DS_OWNER</db_alias_name1>
+<db_alias_user1>DBO</db_alias_user1>
+<loader_xact_size>1000</loader_xact_size>
+<locale_codepage>&lt;default&gt;</locale_codepage>
+<locale_language>&lt;default&gt;</locale_language>
+<locale_territory>&lt;default&gt;</locale_territory>
+<mssql_windows_authentication>yes</mssql_windows_authentication>
+<server_codepage>&lt;default&gt;</server_codepage>
+<sql_server_database>AIO_BPDM_IDOC</sql_server_database>
+<sql_server_dataserver>&lt;Your System Name&gt;\\SAPAIOBPDM</sql_server_dataserver>
+<sql_server_version>Microsoft SQL Server 2008</sql_server_version>
+</DSConfiguration>
+<DSConfiguration default="false" name="XE">
+<Oracle_default_number_precision>28</Oracle_default_number_precision>
+<Oracle_default_number_scale>7</Oracle_default_number_scale>
+<case_sensitive>no</case_sensitive>
+<database_type>Oracle</database_type>
+<db_alias_name1>DS_OWNER</db_alias_name1>
+<db_alias_user1>AIO_BPDM_IDOC</db_alias_user1>
+<loader_xact_size>1000</loader_xact_size>
+<locale_codepage>&lt;default&gt;</locale_codepage>
+<locale_language>&lt;default&gt;</locale_language>
+<locale_territory>&lt;default&gt;</locale_territory>
+<oracle_host_string>XE</oracle_host_string>
+<oracle_version>Oracle 10g</oracle_version>
+<password>+0400000000120303000803E80FD64137434169324243DB3664C9C08AE050CC16FF030A946967D0CB98FD49CC14E372FF3FD57F52D32ACF105A7AF06590D531CBDF</password>
+<server_codepage>&lt;default&gt;</server_codepage>
+<user>AIO_BPDM_IDOC</user>
+</DSConfiguration>
+<DSConfiguration default="false" name="SQL_Server_2005_CS">
+<case_sensitive>yes</case_sensitive>
+<database_type>Microsoft_SQL_Server</database_type>
+<db_alias_name1>DS_OWNER</db_alias_name1>
+<db_alias_user1>dbo</db_alias_user1>
+<loader_xact_size>1000</loader_xact_size>
+<locale_codepage>&lt;default&gt;</locale_codepage>
+<locale_language>&lt;default&gt;</locale_language>
+<locale_territory>&lt;default&gt;</locale_territory>
+<mssql_windows_authentication>yes</mssql_windows_authentication>
+<server_codepage>&lt;default&gt;</server_codepage>
+<sql_server_database>AIO_BPDM_IDOC</sql_server_database>
+<sql_server_dataserver>&lt;Your System Name&gt;\\SAPAIOBPDM</sql_server_dataserver>
+<sql_server_version>Microsoft SQL Server 2005</sql_server_version>
+</DSConfiguration>
+<DSConfiguration default="false" name="SQL_Server_2008_CS">
+<case_sensitive>yes</case_sensitive>
+<database_type>Microsoft_SQL_Server</database_type>
+<db_alias_name1>DS_OWNER</db_alias_name1>
+<db_alias_user1>dbo</db_alias_user1>
+<loader_xact_size>1000</loader_xact_size>
+<locale_codepage>&lt;default&gt;</locale_codepage>
+<locale_language>&lt;default&gt;</locale_language>
+<locale_territory>&lt;default&gt;</locale_territory>
+<mssql_windows_authentication>yes</mssql_windows_authentication>
+<server_codepage>&lt;default&gt;</server_codepage>
+<sql_server_database>AIO_BPDM_IDOC</sql_server_database>
+<sql_server_dataserver>&lt;Your System Name&gt;\\SAPAIOBPDM</sql_server_dataserver>
+<sql_server_version>Microsoft SQL Server 2008</sql_server_version>
+</DSConfiguration>
+</DSConfigurations>
+', "enable_data_transfer" = 'yes', "import_unknown_type" = 'no', "name" = 'DS_STG_MGMT_LKP_INIT', "pcache_force_utf16" = 'no', "unknown_type_size" = '255');
+ AlGUIComment ("ActaName_1" = 'RDate_created', "ActaName_2" = 'RDate_modified', "ActaName_3" = 'RSavedAfterCheckOut', "ActaName_4" = 'RDescription', "ActaValue_1" = 'Mon May 16 12:31:03 2011', "ActaValue_2" = 'Sun Oct 31 21:34:09 2010', "ActaValue_3" = 'YES', "ActaValue_4" = 'Data Store for the staging and processing the object data', "x" = '-1', "y" = '-1')
+CREATE DATABASE DATASTORE DS_STG_OBJ::'892b928e-187f-4391-b4fd-ca8e7116424c' SET ("DBLiveLoad" = 'no', "application_type" = 'Custom', "cdc_enabled" = 'no', "datastore_repotype" = 'local', "ds_configuration_enabled" = 'yes', "ds_configurations" = '<?xml version="1.0" encoding="UTF-8" ?>
+<DSConfigurations>
+<DSConfiguration default="false" name="SQL_Server_2005_CI">
+<case_sensitive>yes</case_sensitive>
+<database_type>Microsoft_SQL_Server</database_type>
+<db_alias_name1>DS_OWNER</db_alias_name1>
+<db_alias_user1>DBO</db_alias_user1>
+<loader_xact_size>1000</loader_xact_size>
+<locale_codepage>&lt;default&gt;</locale_codepage>
+<locale_language>&lt;default&gt;</locale_language>
+<locale_territory>&lt;default&gt;</locale_territory>
+<mssql_windows_authentication>yes</mssql_windows_authentication>
+<server_codepage>&lt;default&gt;</server_codepage>
+<sql_server_database>AIO_BPDM_IDOC</sql_server_database>
+<sql_server_dataserver>&lt;Your System Name&gt;\\SAPAIOBPDM</sql_server_dataserver>
+<sql_server_version>Microsoft SQL Server 2005</sql_server_version>
+</DSConfiguration>
+<DSConfiguration default="true" name="SQL_Server_2008_CI">
+<case_sensitive>yes</case_sensitive>
+<database_type>Microsoft_SQL_Server</database_type>
+<db_alias_name1>DS_OWNER</db_alias_name1>
+<db_alias_user1>DBO</db_alias_user1>
+<loader_xact_size>1000</loader_xact_size>
+<locale_codepage>&lt;default&gt;</locale_codepage>
+<locale_language>&lt;default&gt;</locale_language>
+<locale_territory>&lt;default&gt;</locale_territory>
+<mssql_windows_authentication>yes</mssql_windows_authentication>
+<server_codepage>&lt;default&gt;</server_codepage>
+<sql_server_database>AIO_BPDM_IDOC</sql_server_database>
+<sql_server_dataserver>&lt;Your System Name&gt;\\SAPAIOBPDM</sql_server_dataserver>
+<sql_server_version>Microsoft SQL Server 2008</sql_server_version>
+</DSConfiguration>
+<DSConfiguration default="false" name="XE">
+<Oracle_default_number_precision>28</Oracle_default_number_precision>
+<Oracle_default_number_scale>7</Oracle_default_number_scale>
+<case_sensitive>no</case_sensitive>
+<database_type>Oracle</database_type>
+<db_alias_name1>DS_OWNER</db_alias_name1>
+<db_alias_user1>AIO_BPDM_IDOC</db_alias_user1>
+<loader_xact_size>1000</loader_xact_size>
+<locale_codepage>&lt;default&gt;</locale_codepage>
+<locale_language>&lt;default&gt;</locale_language>
+<locale_territory>&lt;default&gt;</locale_territory>
+<oracle_host_string>XE</oracle_host_string>
+<oracle_version>Oracle 10g</oracle_version>
+<password>+0400000000120303000803E8A55754E048B3DA862077C4E0D083568020B4C50E3F613E8BBFD39A5D923DADC50C234588A1394CD72AC69F8597B7B36B08B34D7618</password>
+<server_codepage>&lt;default&gt;</server_codepage>
+<user>AIO_BPDM_IDOC</user>
+</DSConfiguration>
+<DSConfiguration default="false" name="SQL_Server_2005_CS">
+<case_sensitive>yes</case_sensitive>
+<database_type>Microsoft_SQL_Server</database_type>
+<db_alias_name1>DS_OWNER</db_alias_name1>
+<db_alias_user1>dbo</db_alias_user1>
+<loader_xact_size>1000</loader_xact_size>
+<locale_codepage>&lt;default&gt;</locale_codepage>
+<locale_language>&lt;default&gt;</locale_language>
+<locale_territory>&lt;default&gt;</locale_territory>
+<mssql_windows_authentication>yes</mssql_windows_authentication>
+<server_codepage>&lt;default&gt;</server_codepage>
+<sql_server_database>AIO_BPDM_IDOC</sql_server_database>
+<sql_server_dataserver>&lt;Your System Name&gt;\\SAPAIOBPDM</sql_server_dataserver>
+<sql_server_version>Microsoft SQL Server 2005</sql_server_version>
+</DSConfiguration>
+<DSConfiguration default="false" name="SQL_Server_2008_CS">
+<case_sensitive>yes</case_sensitive>
+<database_type>Microsoft_SQL_Server</database_type>
+<db_alias_name1>DS_OWNER</db_alias_name1>
+<db_alias_user1>dbo</db_alias_user1>
+<loader_xact_size>1000</loader_xact_size>
+<locale_codepage>&lt;default&gt;</locale_codepage>
+<locale_language>&lt;default&gt;</locale_language>
+<locale_territory>&lt;default&gt;</locale_territory>
+<mssql_windows_authentication>yes</mssql_windows_authentication>
+<server_codepage>&lt;default&gt;</server_codepage>
+<sql_server_database>AIO_BPDM_IDOC</sql_server_database>
+<sql_server_dataserver>&lt;Your System Name&gt;\\SAPAIOBPDM</sql_server_dataserver>
+<sql_server_version>Microsoft SQL Server 2008</sql_server_version>
+</DSConfiguration>
+</DSConfigurations>
+', "enable_data_transfer" = 'yes', "import_unknown_type" = 'no', "name" = 'DS_STG_OBJ', "pcache_force_utf16" = 'no', "unknown_type_size" = '255');
+ AlGUIComment ("ActaName_1" = 'RDate_modified', "ActaName_2" = 'RSavedAfterCheckOut', "ActaName_3" = 'RDescription', "ActaName_4" = 'RDate_created', "ActaValue_1" = 'Sun Oct 31 21:34:24 2010', "ActaValue_2" = 'YES', "ActaValue_3" = 'Data Store for the staging and processing the object data', "ActaValue_4" = 'Mon May 16 12:31:10 2011', "x" = '-1', "y" = '-1')
+CREATE DATABASE DATASTORE DS_STG_OBJ_INIT::'e63994b6-ecfe-49c6-aecb-d46adf6d7552' SET ("DBLiveLoad" = 'no', "application_type" = 'Custom', "cdc_enabled" = 'no', "datastore_repotype" = 'local', "ds_configuration_enabled" = 'yes', "ds_configurations" = '<?xml version="1.0" encoding="UTF-8" ?>
+<DSConfigurations>
+<DSConfiguration default="false" name="SQL_Server_2005_CI">
+<case_sensitive>yes</case_sensitive>
+<database_type>Microsoft_SQL_Server</database_type>
+<db_alias_name1>DS_OWNER</db_alias_name1>
+<db_alias_user1>DBO</db_alias_user1>
+<loader_xact_size>1000</loader_xact_size>
+<locale_codepage>&lt;default&gt;</locale_codepage>
+<locale_language>&lt;default&gt;</locale_language>
+<locale_territory>&lt;default&gt;</locale_territory>
+<mssql_windows_authentication>yes</mssql_windows_authentication>
+<server_codepage>&lt;default&gt;</server_codepage>
+<sql_server_database>AIO_BPDM_IDOC</sql_server_database>
+<sql_server_dataserver>&lt;Your System Name&gt;\\SAPAIOBPDM</sql_server_dataserver>
+<sql_server_version>Microsoft SQL Server 2005</sql_server_version>
+</DSConfiguration>
+<DSConfiguration default="true" name="SQL_Server_2008_CI">
+<case_sensitive>yes</case_sensitive>
+<database_type>Microsoft_SQL_Server</database_type>
+<db_alias_name1>DS_OWNER</db_alias_name1>
+<db_alias_user1>DBO</db_alias_user1>
+<loader_xact_size>1000</loader_xact_size>
+<locale_codepage>&lt;default&gt;</locale_codepage>
+<locale_language>&lt;default&gt;</locale_language>
+<locale_territory>&lt;default&gt;</locale_territory>
+<mssql_windows_authentication>yes</mssql_windows_authentication>
+<server_codepage>&lt;default&gt;</server_codepage>
+<sql_server_database>AIO_BPDM_IDOC</sql_server_database>
+<sql_server_dataserver>&lt;Your System Name&gt;\\SAPAIOBPDM</sql_server_dataserver>
+<sql_server_version>Microsoft SQL Server 2008</sql_server_version>
+</DSConfiguration>
+<DSConfiguration default="false" name="XE">
+<Oracle_default_number_precision>28</Oracle_default_number_precision>
+<Oracle_default_number_scale>7</Oracle_default_number_scale>
+<case_sensitive>no</case_sensitive>
+<database_type>Oracle</database_type>
+<db_alias_name1>DS_OWNER</db_alias_name1>
+<db_alias_user1>AIO_BPDM_IDOC</db_alias_user1>
+<loader_xact_size>1000</loader_xact_size>
+<locale_codepage>&lt;default&gt;</locale_codepage>
+<locale_language>&lt;default&gt;</locale_language>
+<locale_territory>&lt;default&gt;</locale_territory>
+<oracle_host_string>XE</oracle_host_string>
+<oracle_version>Oracle 10g</oracle_version>
+<password>+0400000000120303000803E8F580D03CFCD37E918F411679ADC77C3DB001731A34CE085926AEDE772FAD187318280CD9E7A85386CAC719FE085D52DD65857452CF</password>
+<server_codepage>&lt;default&gt;</server_codepage>
+<user>AIO_BPDM_IDOC</user>
+</DSConfiguration>
+<DSConfiguration default="false" name="SQL_Server_2005_CS">
+<case_sensitive>yes</case_sensitive>
+<database_type>Microsoft_SQL_Server</database_type>
+<db_alias_name1>DS_OWNER</db_alias_name1>
+<db_alias_user1>dbo</db_alias_user1>
+<loader_xact_size>1000</loader_xact_size>
+<locale_codepage>&lt;default&gt;</locale_codepage>
+<locale_language>&lt;default&gt;</locale_language>
+<locale_territory>&lt;default&gt;</locale_territory>
+<mssql_windows_authentication>yes</mssql_windows_authentication>
+<server_codepage>&lt;default&gt;</server_codepage>
+<sql_server_database>AIO_BPDM_IDOC</sql_server_database>
+<sql_server_dataserver>&lt;Your System Name&gt;\\SAPAIOBPDM</sql_server_dataserver>
+<sql_server_version>Microsoft SQL Server 2005</sql_server_version>
+</DSConfiguration>
+<DSConfiguration default="false" name="SQL_Server_2008_CS">
+<case_sensitive>yes</case_sensitive>
+<database_type>Microsoft_SQL_Server</database_type>
+<db_alias_name1>DS_OWNER</db_alias_name1>
+<db_alias_user1>dbo</db_alias_user1>
+<loader_xact_size>1000</loader_xact_size>
+<locale_codepage>&lt;default&gt;</locale_codepage>
+<locale_language>&lt;default&gt;</locale_language>
+<locale_territory>&lt;default&gt;</locale_territory>
+<mssql_windows_authentication>yes</mssql_windows_authentication>
+<server_codepage>&lt;default&gt;</server_codepage>
+<sql_server_database>AIO_BPDM_IDOC</sql_server_database>
+<sql_server_dataserver>&lt;Your System Name&gt;\\SAPAIOBPDM</sql_server_dataserver>
+<sql_server_version>Microsoft SQL Server 2008</sql_server_version>
+</DSConfiguration>
+</DSConfigurations>
+', "enable_data_transfer" = 'yes', "import_unknown_type" = 'no', "name" = 'DS_STG_OBJ_INIT', "pcache_force_utf16" = 'no', "unknown_type_size" = '255');
