@@ -1,0 +1,823 @@
+LEGACY_CONDITION_TYPE	CONDITION_TYPE	APPLICATION	USAGE_OF_COND_TABLE	CONDITION_TYPE_TXT_GBL	CONDITION_TYPE_TXT_LCL	DI_TIMESTAMP									
+A001	A001	VD	C	Standard	Standard	2018.06.19 05:33:47									
+AF00	AF00	V1	B	Inquiry	Anfrage	2018.06.19 05:33:47									
+AN00	AN00	V1	B	Quotation	Angebot	2018.06.19 05:33:47									
+AP1E	AP1E	TX	A	A/P Sales Tax 1 Exp.	KR Umsatzst. 1 Befr.	2018.06.19 05:33:47									
+AP1I	AP1I	TX	A	A/P Sales Tax 1 Inv.	KR Umsatzst. 1 Best.	2018.06.19 05:33:47									
+AP1U	AP1U	TX	A	A/P Sales Tax 1 Use	KR Umsatzst. 1 Verw.	2018.06.19 05:33:47									
+AP2E	AP2E	TX	A	A/P Sales Tax 2 Exp.	KR Umsatzst. 2 Befr.	2018.06.19 05:33:47									
+AP2I	AP2I	TX	A	A/P Sales Tax 2 Inv.	KR Umsatzst. 2 Best.	2018.06.19 05:33:47									
+AP2U	AP2U	TX	A	A/P Sales Tax 2 Use	KR Umsatzst. 2 Verw.	2018.06.19 05:33:47									
+AP3E	AP3E	TX	A	A/P Sales Tax 3 Exp.	KR Umsatzst. 3 Befr.	2018.06.19 05:33:47									
+AP3I	AP3I	TX	A	A/P Sales Tax 3 Inv.	KR Umsatzst. 3 Best.	2018.06.19 05:33:47									
+AP3U	AP3U	TX	A	A/P Sales Tax 3 Use	KR Umsatzst. 3 Verw.	2018.06.19 05:33:47									
+AP4E	AP4E	TX	A	A/P Sales Tax 4 Exp.	KR Umsatzst. 4 Befr.	2018.06.19 05:33:47									
+AP4I	AP4I	TX	A	A/P Sales Tax 4 Inv.	KR Umsatzst. 4 Best.	2018.06.19 05:33:47									
+AP4U	AP4U	TX	A	A/P Sales Tax 4 Use	KR Umsatzst. 4 Verw.	2018.06.19 05:33:47									
+AR1	AR1	TX	A	A/R Sales Tax 1	DE Umsatzsteuer 1	2018.06.19 05:33:47									
+AR2	AR2	TX	A	A/R Sales Tax 2	DE Umsatzsteuer 2	2018.06.19 05:33:47									
+AR3	AR3	TX	A	A/R Sales Tax 3	DE Umsatzsteuer 3	2018.06.19 05:33:47									
+AR4	AR4	TX	A	A/R Sales Tax 4	DE Umsatzsteuer 4	2018.06.19 05:33:47									
+ARCC	ARCC	MR	B	Ariba Carbon Copy	Ariba-Kopie	2018.06.19 05:33:47									
+ARSD	ARSD	TX	A	Sls Tax SD Interface	Umsatzsteuer SD-Sch.	2018.06.19 05:33:47									
+ARSU	ARSU	MR	B	Ariba Status Update	Ariba-Statusaktual.	2018.06.19 05:33:47									
+AS01	AS01	V	A	Tax trigger	Steuerauslöser	2018.06.19 05:33:47									
+B000	B000	KA	A	Material	Material	2018.06.19 05:33:47									
+B001	B001	KA	A	Wages	Löhne	2018.06.19 05:33:47									
+B002	B002	KA	A	Salaries	Gehälter	2018.06.19 05:33:47									
+B010	B010	KA	A	Production	Produktion	2018.06.19 05:33:47									
+B090	B090	KA	A	Sales plant gen.	Verkauf Eigenerzeug.	2018.06.19 05:33:47									
+B100	B100	TX	A	Convenio 100	Convenio 100	2018.06.19 05:33:47									
+B101	B101	KA	A	Wage Cst Cntr/WgType	Löhne Kostenst./LArt	2018.06.19 05:33:47									
+BA00	BA00	V1	B	Order Confirmation	Auftragsrückmeldung	2018.06.19 05:33:47									
+BASB	BASB	TX	A	Base Amount	Basisbetrag	2018.06.19 05:33:47									
+BASI	BASI	TX	A	Base Amount	Basisbetrag	2018.06.19 05:33:47									
+BCI1	BCI1	TX	A	ICMS Complement Base	ICMS Ergänzungsbasis	2018.06.19 05:33:47									
+BCI2	BCI2	TX	A	ICMS Complem. Exempt	ICMS Ergänz. befreit	2018.06.19 05:33:47									
+BCI3	BCI3	TX	A	ICMS Complement Rate	ICMS Ergänzungssatz	2018.06.19 05:33:47									
+BCO1	BCO1	TX	A	COFINS Rate	COFINS Satz	2018.06.19 05:33:47									
+BCO2	BCO2	TX	A	COFINS Base	COFINS Basis	2018.06.19 05:33:47									
+BCO3	BCO3	TX	A	COFINS Rate	COFINS Satz	2018.06.19 05:33:47									
+BCO4	BCO4	TX	A	COFINS Pauta Amount	COFINS Pauta-Betrag	2018.06.19 05:33:47									
+BCOP	BCOP	TX	A	COFINS Pauta Amount	COFINS Pauta-Betrag	2018.06.19 05:33:47									
+BDIS	BDIS	TX	A	Discounting	Diskontierung	2018.06.19 05:33:47									
+BFI1	BFI1	TX	A	ICMS Base Reduction	ICMS Basisreduktion	2018.06.19 05:33:47									
+BFI2	BFI2	TX	A	ICMS Base Reduction	ICMS Basisreduktion	2018.06.19 05:33:47									
+BFI3	BFI3	TX	A	ICMS Conh O.Bas Flag	ICMS Conh O.Bas Kz.	2018.06.19 05:33:47									
+BFRE	BFRE	TX	A	Freight	Fracht	2018.06.19 05:33:47									
+BI00	BI00	TX	A	Dummy Non-Statistic	Dummy Nicht statist.	2018.06.19 05:33:47									
+BIC0	BIC0	TX	A	ICMS Rate	ICMS Satz	2018.06.19 05:33:47									
+BIC1	BIC1	TX	A	ICMS Base Reduction	ICMS Basisreduktion	2018.06.19 05:33:47									
+BIC2	BIC2	TX	A	ICMS Other Base Flag	ICMS Sonst. Basis-Kz	2018.06.19 05:33:47									
+BIC3	BIC3	TX	A	ICMS Rate * Base	ICMS Satz * Basis	2018.06.19 05:33:47									
+BIC5	BIC5	TX	A	ICMS Rate * 10^n	ICMS Satz * 10^n	2018.06.19 05:33:47									
+BIC6	BIC6	TX	A	ICMS Base	ICMS Basis	2018.06.19 05:33:47									
+BIC7	BIC7	TX	A	ICMS Exclude Base	ICMS Basis ausschl.	2018.06.19 05:33:47									
+BIC9	BIC9	TX	A	ICMS Ind.Calc.Base	ICMS Kz. BerechnBas.	2018.06.19 05:33:47									
+BICA	BICA	TX	A	ICMS Ind.Calc.Base	ICMS Kz. BerechnBas.	2018.06.19 05:33:47									
+BICB	BICB	TX	A	ICMS Ref BIC1	ICMS Ref BIC1	2018.06.19 05:33:47									
+BICC	BICC	TX	A	ICMS Conv.100 Flag	ICMS Konv.100 Kennz.	2018.06.19 05:33:47									
+BICD	BICD	TX	A	ICMS Ex.Base Con.	ICMS Aus. Basis Kon.	2018.06.19 05:33:47									
+BICE	BICE	TX	A	ICMS Con.Calc.Base	ICMS Kon.BerechnBas.	2018.06.19 05:33:47									
+BICF	BICF	TX	A	ICMS Other Base Flag	ICMS Sonst. Basis-Kz	2018.06.19 05:33:47									
+BICG	BICG	TX	A	ICMS Rate SF=ST	ICMS Satz SF=ST	2018.06.19 05:33:47									
+BICH	BICH	TX	A	ICMS Rate SF=ST	ICMS Satz SF=ST	2018.06.19 05:33:47									
+BICS	BICS	TX	A	ICMS Rate for ST	ICMS Satz für ST	2018.06.19 05:33:47									
+BICX	BICX	TX	A	ICMS Exempt	ICMS befreit	2018.06.19 05:33:47									
+BICY	BICY	TX	A	ICMS Exempt Ref BICX	ICMS befr. Ref. BICX	2018.06.19 05:33:47									
+BIF0	BIF0	TX	A	ICMS on Freight	ICMS auf Fracht	2018.06.19 05:33:47									
+BIFH	BIFH	TX	A	ICMS Fr Rate SF=ST	ICMS Fr-Satz SF=ST	2018.06.19 05:33:47									
+BIP0	BIP0	TX	A	IPI Rate	IPI Satz	2018.06.19 05:33:47									
+BIP1	BIP1	TX	A	IPI Base Reduction	IPI Basisreduktion	2018.06.19 05:33:47									
+BIP2	BIP2	TX	A	IPI Other Base Flag	IPI Sonst. Basis-Kz.	2018.06.19 05:33:47									
+BIP3	BIP3	TX	A	IPI Rate * Base	IPI Satz * Basis	2018.06.19 05:33:47									
+BIP4	BIP4	TX	A	IPI Rate Ref BIP0	IPI Satz Ref BIP0	2018.06.19 05:33:47									
+BIP5	BIP5	TX	A	IPI Rate * 10^n	IPI Satz * 10^n	2018.06.19 05:33:47									
+BIP7	BIP7	TX	A	IPI  Exclude Base In	IPI  Basis auss. Ein	2018.06.19 05:33:47									
+BIP9	BIP9	TX	A	IPI Calculation Base	IPI Berechnungsbasis	2018.06.19 05:33:47									
+BIPA	BIPA	TX	A	IPI Rate Ref BIP0	IPI Satz Ref BIP0	2018.06.19 05:33:47									
+BIPB	BIPB	TX	A	IPI Ref. Base	IPI Ref. Basis	2018.06.19 05:33:47									
+BIPC	BIPC	TX	A	IPI Other Base Flag	IPI Sonst. Basis-Kz.	2018.06.19 05:33:47									
+BIPD	BIPD	TX	A	IPI  Exclude Base Co	IPI  Basis-Co aussch	2018.06.19 05:33:47									
+BIPE	BIPE	TX	A	Calculate Excl./Oth.	Ausg./Sonst. berechn	2018.06.19 05:33:47									
+BIPP	BIPP	TX	A	IPI Pauta Amount	IPI Pauta-Betrag	2018.06.19 05:33:47									
+BIPS	BIPS	TX	A	IPI -Split Vendor	IPI -Split Vendor	2018.06.19 05:33:47									
+BIPT	BIPT	TX	A	IPI -Split Vendor PO	IPI -Split Vendor PO	2018.06.19 05:33:47									
+BIPU	BIPU	TX	A	IPI -Split Vendor IV	IPI -Split Vendor IV	2018.06.19 05:33:47									
+BIPX	BIPX	TX	A	IPI Exempt	IPI befreit	2018.06.19 05:33:47									
+BIPY	BIPY	TX	A	IPI Exempt Ref BIPX	IPI befreit Ref BIPX	2018.06.19 05:33:47									
+BIS0	BIS0	TX	A	ISS Rate	ISS Satz	2018.06.19 05:33:47									
+BIS1	BIS1	TX	A	ISS Rate at Prov.	ISS Satz bei Leist.	2018.06.19 05:33:47									
+BIS2	BIS2	TX	A	ISS Base at Prov.	ISS Basis bei Leist.	2018.06.19 05:33:47									
+BIS3	BIS3	TX	A	ISS Law at Prov.	ISS Gesetz b. Leist.	2018.06.19 05:33:47									
+BIS5	BIS5	TX	A	ISS Taxloc at Prov.	ISS SteuSt. b.Leist.	2018.06.19 05:33:47									
+BIS6	BIS6	TX	A	ISS WHT at Prov.	ISS QSt bei Leist.	2018.06.19 05:33:47									
+BIS7	BIS7	TX	A	ISS Min WHT at Prov.	ISS Min QSt bei Lei.	2018.06.19 05:33:47									
+BISA	BISA	TX	A	ISS Rate at Serv.	ISS Satz am Leist.	2018.06.19 05:33:47									
+BISB	BISB	TX	A	ISS Base at Serv.	ISS Basis am Leist.	2018.06.19 05:33:47									
+BISC	BISC	TX	A	ISS Law at Serv.	ISS Gesetz am Leist.	2018.06.19 05:33:47									
+BISE	BISE	TX	A	ISS Taxloc.at Serv.	ISS SteuStand am Lei	2018.06.19 05:33:47									
+BISF	BISF	TX	A	ISS WHT at Serv.	ISS QSt am Leist.	2018.06.19 05:33:47									
+BISG	BISG	TX	A	ISS Min WHT at Serv.	ISS Min QSt am Leist	2018.06.19 05:33:47									
+BIZF	BIZF	TX	A	Zona Franca	Zona Franca	2018.06.19 05:33:47									
+BLCO	BLCO	TX	A	Tax Laws for COFINS	Steuerges. f. COFINS	2018.06.19 05:33:47									
+BLIC	BLIC	TX	A	Tax Laws for ICMS	Steuergesetze f.ICMS	2018.06.19 05:33:47									
+BLIP	BLIP	TX	A	Tax Laws for IPI	Steuergesetze f. IPI	2018.06.19 05:33:47									
+BLPI	BLPI	TX	A	Tax Laws for PIS	Steuergesetze f. PIS	2018.06.19 05:33:47									
+BPI1	BPI1	TX	A	PIS Rate	PIS Satz	2018.06.19 05:33:47									
+BPI2	BPI2	TX	A	PIS Base	PIS Basis	2018.06.19 05:33:47									
+BPI3	BPI3	TX	A	PIS Rate	PIS Satz	2018.06.19 05:33:47									
+BPI4	BPI4	TX	A	PIS Pauta Amount	PIS Pauta-Betrag	2018.06.19 05:33:47									
+BPIP	BPIP	TX	A	PIS Pauta Amount	PIS Pauta-Betrag	2018.06.19 05:33:47									
+BSF0	BSF0	TX	A	Subtrib. Rate	Subtrib. Satz	2018.06.19 05:33:47									
+BSF1	BSF1	TX	A	ICMS Fr Rate SF=ST	ICMS Fr-Satz SF=ST	2018.06.19 05:33:47									
+BST0	BST0	TX	A	Subtrib. Rate	Subtrib. Satz	2018.06.19 05:33:47									
+BST1	BST1	TX	A	Subtrib. Surch. Type	Subtrib. ZuschlArt	2018.06.19 05:33:47									
+BST2	BST2	TX	A	Subtrib. Minprice	Subtrib. Mindestpr.	2018.06.19 05:33:47									
+BST3	BST3	TX	A	Subtrib. Fix Price	Subtrib. Festpreis	2018.06.19 05:33:47									
+BST5	BST5	TX	A	Subtrib Icms Rate	Subtrib ICMS-Satz	2018.06.19 05:33:47									
+BST6	BST6	TX	A	Subtrib. Reduction 1	Subtrib. Reduktion 1	2018.06.19 05:33:47									
+BST7	BST7	TX	A	Subtrib. Reduction 2	Subtrib. Reduktion 2	2018.06.19 05:33:47									
+BST8	BST8	TX	A	Subtrib. Base Reduct	Subtrib. Basis Red.	2018.06.19 05:33:47									
+BST9	BST9	TX	A	Subtrib. Calc.Base	Subtrib. BerechBasis	2018.06.19 05:33:47									
+BSTA	BSTA	TX	A	Subtrib. Surch. Type	Subtrib. ZuschlArt	2018.06.19 05:33:47									
+BSTB	BSTB	TX	A	Subtrib. Surch. Type	Subtrib. ZuschlArt	2018.06.19 05:33:47									
+BSTF	BSTF	TX	A	Subtrib.MinPr.Factor	SubTrib.MinPr.Faktor	2018.06.19 05:33:47									
+BSTI	BSTI	TX	A	S.T. MinPrBef.Surch.	S.T. MinPrvrZschlag	2018.06.19 05:33:47									
+BSUB	BSUB	TX	A	S.T. Base Modif.	S.T. Basismodifiz.	2018.06.19 05:33:47									
+BW01	BW01	TX	A	WHT Coll.Code Gen.	QSt Einzugsschl.Gen.	2018.06.19 05:33:47									
+BW02	BW02	TX	A	WHT Rate Gen.	QSt Satz Gen.	2018.06.19 05:33:47									
+BW11	BW11	TX	A	WHT Coll.Code PIS	QSt EinzSchlüss. PIS	2018.06.19 05:33:47									
+BW12	BW12	TX	A	WHT Rate PIS	QSt Satz PIS	2018.06.19 05:33:47									
+BW21	BW21	TX	A	WHT Coll.Code COFINS	QSt EinzSchl. COFINS	2018.06.19 05:33:47									
+BW22	BW22	TX	A	WHT Rate COFINS	QSt Satz COFINS	2018.06.19 05:33:47									
+BW31	BW31	TX	A	WHT Coll.Code CSLL	QSt Einzugsschl.CSLL	2018.06.19 05:33:47									
+BW32	BW32	TX	A	WHT Rate CSLL	QSt Satz CSLL	2018.06.19 05:33:47									
+BW41	BW41	TX	A	WHT Coll.Code IR	QSt Einzugsschl. IR	2018.06.19 05:33:47									
+BW42	BW42	TX	A	WHT Rate IR	QSt Satz IR	2018.06.19 05:33:47									
+BW51	BW51	TX	A	BR WHT Base Amount	BR QSt Basisbetrag	2018.06.19 05:33:47									
+BX01	BX01	TX	A	BR Tax Calculation	BR Steuerberechnung	2018.06.19 05:33:47									
+BX10	BX10	TX	A	BR ICMS Normal Base	BR ICMS Normale Bas.	2018.06.19 05:33:47									
+BX11	BX11	TX	A	BR ICMS Excluded Bse	BR ICMS Ausg. Basis	2018.06.19 05:33:47									
+BX12	BX12	TX	A	BR ICMS Other Base	BR ICMS Andere Basis	2018.06.19 05:33:47									
+BX13	BX13	TX	A	BR ICMS Amount	BR ICMS Betrag	2018.06.19 05:33:47									
+BX14	BX14	TX	A	BR ICMS Freight Base	BR ICMS Fracht Basis	2018.06.19 05:33:47									
+BX15	BX15	TX	A	BRICMS Freight Amnt.	BRICMS Frachtbetrag	2018.06.19 05:33:47									
+BX16	BX16	TX	A	BR ICMS Rate	BR ICMS Satz	2018.06.19 05:33:47									
+BX17	BX17	TX	A			2018.06.19 05:33:47									
+BX18	BX18	TX	A			2018.06.19 05:33:47									
+BX19	BX19	TX	A			2018.06.19 05:33:47									
+BX1E	BX1E	TX	A			2018.06.19 05:33:47									
+BX20	BX20	TX	A	BR IPI Normal Base	BR IPI Normale Basis	2018.06.19 05:33:47									
+BX21	BX21	TX	A	BR IPI Excluded Base	BR IPI Ausg. Basis	2018.06.19 05:33:47									
+BX22	BX22	TX	A	BR IPI Other Base	BR IPI Andere Basis	2018.06.19 05:33:47									
+BX23	BX23	TX	A	BR IPI Amount	BR IPI Betrag	2018.06.19 05:33:47									
+BX24	BX24	TX	A	BR IPI Offset Base	BR IPI AbgrenzBasis	2018.06.19 05:33:47									
+BX25	BX25	TX	A	BR IPI Offset Amount	BR IPI AbgrenzBetrag	2018.06.19 05:33:47									
+BX30	BX30	TX	A	BR ICMS Comp. Base	BR ICMS Komp.-Basis	2018.06.19 05:33:47									
+BX31	BX31	TX	A	BR ICMS Comp.  Amnt.	BR ICMS Komp.-Betrag	2018.06.19 05:33:47									
+BX32	BX32	TX	A	BR ICMS Comp. Rate	BR ICMS Komp.-Rate	2018.06.19 05:33:47									
+BX40	BX40	TX	A	BR SubTrib Base	BR SubTrib Basis	2018.06.19 05:33:47									
+BX41	BX41	TX	A	BR SubTrib Amount	BR SubTrib Betrag	2018.06.19 05:33:47									
+BX42	BX42	TX	A	BR SubTrib Fr. Base	BR SubTrib Fr.-Basis	2018.06.19 05:33:47									
+BX43	BX43	TX	A	BR SubTrib Fr. Amnt	BR SubTrib Fr.Betrag	2018.06.19 05:33:47									
+BX44	BX44	TX	A	BRSubTrib NF Rate	BRSubTrib NF Rate	2018.06.19 05:33:47									
+BX45	BX45	TX	A			2018.06.19 05:33:47									
+BX46	BX46	TX	A			2018.06.19 05:33:47									
+BX47	BX47	TX	A			2018.06.19 05:33:47									
+BX49	BX49	TX	A			2018.06.19 05:33:47									
+BX4E	BX4E	TX	A			2018.06.19 05:33:47									
+BX50	BX50	TX	A	BR ISS Base	BR ISS Basis	2018.06.19 05:33:47									
+BX51	BX51	TX	A	BR ISS Amount	BR ISS Betrag	2018.06.19 05:33:47									
+BX60	BX60	TX	A	BR ISS Base Prov	BR ISS Basisprov.	2018.06.19 05:33:47									
+BX61	BX61	TX	A	BR ISS ExBase Prov	BR ISS ExBasisprov.	2018.06.19 05:33:47									
+BX62	BX62	TX	A	BR ISS Amount Prov	BR ISS Betrag Prov.	2018.06.19 05:33:47									
+BX63	BX63	TX	A	BR ISS WTAmount Prov	BR ISS WTBetrag Prov	2018.06.19 05:33:47									
+BX64	BX64	TX	A	BR ISS WT Base Prov	BR ISS WT Basisprov.	2018.06.19 05:33:47									
+BX65	BX65	TX	A	BR ISS WTExBase Prov	BR ISS WTExBasisprov	2018.06.19 05:33:47									
+BX6A	BX6A	TX	A	BR ISS Base Serv	BR ISS Basisservice	2018.06.19 05:33:47									
+BX6B	BX6B	TX	A	BR ISS ExBase Serv	BR ISS ExBasisserv.	2018.06.19 05:33:47									
+BX6C	BX6C	TX	A	BR ISS Amount Serv	BR ISS Betrag Serv.	2018.06.19 05:33:47									
+BX6D	BX6D	TX	A	BR ISS WTAmount Serv	BR ISS WTBetrag Serv	2018.06.19 05:33:47									
+BX6E	BX6E	TX	A	BR ISS WT Base Serv	BR ISS WT Basisserv.	2018.06.19 05:33:47									
+BX6F	BX6F	TX	A	BR ISS WTExBase Serv	BR ISS WTExBasisserv	2018.06.19 05:33:47									
+BX6O	BX6O	TX	A	BR ISS Offset TxIncl	BR ISS Abg SteuerInk	2018.06.19 05:33:47									
+BX70	BX70	TX	A	BR COFINS Base	BR COFINS Basis	2018.06.19 05:33:47									
+BX71	BX71	TX	A	BR COFINS Excl.Base	BR COFINS Auss.Basis	2018.06.19 05:33:47									
+BX72	BX72	TX	A	BR COFINS Amount	BR COFINS Betrag	2018.06.19 05:33:47									
+BX73	BX73	TX	A	BR COFINS Amount Res	BR COFINS BetrRes.	2018.06.19 05:33:47									
+BX7O	BX7O	TX	A	BR COFINS Off.TxIncl	BR COFINS Abg.StInkl	2018.06.19 05:33:47									
+BX7P	BX7P	TX	A	BR COFINS Pauta Amt.	BR COFINS Pauta-Btr.	2018.06.19 05:33:47									
+BX7Q	BX7Q	TX	A	BR COFINS Pauta Amt.	BR COFINS Pauta-Btr.	2018.06.19 05:33:47									
+BX7R	BX7R	TX	A	BR COFINS Res. Base	BR COFINS LösBasis	2018.06.19 05:33:47									
+BX80	BX80	TX	A	BR PIS Base	BR PIS Basis	2018.06.19 05:33:47									
+BX81	BX81	TX	A	BR PIS Excl. Base	BR PIS Ausschl.Basis	2018.06.19 05:33:47									
+BX82	BX82	TX	A	BR PIS Amount	BR PIS Betrag	2018.06.19 05:33:47									
+BX83	BX83	TX	A	BR PIS Amount Res.	BR PIS Betragsres.	2018.06.19 05:33:47									
+BX8O	BX8O	TX	A	BR PIS Off.TxIncl	BR PIS Abg.SteuInkl.	2018.06.19 05:33:47									
+BX8P	BX8P	TX	A	BR PIS Pauta Amount	BR PIS Pauta-Betrag	2018.06.19 05:33:47									
+BX8Q	BX8Q	TX	A	BR PIS Pauta Amount	BR PIS Pauta-Betrag	2018.06.19 05:33:47									
+BX8R	BX8R	TX	A	BR PIS Res. Base	BR PIS Lösungsbasis	2018.06.19 05:33:47									
+BXPA	BXPA	TX	A	BR IPI Pauta Amount	BR IPI Pauta-Betrag	2018.06.19 05:33:47									
+BXPO	BXPO	TX	A	BR Caller = PO?	BR Anrufer = PO?	2018.06.19 05:33:47									
+BXWA	BXWA	TX	A	BR WHT Base Amount	BR QSt Basisbetrag	2018.06.19 05:33:47									
+BXWT	BXWT	TX	A	BR WHT Base Amount	BR QSt Basisbetrag	2018.06.19 05:33:47									
+BXZF	BXZF	TX	A			2018.06.19 05:33:47									
+C000	C000	KA	A	Material OH	GK Material	2018.06.19 05:33:47									
+C001	C001	KA	A	Manufacturing OH	GK Fertigung	2018.06.19 05:33:47									
+C002	C002	KA	A	Administration OH	GK Verwaltung	2018.06.19 05:33:47									
+C003	C003	KA	A	Sales OH	GK Vertrieb	2018.06.19 05:33:47									
+C010	C010	KA	A	Material OH/Surcharg	GK Material/Zuschlag	2018.06.19 05:33:47									
+C011	C011	KA	A	Manuf.OH/OH Surch	GK Fertigung/Zuschl.	2018.06.19 05:33:47									
+C012	C012	KA	A	Manuf.OH/OH Surch	GK Fertigung/Zuschl.	2018.06.19 05:33:47									
+C013	C013	KA	A	Sales OH/OH Surch	GK Vertrieb/Zuschlag	2018.06.19 05:33:47									
+C020	C020	KA	A	Material OH/plant	GK Material/Werk	2018.06.19 05:33:47									
+C021	C021	KA	A	Manuf.OH/plant	GK Fertigung/Werk	2018.06.19 05:33:47									
+C022	C022	KA	A	Admin.OH/Plant	GK Verwaltung/Werk	2018.06.19 05:33:47									
+C023	C023	KA	A	Sales OH/Plant	GK Vertrieb/Werk	2018.06.19 05:33:47									
+C030	C030	KA	A	Material OH/CCode	GK Material/Bukrs	2018.06.19 05:33:47									
+C031	C031	KA	A	Manuf.OH/CCode	GK Fertigung/Bukrs	2018.06.19 05:33:47									
+C032	C032	KA	A	Admin.OH/CCode	GK Verwaltung/Bukrs	2018.06.19 05:33:47									
+C033	C033	KA	A	Sales OH/CCode	GK Vertrieb/Bukrs	2018.06.19 05:33:47									
+C040	C040	KA	A	Material OH/BArea	GK Material/Gsber.	2018.06.19 05:33:47									
+C041	C041	KA	A	Manuf.OH/BArea	GK Fertigung/Gsber.	2018.06.19 05:33:47									
+C042	C042	KA	A	Admin.OH/BArea	GK Verwaltung/Gsber.	2018.06.19 05:33:47									
+C043	C043	KA	A	Sales OH/BArea	GK Vertrieb/Gsber.	2018.06.19 05:33:47									
+C050	C050	KA	A	Material OH/OType	GK Vertrieb/AArt	2018.06.19 05:33:47									
+C051	C051	KA	A	Manuf.OH/OType	GK Fertigung/AArt	2018.06.19 05:33:47									
+C052	C052	KA	A	Admin.OH/OType	GK Verwaltung/AArt	2018.06.19 05:33:47									
+C053	C053	KA	A	Sales OH/OType	GK Vertrieb/AArt	2018.06.19 05:33:47									
+C060	C060	KA	A	Material OH/OType	GK Vertrieb/AArt	2018.06.19 05:33:47									
+C061	C061	KA	A	Manuf.OH/OType	GK Fertigung/AArt	2018.06.19 05:33:47									
+C062	C062	KA	A	Admin.OH/OType	GK Verwaltung/AArt	2018.06.19 05:33:47									
+C063	C063	KA	A	Sales OH/OType	GK Vertrieb/AArt	2018.06.19 05:33:47									
+C070	C070	KA	A	Material OH/Version	GK Material/Version	2018.06.19 05:33:47									
+C080	C080	KA	A	Mat-OH/Profit Ctr.	GK Mat./Profitcenter	2018.06.19 05:33:47									
+CCOP	CCOP	TX	A	ICMS Conh Complement	ICMS Conh-Komplement	2018.06.19 05:33:47									
+CCOX	CCOX	TX	A	ICMS Conh Compl 100	ICMS Conh-Kompl. 100	2018.06.19 05:33:47									
+CIC0	CIC0	TX	A	Conh ICMS Exempt	Conh ICMS befreit	2018.06.19 05:33:47									
+CIC1	CIC1	TX	A			2018.06.19 05:33:47									
+CIC2	CIC2	TX	A			2018.06.19 05:33:47									
+CIC3	CIC3	TX	A			2018.06.19 05:33:47									
+CNSC	CNSC	TX	A	Service Tax Cred. CN	DienstlSt. Haben CN	2018.06.19 05:33:47									
+CNSD	CNSD	TX	A	Service Tax Deb. CN	DienstlSteu. Soll CN	2018.06.19 05:33:47									
+CONC	CONC	TX	A	Consumption tax Cre.	Luxussteuer Haben	2018.06.19 05:33:47									
+COND	COND	TX	A	Consumption tax Deb.	Luxussteuer Soll	2018.06.19 05:33:47									
+CST1	CST1	TX	A			2018.06.19 05:33:47									
+CST2	CST2	TX	A			2018.06.19 05:33:47									
+CST3	CST3	TX	A			2018.06.19 05:33:47									
+D100	D100	V	A	100% discount	100%-Abschlag	2018.06.19 05:33:47									
+DC01	DC01	V	A	Division / Customer	Sparte/Kunde	2018.06.19 05:33:47									
+DCD1	DCD1	M	A	Cash Discount 1	Skonto 1	2018.06.19 05:33:47									
+DCD1	DCD1	V	A	Cash Discount Gross	Skonto brutto	2018.06.19 05:33:47									
+DCD2	DCD2	V	A	Cash Discount Net	Skonto netto	2018.06.19 05:33:47									
+DCM1	DCM1	V	A	Customer/Material	Kunde/Material	2018.06.19 05:33:47									
+DFAD	DFAD	V	A	Factoring Discount	Delkredere	2018.06.19 05:33:47									
+DM01	DM01	V	A	Material	Material	2018.06.19 05:33:47									
+DPG1	DPG1	V	A	Cust. Grp / Material	Kundengr./Material	2018.06.19 05:33:47									
+DPG2	DPG2	V	A	Customer Price Group	Kundenpreisgruppe	2018.06.19 05:33:47									
+DPG3	DPG3	V	A	Material Price Group	Materialpreisgruppe	2018.06.19 05:33:47									
+DPG4	DPG4	V	A	Customer/Mat.Pr.Grp	Kunde/MatPreisgruppe	2018.06.19 05:33:47									
+DPG5	DPG5	V	A	Cust. Grp/Mat.Pr.Grp	Kundengr./MatPrGr.	2018.06.19 05:33:47									
+DRD1	DRD1	V	A	Rounding Off	Runden	2018.06.19 05:33:47									
+DRE1	DRE1	V	A	Refund Deduction	Rückerstattungsabzug	2018.06.19 05:33:47									
+DRG1	DRG1	M	A	% Gross Amount 1	% Bruttobetrag 1	2018.06.19 05:33:47									
+DRG1	DRG1	V	A	% Gross Amount 1	% Bruttobetrag 1	2018.06.19 05:33:47									
+DRN1	DRN1	M	A	% Net Amount 1	% Nettobetrag 1	2018.06.19 05:33:47									
+DRN1	DRN1	V	A	% Net Amount 1	% Nettobetrag 1	2018.06.19 05:33:47									
+DRQ1	DRQ1	M	A	+/- as to Quantity 1	+/- bzgl. Menge 1	2018.06.19 05:33:47									
+DRQ1	DRQ1	V	A	+/- as to Quantity 1	+/- bzgl. Menge 1	2018.06.19 05:33:47									
+DRV1	DRV1	M	A	Fixed Amount 1	Festbetrag 1	2018.06.19 05:33:47									
+DRV1	DRV1	V	A	Fixed Amount 1	Festbetrag 1	2018.06.19 05:33:47									
+DRW1	DRW1	M	A	+/- as to Grss Wght	+/- bzgl. Bruttogew.	2018.06.19 05:33:47									
+DRW1	DRW1	V	A	+/- as to Grss Wght1	+/- bzgl. Bruttogew1	2018.06.19 05:33:47									
+EINK	EINK	MR	B	Mail to Purchasing	Mail an Einkauf	2018.06.19 05:33:47									
+FGSU	FGSU	MR	B	Fieldglass Status Up	Fieldglass-Statusak.	2018.06.19 05:33:47									
+FGW1	FGW1	M	A	Freight/Gr. Weight 1	Fracht/BruGewicht 1	2018.06.19 05:33:47									
+FQU1	FQU1	M	A	Freight/Quantity 1	Fracht/Menge 1	2018.06.19 05:33:47									
+FVA1	FVA1	M	A	Freight/Value 1	Fracht/Wert 1	2018.06.19 05:33:47									
+GRWR	GRWR	M	A	Statistical Value	Statistischer Wert	2018.06.19 05:33:47									
+GRWR	GRWR	V	A	Statistical value	Grenzübergangswert	2018.06.19 05:33:47									
+GST	GST	TX	A	A/P GST	KR GST	2018.06.19 05:33:47									
+GST1	GST1	TX	A	A/R GST	KR GST	2018.06.19 05:33:47									
+GSTS	GSTS	TX	A	A/P GST self assess	KR GST Selbstveranl.	2018.06.19 05:33:47									
+GTI1	GTI1	TX	A	A/P GST	KR GST	2018.06.19 05:33:47									
+GTI2	GTI2	TX	A	A/P GST	KR GST	2018.06.19 05:33:47									
+GTO0	GTO0	TX	A	A/R GST	KR GST	2018.06.19 05:33:47									
+GTO1	GTO1	TX	A	A/R GST	KR GST	2018.06.19 05:33:47									
+GTO2	GTO2	TX	A	A/R GST	KR GST	2018.06.19 05:33:47									
+GWLB	GWLB	M	A	Stat. Val. LB-Comp.	Stat. Wrt LB-Kompon.	2018.06.19 05:33:47									
+HUV1	HUV1	TX	A	Deductable %	Abzugsfähig %	2018.06.19 05:33:47									
+HUV2	HUV2	TX	A	Non-deductable %	Nicht abzugsfähig %	2018.06.19 05:33:47									
+HUVN	HUVN	TX	A	Non-deductable %	Nicht abzugsfähig %	2018.06.19 05:33:47									
+HUVS	HUVS	TX	A	Deductable %	Abzugsfähig %	2018.06.19 05:33:47									
+IC1C	IC1C	TX	A	ICMS Ind.Clearing	ICMS Kz. Verrechnung	2018.06.19 05:33:47									
+IC1O	IC1O	TX	A	ICMS Ind.Clear.Off.	ICMS Kz.Verrechn.Abg	2018.06.19 05:33:47									
+ICD0	ICD0	TX	A	ICMS DIFAL Pri	ICMS DIFAL Pri	2018.06.19 05:33:47									
+ICD1	ICD1	TX	A	ICMS DIFAL Asset	ICMS DIFAL Anlage	2018.06.19 05:33:47									
+ICD2	ICD2	TX	A	ICMS DIFAL Asset Off	ICMS DIFAL AnlageAbg	2018.06.19 05:33:47									
+ICD3	ICD3	TX	A	ICMS DIFAL/CIAP/Asse	ICMS DIFAL/CIAP/Anl.	2018.06.19 05:33:47									
+ICDF	ICDF	TX	A	ICMS Deductibl-DIFAL	ICMS Abzugsf.-DIFAL	2018.06.19 05:33:47									
+ICM0	ICM0	TX	A	ICMS NF Zero Line	ICMS NF Nullzeile	2018.06.19 05:33:47									
+ICM1	ICM1	TX	A	ICMS Industr.    In	ICMS Branche    Eing	2018.06.19 05:33:47									
+ICM2	ICM2	TX	A	ICMS Consumption In	ICMS Verbrauch  Eing	2018.06.19 05:33:47									
+ICM3	ICM3	TX	A	ICMS from SD    Out	ICMS von SD     Ausg	2018.06.19 05:33:47									
+ICM4	ICM4	TX	A	ICMS Consum Outgoing	ICMS Verbr. Ausgeh.	2018.06.19 05:33:47									
+ICMF	ICMF	TX	A	ICMS S.T. fr. offset	ICMS S.T. Fr. Abgr.	2018.06.19 05:33:47									
+ICML	ICML	TX	A	ICMS DIFAL Offs. Out	ICMS DIFAL Abgr. Aus	2018.06.19 05:33:47									
+ICMM	ICMM	TX	A	ICMS DIFAL Out	ICMS DIFAL Ausg.	2018.06.19 05:33:47									
+ICMO	ICMO	TX	A	ICMS Ind.Clear.Off.	ICMS Kz.Verrechn.Abg	2018.06.19 05:33:47									
+ICMP	ICMP	TX	A	ICMS DIFAL Inv. Off.	ICMS DIFAL Inv. Abg.	2018.06.19 05:33:47									
+ICMT	ICMT	TX	A	ICMS DIFAL Investmen	ICMS DIFAL Invest.	2018.06.19 05:33:47									
+ICMV	ICMV	TX	A	ICMS DIFAL Con/Asset	ICMS DIFAL Kon/Anl.	2018.06.19 05:33:47									
+ICMX	ICMX	TX	A	ICMS Active	ICMS Aktiv	2018.06.19 05:33:47									
+ICMY	ICMY	TX	A	ICMS Active	ICMS Aktiv	2018.06.19 05:33:47									
+ICMZ	ICMZ	TX	A	ICMS Active	ICMS Aktiv	2018.06.19 05:33:47									
+ICN3	ICN3	TX	A	COFINS Normal Tax	COFINS Normale Steu.	2018.06.19 05:33:47									
+ICO1	ICO1	TX	A	ICMS Compl. Transfer	ICMS Vollumbuchung	2018.06.19 05:33:47									
+ICO2	ICO2	TX	A	ICMS Compl. Tra Offs	ICMS Vollumbuch. Ab.	2018.06.19 05:33:47									
+ICO3	ICO3	TX	A	ICMS Compl. NVV	ICMS Voll. NVV	2018.06.19 05:33:47									
+ICO4	ICO4	TX	A	ICMS Compl. NVV off	ICMS Voll. NVV Abgr.	2018.06.19 05:33:47									
+ICOA	ICOA	TX	A	COFINS Normal PO/GR	COFINS Normal PO/GR	2018.06.19 05:33:47									
+ICOF	ICOF	TX	A	COFINS deductible	COFINS abzugsfähig	2018.06.19 05:33:47									
+ICON	ICON	TX	A	COFINS Normal Tax	COFINS Normale Steu.	2018.06.19 05:33:47									
+ICOO	ICOO	TX	A	COFINS OffsetTaxIncl	COFINS Abgr.St.inkl.	2018.06.19 05:33:47									
+ICOP	ICOP	TX	A	ICMS complement	ICMS-Ergänzung	2018.06.19 05:33:47									
+ICOQ	ICOQ	TX	A	COFINS WHT Accum.	COFINS QSt kumuliert	2018.06.19 05:33:47									
+ICOR	ICOR	TX	A	COFINS Diff Resale	COFINS Diff.Wiederv.	2018.06.19 05:33:47									
+ICOS	ICOS	TX	A	COFINS Normal PO/GR	COFINS Normal PO/GR	2018.06.19 05:33:47									
+ICOT	ICOT	TX	A	STO-ICMS Complement	STO-ICMS-Ergänzung	2018.06.19 05:33:47									
+ICOU	ICOU	TX	A	Cofins IV Non Deduct	COFINS IV n.abzugsf.	2018.06.19 05:33:47									
+ICOV	ICOV	TX	A	Cofins Offset	COFINS-Abgrenzung	2018.06.19 05:33:47									
+ICOW	ICOW	TX	A	COFINS WHT	COFINS QSt	2018.06.19 05:33:47									
+ICOX	ICOX	TX	A	ICMS complement 100	ICMS-Ergänzung 100	2018.06.19 05:33:47									
+ICOZ	ICOZ	TX	A	COFINS WHT Offset	COFINS QSt Abgrenz.	2018.06.19 05:33:47									
+ICS1	ICS1	TX	A	Sub.Tributaria   In	Sub.Tributaria   Ein	2018.06.19 05:33:47									
+ICS2	ICS2	TX	A	S.T. Consumption In	S.T. Verbrauch   Ein	2018.06.19 05:33:47									
+ICS3	ICS3	TX	A	Sub.Tributaria  Out	Sub.Tributaria  Aus	2018.06.19 05:33:47									
+ICS4	ICS4	TX	A	S.T. Indus Not in NF	S.T. Indus ni. in NF	2018.06.19 05:33:47									
+ICS5	ICS5	TX	A	S.T. Cons. Not in NF	S.T. Verb. ni. in NF	2018.06.19 05:33:47									
+ICS6	ICS6	TX	A	S.T. Cons.Offset	S.T. Verbr. Abgrenz.	2018.06.19 05:33:47									
+ICS7	ICS7	TX	A	S.T. Cons. Not in NF	S.T. Verb. ni. in NF	2018.06.19 05:33:47									
+ICS8	ICS8	TX	A	S.T. Cons. Not in NF	S.T. Verb. ni. in NF	2018.06.19 05:33:47									
+ICS9	ICS9	TX	A	S.T. Consumption In	S.T. Verbrauch   Ein	2018.06.19 05:33:47									
+ICSQ	ICSQ	TX	A	CSLL WHT  - Accum.	CSLL QSt  - Kumul.	2018.06.19 05:33:47									
+ICSW	ICSW	TX	A	CSLL WHT	CSLL QSt	2018.06.19 05:33:47									
+ICSZ	ICSZ	TX	A	CSLL WHT Offset	CSLL QSt Abgrenzung	2018.06.19 05:33:47									
+ICW3	ICW3	TX	A	COFINS WHT SD	COFINS QSt SD	2018.06.19 05:33:47									
+ICW5	ICW5	TX	A	COFINS WHT SD-Accum.	COFINS QSt SD-Kumul.	2018.06.19 05:33:47									
+ICZ3	ICZ3	TX	A	COFINS WHT Offset SD	COFINS QSt Abgr. SD	2018.06.19 05:33:47									
+ICZF	ICZF	TX	A	ICMS Reverse (Z.F.)	ICMS Storno (Z.F.)	2018.06.19 05:33:47									
+IFR1	IFR1	TX	A	ICMS on freight  In	ICMS auf Fracht  Ein	2018.06.19 05:33:47									
+IFR3	IFR3	TX	A	ICMS on freight  Out	ICMS auf Fracht  Aus	2018.06.19 05:33:47									
+IFS1	IFS1	TX	A	ICMS ST freight  In	ICMS ST Fracht   Ein	2018.06.19 05:33:47									
+IFS3	IFS3	TX	A	ICMS ST freight  Out	ICMS ST Fracht   Aus	2018.06.19 05:33:47									
+IGEQ	IGEQ	TX	A	General WHT-Accum.	Allgem. QSt-Kumul.	2018.06.19 05:33:47									
+IGEW	IGEW	TX	A	General WHT	Allgemein QSt	2018.06.19 05:33:47									
+IGEZ	IGEZ	TX	A	General WHT Offset	Allgem. QSt-Abgrenz.	2018.06.19 05:33:47									
+IGW3	IGW3	TX	A	General WHT SD	Allgemeine QSt SD	2018.06.19 05:33:47									
+IGW5	IGW5	TX	A	General WHT SD-Accum	Allgem. QSt SD-Kumul	2018.06.19 05:33:47									
+IGZ3	IGZ3	TX	A	Genera WHT Offset SD	Allgem. QSt Abgr. SD	2018.06.19 05:33:47									
+IIRQ	IIRQ	TX	A	IR WHT-Accum.	IR QSt-Kumul.	2018.06.19 05:33:47									
+IIRW	IIRW	TX	A	IR WHT	IR QSt	2018.06.19 05:33:47									
+IIRZ	IIRZ	TX	A	IR WHT Offset	IR QSt Abgrenzung	2018.06.19 05:33:47									
+INSS	INSS	TX	A	INSS Incoming	INSS Eingang	2018.06.19 05:33:47									
+INSX	INSX	TX	A	INSS offset (100-)	INSS Abgrenz. (100-)	2018.06.19 05:33:47									
+IP10	IP10	TX	A	IPI Null Values NF	IPI Null Werte NF	2018.06.19 05:33:47									
+IP11	IP11	TX	A	IPI  Industr.    In	IPI  Branche     Ein	2018.06.19 05:33:47									
+IP12	IP12	TX	A	IPI  Consumption In	IPI  Verbrauch   Ein	2018.06.19 05:33:47									
+IP13	IP13	TX	A	IPI  Consumption In	IPI  Verbrauch   Ein	2018.06.19 05:33:47									
+IP1C	IP1C	TX	A	IPI  Ind.Clearing	IPI  Kz. Verrechn.	2018.06.19 05:33:47									
+IP1O	IP1O	TX	A	IPI  Ind.Clear.Off.	IPI  Kz. Verr. Abgr.	2018.06.19 05:33:47									
+IPI0	IPI0	TX	A	IPI NF Zero Line	IPI NF Nullzeile	2018.06.19 05:33:47									
+IPI1	IPI1	TX	A	IPI  Industr.    In	IPI  Branche     Ein	2018.06.19 05:33:47									
+IPI2	IPI2	TX	A	IPI  Consumption In	IPI  Verbrauch   Ein	2018.06.19 05:33:47									
+IPI3	IPI3	TX	A	IPI from SD     Out	IPI von SD      Aus	2018.06.19 05:33:47									
+IPI4	IPI4	TX	A	IPI -Split Vendor	IPI -Split Vendor	2018.06.19 05:33:47									
+IPI5	IPI5	TX	A	IPI  Consu. REF IPI2	IPI  Verbr. REF IPI2	2018.06.19 05:33:47									
+IPI6	IPI6	TX	A	IPI  Consu. REF IPI2	IPI  Verbr. REF IPI2	2018.06.19 05:33:47									
+IPIA	IPIA	TX	A	IPI Industr. Out	IPI Branche Aus.	2018.06.19 05:33:47									
+IPIB	IPIB	TX	A	IPI Consum Out	IPI Verbrauch aus	2018.06.19 05:33:47									
+IPIO	IPIO	TX	A	IPI Null Values NF	IPI Null Werte NF	2018.06.19 05:33:47									
+IPIS	IPIS	TX	A	PIS deductible	PIS abzugsfähig	2018.06.19 05:33:47									
+IPIX	IPIX	TX	A	IPI  Active	IPI  Aktiv	2018.06.19 05:33:47									
+IPIY	IPIY	TX	A	IPI  Active	IPI  Aktiv	2018.06.19 05:33:47									
+IPIZ	IPIZ	TX	A	IPI  Active	IPI  Aktiv	2018.06.19 05:33:47									
+IPS3	IPS3	TX	A	PIS Normal Tax	PIS Normale Steuer	2018.06.19 05:33:47									
+IPSA	IPSA	TX	A	PIS Normal PO/GR	PIS Normal PO/GR	2018.06.19 05:33:47									
+IPSN	IPSN	TX	A	PIS Normal Tax	PIS Normale Steuer	2018.06.19 05:33:47									
+IPSO	IPSO	TX	A	PIS Offset Tax Incl.	PIS Abgr.SteuerInkl.	2018.06.19 05:33:47									
+IPSQ	IPSQ	TX	A	PIS WHT - Accum.	PIS QSt - kumuliert	2018.06.19 05:33:47									
+IPSS	IPSS	TX	A	PIS Nrmal PO/GR	PIS Normal PO/GR	2018.06.19 05:33:47									
+IPSU	IPSU	TX	A	PIS Normal IV NVV	PIS Normal IV NVV	2018.06.19 05:33:47									
+IPSV	IPSV	TX	A	Offset IPSS / IPSU	Abgrenz. IPSS / IPSU	2018.06.19 05:33:47									
+IPSW	IPSW	TX	A	PIS WHT	PIS QSt	2018.06.19 05:33:47									
+IPSZ	IPSZ	TX	A	PIS WHT Offset	PIS QSt Abgrenzung	2018.06.19 05:33:47									
+IPW3	IPW3	TX	A	PIS WHT SD	PIS QSt SD	2018.06.19 05:33:47									
+IPW5	IPW5	TX	A	PIS WHT SD - Accum.	PIS QSt - kumuliert	2018.06.19 05:33:47									
+IPZ3	IPZ3	TX	A	PIS WHT SD Offset	PIS QSt SD Abgrenz.	2018.06.19 05:33:47									
+IRD1	IRD1	TX	A	ICMS Reimbursement	ICMS Erstattung	2018.06.19 05:33:47									
+IRD2	IRD2	TX	A	ICMS Reimbur. Offset	ICMS Erstatt. Abgr.	2018.06.19 05:33:47									
+IRD3	IRD3	TX	A	SUBT Reimbursement	SUBT Erstattung	2018.06.19 05:33:47									
+IRD4	IRD4	TX	A	SUBT Reimbur. Offset	SUBT Erstatt. Abgr.	2018.06.19 05:33:47									
+IRD5	IRD5	TX	A	ICMS Reim.Offset NVV	ICMS Erst. Abgr. NVV	2018.06.19 05:33:47									
+IRD6	IRD6	TX	A	SUBT Reim.Offset NVV	SUBT Erst. Abgr. NVV	2018.06.19 05:33:47									
+IRW3	IRW3	TX	A	IR WHT SD	IR QSt SD	2018.06.19 05:33:47									
+IRW5	IRW5	TX	A	IR WHT SD-Accum.	IR QSt SD-Kumul.	2018.06.19 05:33:47									
+IRZ3	IRZ3	TX	A	IR WHT SD Offset	IR QSt SD Abgrenzung	2018.06.19 05:33:47									
+ISA3	ISA3	TX	A	ISS at Provider SD	ISS beim Anbieter SD	2018.06.19 05:33:47									
+ISB3	ISB3	TX	A	ISS WHT at Prov. SD	ISS QSt beim Anb. SD	2018.06.19 05:33:47									
+ISE3	ISE3	TX	A	ISS at Serv.Loc.  SD	ISS am LeistOrt   SD	2018.06.19 05:33:47									
+ISF3	ISF3	TX	A	ISS WHT  Srv.Loc. SD	ISS QSt  LeistOrt SD	2018.06.19 05:33:47									
+ISS2	ISS2	TX	A	ISS from MM  In	ISS von MM   Eing.	2018.06.19 05:33:47									
+ISS3	ISS3	TX	A	ISS from SD     Out	ISS von SD      Ausg	2018.06.19 05:33:47									
+ISSA	ISSA	TX	A	ISS at Provider	ISS beim Anbieter	2018.06.19 05:33:47									
+ISSB	ISSB	TX	A	ISS WHT at Provider	ISS QSt beim Anbiet.	2018.06.19 05:33:47									
+ISSE	ISSE	TX	A	ISS at Service Loc	ISS am Leistungsort	2018.06.19 05:33:47									
+ISSF	ISSF	TX	A	ISS WHT at Serv. Loc	ISS QSt am LeistOrt	2018.06.19 05:33:47									
+ISSG	ISSG	TX	A	ISS Offset	ISS Abgrenzung	2018.06.19 05:33:47									
+ISSO	ISSO	TX	A	ISS from SD     Out	ISS von SD      Ausg	2018.06.19 05:33:47									
+ISW3	ISW3	TX	A	CSLL WHT SD	CSLL QSt SD	2018.06.19 05:33:47									
+ISW5	ISW5	TX	A	CSLL WHT SD - Accum.	CSLL QSt SD - Kumul.	2018.06.19 05:33:47									
+ISZ3	ISZ3	TX	A	CSLL WHT SD Offset	CSLL QSt SD Abgrenz.	2018.06.19 05:33:47									
+IT01	IT01	TX	A	ICMS Industr.    In	ICMS Branche    Eing	2018.06.19 05:33:47									
+IT02	IT02	TX	A	ICMS Industr.    In	ICMS Branche    Eing	2018.06.19 05:33:47									
+IT03	IT03	TX	A	ICMS Industr.    In	ICMS Branche    Eing	2018.06.19 05:33:47									
+ITCO	ITCO	TX	A	COFINS	COFINS	2018.06.19 05:33:47									
+ITPI	ITPI	TX	A	PIS	PIS	2018.06.19 05:33:47									
+ITSL	ITSL	TX	A	ISS Service Location	ISS Leistungsort	2018.06.19 05:33:47									
+ITSP	ITSP	TX	A	ISS Service Provider	ISS Dienstleister	2018.06.19 05:33:47									
+ITWL	ITWL	TX	A	ISS WHT Service Lctn	ISS QSt Leistungsort	2018.06.19 05:33:47									
+ITWP	ITWP	TX	A	ISS WHT Service Prv.	ISS QSt Dienstleist.	2018.06.19 05:33:47									
+IUCO	IUCO	TX	A	COFINS Offset	COFINS Abgrenzung	2018.06.19 05:33:47									
+IUPI	IUPI	TX	A	PIS Offset	PIS Abgrenzung	2018.06.19 05:33:47									
+IUSL	IUSL	TX	A	ISS Offset Serv.Loc.	ISS Abgrenz.LeistOrt	2018.06.19 05:33:47									
+IUSP	IUSP	TX	A	ISS Offset Srv.Prvdr	ISS Abgrenz.Dienstl.	2018.06.19 05:33:47									
+IVCO	IVCO	TX	A	COFINS Offset Sales	COFINS Abgrenz. Ums.	2018.06.19 05:33:47									
+IVPI	IVPI	TX	A	PIS Offset Sales	PIS Abgrenz. Umsatz	2018.06.19 05:33:47									
+IVSL	IVSL	TX	A	ISS Offset SL Sales	ISS Abgrenz. SL Ums.	2018.06.19 05:33:47									
+IVSP	IVSP	TX	A	ISS Offset SP Sales	ISS Abgrenz. SP Ums.	2018.06.19 05:33:47									
+J1A1	J1A1	TX	A	GI surch. Region 1	GI Zuschlag Region 1	2018.06.19 05:33:47									
+J1A2	J1A2	TX	A	GI surch. Region 2	GI Zuschlag Region 2	2018.06.19 05:33:47									
+J1A3	J1A3	TX	A	GI surch. Region 3	GI Zuschlag Region 3	2018.06.19 05:33:47									
+J1AA	J1AA	TX	A	VAT Disc. Customs	MwSt. Rabatt Zoll	2018.06.19 05:33:47									
+J1AG	J1AG	TX	A	ET Disc. Customs	ET Rabatt Zoll	2018.06.19 05:33:47									
+J1AI	J1AI	TX	A	Internal Purch. Tax	Interne Vorsteuer	2018.06.19 05:33:47									
+J1AL	J1AL	TX	A	Exemption w. Credit	Befreiung mit Haben	2018.06.19 05:33:47									
+J1AN	J1AN	TX	A	Exemption w/o Credit	Befreiung ohne Haben	2018.06.19 05:33:47									
+J1AP	J1AP	TX	A	VAT discount	MwSt.-Rabatt	2018.06.19 05:33:47									
+J1AR	J1AR	TX	A	VAT Surcharge RNI	MwSt.-Zuschlag RNI	2018.06.19 05:33:47									
+J1AS	J1AS	TX	A	Surcharge No Categ.	Zuschlag keine Katg.	2018.06.19 05:33:47									
+J1AV	J1AV	TX	A	Internal Purch. Tax	Interne Vorsteuer	2018.06.19 05:33:47									
+J1AY	J1AY	TX	A	Not taxed	Nicht besteuert	2018.06.19 05:33:47									
+J2A1	J2A1	TX	A	ISC Perú	ISC Peru	2018.06.19 05:33:47									
+J2A2	J2A2	TX	A	IGV Perú - Adq.002	IGV Peru - Adq. 002	2018.06.19 05:33:47									
+J2A3	J2A3	TX	A	IGV Perú - Adq.003	IGV Peru - Adq. 003	2018.06.19 05:33:47									
+J2A4	J2A4	TX	A	Advalorem (Perú)	Advalorem (Peru)	2018.06.19 05:33:47									
+J2A5	J2A5	TX	A	IPM tax Peru	IPM-Steuer Peru	2018.06.19 05:33:47									
+J3A1	J3A1	TX	A	Fuel tax (ded.)	Brennstoffst. (abz.)	2018.06.19 05:33:47									
+J3A2	J3A2	TX	A	Fuel tax (nonded.)	BrennstSt.(n. abz.)	2018.06.19 05:33:47									
+JAED	JAED	TX	A	IN: A/R AED	IN: DE AED	2018.06.19 05:33:47									
+JAIP	JAIP	TX	A	IN AED inventory %	IN AED Bestand %	2018.06.19 05:33:47									
+JAIQ	JAIQ	TX	A	IN AED inventory Qty	IN AED Bestandsmenge	2018.06.19 05:33:47									
+JAO1	JAO1	TX	A	IN: A/P AED deductib	IN: KR AED abzugsf.	2018.06.19 05:33:47									
+JAO2	JAO2	TX	A	IN:A/P AED nondeduct	IN:KR AED n. abzugs.	2018.06.19 05:33:47									
+JAOP	JAOP	TX	A	IN: AED setoff %	IN: AED Aufrechn. %	2018.06.19 05:33:47									
+JAOQ	JAOQ	TX	A	IN: AED setoff Qty	IN: AED Aufrech. Mge	2018.06.19 05:33:47									
+JAX1	JAX1	TX	A	IN: A/P AED setoff	IN: KR AED Aufrechn.	2018.06.19 05:33:47									
+JAX2	JAX2	TX	A	IN: A/P AED inventor	IN: KR AED Bestand	2018.06.19 05:33:47									
+JC1E	JC1E	TX	A	A/P GST Recoverable	KR GST weiterreichb.	2018.06.19 05:33:47									
+JC1I	JC1I	TX	A	A/P PST distributed	KR PST verteilt	2018.06.19 05:33:47									
+JC1S	JC1S	TX	A	A/P recoverable	KR weiterreichbar	2018.06.19 05:33:47									
+JC1T	JC1T	TX	A	A/P Travel GST	Kreditoren Reise GST	2018.06.19 05:33:47									
+JC1U	JC1U	TX	A	A/P PST Self-assess	KR PST Selbstveranl.	2018.06.19 05:33:47									
+JC2E	JC2E	TX	A	A/P GST distributed	KR GST verteilt	2018.06.19 05:33:47									
+JC2I	JC2I	TX	A	A/P prov. (B+GST)	KR Rückst. (B+GST)	2018.06.19 05:33:47									
+JC2S	JC2S	TX	A	A/P QST	Kreditoren QST	2018.06.19 05:33:47									
+JC2T	JC2T	TX	A	A/P Travel HST	Kreditoren Reise HST	2018.06.19 05:33:47									
+JC2U	JC2U	TX	A	A/P assess QST	Kredit. veranl. QST	2018.06.19 05:33:47									
+JC3I	JC3I	TX	A	A/P prov. (B+GST)	KR Rückst. (B+GST)	2018.06.19 05:33:47									
+JC3S	JC3S	TX	A	A/P Recov. B + GST	KR Rückford. B + GST	2018.06.19 05:33:47									
+JC3T	JC3T	TX	A	A/P Travel QST	Kreditoren Reise QST	2018.06.19 05:33:47									
+JC3U	JC3U	TX	A	A/P assess B + GST	KR veranl. B + GST	2018.06.19 05:33:47									
+JC4I	JC4I	TX	A	A/P prov. (B+GST)	KR Rückst. (B+GST)	2018.06.19 05:33:47									
+JC4S	JC4S	TX	A	A/P Recov. B + GST	KR Rückford. B + GST	2018.06.19 05:33:47									
+JC4T	JC4T	TX	A	Recapture ITC	Rückgew. VorSt (ITC)	2018.06.19 05:33:47									
+JC4U	JC4U	TX	A	A/P assess B + GST	KR veranl. B + GST	2018.06.19 05:33:47									
+JC5S	JC5S	TX	A	A/P HST	Kreditoren HST	2018.06.19 05:33:47									
+JC5T	JC5T	TX	A	PST/QST Non-Recovera	PST/QST ni.erstattb.	2018.06.19 05:33:47									
+JC5U	JC5U	TX	A	A/P assess HST	Kredit. veranl. HST	2018.06.19 05:33:47									
+JC6T	JC6T	TX	A	Distributed Expenses	Verteilte Kosten	2018.06.19 05:33:47									
+JC7T	JC7T	TX	A	Recapture ITC (DR)	Rückgew. InvFö. (De)	2018.06.19 05:33:47									
+JCES	JCES	TX	A	IN: A/R Cess	IN: DE Cess	2018.06.19 05:33:47									
+JCIN	JCIN	TX	A	IN:GST Comp.Cess -ND	IN: GST Comp.Cess NA	2018.06.19 05:33:47									
+JCIR	JCIR	TX	A	IN: RCM Comp. CESS	IN: RCM Comp.-CESS	2018.06.19 05:33:47									
+JCIS	JCIS	TX	A	IN: State GST	IN: Bundesstaat-GST	2018.06.19 05:33:47									
+JCOS	JCOS	TX	A	IN: GST Comp.Cess-OP	IN: GSTCompCess Ausg	2018.06.19 05:33:47									
+JCRN	JCRN	TX	A	IN: RCM CGST Inv	IN: RCM CGST inv.	2018.06.19 05:33:47									
+JCS1	JCS1	TX	A	IN A/R CST out	IN DE CST Ausg.	2018.06.19 05:33:47									
+JCS2	JCS2	TX	A	IN A/R Sur out	IN DE Zuschlag ausg.	2018.06.19 05:33:47									
+JGST	JGST	TX	A	A/P GST	KR GST	2018.06.19 05:33:47									
+JICG	JICG	TX	A	IN: Central GST	IN: Zentral-GST	2018.06.19 05:33:47									
+JICN	JICN	TX	A	IN: Central GST – ND	IN: Zentral-GST - NA	2018.06.19 05:33:47									
+JICR	JICR	TX	A	IN: RCM CGST	IN: RCM CGST	2018.06.19 05:33:47									
+JIDC	JIDC	TX	A	IN:GST Comp.Cess Imp	IN:GST Comp.Cess Imp	2018.06.19 05:33:47									
+JIIG	JIIG	TX	A	IN: Integrated GST	IN: Integrierte GST	2018.06.19 05:33:47									
+JIIN	JIIN	TX	A	IN:Integrated GST-ND	IN: Integr. GST - NA	2018.06.19 05:33:47									
+JIIR	JIIR	TX	A	IN: RCM IGST	IN: RCM IGST	2018.06.19 05:33:47									
+JIMD	JIMD	TX	A	IN:Import GST deduct	IN: Import-GST abzf.	2018.06.19 05:33:47									
+JIMN	JIMN	TX	A	IN: Import GST ND	IN: Import-GST NA	2018.06.19 05:33:47									
+JIN1	JIN1	TX	A	IN: A/R CST	IN: DE CST	2018.06.19 05:33:47									
+JIN2	JIN2	TX	A	IN: AR LST	IN: DE LST	2018.06.19 05:33:47									
+JIN4	JIN4	TX	A	IN: A/R CST Surcharg	IN: DE CST Zuschlag	2018.06.19 05:33:47									
+JIN5	JIN5	TX	A	IN: AR LST Surcharg	IN: DE LST Zuschlag	2018.06.19 05:33:47									
+JINC	JINC	TX	A	IN:Comp.Cess Imp-ND	IN: Comp.Cess Imp NA	2018.06.19 05:33:47									
+JIP1	JIP1	TX	A	IN:A/P CST	IN: KR CST	2018.06.19 05:33:47									
+JIP2	JIP2	TX	A	IN:A/P LST	IN: KR LST	2018.06.19 05:33:47									
+JIP3	JIP3	TX	A	IN: A/P ST setoff	IN: KR ST Aufrechn.	2018.06.19 05:33:47									
+JIP4	JIP4	TX	A	IN: A/P surcharge	IN: KR Zuschlag	2018.06.19 05:33:47									
+JIPC	JIPC	TX	A	IN C Sales tax inv.	IN C Umsatzst. Best.	2018.06.19 05:33:47									
+JIPL	JIPL	TX	A	IN L Sales tax inv.	IN L Umsatzst. Best.	2018.06.19 05:33:47									
+JIPS	JIPS	TX	A	IN Sales tax setoff	IN Umsatzst. Aufrech	2018.06.19 05:33:47									
+JIRN	JIRN	TX	A	IN: RCM IGST Inv	IN: RCM IGST inv.	2018.06.19 05:33:47									
+JISG	JISG	TX	A	IN: State GST	IN: Bundesstaat-GST	2018.06.19 05:33:47									
+JISN	JISN	TX	A	IN: State GST – ND	IN: Bundesst.-GST NA	2018.06.19 05:33:47									
+JISR	JISR	TX	A	IN: RCM SGST	IN: RCM SGST	2018.06.19 05:33:47									
+JIUG	JIUG	TX	A	IN: Union Ter. GST	IN: Unionsterr.-GST	2018.06.19 05:33:47									
+JIUN	JIUN	TX	A	IN: UnionTer. GST-ND	IN: UnionTrr.-GST NA	2018.06.19 05:33:47									
+JIUR	JIUR	TX	A	IN: RCM UTGST	IN: RCM UTGST	2018.06.19 05:33:47									
+JLS1	JLS1	TX	A	IN A/P LST out	IN KR LST Ausg.	2018.06.19 05:33:47									
+JLS2	JLS2	TX	A	IN A/P LST Surc out	IN KR LST ZuschlAusg	2018.06.19 05:33:47									
+JMIP	JMIP	TX	A	IN: BED inventory %	IN: BED Bestand %	2018.06.19 05:33:47									
+JMIQ	JMIQ	TX	A	IN: BED inventory Qt	IN: BED Bestandsmge.	2018.06.19 05:33:47									
+JMO1	JMO1	TX	A	IN: A/P BED deductib	IN: KR BED abzugsf.	2018.06.19 05:33:47									
+JMO2	JMO2	TX	A	IN: A/P BED non dedu	IN: KR BED n. abzug.	2018.06.19 05:33:47									
+JMOD	JMOD	TX	A	IN: A/R BED	IN: DE BED	2018.06.19 05:33:47									
+JMOP	JMOP	TX	A	IN: BED setoff %	IN: BED Aufrechn. %	2018.06.19 05:33:47									
+JMOQ	JMOQ	TX	A	IN: BED setoff Qty	IN: BED Aufrech. Mge	2018.06.19 05:33:47									
+JMX1	JMX1	TX	A	IN: A/P BED setoff	IN: KR BED Aufrechn.	2018.06.19 05:33:47									
+JMX2	JMX2	TX	A	IN: A/P BED inventor	IN: KR BED Bestand	2018.06.19 05:33:47									
+JOCG	JOCG	TX	A	IN:Central GST - OP	IN: Zentr.-GST Ausg.	2018.06.19 05:33:47									
+JOIG	JOIG	TX	A	IN:Integrated GST-OP	IN: Integr.GST Ausg.	2018.06.19 05:33:47									
+JOSG	JOSG	TX	A	IN: State GST – OP	IN: BundSt.GST Ausg.	2018.06.19 05:33:47									
+JOUG	JOUG	TX	A	IN:Union Ter. GST-OP	IN: Unionst.GST Ausg	2018.06.19 05:33:47									
+JP1E	JP1E	M	A	A/P Sales Tax 1 Exp.		2018.06.19 05:33:47									
+JP1E	JP1E	TX	A	A/P Sales Tax 1 Exp.	KR Umsatzst. 1 Befr.	2018.06.19 05:33:47									
+JP1I	JP1I	M	A	A/P Sales Tax 1 Inv.		2018.06.19 05:33:47									
+JP1I	JP1I	TX	A	A/P Sales Tax 1 Inv.	KR Umsatzst. 1 Best.	2018.06.19 05:33:47									
+JP1U	JP1U	M	A	A/P Sales Tax 1 Use		2018.06.19 05:33:47									
+JP1U	JP1U	TX	A	A/P Sales Tax 1 Use	KR Umsatzst. 1 Verw.	2018.06.19 05:33:47									
+JP2E	JP2E	M	A	A/P Sales Tax 2 Exp.		2018.06.19 05:33:47									
+JP2E	JP2E	TX	A	A/P Sales Tax 2 Exp.	KR Umsatzst. 2 Befr.	2018.06.19 05:33:47									
+JP2I	JP2I	M	A	A/P Sales Tax 2 Inv.		2018.06.19 05:33:47									
+JP2I	JP2I	TX	A	A/P Sales Tax 2 Inv.	KR Umsatzst. 2 Best.	2018.06.19 05:33:47									
+JP2U	JP2U	M	A	A/P Sales Tax 2 Use		2018.06.19 05:33:47									
+JP2U	JP2U	TX	A	A/P Sales Tax 2 Use	KR Umsatzst. 2 Verw.	2018.06.19 05:33:47									
+JP3E	JP3E	M	A	A/P Sales Tax 3 Exp.		2018.06.19 05:33:47									
+JP3E	JP3E	TX	A	A/P Sales Tax 3 Exp.	KR Umsatzst. 3 Befr.	2018.06.19 05:33:47									
+JP3I	JP3I	M	A	A/P Sales Tax 3 Inv.		2018.06.19 05:33:47									
+JP3I	JP3I	TX	A	A/P Sales Tax 3 Inv.	KR Umsatzst. 3 Best.	2018.06.19 05:33:47									
+JP3U	JP3U	M	A	A/P Sales Tax 3 Use		2018.06.19 05:33:47									
+JP3U	JP3U	TX	A	A/P Sales Tax 3 Use	KR Umsatzst. 3 Verw.	2018.06.19 05:33:47									
+JP4E	JP4E	M	A	A/P Sales Tax 4 Exp.		2018.06.19 05:33:47									
+JP4E	JP4E	TX	A	A/P Sales Tax 4 Exp.	KR Umsatzst. 4 Befr.	2018.06.19 05:33:47									
+JP4I	JP4I	M	A	A/P Sales Tax 4 Inv.		2018.06.19 05:33:47									
+JP4I	JP4I	TX	A	A/P Sales Tax 4 Inv.	KR Umsatzst. 4 Best.	2018.06.19 05:33:47									
+JP4U	JP4U	M	A	A/P Sales Tax 4 Use		2018.06.19 05:33:47									
+JP4U	JP4U	TX	A	A/P Sales Tax 4 Use	KR Umsatzst. 4 Verw.	2018.06.19 05:33:47									
+JR1	JR1	M	A	A/R Sales Tax JC 1		2018.06.19 05:33:47									
+JR1	JR1	TX	A	A/R Sales Tax 1	DE Umsatzsteuer 1	2018.06.19 05:33:47									
+JR1	JR1	V	A	Tax Jur Code Level 1	SteuerStandCde St. 1	2018.06.19 05:33:47									
+JR2	JR2	M	A	A/R Sales Tax JC 2		2018.06.19 05:33:47									
+JR2	JR2	TX	A	A/R Sales Tax 2	DE Umsatzsteuer 2	2018.06.19 05:33:47									
+JR2	JR2	V	A	Tax Jur Code Level 2	SteuerStandCde St. 2	2018.06.19 05:33:47									
+JR3	JR3	M	A	A/R Sales Tax JC 3		2018.06.19 05:33:47									
+JR3	JR3	TX	A	A/R Sales Tax 3	DE Umsatzsteuer 3	2018.06.19 05:33:47									
+JR3	JR3	V	A	Tax Jur Code Level 3	SteuerStandCde St. 3	2018.06.19 05:33:47									
+JR4	JR4	M	A	A/R Sales Tax JC 4		2018.06.19 05:33:47									
+JR4	JR4	TX	A	A/R Sales Tax 4	DE Umsatzsteuer 4	2018.06.19 05:33:47									
+JR4	JR4	V	A	Tax Jur Code Level 4	SteuerStandCde St. 4	2018.06.19 05:33:47									
+JRC1	JRC1	TX	A	A/R Sales GST	Debitoren Umsatz GST	2018.06.19 05:33:47									
+JRC2	JRC2	TX	A	A/R Sales PST	Debitoren Umsatz PST	2018.06.19 05:33:47									
+JRC3	JRC3	TX	A	A/R Sales QST	Debitoren Umsatz QST	2018.06.19 05:33:47									
+JRC4	JRC4	TX	A	A/R Sales HST	Debitoren Umsatz HST	2018.06.19 05:33:47									
+JRCN	JRCN	TX	A	IN: RCM CESS Inv	IN: RCM CESS inv.	2018.06.19 05:33:47									
+JSED	JSED	TX	A	IN: A/R SED	IN: DE SED	2018.06.19 05:33:47									
+JSER	JSER	TX	A	IN: Service tax	IN: DienstleisSteuer	2018.06.19 05:33:47									
+JSIP	JSIP	TX	A	IN SED inventory %	IN SED Bestand %	2018.06.19 05:33:47									
+JSIQ	JSIQ	TX	A	IN SED inventory Qty	IN SED Bestandsmenge	2018.06.19 05:33:47									
+JSO1	JSO1	TX	A	IN: A/P SED deductib	IN: KR SED abzugsf.	2018.06.19 05:33:47									
+JSO2	JSO2	TX	A	IN:A/P SED non deduc	IN:KR SED ni.abzugs.	2018.06.19 05:33:47									
+JSOP	JSOP	TX	A	IN: SED setoff %	IN: SED Aufrechn. %	2018.06.19 05:33:47									
+JSOQ	JSOQ	TX	A	IN: SED setoff Qty	IN: SED Aufrech. Mge	2018.06.19 05:33:47									
+JSRN	JSRN	TX	A	IN: RCM SGST Inv	IN: RCM SGST inv.	2018.06.19 05:33:47									
+JSVD	JSVD	TX	A	IN:Service tax debit	IN: DienstlSt. Soll	2018.06.19 05:33:47									
+JSX1	JSX1	TX	A	IN: A/P SED setoff	IN: KR SED Aufrechn.	2018.06.19 05:33:47									
+JSX2	JSX2	TX	A	IN: A/P SED inventor	IN: KR SED Bestand	2018.06.19 05:33:47									
+JURN	JURN	TX	A	IN: RCM UTGST Inv	IN: RCM UTGST inv.	2018.06.19 05:33:47									
+KO00	KO00	V1	B	Contract	Vertrag	2018.06.19 05:33:47									
+KOFI	KOFI	V	C	Acct determination	Kontenfindung	2018.06.19 05:33:47									
+KOFK	KOFK	V	C	Acct Determ.with CO	Kontenfindung mit CO	2018.06.19 05:33:47									
+KONS	KONS	MR	B	Consignment	Konsignation	2018.06.19 05:33:47									
+KORP	KORP	V	C	Purchasing Rebate		2018.06.19 05:33:47									
+KORS	KORS	V	C	Sales Rebate	Umsatzbonus	2018.06.19 05:33:47									
+KPXX	KPXX	TX	A	Output Tax (test)	Ausgangssteu. (Test)	2018.06.19 05:33:47									
+KRIC	KRIC	TX	A	Construc. Inp Tax KR	Construc. Vorst. KR	2018.06.19 05:33:47									
+KRIT	KRIT	TX	A	Input Tax KR	Vorsteuer KR	2018.06.19 05:33:47									
+KRNI	KRNI	TX	A	Issue Exemption	Befreiung	2018.06.19 05:33:47									
+KRNT	KRNT	TX	A	Non-ded.Input Tax KR	Ni.abzugsf.Vorst. KR	2018.06.19 05:33:47									
+KROT	KROT	TX	A	Output Tax KR	Ausgangssteuer KR	2018.06.19 05:33:47									
+KRPP	KRPP	TX	A	Payment by proxy KR	Zahlung d. Proxy KR	2018.06.19 05:33:47									
+LAVA	LAVA	V2	B	Outg. ship.notifica.	Lieferavis Ausgang	2018.06.19 05:33:47									
+LD00	LD00	V2	B	Delivery Note	Lieferschein	2018.06.19 05:33:47									
+MAED	MAED	PA	B	QRelease (EDI)	MAbrufe (EDI)	2018.06.19 05:33:47									
+MAFO	MAFO	PA	B	QRelease Print Form	MAbruf Druckformular	2018.06.19 05:33:47									
+MAR	MAR	TX	A	A/P Maritime	KR Maritime	2018.06.19 05:33:47									
+MAR1	MAR1	TX	A	A/R Maritime	DE Maritime	2018.06.19 05:33:47									
+MLXA	MLXA	TX	A	Tax Credit	Steuer Haben	2018.06.19 05:33:47									
+MLXV	MLXV	TX	A	Tax Debit	Steuer Soll	2018.06.19 05:33:47									
+MSKA	MSKA	TX	A	Output Tax SK	Ausgangssteuer SK	2018.06.19 05:33:47									
+MSKI	MSKI	TX	A	Input Tax (SK)	Vorsteuer (SK)	2018.06.19 05:33:47									
+MSKO	MSKO	TX	A	Output Tax (SK)	Ausgangssteuer (SK)	2018.06.19 05:33:47									
+MSKV	MSKV	TX	A	Input Tax SK	Vorsteuer SK	2018.06.19 05:33:47									
+MW01	MW01	TX	A	Tax Trigger RU	Steuerauslöser RU	2018.06.19 05:33:47									
+MWAA	MWAA	TX	A	Clearing Tax	Ausgleichssteuer	2018.06.19 05:33:47									
+MWAI	MWAI	TX	A	Round.Up Output Tax	Ausgangsst. aufrund.	2018.06.19 05:33:47									
+MWAL	MWAL	TX	A	Sumptuary Tax	Luxussteuer	2018.06.19 05:33:47									
+MWAN	MWAN	TX	A	N.d. Output Tax	Ausgangsst.n.abz.	2018.06.19 05:33:47									
+MWAR	MWAR	TX	A	Round.Down OutputTax	Ausgangsst. abrunden	2018.06.19 05:33:47									
+MWAS	MWAS	M	A	output tax manually	Ausgangssteuer man.	2018.06.19 05:33:47									
+MWAS	MWAS	TX	A	Output Tax	Ausgangssteuer	2018.06.19 05:33:47									
+MWAS	MWAS	V	A	Output Tax	Ausgangssteuer	2018.06.19 05:33:47									
+MWCN	MWCN	TX	A	Flat-rate Tax China	Pauschalsteuer China	2018.06.19 05:33:47									
+MWNI	MWNI	TX	A	N.d.input tax	Nicht abz. Vorsteuer	2018.06.19 05:33:47									
+MWR1	MWR1	TX	A	Sales Tax Credit(RU)	USt Haben (RU)	2018.06.19 05:33:47									
+MWR2	MWR2	TX	A	Sales Tax Debit Rev	USt Soll Erl. (RU)	2018.06.19 05:33:47									
+MWR3	MWR3	TX	A	Sales Tax Credit Rev	USt Haben Erl. (RU)	2018.06.19 05:33:47									
+MWR4	MWR4	TX	A	Local SalesTax Cred.	Lokal USt Haben	2018.06.19 05:33:47									
+MWR5	MWR5	TX	A	Local Debit Rev.(RU)	Lokal Soll Erl.(RU)	2018.06.19 05:33:47									
+MWR6	MWR6	TX	A	Local Credit Rev.	Lokal Haben Erl.	2018.06.19 05:33:47									
+MWRK	MWRK	TX	A	Travel Expenses (%)	Reisekosten (%)	2018.06.19 05:33:47									
+MWS1	MWS1	TX	A	Subtotal	Zwischensumme	2018.06.19 05:33:47									
+MWSI	MWSI	TX	A	Tax self invoice	Steuer - Eigen-Rech.	2018.06.19 05:33:47									
+MWVI	MWVI	TX	A	Input Tax Round.up	Vorsteuer-Aufrundung	2018.06.19 05:33:47									
+MWVN	MWVN	M	A	Non-deduct.Input Tax		2018.06.19 05:33:47									
+MWVN	MWVN	TX	A	Non-deduct.Input Tax	Ni. abzugsf. Vorst.	2018.06.19 05:33:47									
+MWVO	MWVO	TX	A	Input tax Offset	Vorsteuer Offset	2018.06.19 05:33:47									
+MWVR	MWVR	TX	A	Round Off Input Tax	Vorsteuer-Abrundung	2018.06.19 05:33:47									
+MWVS	MWVS	M	A	Input tax manually	Vorsteuer manuell	2018.06.19 05:33:47									
+MWVS	MWVS	TX	A	Input tax	Vorsteuer	2018.06.19 05:33:47									
+MWVY	MWVY	TX	A	Non-deduct.Input Tax	Ni. abzugsf. Vorst.	2018.06.19 05:33:47									
+MWVZ	MWVZ	M	A	Non-deduct.Input Tax		2018.06.19 05:33:47									
+MWVZ	MWVZ	TX	A	Non-deduct.Input Tax	Ni. abzugsf. Vorst.	2018.06.19 05:33:47									
+MWWS	MWWS	TX	A	Simplif. Tax Output	Vereinf.St.-Ausgang	2018.06.19 05:33:47									
+MWZB	MWZB	TX	A	Invst.Tax Norw.Basis	Basis InvesSt. Norw.	2018.06.19 05:33:47									
+MWZG	MWZG	TX	A	Offsett.Item-Inv.Tax	Gegenpos.InvestSteu.	2018.06.19 05:33:47									
+MWZI	MWZI	TX	A	Non-ded.InputTax -RU	Vorst.n.abz.zuo.-Auf	2018.06.19 05:33:47									
+MWZS	MWZS	TX	A	Simplif. Tax Input	Vereinf. Steuereing.	2018.06.19 05:33:47									
+MWZU	MWZU	TX	A	Investment Tax Norw.	Investitionsst.Norw.	2018.06.19 05:33:47									
+NEU	NEU	EF	B	Purchase order	Bestellung	2018.06.19 05:33:47									
+NEU	NEU	ES	B	Entry of Srvc Prfrmd	Leistungserfassung	2018.06.19 05:33:47									
+NLAI	NLAI	TX	A	Acqu.Tax Outgoing-RU	Erwerbst.Ausgang-Auf	2018.06.19 05:33:47									
+NLNA	NLNA	TX	A	Non-ded  Acqu. Tax	Nicht abz. Erwerbst.	2018.06.19 05:33:47									
+NLVI	NLVI	TX	A	Acqu.Tax Inc.- Ro.up	Erwerbsteuer Aufs.	2018.06.19 05:33:47									
+NLXA	NLXA	M	A	Acquisition Tax Cred		2018.06.19 05:33:47									
+NLXA	NLXA	TX	A	Acquisition Tax Cred	Erwerbsteuer Haben	2018.06.19 05:33:47									
+NLXN	NLXN	TX	A	Non-ded. Acqu. Tax	Nicht abz. Erwerbst.	2018.06.19 05:33:47									
+NLXV	NLXV	M	A	Acquisition Tax Deb.		2018.06.19 05:33:47									
+NLXV	NLXV	TX	A	Acquisition Tax Deb.	Erwerbsteuer Soll	2018.06.19 05:33:47									
+NZE1	NZE1	TX	A	NZ Entertain-GST inv	NZ Vergnüg.-GST inv	2018.06.19 05:33:47									
+NZE2	NZE2	TX	A	NZ Entertainment Tax	NZ Vergnügungssteuer	2018.06.19 05:33:47									
+OZ01	OZ01	TX	A	Output Tax - Austr.	Ausgangssteuer - AU	2018.06.19 05:33:47									
+OZ10	OZ10	TX	A	Input Tax - Austr.	Vorsteuer - AU	2018.06.19 05:33:47									
+OZ11	OZ11	TX	A	Input Tax - Suspense	Vorsteuer - ZwKonto	2018.06.19 05:33:47									
+OZ12	OZ12	TX	A	Input Tax - Non Ded.	Vorst. - nicht abz.	2018.06.19 05:33:47									
+OZ13	OZ13	TX	A	Input Apport.Non-rec	VSt.quot.nicht weit.	2018.06.19 05:33:47									
+PC02	PC02	V	A	Calculated costs	Kalkulierte Kosten	2018.06.19 05:33:47									
+PCE1	PCE1	V	A	Cust. expected Price	Erwart. Kundenpreis	2018.06.19 05:33:47									
+PCE2	PCE2	V	A	Cust. expected Value	Erwart. Kundenwert	2018.06.19 05:33:47									
+PCIP	PCIP	V	A	Internal Price	Interner Preis	2018.06.19 05:33:47									
+PCO1	PCO1	V	A	Actual Costs	Istkosten	2018.06.19 05:33:47									
+PI01	PI01	V	A	Inter-company Price	PreisInterneVerrechn	2018.06.19 05:33:47									
+PI02	PI02	V	A	Inter-company %	PreisInterneVerrProz	2018.06.19 05:33:47									
+PIC1	PIC1	V	A	Inter-company Price	PreisInterneVerrechn	2018.06.19 05:33:47									
+PIC2	PIC2	V	A	Inter-company %	PreisInterneVerrProz	2018.06.19 05:33:47									
+PLAN	PLAN	TX	A	Car inp. NAV		2018.06.19 05:33:47									
+PLV1	PLV1	TX	A	Cars Taxbase 50%		2018.06.19 05:33:47									
+PLVN	PLVN	TX	A	Car inp. NVV		2018.06.19 05:33:47									
+PLVS	PLVS	TX	A	Car inp. Tax ded.		2018.06.19 05:33:47									
+PLXA	PLXA	TX	A	Car inp. ESA		2018.06.19 05:33:47									
+PLXE	PLXE	TX	A	Car inp. ESE		2018.06.19 05:33:47									
+PMP0	PMP0	M	A	Manual Gross Price	Bruttopreis manuell	2018.06.19 05:33:47									
+PMP0	PMP0	V	A	Manual Price	Manueller Preis	2018.06.19 05:33:47									
+PNP0	PNP0	V	A	Net Price	Nettopreis	2018.06.19 05:33:47									
+PPR0	PPR0	M	A	Default Gross Price	Standardbruttopreis	2018.06.19 05:33:47									
+PPR0	PPR0	V	A	Price	Preis	2018.06.19 05:33:47									
+PSAM	PSAM	V	A	Standalone (Mat.)	EVP (Material)	2018.06.19 05:33:47									
+PST	PST	TX	A	A/P PST & QST	KR PST & QST	2018.06.19 05:33:47									
+PST1	PST1	TX	A	A/R PST & QST	DE PST & QST	2018.06.19 05:33:47									
+PTI1	PTI1	TX	A	A/P PST Distributed	KR PST verteilt	2018.06.19 05:33:47									
+PTI2	PTI2	TX	A	A/P PST Separate GL	KR PST Separates HB	2018.06.19 05:33:47									
+PTI3	PTI3	TX	A	A/P PST Separate GL	KR PST Separates HB	2018.06.19 05:33:47									
+PTI4	PTI4	TX	A	A/P PST Sep. B+GST	KR PST Sep. B+GST	2018.06.19 05:33:47									
+PTU1	PTU1	TX	A	A/P Usage	KR Verwendung	2018.06.19 05:33:47									
+PTU2	PTU2	TX	A	A/P Usage B+GST	KR Verwendung B+GST	2018.06.19 05:33:47									
+PVA0	PVA0	V	A	Variant Price	Variantenpreis	2018.06.19 05:33:47									
+PVA1	PVA1	V	A	Variant Price	Variantenpreis	2018.06.19 05:33:47									
+REA1	REA1	M	A	Rebate Accruals		2018.06.19 05:33:47									
+REA1	REA1	V	A	Rebate Accruals	Bonusrückstellungen	2018.06.19 05:33:47									
+REA2	REA2	M	A	Rebate Accrual Rev		2018.06.19 05:33:47									
+REA2	REA2	V	A	Rebate Accruals Rev	BonusrückstellAuflös	2018.06.19 05:33:47									
+REA5	REA5	M	A	Rebate AccrualsSettl		2018.06.19 05:33:47									
+REA5	REA5	V	A	Rebate AccrualsSettl	BonusrückstAbrechn.	2018.06.19 05:33:47									
+REBD	REBD	M	A	Rebate BusVol Delta		2018.06.19 05:33:47									
+REBD	REBD	V	A	Rebate BusVol Delta	Bonus Umsatz Delta	2018.06.19 05:33:47									
+REBV	REBV	M	A	Rebate Business Vol.		2018.06.19 05:33:47									
+REBV	REBV	V	A	Rebate Business Vol.	Bonusfähiger Umsatz	2018.06.19 05:33:47									
+RED1	RED1	M	A	Rebate Accruals		2018.06.19 05:33:47									
+RED1	RED1	V	A	Rebate Accruals	Bonusrückstellungen	2018.06.19 05:33:47									
+RED2	RED2	M	A	Rebate Accr Total		2018.06.19 05:33:47									
+RED2	RED2	V	A	Rebate Accr Total	Bonusrückst. gesamt	2018.06.19 05:33:47									
+REJ1	REJ1	M	A	Rebate Adjustment		2018.06.19 05:33:47									
+REJ1	REJ1	V	A	Rebate Adjustment	Bonusanpassung	2018.06.19 05:33:47									
+REKL	REKL	MR	B	Complaint	Reklamation	2018.06.19 05:33:47									
+RENT	RENT	M	A	Rebate Net Amount		2018.06.19 05:33:47									
+RENT	RENT	V	A	Rebate Net Amount	Bonusnettobetrag	2018.06.19 05:33:47									
+RES1	RES1	M	A	Rebate	Rückvergütung Rückst	2018.06.19 05:33:47									
+RES1	RES1	V	A	Rebate	Bonus	2018.06.19 05:33:47									
+RES2	RES2	M	A	Rebate PartSettl Rev		2018.06.19 05:33:47									
+RES2	RES2	V	A	Rebate PartSettl Rev	BonusteilabrechStor.	2018.06.19 05:33:47									
+RET0	RET0	M	A	Settlement Tax		2018.06.19 05:33:47									
+RETO	RETO	M	A	Rebate Tax Outound		2018.06.19 05:33:47									
+RETT	RETT	M	A	Rebate Tax Trigger		2018.06.19 05:33:47									
+RETT	RETT	V	A	Rebate Tax Trigger	Bonussteuerauslöser	2018.06.19 05:33:47									
+RETU	RETU	V	A	RebateTax Trigger US	BonussteuAuslöser US	2018.06.19 05:33:47									
+RETX	RETX	V	A	Rebate Tax	Bonussteuer	2018.06.19 05:33:47									
+REU1	REU1	V	A	Rebate Unlikelihood	Bonusunwahrscheinlk.	2018.06.19 05:33:47									
+REV1	REV1	M	A	Rebate verified		2018.06.19 05:33:47									
+REV1	REV1	V	A	Rebate Verified	Bonus verifiziert	2018.06.19 05:33:47									
+RTXJ	RTXJ	M	A	Tax Jurisd.Code Outb		2018.06.19 05:33:47									
+RUTX	RUTX	V	A	Rebate Tax	Bonussteuer	2018.06.19 05:33:47									
+TFAD	TFAD	V	A	Factoring Disc. Tax	Steuer Delkredere	2018.06.19 05:33:47									
+TTX1	TTX1	M	A	Non-Deductible Tax	Nicht abzugsf. St.	2018.06.19 05:33:47									
+TTX1	TTX1	V	A	Output Tax	Ausgangssteuer	2018.06.19 05:33:47									
+UTXJ	UTXJ	V	A	Tax Jurisdict.Code	Steuerstandort-Code	2018.06.19 05:33:47									
+VS00	VS00	M	A	Tax trigger	Steuerauslöser	2018.06.19 05:33:47									
+VTV1	VTV1	V	A	Target Value - VTV1	Zielwert - VTV1	2018.06.19 05:33:47									
+XP1E	XP1E	M	A	A/P Sales Tax 1 Exp.		2018.06.19 05:33:47									
+XP1E	XP1E	TX	A	A/P Sales Tax 1 Exp.	KR Umsatzst. 1 Befr.	2018.06.19 05:33:47									
+XP1I	XP1I	M	A	A/P Sales Tax 1 Inv.		2018.06.19 05:33:47									
+XP1I	XP1I	TX	A	A/P Sales Tax 1 Inv.	KR Umsatzst. 1 Best.	2018.06.19 05:33:47									
+XP1U	XP1U	M	A	A/P Sales Tax 1 Use		2018.06.19 05:33:47									
+XP1U	XP1U	TX	A	A/P Sales Tax 1 Use	KR Umsatzst. 1 Verw.	2018.06.19 05:33:47									
+XP2E	XP2E	M	A	A/P Sales Tax 2 Exp.		2018.06.19 05:33:47									
+XP2E	XP2E	TX	A	A/P Sales Tax 2 Exp.	KR Umsatzst. 2 Befr.	2018.06.19 05:33:47									
+XP2I	XP2I	M	A	A/P Sales Tax 2 Inv.		2018.06.19 05:33:47									
+XP2I	XP2I	TX	A	A/P Sales Tax 2 Inv.	KR Umsatzst. 2 Best.	2018.06.19 05:33:47									
+XP2U	XP2U	M	A	A/P Sales Tax 2 Use		2018.06.19 05:33:47									
+XP2U	XP2U	TX	A	A/P Sales Tax 2 Use	KR Umsatzst. 2 Verw.	2018.06.19 05:33:47									
+XP3E	XP3E	M	A	A/P Sales Tax 3 Exp.		2018.06.19 05:33:47									
+XP3E	XP3E	TX	A	A/P Sales Tax 3 Exp.	KR Umsatzst. 3 Befr.	2018.06.19 05:33:47									
+XP3I	XP3I	M	A	A/P Sales Tax 3 Inv.		2018.06.19 05:33:47									
+XP3I	XP3I	TX	A	A/P Sales Tax 3 Inv.	KR Umsatzst. 3 Best.	2018.06.19 05:33:47									
+XP3U	XP3U	M	A	A/P Sales Tax 3 Use		2018.06.19 05:33:47									
+XP3U	XP3U	TX	A	A/P Sales Tax 3 Use	KR Umsatzst. 3 Verw.	2018.06.19 05:33:47									
+XP4E	XP4E	M	A	A/P Sales Tax 4 Exp.		2018.06.19 05:33:47									
+XP4E	XP4E	TX	A	A/P Sales Tax 4 Exp.	KR Umsatzst. 4 Befr.	2018.06.19 05:33:47									
+XP4I	XP4I	M	A	A/P Sales Tax 4 Inv.		2018.06.19 05:33:47									
+XP4I	XP4I	TX	A	A/P Sales Tax 4 Inv.	KR Umsatzst. 4 Best.	2018.06.19 05:33:47									
+XP4U	XP4U	M	A	A/P Sales Tax 4 Use		2018.06.19 05:33:47									
+XP4U	XP4U	TX	A	A/P Sales Tax 4 Use	KR Umsatzst. 4 Verw.	2018.06.19 05:33:47									
+XP5E	XP5E	M	A	A/P Sales Tax 5 Exp.		2018.06.19 05:33:47									
+XP5E	XP5E	TX	A	A/P Sales Tax 5 Exp	KR Umsatzst. 5 Befr.	2018.06.19 05:33:47									
+XP5I	XP5I	M	A	A/P Sales Tax 5 Inv.		2018.06.19 05:33:47									
+XP5I	XP5I	TX	A	A/P Sales Tax 5 Inv.	KR Umsatzst. 5 Best.	2018.06.19 05:33:47									
+XP5U	XP5U	M	A	A/P Sales Tax 5 Use		2018.06.19 05:33:47									
+XP5U	XP5U	TX	A	A/P Sales Tax 5 Use	KR Umsatzst. 5 Verw.	2018.06.19 05:33:47									
+XP6E	XP6E	M	A	A/P Sales Tax 6 Exp.		2018.06.19 05:33:47									
+XP6E	XP6E	TX	A	A/P Sales Tax 6 Exp	KR Umsatzst. 6 Befr.	2018.06.19 05:33:47									
+XP6I	XP6I	M	A	A/P Sales Tax 6 Inv.		2018.06.19 05:33:47									
+XP6I	XP6I	TX	A	A/P Sales Tax 6 Inv.	KR Umsatzst. 6 Best.	2018.06.19 05:33:47									
+XP6U	XP6U	M	A	A/P Sales Tax 6 Use		2018.06.19 05:33:47									
+XP6U	XP6U	TX	A	A/P Sales Tax 6 Use	KR Umsatzst. 6 Verw.	2018.06.19 05:33:47									
+XR1	XR1	M	A	Tax Jur Code Level 1		2018.06.19 05:33:47									
+XR1	XR1	TX	A	A/R Sales Tax 1	DE Umsatzsteuer 1	2018.06.19 05:33:47									
+XR1	XR1	V	A	Tax Jur Code Level 1	SteuerStandCde St. 1	2018.06.19 05:33:47									
+XR2	XR2	M	A	Tax Jur Code Level 2		2018.06.19 05:33:47									
+XR2	XR2	TX	A	A/R Sales Tax 2	DE Umsatzsteuer 2	2018.06.19 05:33:47									
+XR2	XR2	V	A	Tax Jur Code Level 2	SteuerStandCde St. 2	2018.06.19 05:33:47									
+XR3	XR3	M	A	Tax Jur Code Level 3		2018.06.19 05:33:47									
+XR3	XR3	TX	A	A/R Sales Tax 3	DE Umsatzsteuer 3	2018.06.19 05:33:47									
+XR3	XR3	V	A	Tax Jur Code Level 3	SteuerStandCde St. 3	2018.06.19 05:33:47									
+XR4	XR4	M	A	Tax Jur Code Level 4		2018.06.19 05:33:47									
+XR4	XR4	TX	A	A/R Sales Tax 4	DE Umsatzsteuer 4	2018.06.19 05:33:47									
+XR4	XR4	V	A	Tax Jur Code Level 4	SteuerStandCde St. 4	2018.06.19 05:33:47									
+XR5	XR5	M	A	Tax Jur Code Level 5		2018.06.19 05:33:47									
+XR5	XR5	TX	A	A/R Sales Tax 5	DE Umsatzsteuer 5	2018.06.19 05:33:47									
+XR5	XR5	V	A	Tax Jur Code Level 5	SteuerStandCde St. 5	2018.06.19 05:33:47									
+XR6	XR6	M	A	Tax Jur Code Level 6		2018.06.19 05:33:47									
+XR6	XR6	TX	A	A/R Sales Tax 6	DE Umsatzsteuer 6	2018.06.19 05:33:47									
+XR6	XR6	V	A	Tax Jur Code Level 6	SteuerStandCde St. 6	2018.06.19 05:33:47									
+XWVS	XWVS	TX	A	Input Tax	Vorsteuer	2018.06.19 05:33:47									
+Y001	Y001	KA	A	Material	Material	2018.06.19 05:33:47									
+Y001	Y001	V	D	Material Entered	Eingegeb. Material	2018.06.19 05:33:47									
+Y002	Y002	KA	A	Production	Fertigung	2018.06.19 05:33:47									
+YA00	YA00	V	N	Free Goods SD	Naturalrabatt SD	2018.06.19 05:33:47									
+YB01	YB01	V	A	Special Surcharge	Sonderzuschlag	2018.06.19 05:33:47									
+YB11	YB11	CO	H	BP: Batch number	BP: Chargennummer	2018.06.19 05:33:47									
+YB11	YB11	ME	H	BP: Batch number	BP: Chargennummer	2018.06.19 05:33:47									
+YB11	YB11	V	H	BP: Batch number	BP: Chargennummer	2018.06.19 05:33:47									
+YB12	YB12	CO	H	BP: Expiration date	BP: Verfallsdatum	2018.06.19 05:33:47									
+YB12	YB12	ME	H	BP: Expiration date	BP: Verfallsdatum	2018.06.19 05:33:47									
+YB12	YB12	V	H	BP: Expiration date	BP: Verfallsdatum	2018.06.19 05:33:47									
+YBHD	YBHD	V	A	Freight	Fracht	2018.06.19 05:33:47									
+YK07	YK07	V	A	Customer Discount	Kundenrabatt	2018.06.19 05:33:47									
+YOH1	YOH1	KA	A	Material overhead	GMKZ Material	2018.06.19 05:33:47									
+YOH2	YOH2	KA	A	Production overhead	GMKZ Fertigung	2018.06.19 05:33:47									
+YOH3	YOH3	KA	A	Administration ovh	GMKZ Verwaltung	2018.06.19 05:33:47									
+YOH4	YOH4	KA	A	Sales overhead	GMKZ Vertrieb	2018.06.19 05:33:47									
+YZWR	YZWR	V	A	Down Pay./Settlement	Anzahlung/Verrechn.	2018.06.19 05:33:47									
+ZA02	ZA02	V	G	Listing w Org. Units	Listung mit OrgEinh.	2018.06.19 05:33:47									
+ZB02	ZB02	V	G	Excl. w Org. Units	Ausschl. mit OrgEin.	2018.06.19 05:33:47									
+ZLUX	ZLUX	TX	A			2018.06.19 05:33:47									
+ZTRA	ZTRA	TX	A	SalesTaxWithholding	USt.-Einbehalt	2018.06.19 05:33:47									

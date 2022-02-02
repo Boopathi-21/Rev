@@ -1,0 +1,5 @@
+LEGACY_STORAGE_UNIT_TYPE	STORAGE_UNIT_TYPE	WAREHOUSE_NUMBER	STORAGE_UNIT_TYPE_TXT_GBL	STORAGE_UNIT_TYPE_TXT_LCL	DI_TIMESTAMP										
+E1	E1	001	Europal. height 1m	Europalette Höhe 1 m	2015.01.16 05:49:00										
+E2	E2	001	Europal. height 2m	Europalette Höhe 2 m	2015.01.16 05:49:00										
+GB	GB	001	Wire basket	Gitterbox	2015.01.16 05:49:00										
+IP	IP	001	Industrial pallet	Industiepalette	2015.01.16 05:49:00										

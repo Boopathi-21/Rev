@@ -1,0 +1,10 @@
+LEGACY_TAX_CLASSIFICATION	TAX_CLASSIFICATION	TAX_CATEGORY	TAX_CLASSIFICATION_TXT_GBL	TAX_CLASSIFICATION_TXT_LCL	DI_TIMESTAMP										
+0	0	TTX1	Tax Exempt	Steuerbefreit	2018.06.19 05:33:47										
+0	0	UTXJ	Tax Exempt	Steuerbefreit	2018.06.19 05:33:47										
+1	1	TTX1	Liable for Taxes	Steuerpflichtig	2018.06.19 05:33:47										
+1	1	UTXJ	Liable for Taxes	Steuerpflichtig	2018.06.19 05:33:47										
+2	2	TTX1	EU-Consumer	EU-Endverbraucher	2018.06.19 05:33:47										
+3	3	TTX1	Liable for Taxes Sp	Sondersteuerpflicht.	2018.06.19 05:33:47										
+5	5	TTX1	Domestic IC (BE/NL)	Inland int. (BE/NL)	2018.06.19 05:33:47										
+6	6	TTX1	ES Equalization Tax	ES Ausgleichssteuer	2018.06.19 05:33:47										
+9	9	TTX1	FT EU Sal-No VAT ID	VSEUVerk.Keine UStID	2018.06.19 05:33:47										

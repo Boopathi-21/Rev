@@ -1,0 +1,11 @@
+LEGACY_DEPARTMENT	DEPARTMENT	DEPARTMENT_TXT_GBL	DEPARTMENT_TXT_LCL	DI_TIMESTAMP											
+0001	0001	Managing Director	Geschäftsführer	2018.06.19 05:33:47											
+0002	0002	Purchasing	Einkauf	2018.06.19 05:33:47											
+0003	0003	Sales	Verkauf	2018.06.19 05:33:47											
+0004	0004	Organization	Organisation	2018.06.19 05:33:47											
+0005	0005	Administration	Verwaltung	2018.06.19 05:33:47											
+0006	0006	Production	Produktion	2018.06.19 05:33:47											
+0007	0007	Quality assurance	Qualitätssicherung	2018.06.19 05:33:47											
+0008	0008	Secretaries	Sekretärinnen	2018.06.19 05:33:47											
+0009	0009	Financial department	Finanzabteilung	2018.06.19 05:33:47											
+0010	0010	Legal department	Rechtsabteilung	2018.06.19 05:33:47											

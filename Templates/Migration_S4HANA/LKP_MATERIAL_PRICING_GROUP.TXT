@@ -1,0 +1,3 @@
+LEGACY_MAT_PRICING_GRP	MAT_PRICING_GRP	MAT_PRICING_GRP_TXT_GBL	MAT_PRICING_GRP_TXT_LCL	DI_TIMESTAMP											
+M1	M1	Sell-off Material	Materialausverkauf	2017.07.06 08:56:49											
+M2	M2	Bottleneck Material	Materialengpass	2017.07.06 08:56:49											

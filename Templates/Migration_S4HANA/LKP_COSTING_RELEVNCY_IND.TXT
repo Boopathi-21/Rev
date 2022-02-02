@@ -1,0 +1,3 @@
+LEGACY_COSTINGRELEVNCY	COSTINGRELEVNCY	COSTINGRELEVNCY_TXT_GBL	COSTINGRELEVNCY_TXT_LCL	DI_TIMESTAMP											
+ 	 	Not Relevant to Costing	Nicht kalkulationsrelev.	2017.07.06 08:56:49											
+X	X	100% Relevant to Costing	100 % kalkulationsrelev.	2017.07.06 08:56:49											

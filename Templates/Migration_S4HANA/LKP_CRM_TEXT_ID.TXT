@@ -1,0 +1,1668 @@
+LEGACY_TEXT_ID	TEXT_ID	TEXT_OBJECT	TEXT_ID_TXT_GBL	TEXT_ID_TXT_LCL	DI_TIMESTAMP										
+/QUE	/QUE	/SMB98/TXT	Business Question		2018.06.19 05:33:47										
+0000	0000	CODPSPEC	Process reference text	Prozeßvorgabetext	2018.06.19 05:33:47										
+0000	0000	HR_PS_CZ_1			2018.06.19 05:33:47										
+0000	0000	KLAT	Class long text	Klassenlangtext	2018.06.19 05:33:47										
+0000	0000	MSUBST	Restricted Interchangeability	bedingte Austauschbarkeit	2018.06.19 05:33:47										
+0000	0000	NBAU	Texts on building unit	Texte Bauliche Einheit	2018.06.19 05:33:47										
+0000	0000	NBEW	Comment on patient event	Bemerkung zur Bewegung	2018.06.19 05:33:47										
+0000	0000	NDIA	Comment on diagnosis	Bemerkung zur Diagnose	2018.06.19 05:33:47										
+0000	0000	NORG	Text org. unit	Text Org.Einheit	2018.06.19 05:33:47										
+0000	0000	NPAT	Texts on patient	Texte Patient	2018.06.19 05:33:47										
+0000	0000	NTXT	Comment NTXT	Bemerkung NTXT	2018.06.19 05:33:47										
+0000	0000	TNABG	Texts     Employer	Texte     Arbeitgeber	2018.06.19 05:33:47										
+0000	0000	TNDEB	Texts     Customer	Texte     Debitor	2018.06.19 05:33:47										
+0000	0000	TNGPA	Texts     Gen.business partner	Texte     allg. G.partner	2018.06.19 05:33:47										
+0000	0000	TNKRH	Texts     Hospital	Texte     Krankenhaus	2018.06.19 05:33:47										
+0000	0000	TNKTR	Texts     Cost object	Texte     Kostenträger	2018.06.19 05:33:47										
+0000	0000	TNPER	Texts     Person	Texte     Person	2018.06.19 05:33:47										
+0000	0000	TNTPT	Tariff item texts	Texte Tarifposition	2018.06.19 05:33:47										
+0001	0001	/ACCGO/UI1			2018.06.19 05:33:47										
+0001	0001	/SCWM/DLVH	Form Header	Formularkopftext	2018.06.19 05:33:47										
+0001	0001	/SCWM/DLVI	Material Sales Text	Materialverkaufstext	2018.06.19 05:33:47										
+0001	0001	/SEHS/TPP	EHS: TextID for Phrases	EHS: TextID zu Phrasen	2018.06.19 05:33:47										
+0001	0001	AGRNEG	Comments by Sales Person	Anmerk. des Vertriebsbeauftr.	2018.06.19 05:33:47										
+0001	0001	AKKP	Packing instruction	Packvorschrift	2018.06.19 05:33:47										
+0001	0001	AMPL	Text for approved manuf. parts	Texte zul. Herstellerteile	2018.06.19 05:33:47										
+0001	0001	APP-LETTER	Applicant correspondence	Bewerberkorrespondenz	2018.06.19 05:33:47										
+0001	0001	APP-MAIL	Mail applicant action	Mail Bewerbervorgang	2018.06.19 05:33:47										
+0001	0001	APP-NOTES	Notes on process	Notizen zum Vorgang	2018.06.19 05:33:47										
+0001	0001	APP-OFFER	Publication text	Publikationstext	2018.06.19 05:33:47										
+0001	0001	APP-SHPROF	Portrait of Applicant	Bewerberkurzportrait	2018.06.19 05:33:47										
+0001	0001	ARCHIVE	Text for archiving session	Text zum Archivierungslauf	2018.06.19 05:33:47										
+0001	0001	BELEG	Correspondence	Korrespondenz	2018.06.19 05:33:47										
+0001	0001	BELEGECS	ECS Note	ECS Notiz	2018.06.19 05:33:47										
+0001	0001	BPAR	General remarks	Allgemeine Notizen	2018.06.19 05:33:47										
+0001	0001	BPAR_ALL	General remarks	Allgemeine Notizen	2018.06.19 05:33:47										
+0001	0001	BUT000	Correspondence	Korrespondenz	2018.06.19 05:33:47										
+0001	0001	CACSOAWL	Note for Worklist	Notiz zum Arbeitsvorrat	2018.06.19 05:33:47										
+0001	0001	CLIPBOARD	Clipboard 1	Benutzerablage_1	2018.06.19 05:33:47										
+0001	0001	CMM_PEV_AD	Long Text	Langtext	2018.06.19 05:33:47										
+0001	0001	CMS_AST	General Notes Asset	Allg. Notizen z. Vermögenswert	2018.06.19 05:33:47										
+0001	0001	CMS_CAG	General Notes	Allgemeine Notizen	2018.06.19 05:33:47										
+0001	0001	CMS_DEV			2018.06.19 05:33:47										
+0001	0001	CMS_OMS			2018.06.19 05:33:47										
+0001	0001	CMS_RE	General Notes Real Estate	Allgemeine Notizen Immobilien	2018.06.19 05:33:47										
+0001	0001	CMS_SEC	General Notes Securities	Allgemeine Notizen Wertpapiere	2018.06.19 05:33:47										
+0001	0001	CMX_XS	Default	default	2018.06.19 05:33:47										
+0001	0001	CODPSPEC	Message Text	Meldungstext	2018.06.19 05:33:47										
+0001	0001	COPOC	CL_LONGTEXT_VALUE_POC	CL_LONGTEXT_VALUE_POC	2018.06.19 05:33:47										
+0001	0001	C_SHEP_TDF	EHS: Text ID for Value Assgmt	PP-SHE: TextID für Bewertung	2018.06.19 05:33:47										
+0001	0001	C_SHER_TDH	EHS: Text ID for Value Files	EHS: TextID für Value-Files	2018.06.19 05:33:47										
+0001	0001	C_SHES_ACH	IHS Safety Measure Description	Arbeitsschutzmassnahme Beschr.	2018.06.19 05:33:47										
+0001	0001	C_SHES_ANC	Remark for Standardized Crit.	Bemerkung Normierte Kriterien	2018.06.19 05:33:47										
+0001	0001	C_SHES_DGE	Header Text	Kopftext	2018.06.19 05:33:47										
+0001	0001	C_SHES_ERH	Result of Risk Assessment	Ergebnis der GefBeurteilung	2018.06.19 05:33:47										
+0001	0001	C_SHES_EVA	EHS: Info for Internal Use	EHS: Info interner Gebrauch	2018.06.19 05:33:47										
+0001	0001	C_SHES_EVF	EHS: Info for Internal Use	EHS: Info interner Gebrauch	2018.06.19 05:33:47										
+0001	0001	C_SHES_FAM	EHS: Text ID for Aid Given	EHS: Text-Id zur Hilfeleistung	2018.06.19 05:33:47										
+0001	0001	C_SHES_IAL	Inc./Acc. Log Drilldown Rep.	Unfallkataster Recherche	2018.06.19 05:33:47										
+0001	0001	C_SHES_ICD	EHS: Long Text for Diag. Key	EHS: Langtext zu Diagnoseschl.	2018.06.19 05:33:47										
+0001	0001	C_SHES_INP	EHS: Text ID for Pers. Invlvd	EHS: Text-Id zu beteil. Person	2018.06.19 05:33:47										
+0001	0001	C_SHES_MJ	Measurement Job 1	Messauftrag 1	2018.06.19 05:33:47										
+0001	0001	C_SHES_MP	Measurement Project 1	Messprojekt 1	2018.06.19 05:33:47										
+0001	0001	C_SHES_MPL	Measurement Project Plan	Messprojektplan	2018.06.19 05:33:47										
+0001	0001	C_SHES_MPW	Measurement Work Areas	Messarbeitsbereiche	2018.06.19 05:33:47										
+0001	0001	C_SHES_QCA	EHS: Text ID for Questionnaire	EHS: Text-Id zu Fragenkatalog	2018.06.19 05:33:47										
+0001	0001	C_SHES_QRM	EHS: Questionnaire	EHS: Fragebogen	2018.06.19 05:33:47										
+0001	0001	C_SHES_QTY	EHS: Text ID for Amnt Lng Txt	EHS: Text-Id zum LText Quant.	2018.06.19 05:33:47										
+0001	0001	C_SHES_SPC	Comment for Hlth Sur. Protocol	Kommentar Vorsorgeuntersuchung	2018.06.19 05:33:47										
+0001	0001	C_SHES_TPC	EHS: Text ID for Pers->Protoc.	EHS: Text-Id zu Pers->VorUnter	2018.06.19 05:33:47										
+0001	0001	C_SHES_TPP	EHS: Text ID for Phrases	PP-SHE: TextID zu Phrasen	2018.06.19 05:33:47										
+0001	0001	C_SHES_TRI	EHS: Text ID for Identific.	PP-SHE: TextID zu Identifikat.	2018.06.19 05:33:47										
+0001	0001	C_SHES_WAH	EHS: Text ID for Wrk Area Docu	EHS: Text-Id zur Doku ArbBer	2018.06.19 05:33:47										
+0001	0001	DMC	Rules documentation	Regeldokumentation	2018.06.19 05:33:47										
+0001	0001	DOC_ITEM	Note	Notiz	2018.06.19 05:33:47										
+0001	0001	DXWB	Project long text	Projekt-Langtext	2018.06.19 05:33:47										
+0001	0001	EHSWA_MAN	Header Texts	Kopftexte	2018.06.19 05:33:47										
+0001	0001	EHS_WAEAT	Note for Document	Notiz zum Beleg	2018.06.19 05:33:47										
+0001	0001	EHS_WASTE1	Note for Waste Generator	Notiz zum Abfallerzeuger	2018.06.19 05:33:47										
+0001	0001	EHS_WASTE2	Note for Waste Disposer	Notiz zum Abfallentsorger	2018.06.19 05:33:47										
+0001	0001	EHS_WASTE3	Note for Waste Transporter	Notiz zum Abfallbeförderer	2018.06.19 05:33:47										
+0001	0001	EHS_WASTE4	Note for Authority	Notiz zur Behörde	2018.06.19 05:33:47										
+0001	0001	EHS_WASTE5	Note for Waste Generation	Notiz zur Abfallerzeugung	2018.06.19 05:33:47										
+0001	0001	EHS_WASTE6	Note for Waste Disposal	Notiz zur Abfallentsorgung	2018.06.19 05:33:47										
+0001	0001	EHS_WASTE7	Note for Waste Transport	Notiz zur Abfallbeförderung	2018.06.19 05:33:47										
+0001	0001	EHS_WASTE8	Note for Disposal Channel	Notiz zum Entsorgungsweg	2018.06.19 05:33:47										
+0001	0001	EHS_WASTE9	Note for Waste Approval	Notiz zum Entsorgungsnachweis	2018.06.19 05:33:47										
+0001	0001	EMBK	Statement of approval	Genehmigungserklaerung	2018.06.19 05:33:47										
+0001	0001	FB01	Document header item texts	Texte zum Belegkopf	2018.06.19 05:33:47										
+0001	0001	FB15	Maintain text for e-mail	Text für E-Mail pflegen	2018.06.19 05:33:47										
+0001	0001	FHM			2018.06.19 05:33:47										
+0001	0001	FMPSO	Long Text 1	Langtext1	2018.06.19 05:33:47										
+0001	0001	FMSHERLOCK	NOTE for Processors	NOTIZ für Bearbeiter	2018.06.19 05:33:47										
+0001	0001	GMGT			2018.06.19 05:33:47										
+0001	0001	HRPBSFRDCR	Long Text of Infotype 863	Langtext von Infotype 863	2018.06.19 05:33:47										
+0001	0001	HR_ASR_PRC	Public Note: Non-Confidential	Public Note: Non-confidential	2018.06.19 05:33:47										
+0001	0001	HWR3	Note Test	Hinweis-Test	2018.06.19 05:33:47										
+0001	0001	ILM_DEST	Text for Deletion Pool	Text zum Vernichtungsvorrat	2018.06.19 05:33:47										
+0001	0001	INST_CAT	Long text for proc.inst. char.	Langtext für PVMerkmal	2018.06.19 05:33:47										
+0001	0001	INST_POC	Process Manufacturing Cockpit	Process Manufacturing Cockpit	2018.06.19 05:33:47										
+0001	0001	J1IA	Excise invoice text		2018.06.19 05:33:47										
+0001	0001	J1IARE1	Mode of transport		2018.06.19 05:33:47										
+0001	0001	J1IEX	Excise invoice text		2018.06.19 05:33:47										
+0001	0001	J1IF	Sub contracting challan		2018.06.19 05:33:47										
+0001	0001	J1IG	Invoice		2018.06.19 05:33:47										
+0001	0001	J1IH	JV text		2018.06.19 05:33:47										
+0001	0001	J1II	Excise invoice		2018.06.19 05:33:47										
+0001	0001	J1IJ	Excise depot details		2018.06.19 05:33:47										
+0001	0001	J1IM	Depot excise invoice item		2018.06.19 05:33:47										
+0001	0001	J1IS	Excise other movements -header		2018.06.19 05:33:47										
+0001	0001	J1IW	Header		2018.06.19 05:33:47										
+0001	0001	J3RFTAX			2018.06.19 05:33:47										
+0001	0001	J_1BNFDOC	Add. Information (Authorities)	Add. Information (Authorities)	2018.06.19 05:33:47										
+0001	0001	J_1BNFLIN	Add. Information on Product	Add. Information on Product	2018.06.19 05:33:47										
+0001	0001	KLAT	Industry standard description	Normbezeichnung	2018.06.19 05:33:47										
+0001	0001	KNA1	Sales note for customer	Verkaufshinweis extern	2018.06.19 05:33:47										
+0001	0001	KNB1	Accounting texts	Buchhaltungstexte	2018.06.19 05:33:47										
+0001	0001	KNKA	Test	test	2018.06.19 05:33:47										
+0001	0001	KNKK	Internal information	Interne Informationen	2018.06.19 05:33:47										
+0001	0001	KNMT	Customer material info	Kunden-Material-Info	2018.06.19 05:33:47										
+0001	0001	KNVK	Partner note	Partnernotiz	2018.06.19 05:33:47										
+0001	0001	KNVV	Sales note for customer	Verkaufshinweis extern	2018.06.19 05:33:47										
+0001	0001	KONA	Internal comment	Eröffnungsvermerke	2018.06.19 05:33:47										
+0001	0001	KONDD	Substitution text	Substitutionstext	2018.06.19 05:33:47										
+0001	0001	KONP	Internal comment	Eröffnungsvermerke	2018.06.19 05:33:47										
+0001	0001	LFA1	Accounting note	Buchhaltungsnotiz	2018.06.19 05:33:47										
+0001	0001	LFB1	Accounting note	Buchhaltungsnotiz	2018.06.19 05:33:47										
+0001	0001	LFM1	Purchasing Memo	Einkaufsnotiz	2018.06.19 05:33:47										
+0001	0001	MVKE	Sales text	Vertriebstext	2018.06.19 05:33:47										
+0001	0001	NBEW	Comment on accident	Bemerkung zum Unfall	2018.06.19 05:33:47										
+0001	0001	NDIA	Diagnosis text	Diagnosetext	2018.06.19 05:33:47										
+0001	0001	NORG	Comment on org. unit	Bemerkung Org.Einheit	2018.06.19 05:33:47										
+0001	0001	NPAT	Comment on patient	Bemerkung zum Patient	2018.06.19 05:33:47										
+0001	0001	NVVF	Comment, insurance, case	Bemerkung Versicherung Fall	2018.06.19 05:33:47										
+0001	0001	NVVP	Comment, insurance, patient	Bemerkung Versicherung Patient	2018.06.19 05:33:47										
+0001	0001	PACKINSTR	Text item packing instructions	Textposition Packvorschrift	2018.06.19 05:33:47										
+0001	0001	PMS			2018.06.19 05:33:47										
+0001	0001	RBKP	Note	Notiz	2018.06.19 05:33:47										
+0001	0001	REAR	Note for rent application	Notiz zum Mietgesuch	2018.06.19 05:33:47										
+0001	0001	RECN	Contract notes	Vertragsnotizen	2018.06.19 05:33:47										
+0001	0001	RM_RCP_PP	Prozess Parameter Text	Prozessparametertext	2018.06.19 05:33:47										
+0001	0001	SCMG_CASE	Description	Beschreibung	2018.06.19 05:33:47										
+0001	0001	SI000	Note on Collateral Provision	Notiz zu Sicherheitenstellung	2018.06.19 05:33:47										
+0001	0001	SKA1	Account assignment info	Kontierungsinfo	2018.06.19 05:33:47										
+0001	0001	SKB1	Account assignment info	Kontierungsinfo	2018.06.19 05:33:47										
+0001	0001	SQADB	Long text question document.	Langtext Doku zur Frage	2018.06.19 05:33:47										
+0001	0001	SRT_CF			2018.06.19 05:33:47										
+0001	0001	SRT_IBC			2018.06.19 05:33:47										
+0001	0001	SRT_IBCR			2018.06.19 05:33:47										
+0001	0001	SRT_LRD			2018.06.19 05:33:47										
+0001	0001	SVPM	Serv. master plant data text	Text zu Werksdaten Leistung	2018.06.19 05:33:47										
+0001	0001	TB_FHA	Trading	Handel	2018.06.19 05:33:47										
+0001	0001	TNABG	Comment   Employer	Bemerkung Arbeitgeber	2018.06.19 05:33:47										
+0001	0001	TNDEB	Comment   Customer	Bemerkung Debitor	2018.06.19 05:33:47										
+0001	0001	TNGPA	Comment   Gen.business partner	Bemerkung allg. G.partner	2018.06.19 05:33:47										
+0001	0001	TNKRH	Comment   Hospital	Bemerkung Krankenhaus	2018.06.19 05:33:47										
+0001	0001	TNKTR	Comment   Cost object	Bemerkung Kostenträger	2018.06.19 05:33:47										
+0001	0001	TNPER	Comment   Person	Bemerkung Person	2018.06.19 05:33:47										
+0001	0001	TNTPT	Comment tariff item	Bemerkung Tarifposition	2018.06.19 05:33:47										
+0001	0001	TRIAL	Planning	Planung	2018.06.19 05:33:47										
+0001	0001	TSEG	Process note	Notiz zum Terminvorgang	2018.06.19 05:33:47										
+0001	0001	UDM_CCT	Mark	Note	2018.06.19 05:33:47										
+0001	0001	UDM_RSM	Mark	Note	2018.06.19 05:33:47										
+0001	0001	UKM_01	Credit Management Calculation	Kreditmanagement Berechnung	2018.06.19 05:33:47										
+0001	0001	VBBK	Form Header	Formularkopftext	2018.06.19 05:33:47										
+0001	0001	VBBP	Material Sales Text	Materialverkaufstext	2018.06.19 05:33:47										
+0001	0001	VBKA	Preparation	Vorbereitung	2018.06.19 05:33:47										
+0001	0001	VTBMA	Outline agreement note	Notiz zum Rahmenvertrag	2018.06.19 05:33:47										
+0001	0001	VTTK	Forwarder's order	Spediteurauftrag	2018.06.19 05:33:47										
+0001	0001	WBHI	General item text	Positionstext allgemein	2018.06.19 05:33:47										
+0001	0001	WBHK	General remarks	Allgemeine Bemerkungen	2018.06.19 05:33:47										
+0001	0001	WBRK	Standard Header Text	Standard Kopftext	2018.06.19 05:33:47										
+0001	0001	WBRP	Standard Position Text	Standard Positionstext	2018.06.19 05:33:47										
+0001	0001	WLBM	Long Text	Langtext	2018.06.19 05:33:47										
+0002	0002	/ACCGO/UI1			2018.06.19 05:33:47										
+0002	0002	/SCWM/DLVH	Header Note 1	Kopfnotiz 1	2018.06.19 05:33:47										
+0002	0002	/SCWM/DLVI	Item note	Positionsnotiz	2018.06.19 05:33:47										
+0002	0002	/SEHS/TPP	EHS: Formatted Phrase Texts	EHS: Aufbereitete Phrasentexte	2018.06.19 05:33:47										
+0002	0002	AGRNEG	Comments by Marketing	Anmerk. der Marketingabteilung	2018.06.19 05:33:47										
+0002	0002	BELEG	Note	Notiz	2018.06.19 05:33:47										
+0002	0002	BELEG_FIAA	Note	Notiz	2018.06.19 05:33:47										
+0002	0002	BPAR	Remarks on creditworthiness	Notizen zur Bonität	2018.06.19 05:33:47										
+0002	0002	BPAR_ALL	Other remarks	Sonstige Notizen	2018.06.19 05:33:47										
+0002	0002	BUT000	Accounting note	Buchhaltungsnotiz	2018.06.19 05:33:47										
+0002	0002	CLIPBOARD	Clipboard 2	Benutzerablage_2	2018.06.19 05:33:47										
+0002	0002	CMS_CAG	Correspondance Notes	Korrespondenznotizen	2018.06.19 05:33:47										
+0002	0002	CODPSPEC	Note	Hinweis	2018.06.19 05:33:47										
+0002	0002	C_SHES_DGE	Item Text	Positionstext	2018.06.19 05:33:47										
+0002	0002	C_SHES_EVA	EHS: Info for External Use	EHS: Info für externe Stellen	2018.06.19 05:33:47										
+0002	0002	C_SHES_EVF	EHS: Info for External Use	EHS: Info für externe Stellen	2018.06.19 05:33:47										
+0002	0002	C_SHES_FAM	EHS: ID for Follow-Up Treatmt	EHS: Id zur Nachsorgeleistung	2018.06.19 05:33:47										
+0002	0002	C_SHES_MJ	Measurement Job 2	Messauftrag 2	2018.06.19 05:33:47										
+0002	0002	C_SHES_MP	Measurement Project 2	Messprojekt 2	2018.06.19 05:33:47										
+0002	0002	C_SHES_SPC	Comment for Restrictions	Kommentar Einschränkungen	2018.06.19 05:33:47										
+0002	0002	C_SHES_TPP	EHS: Formatted Phrase Texts	EHS: Aufbereitete Phrasentexte	2018.06.19 05:33:47										
+0002	0002	EHSWA_MAN	Danger. Goods Details for Item	Gefahrgutangaben zur Position	2018.06.19 05:33:47										
+0002	0002	EMBK	Destination Control Statement	Destination Control Statement	2018.06.19 05:33:47										
+0002	0002	FB01	Document line item texts	Texte zu Belegpostionen	2018.06.19 05:33:47										
+0002	0002	GMGT			2018.06.19 05:33:47										
+0002	0002	HRPBSFRDCR	Long Text of Table T5FPBSD8	Langtext der Tabelle T5FPBSD8	2018.06.19 05:33:47										
+0002	0002	INST_CAT	Long text for PV char. ATNAM	Langtext für PV-Merkmal ATNAM	2018.06.19 05:33:47										
+0002	0002	J1IA	Bill of lading text		2018.06.19 05:33:47										
+0002	0002	J1IARE1	Export obligation		2018.06.19 05:33:47										
+0002	0002	J1IEX	Bill of lading text		2018.06.19 05:33:47										
+0002	0002	J1IF	Sub contractors norms		2018.06.19 05:33:47										
+0002	0002	J_1BNFDOC	Compl. Information (Company)	Compl. Information (Company)	2018.06.19 05:33:47										
+0002	0002	KLAT	Standard title	Normtitel	2018.06.19 05:33:47										
+0002	0002	KNA1	Accounting note	Buchhaltungsnotiz	2018.06.19 05:33:47										
+0002	0002	KNB1	Dunning texts	Mahntexte	2018.06.19 05:33:47										
+0002	0002	KNKK	External information	Externe Informationen	2018.06.19 05:33:47										
+0002	0002	KNVK	Directions	Wegbeschreibung	2018.06.19 05:33:47										
+0002	0002	KNVV	Shipping instructions	Versandvorschrift	2018.06.19 05:33:47										
+0002	0002	KONA	Permits	Genehmigungen	2018.06.19 05:33:47										
+0002	0002	KONP	Permits	Genehmigungen	2018.06.19 05:33:47										
+0002	0002	LFA1	Purchasing Memo	Einkaufsnotiz	2018.06.19 05:33:47										
+0002	0002	LFB1	Information on withholding tax	Information zur Quellensteuer	2018.06.19 05:33:47										
+0002	0002	LFM1	Purchase order text	Bestelltext	2018.06.19 05:33:47										
+0002	0002	NPAT	Explanation of Donor ID	Erläuterung Spenderkennzeichen	2018.06.19 05:33:47										
+0002	0002	PMS			2018.06.19 05:33:47										
+0002	0002	REAR	Note for offered objects	Notiz zu angebotenen Objekten	2018.06.19 05:33:47										
+0002	0002	RECN	Condition notes	Konditionsnotizen	2018.06.19 05:33:47										
+0002	0002	SCMG_CASE	Internal note	Interne Notiz	2018.06.19 05:33:47										
+0002	0002	SKA1	Accounting note	Buchhaltungsnotiz	2018.06.19 05:33:47										
+0002	0002	SKB1	Accounting note	Buchhaltungsnotiz	2018.06.19 05:33:47										
+0002	0002	SRT_IBC			2018.06.19 05:33:47										
+0002	0002	SRT_IBCR			2018.06.19 05:33:47										
+0002	0002	SRT_LRD			2018.06.19 05:33:47										
+0002	0002	TB_FHA	Back Office	Abwicklung	2018.06.19 05:33:47										
+0002	0002	TRIAL	Log of Attempts	Versuchsprotokoll	2018.06.19 05:33:47										
+0002	0002	VBBK	Header Note 1	Kopfnotiz 1	2018.06.19 05:33:47										
+0002	0002	VBBP	Item note	Positionsnotiz	2018.06.19 05:33:47										
+0002	0002	VBKA	Report	Bericht	2018.06.19 05:33:47										
+0002	0002	VTTK	Freight list	Ladeliste	2018.06.19 05:33:47										
+0002	0002	WBHI	Internal note	Interner Vermerk	2018.06.19 05:33:47										
+0002	0002	WBHK	Special remarks	Spezielle Bemerkungen	2018.06.19 05:33:47										
+0002	0002	WBRK	Complaints: History	Reklamation: Historie	2018.06.19 05:33:47										
+0002	0002	WBRP	test 3	test 3	2018.06.19 05:33:47										
+0003	0003	/ACCGO/UI1			2018.06.19 05:33:47										
+0003	0003	/SCWM/DLVH	Header Note 2	Kopfnotiz 2	2018.06.19 05:33:47										
+0003	0003	/SCWM/DLVI	Packing Note	Verpackungshinweis	2018.06.19 05:33:47										
+0003	0003	AGRNEG	Comments by Manufacturer	Anmerkungen des Herstellers	2018.06.19 05:33:47										
+0003	0003	BELEG	Payment advice information	Zahlungsavisinformation	2018.06.19 05:33:47										
+0003	0003	BPAR	Remarks on financial data	Notizen zu Meldedaten	2018.06.19 05:33:47										
+0003	0003	BPAR_ALL	Special remarks	Besondere Notizen	2018.06.19 05:33:47										
+0003	0003	BUT000	Marketing Note	Marketingnotiz	2018.06.19 05:33:47										
+0003	0003	CLIPBOARD	Clipboard 3	Benutzerablage_3	2018.06.19 05:33:47										
+0003	0003	CMS_CAG	ECA: Conditions	Exportkreditversich.: Auflagen	2018.06.19 05:33:47										
+0003	0003	CODPSPEC	Control recipe	Steuerrezept	2018.06.19 05:33:47										
+0003	0003	C_SHES_SPC	Comment for Time Scheduling	Kommentar Terminierung	2018.06.19 05:33:47										
+0003	0003	EHSWA_MAN	Text 3	Text 3	2018.06.19 05:33:47										
+0003	0003	GMGT			2018.06.19 05:33:47										
+0003	0003	HRPBSFRDCR	Long Text of Table T5FPBSD6	Langtext der Tabelle T5FPBSD6	2018.06.19 05:33:47										
+0003	0003	J1IA	Shipment details text		2018.06.19 05:33:47										
+0003	0003	J1IARE1	Excise Seal Number		2018.06.19 05:33:47										
+0003	0003	J1IEX	Shipment details text		2018.06.19 05:33:47										
+0003	0003	J1IF	Shipping instructions		2018.06.19 05:33:47										
+0003	0003	J1IH	Cancel Comments	Abbrechen Bemerkungen	2018.06.19 05:33:47										
+0003	0003	KNA1	Marketing Note	Marketingnotiz	2018.06.19 05:33:47										
+0003	0003	KNB1	Payment transactions	Zahlungsverkehr	2018.06.19 05:33:47										
+0003	0003	KNKK	Actions	Aktionen	2018.06.19 05:33:47										
+0003	0003	KNVK	Decision-making powers	Entscheidungsvollmachten	2018.06.19 05:33:47										
+0003	0003	KNVV	Selection for shipping	Markierung für Versand	2018.06.19 05:33:47										
+0003	0003	KONA	Concluding comments	Abschlußvermerke	2018.06.19 05:33:47										
+0003	0003	KONP	Concluding comments	Abschlußvermerke	2018.06.19 05:33:47										
+0003	0003	PMS			2018.06.19 05:33:47										
+0003	0003	REAR	Other remarks	Sonstige Notizen	2018.06.19 05:33:47										
+0003	0003	RECN	Object notes	Objektnotizen	2018.06.19 05:33:47										
+0003	0003	SCMG_CASE	Concluding Remark	Schlussbemerkung	2018.06.19 05:33:47										
+0003	0003	SKA1	SAP account assignment info	SAP_Kontierungsinfo	2018.06.19 05:33:47										
+0003	0003	SKB1	Additional info	Zusatzinfo	2018.06.19 05:33:47										
+0003	0003	SRT_IBC			2018.06.19 05:33:47										
+0003	0003	SRT_IBCR			2018.06.19 05:33:47										
+0003	0003	TB_FHA	Accounting	Buchhaltung	2018.06.19 05:33:47										
+0003	0003	TRIAL	Report	Bericht	2018.06.19 05:33:47										
+0003	0003	VBBK	Header Note 2	Kopfnotiz 2	2018.06.19 05:33:47										
+0003	0003	VBBP	Packing Note	Verpackungshinweis	2018.06.19 05:33:47										
+0003	0003	VBKA	Telephone note	Telefonnotiz	2018.06.19 05:33:47										
+0003	0003	VTTK	Header note	Kopfnotiz	2018.06.19 05:33:47										
+0003	0003	WBHI	Shipping Instruction	Versandanweisung	2018.06.19 05:33:47										
+0004	0004	/ACCGO/UI1			2018.06.19 05:33:47										
+0004	0004	/SCWM/DLVH	Header Note 3	Kopfnotiz 3	2018.06.19 05:33:47										
+0004	0004	/SCWM/DLVI	Delivery text	Anlieferungstext	2018.06.19 05:33:47										
+0004	0004	BELEG	Remarks EBPP	Bemerkungen EBPP	2018.06.19 05:33:47										
+0004	0004	BPAR	Notes on prev. tenancy arrngmt	Notizen zu früh. Mietverhältn.	2018.06.19 05:33:47										
+0004	0004	CLIPBOARD	Clipboard 4	Benutzerablage_4	2018.06.19 05:33:47										
+0004	0004	CMS_CAG	ECA: Obligations Information	ExpKredVers: Inform.pflichten	2018.06.19 05:33:47										
+0004	0004	EHSWA_MAN	Text 4	Text 4	2018.06.19 05:33:47										
+0004	0004	GMGT			2018.06.19 05:33:47										
+0004	0004	HRPBSFRDCR	Ind. Long Text for Signature	Ind. Langtext für Unterschrift	2018.06.19 05:33:47										
+0004	0004	J1IARE1	Container number		2018.06.19 05:33:47										
+0004	0004	KNA1	3rd-Party Note (Ext. Services)	Außendienstnotiz	2018.06.19 05:33:47										
+0004	0004	KNB1	Insurance	Versicherung	2018.06.19 05:33:47										
+0004	0004	KNVK	Sales call note	Besuchshinweise	2018.06.19 05:33:47										
+0004	0004	KNVV	Marketing notes	Marketinghinweis	2018.06.19 05:33:47										
+0004	0004	PMS			2018.06.19 05:33:47										
+0004	0004	RECN	Distribution notes	Verteilungsnotizen	2018.06.19 05:33:47										
+0004	0004	SCMG_CASE	Reply	Antwort	2018.06.19 05:33:47										
+0004	0004	TB_FHA	Notes on confirmation	Notizen Bestätigung	2018.06.19 05:33:47										
+0004	0004	VBBK	Header Note 3	Kopfnotiz 3	2018.06.19 05:33:47										
+0004	0004	VBBP	Delivery text	Anlieferungstext	2018.06.19 05:33:47										
+0004	0004	VBKA	Address notes	Notizen zu Adressen	2018.06.19 05:33:47										
+0004	0004	VTTK	Header Note 2	Kopfnotiz 2	2018.06.19 05:33:47										
+0005	0005	/ACCGO/UI1			2018.06.19 05:33:47										
+0005	0005	/SCWM/DLVH	Header Note 4	Kopfnotiz 4	2018.06.19 05:33:47										
+0005	0005	/SCWM/DLVI	Purchase order text	Bestelltext	2018.06.19 05:33:47										
+0005	0005	BPAR	Remarks on current ten. arrgmt	Notizen zu jetz. Mietverhältn.	2018.06.19 05:33:47										
+0005	0005	CLIPBOARD	Clipboard 5	Benutzerablage_5	2018.06.19 05:33:47										
+0005	0005	CMS_CAG	ECA: Dates Information	Exportkreditvers.: Termine	2018.06.19 05:33:47										
+0005	0005	EHSWA_MAN	Text 5	Text 5	2018.06.19 05:33:47										
+0005	0005	GMGT			2018.06.19 05:33:47										
+0005	0005	KNA1	Address note	Adressnotiz	2018.06.19 05:33:47										
+0005	0005	KNVK	Competitor	Wettbewerber	2018.06.19 05:33:47										
+0005	0005	KNVV	Competitor	Wettbewerber	2018.06.19 05:33:47										
+0005	0005	SCMG_CASE	Note	Notiz	2018.06.19 05:33:47										
+0005	0005	TB_FHA	Notes on dealing slip	Notizen Händlerzettel	2018.06.19 05:33:47										
+0005	0005	VBBK	Header Note 4	Kopfnotiz 4	2018.06.19 05:33:47										
+0005	0005	VBBP	Purchase order text	Bestelltext	2018.06.19 05:33:47										
+0005	0005	VBKA	Confidential note	Private Notiz	2018.06.19 05:33:47										
+0005	0005	VTTK	Header Note 3	Kopfnotiz 3	2018.06.19 05:33:47										
+0006	0006	/ACCGO/UI1			2018.06.19 05:33:47										
+0006	0006	/SCWM/DLVI	Production Memo	Fertigungshinweis	2018.06.19 05:33:47										
+0006	0006	CMS_CAG	ECA: Remuneration	Exportkreditvers.: Vergütung	2018.06.19 05:33:47										
+0006	0006	KNA1	Bank memos	Banknotizen	2018.06.19 05:33:47										
+0006	0006	KNVK	Advertising funds	Werbemittel	2018.06.19 05:33:47										
+0006	0006	KNVV	Potential reasoning	Potentialbegründung	2018.06.19 05:33:47										
+0006	0006	SCMG_CASE	Note	Hinweis	2018.06.19 05:33:47										
+0006	0006	TB_FHA	Hedge Management Notes	Notizen Hedge Management	2018.06.19 05:33:47										
+0006	0006	VBBP	Production Memo	Fertigungshinweis	2018.06.19 05:33:47										
+0006	0006	VBKA	Information for internal use	Information an Innendienst	2018.06.19 05:33:47										
+0006	0006	VTTK	Header Note 4	Kopfnotiz 4	2018.06.19 05:33:47										
+0007	0007	/ACCGO/UI1			2018.06.19 05:33:47										
+0007	0007	/SCWM/DLVI	Customer material text	Kunden-Material-Text	2018.06.19 05:33:47										
+0007	0007	CMS_CAG	Pool Agmts: Applicable Law	Poolvereinbgn: Geltendes Recht	2018.06.19 05:33:47										
+0007	0007	KNA1	Enterprise Structure	Unternehmensstruktur	2018.06.19 05:33:47										
+0007	0007	KNVK	Promotional gifts	Geschenke	2018.06.19 05:33:47										
+0007	0007	KNVV	Product proposal items	Sortimentschwerpunkte	2018.06.19 05:33:47										
+0007	0007	SCMG_CASE	Business Note	Geschäftsgangvermerk	2018.06.19 05:33:47										
+0007	0007	VBBP	Customer material text	Kunden-Material-Text	2018.06.19 05:33:47										
+0007	0007	VBKA	Correspondence	Anschreiben	2018.06.19 05:33:47										
+0008	0008	CMS_CAG	Guarantee (Perf. Bond): Usage	Garantie (Perf. Bond): Nutzung	2018.06.19 05:33:47										
+0008	0008	KNA1	Special institutions	Besondere Einrichtungen	2018.06.19 05:33:47										
+0008	0008	KNVK	Poster	Poster	2018.06.19 05:33:47										
+0008	0008	KNVV	Call frequency	Besuchsrhythmus	2018.06.19 05:33:47										
+0009	0009	CMS_CAG	Transitional Collateral	Übergangssicherheit	2018.06.19 05:33:47										
+0009	0009	KNA1	Specialization	Spezialisierung	2018.06.19 05:33:47										
+0009	0009	KNVV	Payment willingness	Zahlungsmoral	2018.06.19 05:33:47										
+001	001	/SCWM/DLVH	Delivery text 1	Zuliefertext 1	2018.06.19 05:33:47										
+001	001	/SCWM/DLVI	Delivery texts 1	Zuliefertexte 1	2018.06.19 05:33:47										
+001	001	CACSA1	General Information	Allgemeines	2018.06.19 05:33:47										
+001	001	VBBK	Delivery text 1	Zuliefertext 1	2018.06.19 05:33:47										
+001	001	VBBP	Delivery texts 1	Zuliefertexte 1	2018.06.19 05:33:47										
+0010	0010	/SCWM/DLVH	Form Supplement Text	Formularanhangstext	2018.06.19 05:33:47										
+0010	0010	CMS_CAG	Final Collateral	Endgültige Sicherheit	2018.06.19 05:33:47										
+0010	0010	KNA1	Potential reasoning	Potentialbegründung	2018.06.19 05:33:47										
+0010	0010	RECN	Other remarks	Sonstige Notizen	2018.06.19 05:33:47										
+0010	0010	VBBK	Form Supplement Text	Formularanhangstext	2018.06.19 05:33:47										
+0011	0011	/SCWM/DLVH	Terms of delivery	Lieferbedingungen	2018.06.19 05:33:47										
+0011	0011	CMS_CAG	Original Collateral	Ursprüngliche Sicherheit	2018.06.19 05:33:47										
+0011	0011	KNA1	Internal note	Interne Notiz	2018.06.19 05:33:47										
+0011	0011	VBBK	Terms of delivery	Lieferbedingungen	2018.06.19 05:33:47										
+0012	0012	/SCWM/DLVH	Shipping instructions	Versandvorschrift	2018.06.19 05:33:47										
+0012	0012	CMS_CAG	Substitutional Collateral	Ersatzsicherheit	2018.06.19 05:33:47										
+0012	0012	VBBK	Shipping instructions	Versandvorschrift	2018.06.19 05:33:47										
+0013	0013	/SCWM/DLVH	Terms of payment	Zahlungsbedingungen	2018.06.19 05:33:47										
+0013	0013	VBBK	Terms of payment	Zahlungsbedingungen	2018.06.19 05:33:47										
+0014	0014	/SCWM/DLVH	Warranties	Gewährleistungen	2018.06.19 05:33:47										
+0014	0014	VBBK	Warranties	Gewährleistungen	2018.06.19 05:33:47										
+0015	0015	/SCWM/DLVH	Penalty for breach of contract	Vertragsstrafen	2018.06.19 05:33:47										
+0015	0015	VBBK	Penalty for breach of contract	Vertragsstrafen	2018.06.19 05:33:47										
+0016	0016	/SCWM/DLVH	Contract riders (clauses)	Nebenabreden	2018.06.19 05:33:47										
+0016	0016	VBBK	Contract riders (clauses)	Nebenabreden	2018.06.19 05:33:47										
+0017	0017	/SCWM/DLVH	Selection	Markierung	2018.06.19 05:33:47										
+0017	0017	VBBK	Selection	Markierung	2018.06.19 05:33:47										
+0018	0018	/SCWM/DLVH	Other contractual stipulations	Sonstige Vereinbarungen	2018.06.19 05:33:47										
+0018	0018	VBBK	Other contractual stipulations	Sonstige Vereinbarungen	2018.06.19 05:33:47										
+0019	0019	/SCWM/DLVH	Customer order text	Kundenbestelltext	2018.06.19 05:33:47										
+0019	0019	VBBK	Customer order text	Kundenbestelltext	2018.06.19 05:33:47										
+002	002	/SCWM/DLVH	Delivery text 2	Zuliefertext 2	2018.06.19 05:33:47										
+002	002	/SCWM/DLVI	Delivery texts 2	Zuliefertexte 2	2018.06.19 05:33:47										
+002	002	VBBK	Delivery text 2	Zuliefertext 2	2018.06.19 05:33:47										
+002	002	VBBP	Delivery texts 2	Zuliefertexte 2	2018.06.19 05:33:47										
+003	003	/SCWM/DLVI	Delivery texts 3	Zuliefertexte 3	2018.06.19 05:33:47										
+003	003	VBBP	Delivery texts 3	Zuliefertexte 3	2018.06.19 05:33:47										
+0099	0099	SRT_IBC			2018.06.19 05:33:47										
+0099	0099	SRT_IBCR			2018.06.19 05:33:47										
+01	01	AKKP	General remarks	Allgemeine Bemerkungen	2018.06.19 05:33:47										
+0100	0100	/SCWM/DLVH	Bill of Lading Information	Frachtbrief-Informationen	2018.06.19 05:33:47										
+0100	0100	VBBK	Bill of Lading Information	Frachtbrief-Informationen	2018.06.19 05:33:47										
+0101	0101	/SCWM/DLVH	Export/Import Information	Export/Import-Informationen	2018.06.19 05:33:47										
+0101	0101	VBBK	Export/Import Information	Export/Import-Informationen	2018.06.19 05:33:47										
+0102	0102	/SCWM/DLVH	Transport Information	Transportinformationen	2018.06.19 05:33:47										
+0102	0102	VBBK	Transport Information	Transportinformationen	2018.06.19 05:33:47										
+0C01	0C01	WCOCOH			2018.06.19 05:33:47										
+0C02	0C02	WCOCOH			2018.06.19 05:33:47										
+0P01	0P01	WCOCOH			2018.06.19 05:33:47										
+0P02	0P02	WCOCOH			2018.06.19 05:33:47										
+0R01	0R01	WCOCOH			2018.06.19 05:33:47										
+0R02	0R02	WCOCOH			2018.06.19 05:33:47										
+0S01	0S01	WCOCOH	Internal text	Interner Text	2018.06.19 05:33:47										
+0S02	0S02	WCOCOH	External Text	Externer Text	2018.06.19 05:33:47										
+1	1	GMSO_CLASS	Short Text	Kurztext	2018.06.19 05:33:47										
+1	1	GMSO_PROG	Short Text	Kurztext	2018.06.19 05:33:47										
+1000	1000	/SCWM/DLVH			2018.06.19 05:33:47										
+1000	1000	/SCWM/DLVI			2018.06.19 05:33:47										
+1000	1000	KONA	Bonus payments	Bonusauszahlungen	2018.06.19 05:33:47										
+1000	1000	KONP	Bonus payments	Bonusauszahlungen	2018.06.19 05:33:47										
+1000	1000	RP_PLAN	Text on info type 1000	Text zu Infotyp 1000	2018.06.19 05:33:47										
+1620	1620	BELEG	Actual Seller	Tatsächlicher Verkäufer	2018.06.19 05:33:47										
+1622	1622	BELEG	Actual Buyer	Tatsächlicher Käufer	2018.06.19 05:33:47										
+1625	1625	BELEG	Ext. No. of Incoming Invoice	Ext. Nr. der Eingangsrechnung	2018.06.19 05:33:47										
+1625	1625	VBBK	Ext. No. of Incoming Invoice	Ext. Nr. der Eingangsrechnung	2018.06.19 05:33:47										
+1627	1627	BELEG	Ext. Date of Incoming Invoice	Ext. Dat. der Eingangsrechnung	2018.06.19 05:33:47										
+1627	1627	VBBK	Ext. Date of Incoming Invoice	Ext. Dat. der Eingangsrechnung	2018.06.19 05:33:47										
+1630	1630	BELEG	Payment Order Number	Zahlungsauftragsnummer	2018.06.19 05:33:47										
+1640	1640	BELEG	Payment Order Date	Zahlungsauftragsdatum	2018.06.19 05:33:47										
+1640	1640	VBBK	Changed Invoice	Geänderte Rechnung	2018.06.19 05:33:47										
+1650	1650	BELEG	Invoice Revision Number	Änderungsnummer der Rechnung	2018.06.19 05:33:47										
+1650	1650	VBBK	Invoice Revision Number	Änderungsnummer der Rechnung	2018.06.19 05:33:47										
+1660	1660	BELEG	Invoice Revision Date	Änderungsdatum der Rechnung	2018.06.19 05:33:47										
+1660	1660	VBBK	Invoice Revision Date	Änderungsdatum der Rechnung	2018.06.19 05:33:47										
+1670	1670	BELEG	Tax Reporting Date of Rev.Inv.	Steuermeldedatum der Änd.Rechn	2018.06.19 05:33:47										
+1670	1670	VBBK	Tax Reporting Date of Rev.Inv.	Steuermeldedatum der Änd.Rechn	2018.06.19 05:33:47										
+1680	1680	BELEG	External Number of Invoice	Externe Nummer der Rechnung	2018.06.19 05:33:47										
+1680	1680	VBBK	External Number of Invoice	Externe Nummer der Rechnung	2018.06.19 05:33:47										
+1690	1690	BELEG	External Date of Invoice	Externes Datum der Rechnung	2018.06.19 05:33:47										
+1690	1690	VBBK	External Date of Invoice	Externes Datum der Rechnung	2018.06.19 05:33:47										
+2	2	GMSO_CLASS	Long Text	Langtext	2018.06.19 05:33:47										
+2	2	GMSO_PROG	Long Text	Langtext	2018.06.19 05:33:47										
+2001	2001	WBHI	TC@Net Negotiation (Changes)	TC@Net Verhandlung (Änder.)	2018.06.19 05:33:47										
+2001	2001	WBHK	TC@Net Negotiation (History)	TC@Net Verhandlung (Historie)	2018.06.19 05:33:47										
+2002	2002	WBHI	TC@Net Negotiation (Text)	TC@Net Verhandlung (Text)	2018.06.19 05:33:47										
+2002	2002	WBHK	TC@Net Negotiation	TC@Net Verhandlung	2018.06.19 05:33:47										
+2003	2003	WBHK	TC@Net Title (History)	TC@Net Titel (Historie)	2018.06.19 05:33:47										
+2004	2004	WBHK	TC@Net Title	TC@Net Titel	2018.06.19 05:33:47										
+3000	3000	/SCWM/DLVH	Header Text 1 Decentral Shipm	Kopftext 1 dezentraler Versand	2018.06.19 05:33:47										
+3000	3000	/SCWM/DLVI	Item Text 1 Decentral Shipment	Positionstext 1 dezentraler V	2018.06.19 05:33:47										
+3000	3000	VBBK	Header Text 1 Decentral Shipm	Kopftext 1 dezentraler Versand	2018.06.19 05:33:47										
+3000	3000	VBBP	Item Text 1 Decentral Shipment	Positionstext 1 dezentraler V	2018.06.19 05:33:47										
+3001	3001	/SCWM/DLVH	Header Text 2 Decentral Shipm	Kopftext 2 dezentraler Versand	2018.06.19 05:33:47										
+3001	3001	/SCWM/DLVI	Item Text 2 Decentral Shipment	Positionstext 2 dezentraler V	2018.06.19 05:33:47										
+3001	3001	VBBK	Header Text 2 Decentral Shipm	Kopftext 2 dezentraler Versand	2018.06.19 05:33:47										
+3001	3001	VBBP	Item Text 2 Decentral Shipment	Positionstext 2 dezentraler V	2018.06.19 05:33:47										
+3002	3002	/SCWM/DLVH	Header Text 3 Decentral Shipm	Kopftext 3 dezentraler Versand	2018.06.19 05:33:47										
+3002	3002	/SCWM/DLVI	Item Text 3 Decentral Shipment	Positionstext 3 dezentraler V	2018.06.19 05:33:47										
+3002	3002	VBBK	Header Text 3 Decentral Shipm	Kopftext 3 dezentraler Versand	2018.06.19 05:33:47										
+3002	3002	VBBP	Item Text 3 Decentral Shipment	Positionstext 3 dezentraler V	2018.06.19 05:33:47										
+3003	3003	/SCWM/DLVH	Header Text 4 Decentral Shipm	Kopftext 4 dezentraler Versand	2018.06.19 05:33:47										
+3003	3003	VBBK	Header Text 4 Decentral Shipm	Kopftext 4 dezentraler Versand	2018.06.19 05:33:47										
+3010	3010	/SCWM/DLVH	Supplementary Text 1	Anhangstext 1	2018.06.19 05:33:47										
+3010	3010	VBBK	Supplementary Text 1	Anhangstext 1	2018.06.19 05:33:47										
+3011	3011	/SCWM/DLVH	Supplementary Text 2	Anhangstext 2	2018.06.19 05:33:47										
+3011	3011	VBBK	Supplementary Text 2	Anhangstext 2	2018.06.19 05:33:47										
+3012	3012	/SCWM/DLVH	Supplementary Text 3	Anhangstext 3	2018.06.19 05:33:47										
+3012	3012	VBBK	Supplementary Text 3	Anhangstext 3	2018.06.19 05:33:47										
+3013	3013	/SCWM/DLVH	Supplementary Text 4	Anhangstext 4	2018.06.19 05:33:47										
+3013	3013	VBBK	Supplementary Text 4	Anhangstext 4	2018.06.19 05:33:47										
+3014	3014	/SCWM/DLVH	Supplementary Text 5	Anhangstext 5	2018.06.19 05:33:47										
+3014	3014	VBBK	Supplementary Text 5	Anhangstext 5	2018.06.19 05:33:47										
+3015	3015	/SCWM/DLVH	Supplementary Text 6	Anhangstext 6	2018.06.19 05:33:47										
+3015	3015	VBBK	Supplementary Text 6	Anhangstext 6	2018.06.19 05:33:47										
+3016	3016	/SCWM/DLVH	Supplementary Text 7	Anhangstext 7	2018.06.19 05:33:47										
+3016	3016	VBBK	Supplementary Text 7	Anhangstext 7	2018.06.19 05:33:47										
+3017	3017	/SCWM/DLVH	Supplementary Text 8	Anhangstext 8	2018.06.19 05:33:47										
+3017	3017	VBBK	Supplementary Text 8	Anhangstext 8	2018.06.19 05:33:47										
+3018	3018	/SCWM/DLVH	Supplementary Text 9	Anhangstext 9	2018.06.19 05:33:47										
+3018	3018	VBBK	Supplementary Text 9	Anhangstext 9	2018.06.19 05:33:47										
+3019	3019	/SCWM/DLVH	Supplementary Text 10	Anhangstext 10	2018.06.19 05:33:47										
+3019	3019	VBBK	Supplementary Text 10	Anhangstext 10	2018.06.19 05:33:47										
+3020	3020	/SCWM/DLVH	Supplementary Text 11	Anhangstext 11	2018.06.19 05:33:47										
+3020	3020	VBBK	Supplementary Text 11	Anhangstext 11	2018.06.19 05:33:47										
+3021	3021	/SCWM/DLVH	Supplementary Text 12	Anhangstext 12	2018.06.19 05:33:47										
+3021	3021	VBBK	Supplementary Text 12	Anhangstext 12	2018.06.19 05:33:47										
+3022	3022	/SCWM/DLVH	Supplementary Text 13	Anhangstext 13	2018.06.19 05:33:47										
+3022	3022	VBBK	Supplementary Text 13	Anhangstext 13	2018.06.19 05:33:47										
+3023	3023	/SCWM/DLVH	Supplementary Text 14	Anhangstext 14	2018.06.19 05:33:47										
+3023	3023	VBBK	Supplementary Text 14	Anhangstext 14	2018.06.19 05:33:47										
+3024	3024	/SCWM/DLVH	Supplementary Text 15	Anhangstext 15	2018.06.19 05:33:47										
+3024	3024	VBBK	Supplementary Text 15	Anhangstext 15	2018.06.19 05:33:47										
+3025	3025	/SCWM/DLVH	Supplementary Text 16	Anhangstext 16	2018.06.19 05:33:47										
+3025	3025	VBBK	Supplementary Text 16	Anhangstext 16	2018.06.19 05:33:47										
+5000	5000	/SCWM/DLVI	Material long text	Materiallangtext	2018.06.19 05:33:47										
+5000	5000	VBBP	Material long text	Materiallangtext	2018.06.19 05:33:47										
+7001	7001	MM07ET	GR slip text	WE-Etikettentext	2018.06.19 05:33:47										
+741	741	SAPPYSG00	Infotype 741 texts	Infotype 741 texts	2018.06.19 05:33:47										
+874	874	SAPPYGB00			2018.06.19 05:33:47										
+9000	9000	FB01	Sample texts	Spieltexte	2018.06.19 05:33:47										
+9999	9999	RECN	Transmission note	Sendenotiz	2018.06.19 05:33:47										
+A01	A01	EKEK	Release Order Text	Abruftext	2018.06.19 05:33:47										
+A01	A01	EKKO	Header text	Kopftext	2018.06.19 05:33:47										
+A01	A01	EKPO	Item text	Positionstext	2018.06.19 05:33:47										
+A01	A01	FKKVKP	Payment Condition		2018.06.19 05:33:47										
+A02	A02	EKKO	Header note	Kopfnotiz	2018.06.19 05:33:47										
+A02	A02	FKKVKP	Days for acceptance		2018.06.19 05:33:47										
+A03	A03	EKKO	Pricing types	Preisarten	2018.06.19 05:33:47										
+A03	A03	EKPO	Material PO text	Materialbestelltext	2018.06.19 05:33:47										
+A03	A03	FKKVKP	Payment priority		2018.06.19 05:33:47										
+A04	A04	EKKO	Deadlines	Termine	2018.06.19 05:33:47										
+A05	A05	EKKO	Terms of delivery	Lieferbedingungen	2018.06.19 05:33:47										
+A06	A06	EKKO	Shipping instructions	Versandvorschrift	2018.06.19 05:33:47										
+A07	A07	EKKO	Terms of payment	Zahlungsbedingungen	2018.06.19 05:33:47										
+A08	A08	EKKO	Warranties	Gewährleistungen	2018.06.19 05:33:47										
+A09	A09	EKKO	Penalty for breach of contract	Vertragsstrafen	2018.06.19 05:33:47										
+A10	A10	/SCWM/DLVI	SPEC2000 Request/Quot. Item	SPEC2000 Position Anfr./Ang.	2018.06.19 05:33:47										
+A10	A10	EKKO	Guarantees	Garantien	2018.06.19 05:33:47										
+A11	A11	EKKO	Contract riders (clauses)	Nebenabreden	2018.06.19 05:33:47										
+A12	A12	EKKO	Attachment	Anlage	2018.06.19 05:33:47										
+A13	A13	EKKO	Other contractual stipulations	Sonstige Vereinbarungen	2018.06.19 05:33:47										
+A14	A14	EKKO	Delivery	Anlieferung	2018.06.19 05:33:47										
+A15	A15	EKKO	Vendor memo (general)	Lieferantennotiz (allgemein)	2018.06.19 05:33:47										
+A16	A16	EKKO	Vendor memo (special)	Lieferantennotiz (speziell)	2018.06.19 05:33:47										
+A17	A17	EKKO	Supplement	Supplement	2018.06.19 05:33:47										
+A20	A20	/SCWM/DLVH	SPEC2000 Request/Quot. Header	SPEC2000 Kopf Anfrage/Angebot	2018.06.19 05:33:47										
+A20	A20	EKKO	Header Text for SPEC2000	Kopftext für SPEC2000	2018.06.19 05:33:47										
+A4	A4	EKPO	Additional text for item		2018.06.19 05:33:47										
+AA2	AA2	/SCWM/DLVI	Stock Information	Bestandsinformation	2018.06.19 05:33:47										
+AA2	AA2	EKPO	Stock Information Text	Bestandsinformationstext	2018.06.19 05:33:47										
+ABB	ABB	STYLESHEET	Format Update	Formatumsetzung	2018.06.19 05:33:47										
+ABCD	ABCD	/PM0/ATEXT	Risk Reasons	Risikogründe	2018.06.19 05:33:47										
+ABLA	ABLA	/SCWM/DLVI	General Unloading Text	Abladetext allgemein	2018.06.19 05:33:47										
+ACTN	ACTN	BRF	BRF: Actions	BRF: Aktionen	2018.06.19 05:33:47										
+AD	AD	DOKU	PDF-Based Form	PDF-basiertes Formular	2018.06.19 05:33:47										
+ADRS	ADRS	TEXT	Standard texts for adr.Include	Standardtext für Adreß-Include	2018.06.19 05:33:47										
+ADT	ADT	SPCIPPDR	Additional Description	Zusätzliche Beschreibung	2018.06.19 05:33:47										
+ADT	ADT	SPCIPPDS	Additional Description	Zusätzliche Beschreibung	2018.06.19 05:33:47										
+AEDT	AEDT	/ACCGO/STL			2018.06.19 05:33:47										
+AENR	AENR	CHANGE	Change master text	Änderungsstammtext	2018.06.19 05:33:47										
+AEOI	AEOI	CHANGE	Change index text	Änderungsindextext	2018.06.19 05:33:47										
+AFFV	AFFV	AUFK	Proc.instruction charact.text	Prozeßvorgabenmerkmalstext	2018.06.19 05:33:47										
+AI	AI	DOKU	Form Interface	Formularschnittstelle	2018.06.19 05:33:47										
+AJAO	AJAO	RE	Adjustment Measure Object Text	Text Anpassungsmaßnahmenobjekt	2018.06.19 05:33:47										
+AJAT	AJAT	RE	Text for Adjustment Measure	Text zur Anpassungsmaßnahme	2018.06.19 05:33:47										
+AJEX	AJEX	RE	Text Ongoing Expenses	Text Laufende Aufwendungen	2018.06.19 05:33:47										
+AJFP	AJFP	RE	Text Financing Plan Item	Text Finanzierungplanposition	2018.06.19 05:33:47										
+AJPR	AJPR	RE	Text for Adjustment Run	Text zum Anpassungslauf	2018.06.19 05:33:47										
+AK1	AK1	AUKO	Header text	Kopftext	2018.06.19 05:33:47										
+AK1	AK1	WAKH			2018.06.19 05:33:47										
+AK2	AK2	AUKO	Header note	Kopfnotiz	2018.06.19 05:33:47										
+AK2	AK2	WAKH			2018.06.19 05:33:47										
+ALRT	ALRT	TEXT	Texts for Alerts	Texte zu Alerts	2018.06.19 05:33:47										
+AO	AO	DOKU	Archiving Object	Archivierungsobjekt	2018.06.19 05:33:47										
+AP1	AP1	AUPO	Item text	Positionstext	2018.06.19 05:33:47										
+AP1	AP1	WAKP			2018.06.19 05:33:47										
+AP2	AP2	AUPO	Item note	Positionsnotiz	2018.06.19 05:33:47										
+AP2	AP2	WAKP			2018.06.19 05:33:47										
+APCL	APCL	BRF	BRF: Application Class	BRF: Anwendungsklasse	2018.06.19 05:33:47										
+APP1	APP1	HR_APPNOTE	Appraisal message	Beurteilungsnotiz	2018.06.19 05:33:47										
+APPR	APPR	FMCFBUD	Long Text: Approved Res. Bdgt	Langtext: Genehmig. Budgetrest	2018.06.19 05:33:47										
+APRV	APRV	PROC_WFL			2018.06.19 05:33:47										
+AREV	AREV	/ACCGO/STL			2018.06.19 05:33:47										
+ARLS	ARLS	/ACCGO/STL			2018.06.19 05:33:47										
+ARPL	ARPL	RP_PLAN	Workplace long text	Langtext Arbeitsplatz	2018.06.19 05:33:47										
+ARSN	ARSN	TEXT	Reason for rent adjustment	Begründung der Mietanpassung	2018.06.19 05:33:47										
+ASNH	ASNH	ICH			2018.06.19 05:33:47										
+ASNI	ASNI	ICH			2018.06.19 05:33:47										
+ASU	ASU	/PRA/ONRR			2018.06.19 05:33:47										
+ASU	ASU	/PRA/T9			2018.06.19 05:33:47										
+ASU	ASU	/PRA/TA			2018.06.19 05:33:47										
+ASUE	ASUE	/PRA/ONRR			2018.06.19 05:33:47										
+ASUE	ASUE	/PRA/T9			2018.06.19 05:33:47										
+ASUE	ASUE	/PRA/TA			2018.06.19 05:33:47										
+AT	AT	EINA	Info record note	Infonotiz	2018.06.19 05:33:47										
+ATT	ATT	HRPADFR	Accident at Work	Accident de travail	2018.06.19 05:33:47										
+ATTA	ATTA	/BAOF/TEXT			2018.06.19 05:33:47										
+AVOT	AVOT	AUFK	Transaction text	Vorgangstext	2018.06.19 05:33:47										
+B01	B01	EBAN	Item text	Positionstext	2018.06.19 05:33:47										
+B01	B01	EBANH	Header note	Kopfnotiz	2018.06.19 05:33:47										
+B02	B02	EBAN	Item note	Positionsnotiz	2018.06.19 05:33:47										
+B03	B03	EBAN	Delivery text	Anlieferungstext	2018.06.19 05:33:47										
+B04	B04	EBAN	Material PO text	Materialbestelltext	2018.06.19 05:33:47										
+B06	B06	EBAN			2018.06.19 05:33:47										
+BBDF	BBDF	VMS			2018.06.19 05:33:47										
+BC	BC	DOKU	Business Catalog	Business Katalog	2018.06.19 05:33:47										
+BCOL	BCOL	GRAPHICS	In color, SAPWIN or PCL5	Farbbild, SAPWIN oder PCL5	2018.06.19 05:33:47										
+BDCH	BDCH	RE	Fixt./Fitt. Charact. Memo	Notiz zum Ausstattungsmerkmal	2018.06.19 05:33:47										
+BDOA	BDOA	RE	Note on Object Assignment	Notiz zur Objektzuordnung	2018.06.19 05:33:47										
+BEA1	BEA1	/SCWM/DLVH	B1	b1	2018.06.19 05:33:47										
+BEA1	BEA1	VBBK	B1	b1	2018.06.19 05:33:47										
+BEA2	BEA2	/SCWM/DLVH	B2	b2	2018.06.19 05:33:47										
+BEA2	BEA2	VBBK	B2	b2	2018.06.19 05:33:47										
+BEA3	BEA3	/SCWM/DLVH	B3	b3	2018.06.19 05:33:47										
+BEA3	BEA3	VBBK	B3	b3	2018.06.19 05:33:47										
+BEA4	BEA4	/SCWM/DLVH	B4	b4	2018.06.19 05:33:47										
+BEA4	BEA4	VBBK	B4	b4	2018.06.19 05:33:47										
+BEA5	BEA5	/SCWM/DLVH	B5	b5	2018.06.19 05:33:47										
+BEA5	BEA5	VBBK	B5	B5	2018.06.19 05:33:47										
+BEST	BEST	MATERIAL	Purchase order text	Einkaufsbestelltext	2018.06.19 05:33:47										
+BEWG	BEWG	OCS	Texts for internal mail	Texte für internes Mail	2018.06.19 05:33:47										
+BF	BF	DOKU	Business Function + Assignment	Business Function + Zuordnung	2018.06.19 05:33:47										
+BI	BI	DOKU	BAdI Implementation	BAdI-Implementierung	2018.06.19 05:33:47										
+BKK1	BKK1	BKK000	Notes on Account	Notizen zum Kto	2018.06.19 05:33:47										
+BLLT	BLLT	CMTO	Text for baseline	Text zur Baseline	2018.06.19 05:33:47										
+BMON	BMON	GRAPHICS	Black/white, indep. of machine	schwarz/weiß, geräteunabhängig	2018.06.19 05:33:47										
+BODY	BODY	SPPNOTE	Standard Long Text	Standard Langtext	2018.06.19 05:33:47										
+BOOK	BOOK	DSYS			2018.06.19 05:33:47										
+BOX	BOX	HR_E_CONT	Windows for HR-E: Contracts	Windows zu HR-E: Verträge	2018.06.19 05:33:47										
+BPCT	BPCT	TEXT	Budg.-prj. mngmnt cost centers	Etatverwaltung  Kostenstellen	2018.06.19 05:33:47										
+BPIT	BPIT	TEXT	Budget investment programs	Budget Investitionsprogramme	2018.06.19 05:33:47										
+BPMK	BPMK	BPDK	Long Text Budget - Header	Langtext Budget - Kopf	2018.06.19 05:33:47										
+BPMS	BPMS	BPDK	Funds management budget text	Budgettext Haushaltsmanagement	2018.06.19 05:33:47										
+BPMT	BPMT	TEXT	Treasury financial budget	Treasury Finanzbudget	2018.06.19 05:33:47										
+BPOT	BPOT	TEXT	Budget/planning CO orders	Budget-/Planung CO-Aufträge	2018.06.19 05:33:47										
+BPPT	BPPT	TEXT	Budget/planning projects	Budget-/Planung Projekte	2018.06.19 05:33:47										
+BS	BS	DOKU	Business Funct.Set +Assignment	Business Funct.Set + Zuordnung	2018.06.19 05:33:47										
+BT	BT	EINE	Purchase order text	Bestelltext	2018.06.19 05:33:47										
+BTC1	BTC1	FIBKRU_MO			2018.06.19 05:33:47										
+BTC3	BTC3	FIBKRU_MO			2018.06.19 05:33:47										
+BY01	BY01	FMMD			2018.06.19 05:33:47										
+BZ	BZ	DOKU	Relationship	Beziehung	2018.06.19 05:33:47										
+BZTX	BZTX	VARI	Relationship documentation	Dokumentation zur Beziehung	2018.06.19 05:33:47										
+C00	C00	EKKO			2018.06.19 05:33:47										
+C001	C001	WCOCOH	Standard Owners	Eigentümer allgemein	2018.06.19 05:33:47										
+C001	C001	WCOCOI	Standard Claimants	Anspruchsberechtigte allgemein	2018.06.19 05:33:47										
+C002	C002	WCOCOH	Specific Owners	Eigentümer speziell	2018.06.19 05:33:47										
+C002	C002	WCOCOI	Specific Claimants	Anspruchsberechtigte speziell	2018.06.19 05:33:47										
+C01	C01	EKKO			2018.06.19 05:33:47										
+C01	C01	EKPO			2018.06.19 05:33:47										
+C02	C02	EKKO			2018.06.19 05:33:47										
+C02	C02	EKPO			2018.06.19 05:33:47										
+C03	C03	EKKO			2018.06.19 05:33:47										
+C03	C03	EKPO			2018.06.19 05:33:47										
+C04	C04	EKKO			2018.06.19 05:33:47										
+C04	C04	EKPO			2018.06.19 05:33:47										
+C05	C05	EKKO			2018.06.19 05:33:47										
+C05	C05	EKPO			2018.06.19 05:33:47										
+C06	C06	EKKO			2018.06.19 05:33:47										
+C07	C07	EKKO			2018.06.19 05:33:47										
+C08	C08	EKKO			2018.06.19 05:33:47										
+C09	C09	EKKO			2018.06.19 05:33:47										
+C10	C10	EKKO			2018.06.19 05:33:47										
+C11	C11	EKKO			2018.06.19 05:33:47										
+C12	C12	EKKO			2018.06.19 05:33:47										
+C13	C13	EKKO			2018.06.19 05:33:47										
+C14	C14	EKKO			2018.06.19 05:33:47										
+C15	C15	EKKO			2018.06.19 05:33:47										
+C16	C16	EKKO			2018.06.19 05:33:47										
+CA	CA	DOKU	Class attributes	Klassen-Attribute	2018.06.19 05:33:47										
+CAAS	CAAS	RE	Additional Text (Template)	Zusatztext (Vorlage)	2018.06.19 05:33:47										
+CAAT	CAAT	RE	Additional Text Real Estate	Zusatztext zum Immobilienobj.	2018.06.19 05:33:47										
+CALE	CALE	SCMA	Schedule Manager: Calend. text	Schedule Manager: Text Kalend.	2018.06.19 05:33:47										
+CARS	CARS	RE	Notes on Resubmission Date	Notiz zum Wiedervorlagetermin	2018.06.19 05:33:47										
+CATE	CATE	DSYS	Test case description	Testfall-Bescheibung	2018.06.19 05:33:47										
+CATS	CATS	CATS	Time entry sheet	Zeiterfassungsblatt	2018.06.19 05:33:47										
+CBEW	CBEW	CKTC	Calculation Data Long Text	Kalkulationsdaten Langtext	2018.06.19 05:33:47										
+CC	CC	DOKU	Configuration Check Group	Konfigurationsprüfungsgruppe	2018.06.19 05:33:47										
+CDCD	CDCD	RE	Note on Condition	Notiz zur Kondition	2018.06.19 05:33:47										
+CE	CE	DOKU	Class events	Klassen-Ereignisse	2018.06.19 05:33:47										
+CF	CF	DOKU	Program function	Programmfunktion	2018.06.19 05:33:47										
+CFTR	CFTR	FVVI_RADJ	Table footer C	Tabellenfuß C	2018.06.19 05:33:47										
+CH	CH	DOKU	Characteristic	Charakteristik	2018.06.19 05:33:47										
+CHAP	CHAP	DSYS	Hypertext module	Hypertext-Baustein	2018.06.19 05:33:47										
+CHDR	CHDR	FVVI_RADJ	Table header C	Tabellenkopf C	2018.06.19 05:33:47										
+CHKL	CHKL	/FTI/WIZ	Long text for Check		2018.06.19 05:33:47										
+CHKT	CHKT	/FTI/WIZ	Title for Checks		2018.06.19 05:33:47										
+CICS	CICS	TEXT	CIC: Scripting standard text	CIC: Skript Standardtext	2018.06.19 05:33:47										
+CIG	CIG	BELEG	CIP	CIP	2018.06.19 05:33:47										
+CIG	CIG	VBBK			2018.06.19 05:33:47										
+CL	CL	DOKU	Classes	Klassen	2018.06.19 05:33:47										
+CLB1	CLB1	CALLCENTER	Callback Notes Text	Callback Notes Text	2018.06.19 05:33:47										
+CLN	CLN	FVVI_RADJ	Table line C	Tabellenzeile C	2018.06.19 05:33:47										
+CM	CM	DOKU	Pull-down menu/menu bar	AktionsmenÐ/Menüleiste	2018.06.19 05:33:47										
+CM05	CM05	VTTK	Documents enclosed	Beigefügte Dokumente	2018.06.19 05:33:47										
+CM13	CM13	VTTK	Sender's instructions	Anweisungen des Absenders	2018.06.19 05:33:47										
+CM18	CM18	VTTK	Condits.a.commts.of forw.agent	Vorbehalte u. Bem. d. Frachtf.	2018.06.19 05:33:47										
+CM19	CM19	VTTK	Special arrangements	Besondere Vereinbarungen	2018.06.19 05:33:47										
+CNDP	CNDP	RE	Actual Security Deposit Note	Notiz zur IST-Kaution	2018.06.19 05:33:47										
+CNNT	CNNT	RE	Note on Notice	Notiz zur Kündigung	2018.06.19 05:33:47										
+CNRN	CNRN	RE	Note on Renewal	Notiz zur Verlängerung	2018.06.19 05:33:47										
+CNTX	CNTX	BRF	BRF: Context	BRF: Kontext	2018.06.19 05:33:47										
+CO	CO	DOKU	Class methods	Klassen-Methoden	2018.06.19 05:33:47										
+CO01	CO01	/SCWM/DLVH			2018.06.19 05:33:47										
+CO01	CO01	VBBK			2018.06.19 05:33:47										
+CODE	CODE	IAMCATALOG	Code Long Text	Code Langtext	2018.06.19 05:33:47										
+COMD	COMD	VBBK			2018.06.19 05:33:47										
+COMM	COMM	OIUE2			2018.06.19 05:33:47										
+COMM	COMM	RKC_EIS	Comment	Kommentar	2018.06.19 05:33:47										
+COMM	COMM	SIGNATURE	Comment	Kommentar	2018.06.19 05:33:47										
+COMN	COMN	VBBK			2018.06.19 05:33:47										
+COMP	COMP	CATSXT	Task component	Tätigkeitskomponente	2018.06.19 05:33:47										
+CONC	CONC	DSYS	Hypertext MLS concept	Hypertext-WWS-Konzept	2018.06.19 05:33:47										
+COP2	COP2	CCSS	Act.-dep. PrimCostPlanng text	Langtext lstgsabh. PrimKostPla	2018.06.19 05:33:47										
+COSL	COSL	CCSS	Activity type planning text	Langtext Leistungsartenplanung	2018.06.19 05:33:47										
+COSP	COSP	CCSS	Primary cost planing long text	Langtext Primärkostenplanung	2018.06.19 05:33:47										
+COSR	COSR	CCSS	Stat. ratio planning text	Langtext Kennzahlenplanung	2018.06.19 05:33:47										
+COSS	COSS	CCSS	Activity Planning Long Text	Langtext Leistungsaufn.planung	2018.06.19 05:33:47										
+CPTX	CPTX	RE	Text for Mass Correspondence	Text für Massenkorrespondenz	2018.06.19 05:33:47										
+CRTM	CRTM	/KJCH1/RMT			2018.06.19 05:33:47										
+CS	CS	DOKU	Communication Scenario	Kommunikationsszenario	2018.06.19 05:33:47										
+CT	CT	DOKU	Types	Typen	2018.06.19 05:33:47										
+CTYP	CTYP	QCVK	Short text Cert. type for IDoc	Kurztext Zeugnistyp für IDoc	2018.06.19 05:33:47										
+CU	CU	DOKU	Cluster	Cluster	2018.06.19 05:33:47										
+CUP	CUP	BELEG	CUG	CUG	2018.06.19 05:33:47										
+CUP	CUP	VBBK			2018.06.19 05:33:47										
+DE	DE	DOKU	Data element	Datenelement	2018.06.19 05:33:47										
+DECI	DECI	Z_SSCUIDEC	Decision Text		2018.06.19 05:33:47										
+DEF	DEF	FORM	Form definition	Formular Definition	2018.06.19 05:33:47										
+DEF	DEF	FORMVERS	Last form def. translated	Zuletzt übersetzte Form.Def.	2018.06.19 05:33:47										
+DEF	DEF	STYLE	Style definition	Stil Definition	2018.06.19 05:33:47										
+DEKO	DEKO	/SCWM/DLVI	General Deconsolidation Text	Dekonsolidierungstext allgemei	2018.06.19 05:33:47										
+DELN	DELN	/ACCGO/STL			2018.06.19 05:33:47										
+DESC	DESC	/FTI/WIZ	Text id for Description		2018.06.19 05:33:47										
+DESC	DESC	CGPL_TEXT	Description	Beschreibung	2018.06.19 05:33:47										
+DESC	DESC	QPCP	Description of Control Plan	Beschreibung PLP	2018.06.19 05:33:47										
+DF_1	DF_1	AUFK	DFPS: Flight Legs	DFPS: Teilflugstrecken	2018.06.19 05:33:47										
+DI	DI	DOKU	Dialog modules	Dialogbausteine	2018.06.19 05:33:47										
+DILI	DILI	RMSL_DRAFT	Diet Label List	Diätliste	2018.06.19 05:33:47										
+DKO	DKO	BOM	BOM alternatives text doc.BOM	StlAlternativentext DokStl	2018.06.19 05:33:47										
+DML	DML	CHARACTER			2018.06.19 05:33:47										
+DML	DML	DEFSCOPE			2018.06.19 05:33:47										
+DML	DML	DTYPE			2018.06.19 05:33:47										
+DNLD	DNLD	J1IA	Download		2018.06.19 05:33:47										
+DNLD	DNLD	J1IEX	Download text		2018.06.19 05:33:47										
+DNLD	DNLD	J1IF	Download		2018.06.19 05:33:47										
+DNLD	DNLD	J1IH	Download		2018.06.19 05:33:47										
+DNLD	DNLD	J1II	Download		2018.06.19 05:33:47										
+DNLD	DNLD	J1IS	Download text		2018.06.19 05:33:47										
+DNLD	DNLD	J1IU			2018.06.19 05:33:47										
+DNLD	DNLD	J1IW	Download		2018.06.19 05:33:47										
+DO	DO	DOKU	Domain	Domäne	2018.06.19 05:33:47										
+DO	DO	OIU_OW_DO			2018.06.19 05:33:47										
+DOC	DOC	FORMDOCU	Form documentation	Formulardokumentation	2018.06.19 05:33:47										
+DOCU	DOCU	OXT	Documentation	Dokumentation	2018.06.19 05:33:47										
+DOKU	DOKU	DOKU	Doc. text	Doku-Text	2018.06.19 05:33:47										
+DP01	DP01	HR_DPLAN	Message for development stage	Notiz zur Entwicklungsstation	2018.06.19 05:33:47										
+DPO	DPO	BOM	BOM item text doc. BOM	StlPositionstext DokStl	2018.06.19 05:33:47										
+DSYS	DSYS	CHAP			2018.06.19 05:33:47										
+DSYS	DSYS	DSYS			2018.06.19 05:33:47										
+DT	DT	CA-TTE			2018.06.19 05:33:47										
+DT	DT	DOKU	Dialog text	Dialogtext	2018.06.19 05:33:47										
+DTEL	DTEL	DOWNTIME	Downtime element	Downtime Element	2018.06.19 05:33:47										
+DZ	DZ	DOKU	Data Element Supplement	Datenelementzusatz	2018.06.19 05:33:47										
+DZU	DZU	BOM	BOM text doc. BOM	Stücklistentext DokStl	2018.06.19 05:33:47										
+ECRI	ECRI	/PLMB/ECRI	Recipe Management	Rezeptverwaltung	2018.06.19 05:33:47										
+EINL	EINL	/SCWM/DLVI	General Putaway Text	Einlagertext allgemein	2018.06.19 05:33:47										
+EKEK	EKEK	/SCWM/DLVH	Release Texts	Abruftexte	2018.06.19 05:33:47										
+EKO	EKO	BOM	BOM alternative text equipBOM	StlAlternativentext EquiStl	2018.06.19 05:33:47										
+ELBP	ELBP	ELBP	Main criterion texts	Texte zum Hauptkriterium	2018.06.19 05:33:47										
+EMAI	EMAI	SCMG_CASE			2018.06.19 05:33:47										
+ENOT	ENOT	/ACCGO/FEE			2018.06.19 05:33:47										
+ENOT	ENOT	/ACCGO/UI1			2018.06.19 05:33:47										
+EPO	EPO	BOM	BOM item text equip.BOM	StlPositionstext EquiStl	2018.06.19 05:33:47										
+EQ	EQ	DOKU	Lock object	Sperrobjekt	2018.06.19 05:33:47										
+EQR	EQR	/PLMB/RCP			2018.06.19 05:33:47										
+ET	ET	PBET	Division text	Einteilungstext	2018.06.19 05:33:47										
+EU	EU	DOKU	Development Environment	Entwicklungsumgebung	2018.06.19 05:33:47										
+EVNT	EVNT	BRF	BRF: Event	BRF: Ereignis	2018.06.19 05:33:47										
+EVPT	EVPT	PMS	Trigger point long text	Langtext Ereignispunkt	2018.06.19 05:33:47										
+EXPR	EXPR	BRF	BRF: Expression	BRF: Ausdruck	2018.06.19 05:33:47										
+EZU	EZU	BOM	BOM text equip.BOM	Stücklistentext EquiStl	2018.06.19 05:33:47										
+F001	F001	SCMG_CASE	Description of Customer	Beschreibung des Kunden	2018.06.19 05:33:47										
+F002	F002	SCMG_CASE	Customer Reply	Antwort des Kunden	2018.06.19 05:33:47										
+F003	F003	SCMG_CASE	Note from External Application	Notiz von externer Anwendung	2018.06.19 05:33:47										
+F005	F005	SCMG_CASE	Reason for Rejection	Begründung für Absage	2018.06.19 05:33:47										
+F01	F01	EKKO	Header text	Kopftext	2018.06.19 05:33:47										
+F01	F01	EKPO	Item text	Positionstext	2018.06.19 05:33:47										
+F02	F02	EKKO	Header note	Kopfnotiz	2018.06.19 05:33:47										
+F02	F02	EKPO	Info record PO text	Infobestelltext	2018.06.19 05:33:47										
+F03	F03	EKKO	Pricing types	Preisarten	2018.06.19 05:33:47										
+F03	F03	EKPO	Material PO text	Materialbestelltext	2018.06.19 05:33:47										
+F04	F04	EKKO	Deadlines	Termine	2018.06.19 05:33:47										
+F04	F04	EKPO	Delivery text	Anlieferungstext	2018.06.19 05:33:47										
+F05	F05	EKKO	Terms of delivery	Lieferbedingungen	2018.06.19 05:33:47										
+F05	F05	EKPO	Info record note	Infonotiz	2018.06.19 05:33:47										
+F06	F06	EKKO	Shipping instructions	Versandvorschrift	2018.06.19 05:33:47										
+F06	F06	EKPO	MRP Cockpit	MRP cockpit	2018.06.19 05:33:47										
+F07	F07	EKKO	Terms of payment	Zahlungsbedingungen	2018.06.19 05:33:47										
+F08	F08	EKKO	Warranties	Gewährleistungen	2018.06.19 05:33:47										
+F09	F09	EKKO	Penalty for breach of contract	Vertragsstrafen	2018.06.19 05:33:47										
+F10	F10	/SCWM/DLVI	SPEC2000 Order Item	SPEC2000 Position Auftrag	2018.06.19 05:33:47										
+F10	F10	EKKO	Guarantees	Garantien	2018.06.19 05:33:47										
+F10	F10	EKPO	Item Text for SPEC2000	Positionstext für SPEC2000	2018.06.19 05:33:47										
+F11	F11	EKKO	Contract riders (clauses)	Nebenabreden	2018.06.19 05:33:47										
+F12	F12	EKKO	Attachment	Anlage	2018.06.19 05:33:47										
+F13	F13	EKKO	Other contractual stipulations	Sonstige Vereinbarungen	2018.06.19 05:33:47										
+F14	F14	EKKO	Delivery	Anlieferung	2018.06.19 05:33:47										
+F15	F15	EKKO	Supplier Memo (General)	Lieferantennotiz (Allgemein)	2018.06.19 05:33:47										
+F16	F16	EKKO	Supplier Memo (Specific)	Lieferantennotiz (Speziell)	2018.06.19 05:33:47										
+F17	F17	EKKO	CUP	CUP	2018.06.19 05:33:47										
+F18	F18	EKKO	CIG	CIG	2018.06.19 05:33:47										
+F20	F20	/SCWM/DLVH	SPEC2000 Order/Delivery Header	SPEC2000 Kopf Auftrag/Lieferg.	2018.06.19 05:33:47										
+F21	F21	/SCWM/DLVI	SPEC2000 Item	SPEC2000 Position	2018.06.19 05:33:47										
+FA01	FA01	FMMD			2018.06.19 05:33:47										
+FACT	FACT	CGPL_TEXT	Determination	Feststellung	2018.06.19 05:33:47										
+FD01	FD01	FMMD	Standard Text: Funds	Standardtext: Fonds	2018.06.19 05:33:47										
+FE	FE	DOKU	Data element	Datenelement	2018.06.19 05:33:47										
+FEED	FEED	FEEDBACK			2018.06.19 05:33:47										
+FETX	FETX	/SCWM/DLVH	Export Document Remarks - EU	Export Document Remarks - EU	2018.06.19 05:33:47										
+FETX	FETX	VBBK	Export Document Remarks - EU	Export Document Remarks - EU	2018.06.19 05:33:47										
+FG	FG	DOKU	Function group	Funktionsgruppe	2018.06.19 05:33:47										
+FG1	FG1	FVVI_SOST	Group footer 1	Gruppenfuß 1	2018.06.19 05:33:47										
+FG2	FG2	FVVI_SOST	Group footer 2	Gruppenfuß 2	2018.06.19 05:33:47										
+FHMT	FHMT	AUFK	PRT text	Fertigungshilfsmitteltext	2018.06.19 05:33:47										
+FIAA	FIAA	TEXT	Text templates fixed assets	Textschablonen Anlagen	2018.06.19 05:33:47										
+FIFC	FIFC	WF_NOTE	FinCal manual task	manuelle Aufgabe FinCal	2018.06.19 05:33:47										
+FIKO	FIKO	BKORM	Individual correspondence FI	Individuelle Korrespondenz FI	2018.06.19 05:33:47										
+FIKO	FIKO	TEXT	Individual correspondence FI	Individuelle Korrespondenz FI	2018.06.19 05:33:47										
+FITV	FITV	TEXT	Text template travel mgmt	Textvorlagen Reisemanagement	2018.06.19 05:33:47										
+FJTX	FJTX	/SCWM/DLVH	Export Document Remarks - Jpn	Export Document Remarks - Jpn	2018.06.19 05:33:47										
+FJTX	FJTX	/SCWM/DLVI			2018.06.19 05:33:47										
+FJTX	FJTX	VBBK	Export Document Remarks - Jpn	Export Document Remarks - Jpn	2018.06.19 05:33:47										
+FJTX	FJTX	VBBP			2018.06.19 05:33:47										
+FKK0	FKK0	FKKGEN	Text	Text	2018.06.19 05:33:47										
+FMDT	FMDT	FMDT_TEXT	Derivation step	Ableitungsschritt	2018.06.19 05:33:47										
+FMED	FMED	BPDK	HHM Budget Entry Document	HHM-Budgeterfassungsbeleg	2018.06.19 05:33:47										
+FMED	FMED	TEXT	FM Budget Entry Document	HHM Budgeterfassungsbeleg	2018.06.19 05:33:47										
+FMRE	FMRE	FMRE_TEXT	Long Text Earmarked Funds	Langtext Mittelvormerkung	2018.06.19 05:33:47										
+FMRE	FMRE	TEXT	Long Text: Funds Reservation	Langtext Mittelreservierung	2018.06.19 05:33:47										
+FMVM	FMVM	FGLD	Long Text: Capital Budget	Langtext: Vermögenshaushalt	2018.06.19 05:33:47										
+FMVW	FMVW	FGLD	Long Text: Operating Budget	Langtext: Verwaltungshaushalt	2018.06.19 05:33:47										
+FO	FO	QMSM	Log for follow-up action	Protokoll zur Folgeaktion	2018.06.19 05:33:47										
+FORD	FORD	CAPV	Documentation Formula	Dokumentation Formel	2018.06.19 05:33:47										
+FP01	FP01	FMMD	Standard Text: Commitment Item	Standardtext: Finanzposition	2018.06.19 05:33:47										
+FPM1	FPM1	TEXT	HR-FPM: Budget carried forward	HR-FPM: Mailanschluß	2018.06.19 05:33:47										
+FRTX	FRTX	/PM0/ATEXT	Text Module for Custom Text	Textbaustein für freie Texte	2018.06.19 05:33:47										
+FRWD	FRWD	PROC_WFL			2018.06.19 05:33:47										
+FS01	FS01	FMMD	Standard Text: Funds Center	Standardtext: Finanzstelle	2018.06.19 05:33:47										
+FT10	FT10	/SCWM/DLVH	Shipper's Letter of Instr.	Shipper's Letter of Instr.	2018.06.19 05:33:47										
+FT10	FT10	VBBK	Shipper's Letter of Instr.	Shipper's Letter of Instr.	2018.06.19 05:33:47										
+FT11	FT11	/SCWM/DLVH	Export Packing List U.S.	Export Packing List U.S.	2018.06.19 05:33:47										
+FT11	FT11	VBBK	Export Packing List U.S.	Export Packing List U.S.	2018.06.19 05:33:47										
+FT20	FT20	/SCWM/DLVH	MOW: Testing copy T5	MOW: Kontrollexemplar T5	2018.06.19 05:33:47										
+FT20	FT20	VBBK	MOW: Testing copy T5	MOW: Kontrollexemplar T5	2018.06.19 05:33:47										
+FTR	FTR	FVVI_INVPP	Table footer	Tabellenfuß	2018.06.19 05:33:47										
+FTR	FTR	FVVI_MA	Table footer	Tabellenfuß	2018.06.19 05:33:47										
+FTR	FTR	FVVI_MV	Table footer	Tabellenfuß	2018.06.19 05:33:47										
+FTR	FTR	FVVI_NKANL	Table footer	Tabellenfuß	2018.06.19 05:33:47										
+FTR	FTR	FVVI_OWN1	Table footer	Tabellenfuß	2018.06.19 05:33:47										
+FTR	FTR	FVVI_RADJ	Table footer	Tabellenfuß	2018.06.19 05:33:47										
+FTR	FTR	FVVI_SLST	Table footer	Tabellenfuß	2018.06.19 05:33:47										
+FTR	FTR	FVVI_SOST	Table footer	Tabellenfuß	2018.06.19 05:33:47										
+FTR	FTR	FVVI_TAB1	Table footer	Tabellenfuß	2018.06.19 05:33:47										
+FU	FU	DOKU	Function module	Funktionsbaustein	2018.06.19 05:33:47										
+FX	FX	DOKU	Function module - exception	Funktionsbaustein - Ausnahme	2018.06.19 05:33:47										
+GD	GD	DOKU	Data Object	Datenobjekt	2018.06.19 05:33:47										
+GEFA	GEFA	TEXT	YCE texts, danger. mats /goods	YCE Texte zu Gefahrstoff/-gut	2018.06.19 05:33:47										
+GH	GH	DOKU	Data model	Datenmodell	2018.06.19 05:33:47										
+GLDV	GLDV	VBBK	Reference Global Delivery Doc	Reference Global Delivery Doc	2018.06.19 05:33:47										
+GO	GO	DOKU	Operations	Operationen	2018.06.19 05:33:47										
+GRPL	GRPL	/FTI/WIZ	Long text for Group		2018.06.19 05:33:47										
+GRPT	GRPT	/FTI/WIZ	Group Title		2018.06.19 05:33:47										
+GRUN	GRUN	MATERIAL	Basic data text	Grunddatentext	2018.06.19 05:33:47										
+GRWT	GRWT	TEXT	Texts for Report Writer	Texte für Report Writer	2018.06.19 05:33:47										
+GS	GS	DOKU	Consumption Model	Konsumierungs-Modell	2018.06.19 05:33:47										
+HDND	HDND	/ACCGO/APL			2018.06.19 05:33:47										
+HDR	HDR	/FTI/WIZ	Text id for Title		2018.06.19 05:33:47										
+HDR	HDR	FVVI_INVPP	Table header	Tabellenkopf	2018.06.19 05:33:47										
+HDR	HDR	FVVI_MA	Table header	Tabellenkopf	2018.06.19 05:33:47										
+HDR	HDR	FVVI_MV	Table header	Tabellenkopf	2018.06.19 05:33:47										
+HDR	HDR	FVVI_NKANL	Table header	Tabellenkopf	2018.06.19 05:33:47										
+HDR	HDR	FVVI_OWN1	Table header	Tabellenkopf	2018.06.19 05:33:47										
+HDR	HDR	FVVI_RADJ	Table header	Tabellenkopf	2018.06.19 05:33:47										
+HDR	HDR	FVVI_SLST	Table header	Tabellenkopf	2018.06.19 05:33:47										
+HDR	HDR	FVVI_SOST	Table header	Tabellenkopf	2018.06.19 05:33:47										
+HDR	HDR	FVVI_TAB1	Table header	Tabellenkopf	2018.06.19 05:33:47										
+HDTX	HDTX	/ACCGO/APL			2018.06.19 05:33:47										
+HEAD	HEAD	/PLMB/ECR	Recipe Management	Rezeptverwaltung	2018.06.19 05:33:47										
+HEAD	HEAD	/PLMB/RCP	Recipe Management	Rezeptverwaltung	2018.06.19 05:33:47										
+HEAD	HEAD	/PLMB/RDLN			2018.06.19 05:33:47										
+HEAD	HEAD	CRHD	Workplace long text	Arbeitsplatz Langtext	2018.06.19 05:33:47										
+HEAD	HEAD	FEATURE	Documentation for char.	Dokumentation zum Merkmal	2018.06.19 05:33:47										
+HEAD	HEAD	MNTF	Mass Creation Notifications	Massenanlage Meldungen	2018.06.19 05:33:47										
+HG1	HG1	FVVI_SOST	Group header 1	Gruppenkopf 1	2018.06.19 05:33:47										
+HG2	HG2	FVVI_SOST	Group header 2	Gruppenkopf 2	2018.06.19 05:33:47										
+HIE1	HIE1	WMATGRP	Text ID of Article Hierarchy	Text ID der Artikelhierarchie	2018.06.19 05:33:47										
+HLD1	HLD1	BKKHLD	Reserved Amounts Notes	Reservierte Beträge Notizen	2018.06.19 05:33:47										
+HR_G	HR_G	TEXT	General messages	Allgemeine Mitteilungen	2018.06.19 05:33:47										
+HR_P	HR_P	HRMESS	Private messages	Persönliche Mitteilungen	2018.06.19 05:33:47										
+HUD	HUD	BELEG			2018.06.19 05:33:47										
+HV01	HV01	FMHVMT	Long Text: Budget Memo	Langtext: Haushaltsvermerk	2018.06.19 05:33:47										
+HV01	HV01	FMHVT	Long Text: Budget Memo	Langtext: Haushaltsvermerk	2018.06.19 05:33:47										
+HY	HY	DOKU	Hypertext	Hypertext	2018.06.19 05:33:47										
+HY	HY	DSYS			2018.06.19 05:33:47										
+HZ01	HZ01	HZ01	Material-ind. dang. goods txts	Materialunabh. Gefahrguttexte	2018.06.19 05:33:47										
+HZEX	HZEX	HZ02	DG: Texts for exceptions	GG. Texte zu Ausnahmen	2018.06.19 05:33:47										
+HZF1	HZF1	HZ02	DG: Free text 1	GG: Freier Text 1	2018.06.19 05:33:47										
+HZF2	HZF2	HZ02	DG: Free text 2	GG: Freier Text 2	2018.06.19 05:33:47										
+HZF3	HZF3	HZ02	DG: Free text 3	GG: Freier Text 3	2018.06.19 05:33:47										
+HZF4	HZF4	HZ02	DG: Free text 4	GG: Freier Text 4	2018.06.19 05:33:47										
+HZF5	HZF5	HZ02	DG: Free text 5	GG: Freier Text 5	2018.06.19 05:33:47										
+HZF6	HZF6	HZ02	DG: Free text 6	GG: Freier Text 6	2018.06.19 05:33:47										
+HZF7	HZF7	HZ02	DG: Free text 7	GG: Freier Text 7	2018.06.19 05:33:47										
+HZF8	HZF8	HZ02	DG: Free text 8	GG: Freier Text 8	2018.06.19 05:33:47										
+HZF9	HZF9	HZ02	DG: Free text 9	GG: Freier Text 9	2018.06.19 05:33:47										
+HZFA	HZFA	HZ02	DG: Free text 10	GG: Freier Text 10	2018.06.19 05:33:47										
+HZHI	HZHI	HZ02	DG: Information on handling	GG: Informationen zum Handling	2018.06.19 05:33:47										
+HZMP	HZMP	HZ02	DG: Text on marine pollutants	GG: Text zu Marine Pollutant	2018.06.19 05:33:47										
+HZNS	HZNS	HZ02	DG: Texts for exemption	GG: Texte zur Freistellung	2018.06.19 05:33:47										
+HZVS	HZVS	HZ02	DG: Texts for viscous substces	GG: Texte zu hochviskose Stof.	2018.06.19 05:33:47										
+IA	IA	DOKU	Interface attributes	Interface-Attribute	2018.06.19 05:33:47										
+IASE	IASE	/PRA/TA			2018.06.19 05:33:47										
+IASU	IASU	/PRA/TA			2018.06.19 05:33:47										
+ID	ID	DOKU	IDoc types	IDoc-Typen	2018.06.19 05:33:47										
+IDEN	IDEN	J1IF	Identification marks		2018.06.19 05:33:47										
+IE	IE	DOKU	Interface events	Interfaces-Ereignisse	2018.06.19 05:33:47										
+IF	IF	DOKU	Interfaces	Interfaces	2018.06.19 05:33:47										
+II	II	DOKU	Inbound Service Interface	Inbound Service Interface	2018.06.19 05:33:47										
+IM	IM	DOKU	Modeling object	Modellierungsobjekt	2018.06.19 05:33:47										
+IMAD	IMAD	TEXT	Collective request Word templ.	Schabl. Massnahmenanford. Word	2018.06.19 05:33:47										
+IMAK	IMAK	TEXT	Appropriatn request text templ	Textschablone Massnahmenanford	2018.06.19 05:33:47										
+IMAV	IMAV	TEXT	Appropriatn req. variant templ	Schablone Anforderungsvariante	2018.06.19 05:33:47										
+IMAW	IMAW	TEXT	Appropr. req. var. Word templ.	Schab. Anford.Variante Word	2018.06.19 05:33:47										
+IMCL	IMCL	BRF	BRF: Implementing Class	BRF: implementierende Klasse	2018.06.19 05:33:47										
+IMSM	IMSM	TEXT	SM: Service texts	SM: Servicetexte	2018.06.19 05:33:47										
+IN	IN	DOKU	Info system text	Infosystemtext	2018.06.19 05:33:47										
+INCL	INCL	SEM_SRM	Include Text for Smart Form	Includetext für Smartform	2018.06.19 05:33:47										
+INFO	INFO	INFO	Info system texts	Infosystemtexte	2018.06.19 05:33:47										
+INLI	INLI	RMSL_DRAFT	Ingredient Label List	Inhaltstoffliste	2018.06.19 05:33:47										
+INOT	INOT	/ACCGO/FEE			2018.06.19 05:33:47										
+INOT	INOT	/ACCGO/UI1			2018.06.19 05:33:47										
+INSP	INSP	INSPECTION			2018.06.19 05:33:47										
+INSP	INSP	VBBP			2018.06.19 05:33:47										
+INST	INST	/SCTM/NOTE	Special Instructions	Besondere Anweisungen	2018.06.19 05:33:47										
+INTI	INTI	ESH_TAU	Internal Data (EPM)	Interne Daten (EPM)	2018.06.19 05:33:47										
+INTV	INTV	EQUI	Internal Note for Equipment	Interner Vermerk zum Equipment	2018.06.19 05:33:47										
+INVE	INVE	/SCWM/DLVI	General Inventory Text	Inventurtext allgemein	2018.06.19 05:33:47										
+INVM	INVM	ICH			2018.06.19 05:33:47										
+IO	IO	DOKU	Interface methods	Interface-Methoden	2018.06.19 05:33:47										
+IOSW	IOSW	/PRA/TA			2018.06.19 05:33:47										
+IPRT	IPRT	TEXT	PM: print text INCLUDES	PM: Drucktext INCLUDES	2018.06.19 05:33:47										
+IS	IS	DOKU	BSP Extension Object	BSP-Extension-Objekt	2018.06.19 05:33:47										
+ISLE	ISLE	/PRA/TA			2018.06.19 05:33:47										
+ISOL	ISOL	/PRA/TA			2018.06.19 05:33:47										
+ISSR	ISSR	ISSR	Statutory Reporting	Statutory Reporting	2018.06.19 05:33:47										
+ISSR	ISSR	TEXT	Insurance: Statutory Reporting	Insurance: Statutory Reporting	2018.06.19 05:33:47										
+IST	IST	/ACCGO/PM			2018.06.19 05:33:47										
+IVER	IVER	MATERIAL	Internal note	Interner Vermerk	2018.06.19 05:33:47										
+J3GH	J3GH	J_3GBD	Header long text	Langtext Kopf	2018.06.19 05:33:47										
+J3GI	J3GI	J_3GBD	Item long text	Langtext Position	2018.06.19 05:33:47										
+J3GK	J3GK	J_3GKATAL	Catalog Long Text	Kataloglangtext	2018.06.19 05:33:47										
+J7LM	J7LM	J_7L_M01	Comment for REA Article	Kommentar zur REA Artikel	2018.06.19 05:33:47										
+J7LV	J7LV	J_7L_V01	Comment for REA Packing	Kommentar zur REA Verpackung	2018.06.19 05:33:47										
+JLC1	JLC1	/SCWM/DLVH	J: E/R open credit	J: E/R open credit	2018.06.19 05:33:47										
+JLC1	JLC1	VBBK	J: E/R open credit	J: E/R open credit	2018.06.19 05:33:47										
+JLC2	JLC2	/SCWM/DLVH	J: E/R receipt date	J: E/R receipt date	2018.06.19 05:33:47										
+JLC2	JLC2	VBBK	J: E/R receipt date	J: E/R receipt date	2018.06.19 05:33:47										
+JLC3	JLC3	/SCWM/DLVH	J: E/R valid to	J: E/R valid to	2018.06.19 05:33:47										
+JLC3	JLC3	VBBK	J: E/R valid to	J: E/R valid to	2018.06.19 05:33:47										
+JMI1	JMI1	/SCWM/DLVH	J: E/R payment method	J: E/R payment method	2018.06.19 05:33:47										
+JMI1	JMI1	VBBK	J: E/R payment method	J: E/R payment method	2018.06.19 05:33:47										
+JMI2	JMI2	/SCWM/DLVH	J: E/R 6 Date of customs clear	J: E/R 6 Date of customs clear	2018.06.19 05:33:47										
+JMI2	JMI2	VBBK	J: E/R 6 Date of customs clear	J: E/R 6 Date of customs clear	2018.06.19 05:33:47										
+JMI3	JMI3	/SCWM/DLVH	J: E/R 11 Pymt methods others	J: E/R 11 Pymt methods others	2018.06.19 05:33:47										
+JMI3	JMI3	VBBK	J: E/R 11 Pymt methods others	J: E/R 11 Pymt methods others	2018.06.19 05:33:47										
+JMI4	JMI4	/SCWM/DLVH	J: E/R B/E valid to	J: E/R B/E valid to	2018.06.19 05:33:47										
+JMI4	JMI4	VBBK	J: E/R B/E valid to	J: E/R B/E valid to	2018.06.19 05:33:47										
+JMI5	JMI5	/SCWM/DLVH	J: E/R Remarks	J: E/R Remarks	2018.06.19 05:33:47										
+JMI5	JMI5	VBBK	J: E/R Remarks	J: E/R Remarks	2018.06.19 05:33:47										
+JMI6	JMI6	/SCWM/DLVH	J: E/R Settlement date by bank	J: E/R Settlement date by bank	2018.06.19 05:33:47										
+JMI6	JMI6	VBBK	J: E/R Settlement date by bank	J: E/R Settlement date by bank	2018.06.19 05:33:47										
+JMI7	JMI7	/SCWM/DLVH	J: E/R E/L specific payment	J: E/R E/L specific payment	2018.06.19 05:33:47										
+JMI7	JMI7	VBBK	J: E/R E/L specific payment	J: E/R E/L specific payment	2018.06.19 05:33:47										
+JMI8	JMI8	/SCWM/DLVH	J: E/R comment in mat. field	J: E/R Comment in material fie	2018.06.19 05:33:47										
+JMI8	JMI8	VBBK	J: E/R comment in mat. field	J: E/R Comment in material fie	2018.06.19 05:33:47										
+K00	K00	EKKO	Release Order Text	Abruftext	2018.06.19 05:33:47										
+K01	K01	EKKO	Header text	Kopftext	2018.06.19 05:33:47										
+K01	K01	EKPO	Item text	Positionstext	2018.06.19 05:33:47										
+K02	K02	EKKO	Header note	Kopfnotiz	2018.06.19 05:33:47										
+K02	K02	EKPO	Info Record PO Text	Infobestelltext	2018.06.19 05:33:47										
+K03	K03	EKKO	Pricing types	Preisarten	2018.06.19 05:33:47										
+K03	K03	EKPO	Material PO text	Materialbestelltext	2018.06.19 05:33:47										
+K04	K04	EKKO	Deadlines	Termine	2018.06.19 05:33:47										
+K04	K04	EKPO	Delivery text	Anlieferungstext	2018.06.19 05:33:47										
+K05	K05	EKKO	Terms of delivery	Lieferbedingungen	2018.06.19 05:33:47										
+K05	K05	EKPO	Info record note	Infonotiz	2018.06.19 05:33:47										
+K06	K06	EKKO	Shipping instructions	Versandvorschrift	2018.06.19 05:33:47										
+K07	K07	EKKO	Terms of payment	Zahlungsbedingungen	2018.06.19 05:33:47										
+K08	K08	EKKO	Warranties	Gewährleistungen	2018.06.19 05:33:47										
+K09	K09	EKKO	Penalty for breach of contract	Vertragsstrafen	2018.06.19 05:33:47										
+K10	K10	EKKO	Guarantees	Garantien	2018.06.19 05:33:47										
+K11	K11	EKKO	Contract riders (clauses)	Nebenabreden	2018.06.19 05:33:47										
+K12	K12	EKKO	Attachment	Anlage	2018.06.19 05:33:47										
+K13	K13	EKKO	Other contractual stipulations	Sonstige Vereinbarungen	2018.06.19 05:33:47										
+K14	K14	EKKO	Delivery	Anlieferung	2018.06.19 05:33:47										
+K15	K15	EKKO	Vendor memo (general)	Lieferantennotiz (allgemein)	2018.06.19 05:33:47										
+K16	K16	EKKO	Vendor memo (pur. org.)	Lieferantennotiz (Ekorg)	2018.06.19 05:33:47										
+KKO	KKO	BOM	BOM alt. text sales order BOM	StlAlternativentext KndAufStl	2018.06.19 05:33:47										
+KOMI	KOMI	/SCWM/DLVI	General Picking Texts	Kommissioniertexte allgemein	2018.06.19 05:33:47										
+KOPF	KOPF	AUFK	Order header text	Auftragskopftext	2018.06.19 05:33:47										
+KPO	KPO	BOM	BOM item text sales order BOM	StlPositionstext KndAufStl	2018.06.19 05:33:47										
+KTO	KTO	/IBS/RB	Dialog RBD Account	Dialog RBD-Konto	2018.06.19 05:33:47										
+KZU	KZU	BOM	BOM text sales order BOM	Stücklistentext KndAufStl	2018.06.19 05:33:47										
+L01	L01	EKKO	Header text	Kopftext	2018.06.19 05:33:47										
+L01	L01	EKPO	Item text	Positionstext	2018.06.19 05:33:47										
+L02	L02	EKKO	Header note	Kopfnotiz	2018.06.19 05:33:47										
+L02	L02	EKPO	Info Record PO Text	Infobestelltext	2018.06.19 05:33:47										
+L03	L03	EKKO	Pricing types	Preisarten	2018.06.19 05:33:47										
+L03	L03	EKPO	Material PO text	Materialbestelltext	2018.06.19 05:33:47										
+L04	L04	EKKO	Deadlines	Termine	2018.06.19 05:33:47										
+L04	L04	EKPO	Delivery text	Anlieferungstext	2018.06.19 05:33:47										
+L05	L05	EKKO	Terms of delivery	Lieferbedingungen	2018.06.19 05:33:47										
+L05	L05	EKPO	Info record note	Infonotiz	2018.06.19 05:33:47										
+L06	L06	EKKO	Shipping instructions	Versandvorschrift	2018.06.19 05:33:47										
+L06	L06	EKPO	ES Master Agreements (MA)	ES-Vertragsakte (VA)	2018.06.19 05:33:47										
+L07	L07	EKKO	Terms of payment	Zahlungsbedingungen	2018.06.19 05:33:47										
+L07	L07	EKPO	ES Requests f. Proposals (RFP)	ES-Angebotsanfrage (RFP)	2018.06.19 05:33:47										
+L08	L08	EKKO	Warranties	Gewährleistungen	2018.06.19 05:33:47										
+L08	L08	EKPO	Sequence Number LP	Folgenummer LP	2018.06.19 05:33:47										
+L09	L09	EKKO	Penalty for breach of contract	Vertragsstrafen	2018.06.19 05:33:47										
+L10	L10	EKKO	Guarantees	Garantien	2018.06.19 05:33:47										
+L11	L11	EKKO	Contract riders (clauses)	Nebenabreden	2018.06.19 05:33:47										
+L12	L12	EKKO	Attachment	Anlage	2018.06.19 05:33:47										
+L13	L13	EKKO	Other contractual stipulations	Sonstige Vereinbarungen	2018.06.19 05:33:47										
+L14	L14	EKKO	Delivery	Anlieferung	2018.06.19 05:33:47										
+L15	L15	EKKO	Vendor memo (general)	Lieferantennotiz (allgemein)	2018.06.19 05:33:47										
+L16	L16	EKKO	Vendor memo (pur. org.)	Lieferantennotiz (Ekorg)	2018.06.19 05:33:47										
+LAD1	LAD1	SRT_CF			2018.06.19 05:33:47										
+LADE	LADE	/SCWM/DLVI	General Loading Text	Beladentext allgemein	2018.06.19 05:33:47										
+LB	LB	DOKU	Logical database	Logische Datenbank	2018.06.19 05:33:47										
+LFM	LFM	SPCIPPDS	Local Fabrication Material Txt	Lokale Herstell. Materialtext	2018.06.19 05:33:47										
+LINE	LINE	FVVI_INVPP	Table Line	Tabellenzeile	2018.06.19 05:33:47										
+LINE	LINE	FVVI_MA	Table Line	Tabellenzeile	2018.06.19 05:33:47										
+LINE	LINE	FVVI_MV	Table Line	Tabellenzeile	2018.06.19 05:33:47										
+LINE	LINE	FVVI_NKANL	Table Line	Tabellenzeile	2018.06.19 05:33:47										
+LINE	LINE	FVVI_OWN1	Table Line	Tabellenzeile	2018.06.19 05:33:47										
+LINE	LINE	FVVI_RADJ	Table Line	Tabellenzeile	2018.06.19 05:33:47										
+LINE	LINE	FVVI_SLST	Table Line	Tabellenzeile	2018.06.19 05:33:47										
+LINE	LINE	FVVI_TAB1	Table Line	Tabellenzeile	2018.06.19 05:33:47										
+LLTX	LLTX	ESLL	Service text	Leistungstext	2018.06.19 05:33:47										
+LMT1	LMT1	WLMT	Item text 1	Positionstext 1	2018.06.19 05:33:47										
+LNAM	LNAM	BUT000	Name of Business Partner	Name des Geschäftspartners	2018.06.19 05:33:47										
+LOCA	LOCA	CGPL_TEXT	Audit Location	Auditort	2018.06.19 05:33:47										
+LOG	LOG	CGPL_TEXT	LOG for User Data	LOG für Benutzerdaten	2018.06.19 05:33:47										
+LR01	LR01	RE	Note on RE Register Entry	Notiz zum Bestandseintrag	2018.06.19 05:33:47										
+LR02	LR02	RE	Note on Register Entry Change	Notiz zur Änderung Best.eintr.	2018.06.19 05:33:47										
+LR03	LR03	RE	Note on Section 1	Notiz zur Abteilung 1	2018.06.19 05:33:47										
+LR04	LR04	RE	Rights and Easements	Rechte & Dienstbarkeiten	2018.06.19 05:33:47										
+LR05	LR05	RE	Rights and Easement Changes	Rechte & Dienst. Veränderungen	2018.06.19 05:33:47										
+LRD1	LRD1	SRT_CF			2018.06.19 05:33:47										
+LSD1	LSD1	SRT_CF			2018.06.19 05:33:47										
+LTAW	LTAW	DNO	Reply	Antwort	2018.06.19 05:33:47										
+LTDS	LTDS	DNO	Message long text (descript.)	Meldungslangtext (Beschreibg)	2018.06.19 05:33:47										
+LTEX	LTEX	KE_PLSC	Description	Beschreibung	2018.06.19 05:33:47										
+LTIN	LTIN	DNO	Internal note	Interne Notiz	2018.06.19 05:33:47										
+LTPN	LTPN	QMSM	Processor note for task	Bearbeiternotiz zur Maßnahme	2018.06.19 05:33:47										
+LTQM	LTQM	QMEL	QM notification long text	Langtext zur QM-Meldung	2018.06.19 05:33:47										
+LTQM	LTQM	QMFE	Long text on item	Langtext zur Position	2018.06.19 05:33:47										
+LTQM	LTQM	QMMA	Long text on action	Langtext zur Aktion	2018.06.19 05:33:47										
+LTQM	LTQM	QMSM	Long text on task	Langtext zur Massnahme	2018.06.19 05:33:47										
+LTQM	LTQM	QMUR	Long text on cause	Langtext zur Ursache	2018.06.19 05:33:47										
+LTSM	LTSM	GHO_OWNERS			2018.06.19 05:33:47										
+LTSM	LTSM	QMFE	Long text on item	Langtext zum Position	2018.06.19 05:33:47										
+LTSM	LTSM	QMMA	Long text on action	Langtext zur Aktion	2018.06.19 05:33:47										
+LTSM	LTSM	QMSM	Long text on task	Langtext zur Massnahme	2018.06.19 05:33:47										
+LTSM	LTSM	QMUR	Long text on cause	Langtext zur Ursache	2018.06.19 05:33:47										
+LTX	LTX	/PM0/ATEXT	Clause Long Text	Klausellangtext	2018.06.19 05:33:47										
+LTXT	LTXT	ANKA	Asset class text	Anlagenklassentext	2018.06.19 05:33:47										
+LTXT	LTXT	APPROVAL	Approval	Genehmigung	2018.06.19 05:33:47										
+LTXT	LTXT	ASMD	Long text for service master	Langtext zum Leistungsstamm	2018.06.19 05:33:47										
+LTXT	LTXT	AUFK	Order text	Auftragstext	2018.06.19 05:33:47										
+LTXT	LTXT	CATALOG	Catalog	Katalog	2018.06.19 05:33:47										
+LTXT	LTXT	CBPR	Business process text	Geschäftsprozeßtext	2018.06.19 05:33:47										
+LTXT	LTXT	CCSS			2018.06.19 05:33:47										
+LTXT	LTXT	CEPC	Profit center text	Profit-Center Text	2018.06.19 05:33:47										
+LTXT	LTXT	CGPL_TEXT	Long Text	Langtext	2018.06.19 05:33:47										
+LTXT	LTXT	CKBS	Base object text	Bauteiltext	2018.06.19 05:33:47										
+LTXT	LTXT	CKECPMODEL	Planning form: description	Planungsvorlage: Beschreibung	2018.06.19 05:33:47										
+LTXT	LTXT	CKKS	Cost estimate text header	Kalkulationstext Kopf	2018.06.19 05:33:47										
+LTXT	LTXT	CKPH	Cost object text	Text Kostenträger	2018.06.19 05:33:47										
+LTXT	LTXT	COTPLP	Long text for schema position	Langtext zu Schemaposition	2018.06.19 05:33:47										
+LTXT	LTXT	CSKA	Cost element text	Kostenartentext	2018.06.19 05:33:47										
+LTXT	LTXT	CSKS	Cost center text	Kostenstellentext	2018.06.19 05:33:47										
+LTXT	LTXT	CSLA	Activity type text	Leistungsartentext	2018.06.19 05:33:47										
+LTXT	LTXT	DLC_TBUI	Process Step Description	Prozeßschritt Beschreibung	2018.06.19 05:33:47										
+LTXT	LTXT	DRAD	Object link long text	Langtext Objektverknüpfung	2018.06.19 05:33:47										
+LTXT	LTXT	DRAT			2018.06.19 05:33:47										
+LTXT	LTXT	EBRVERS	Text batch record version	Text Chargenprotokoll-Version	2018.06.19 05:33:47										
+LTXT	LTXT	EQUI	Equipment Long Text	Langtext zum Equipment	2018.06.19 05:33:47										
+LTXT	LTXT	ESLL	Service lines long text	Leistungszeilenlangtext	2018.06.19 05:33:47										
+LTXT	LTXT	ESLZ	Service item long text	Leistungsposition Langtext	2018.06.19 05:33:47										
+LTXT	LTXT	GHO_SIMU_H			2018.06.19 05:33:47										
+LTXT	LTXT	IFLOT	FunctLocation Long Text	Langtext zum Techn. Platz	2018.06.19 05:33:47										
+LTXT	LTXT	IHSG	Approval long text	Langtext zur Genehmigung	2018.06.19 05:33:47										
+LTXT	LTXT	IMPR	Inv.program item text	Text InvProgrammposition	2018.06.19 05:33:47										
+LTXT	LTXT	IMPTT	Measuring point long text	Langtext zum Meßpunkt	2018.06.19 05:33:47										
+LTXT	LTXT	IMRG	Measurement document long text	Langtext zum Meßbeleg	2018.06.19 05:33:47										
+LTXT	LTXT	IMTP	Inv.program text	Text InvProgramm	2018.06.19 05:33:47										
+LTXT	LTXT	INET	Object Link Long Text	Langtext zur Objektverbindung	2018.06.19 05:33:47										
+LTXT	LTXT	IRLOT	RefLocation Long Text	Langtext zum Referenzplatz	2018.06.19 05:33:47										
+LTXT	LTXT	ISMP	Solution database Symptom		2018.06.19 05:33:47										
+LTXT	LTXT	ISOL	Solution database Solution		2018.06.19 05:33:47										
+LTXT	LTXT	KBLK	Text full document	Text Gesamtbeleg	2018.06.19 05:33:47										
+LTXT	LTXT	KE_PLAN	Long text planning	Langtext Planung	2018.06.19 05:33:47										
+LTXT	LTXT	KE_PLPM	Long Text	Langtext	2018.06.19 05:33:47										
+LTXT	LTXT	KE_SPRED	Description	Beschreibung	2018.06.19 05:33:47										
+LTXT	LTXT	KFPK	Long Text	Langtext	2018.06.19 05:33:47										
+LTXT	LTXT	LINEUP	Lineup	Überprüfungsplan	2018.06.19 05:33:47										
+LTXT	LTXT	LVACC	Long Text	Langtext	2018.06.19 05:33:47										
+LTXT	LTXT	MDTXT			2018.06.19 05:33:47										
+LTXT	LTXT	MPLA	Maintenance plan text	Wartungsplantext	2018.06.19 05:33:47										
+LTXT	LTXT	MPOS	Maintenance item text	Wartungspositionstext	2018.06.19 05:33:47										
+LTXT	LTXT	OIU_AVD_SN			2018.06.19 05:33:47										
+LTXT	LTXT	P2E_TEXT			2018.06.19 05:33:47										
+LTXT	LTXT	PCPP	Manual planning long text	Langtext manuelle Planung	2018.06.19 05:33:47										
+LTXT	LTXT	PMS	Long Text	Langtext	2018.06.19 05:33:47										
+LTXT	LTXT	QALT	Partial lot long text	Langtext zum Teillos	2018.06.19 05:33:47										
+LTXT	LTXT	QCVK	Certificate profile long text	Langtext zur Zeugnisvorlage	2018.06.19 05:33:47										
+LTXT	LTXT	QMEL	Long text on PM notification	Langtext zur IH-Meldung	2018.06.19 05:33:47										
+LTXT	LTXT	QMFE	Long text on item	Langtext zur Position	2018.06.19 05:33:47										
+LTXT	LTXT	QMMA	Long text on action	Langtext zur Aktion	2018.06.19 05:33:47										
+LTXT	LTXT	QMSM	Long text on task	Langtext zur Massnahme	2018.06.19 05:33:47										
+LTXT	LTXT	QMUR	Long text on cause	Langtext zur Ursache	2018.06.19 05:33:47										
+LTXT	LTXT	QSCENARIO	Long text for scenario	Langtext zum Szenario	2018.06.19 05:33:47										
+LTXT	LTXT	QTLS	Partial lot long text	Langtext zum Teillos	2018.06.19 05:33:47										
+LTXT	LTXT	SPCIPCSN	Add. long text for location	Zusätzl. Langtext für Standort	2018.06.19 05:33:47										
+LTXT	LTXT	SPCIPHDR	Add long text for header/model	Langtext für Kopf / Model	2018.06.19 05:33:47										
+LTXT	LTXT	SPCIPPDR	Add. long text for location	Zusätzl. Langtext für Standort	2018.06.19 05:33:47										
+LTXT	LTXT	SPCIPPDS	Add. long text for location	Zusätzl. Langtext für Standort	2018.06.19 05:33:47										
+LTXT	LTXT	T090	Internal depreciation key	Interne Abschreibungsschlüssel	2018.06.19 05:33:47										
+LTXT	LTXT	T093	Depreciation Area	Bewertungsbereich	2018.06.19 05:33:47										
+LTXT	LTXT	T096	Chart of Depreciation	Bewertungsplan	2018.06.19 05:33:47										
+LTXT	LTXT	T357G	Long Text	Langtext	2018.06.19 05:33:47										
+LTXT	LTXT	VERLST	Verification List	Überprüfungsliste	2018.06.19 05:33:47										
+LTXT	LTXT	WAP	Work permit	Arbeitsgenehmigung	2018.06.19 05:33:47										
+LTXT	LTXT	WAPI	Application	Anforderung	2018.06.19 05:33:47										
+LTXT	LTXT	WCDOC	Work Clearance Document	Freischaltliste	2018.06.19 05:33:47										
+LTXT	LTXT	WCDOCITM	Position (Tag List)	Position (Freischaltliste)	2018.06.19 05:33:47										
+M001	M001	/SCWM/DLVH	External route identification	Externe Routenidentifikation	2018.06.19 05:33:47										
+M001	M001	VBBK	External route identification	Externe Routenidentifikation	2018.06.19 05:33:47										
+MATK	MATK	AUFK	Component text	Komponententext	2018.06.19 05:33:47										
+MDL	MDL	/PLMB/RCP			2018.06.19 05:33:47										
+METD	METD	CAPV	Documentation Method	Dokumentation Methode	2018.06.19 05:33:47										
+MFM	MFM	/PRA/OM			2018.06.19 05:33:47										
+MFTR	MFTR	FVVI_RADJ	Table footer M	Tabellenfuß M	2018.06.19 05:33:47										
+MG	MG	DOKU	Migration text	Migrationstext	2018.06.19 05:33:47										
+MGO	MGO	BELEG	MGO	MGO	2018.06.19 05:33:47										
+MHDR	MHDR	FVVI_RADJ	Table header M	Tabellenkopf M	2018.06.19 05:33:47										
+MKMT	MKMT	AUFK	Text for characteristic	Merkmalstext	2018.06.19 05:33:47										
+MKO	MKO	BOM	BOM alternative text mat.BOM	StlAlternativentext MatStl	2018.06.19 05:33:47										
+MLN	MLN	FVVI_RADJ	Table line M	Tabellenzeile M	2018.06.19 05:33:47										
+MO	MO	DOKU	Enhancements	Erweiterungen	2018.06.19 05:33:47										
+MPO	MPO	BOM	BOM item text mat.BOM	StlPositionstext MatStl	2018.06.19 05:33:47										
+MSC	MSC	SPCIPCSN	Miscellaneous Txt for Location	Sonstiger Text für Standort	2018.06.19 05:33:47										
+MSC	MSC	SPCIPPDR	Miscellaneous Texts	Sonstige Texte	2018.06.19 05:33:47										
+MSC	MSC	SPCIPPDS	Miscellaneous Txt for Supplier	Sonstiger Text für Lieferant	2018.06.19 05:33:47										
+MSTR	MSTR	PSA	PSA Master Details	PSA Master Details	2018.06.19 05:33:47										
+MSTT	MSTT	AUFK	Milestone text	Meilensteintext	2018.06.19 05:33:47										
+MSTT	MSTT	PMS	Milestone long text	Langtext Meilenstein	2018.06.19 05:33:47										
+MVFR	MVFR	TEXT	Rental agreement addtnl text	Zusatztext zum Mietvertrag	2018.06.19 05:33:47										
+MZU	MZU	BOM	BOM text mat.BOM	Stücklistentext MatStl	2018.06.19 05:33:47										
+NA	NA	DOKU	Message	Nachricht	2018.06.19 05:33:47										
+NA01	NA01	RE	Easement - Entry	Baulast - Eintragung	2018.06.19 05:33:47										
+NACH	NACH	/SCWM/DLVI	General Replenishment Text	Nachschuptext allgemein	2018.06.19 05:33:47										
+NAST	NAST	TEXT	YCE texts for Message Control	YCE Texte zur Nachr.steuerung	2018.06.19 05:33:47										
+NC	NC	DOKU	Message class	Nachrichtenklasse	2018.06.19 05:33:47										
+NEGA	NEGA	CGPL_TEXT	Improvement Options	Verbesserungsmöglichkeiten	2018.06.19 05:33:47										
+NFTR	NFTR	FVVI_RADJ	Table footer N	Tabellenfuß N	2018.06.19 05:33:47										
+NHDR	NHDR	FVVI_RADJ	Table header N	Tabellenkopf N	2018.06.19 05:33:47										
+NLN	NLN	FVVI_RADJ	Table line N	Tabellenzeile N	2018.06.19 05:33:47										
+NORM	NORM	DSYS			2018.06.19 05:33:47										
+NORP	NORP	DSYS			2018.06.19 05:33:47										
+NOTE	NOTE	/FTI/WIZ	Text id for Note		2018.06.19 05:33:47										
+NOTE	NOTE	/PM0/ATEXT	Notes	Notizen	2018.06.19 05:33:47										
+NOTE	NOTE	AUDIT	AIS note	AIS Notiz	2018.06.19 05:33:47										
+NOTE	NOTE	CGPL_TEXT	Note	Notiz	2018.06.19 05:33:47										
+NOTE	NOTE	DSYS	Hypertext note	Hypertext-Notiz	2018.06.19 05:33:47										
+NOTE	NOTE	HRHAP00	Notes	Notes	2018.06.19 05:33:47										
+NOTZ	NOTZ	R3VV	Remarks for R/3 fin. ass. mgmt	Notizen zu R3-Vermögensverwalt	2018.06.19 05:33:47										
+O01	O01	EKKO	Detailed Description	Detailbeschreibung	2018.06.19 05:33:47										
+O01	O01	EKPO	Item Description	Positionsbeschreibung	2018.06.19 05:33:47										
+O02	O02	EKKO	Internal note	Interne Notiz	2018.06.19 05:33:47										
+O03	O03	EKKO	Note from Supplier	Lieferantennotiz	2018.06.19 05:33:47										
+OBJC	OBJC	HRDSYS	Documentation	Doku	2018.06.19 05:33:47										
+OD	OD	DOKU	Workflow object type	Workflow Objekttyp	2018.06.19 05:33:47										
+OI	OI	DOKU	Outbound Service Interface	Outbound Service Interface	2018.06.19 05:33:47										
+OOSW	OOSW	/PRA/T9			2018.06.19 05:33:47										
+OOSW	OOSW	/PRA/TA			2018.06.19 05:33:47										
+ORD	ORD	SEM_BIC	Search Request	Recherchen-Auftrag	2018.06.19 05:33:47										
+ORMP	ORMP	RE	Move Planning	Umzugsplanung	2018.06.19 05:33:47										
+PACK	PACK	/SCWM/DLVI	General Packing Text	Verpacktext allgemein	2018.06.19 05:33:47										
+PACO	PACO	TEXT	COBRA letter generation	COBRA Letter generation	2018.06.19 05:33:47										
+PACP	PACP	PVS	Alternative Long Text	Alternativen Langtext	2018.06.19 05:33:47										
+PAGE	PAGE	/FTI/WIZ	Text id for Page		2018.06.19 05:33:47										
+PALI	PALI	RMSL_DRAFT	Package Label List	Packungsliste	2018.06.19 05:33:47										
+PALT	PALT	TEXT	Applicant correspondence	Bewerberkorrespondenz	2018.06.19 05:33:47										
+PAMA	PAMA	TEXT	Mail employeee/appl.mast.data	Mail Mitarb./Bewerb.stammdaten	2018.06.19 05:33:47										
+PAML	PAML	TEXT	Mail applicant action	Mail Bewerbervorgang	2018.06.19 05:33:47										
+PANT	PANT	TEXT	Notes on process	Notizen zum Vorgang	2018.06.19 05:33:47										
+PAOF	PAOF	TEXT	Publication text	Text zur Ausschreibung	2018.06.19 05:33:47										
+PASP	PASP	TEXT	Portrait of Applicant	Bewerberkurzportrait	2018.06.19 05:33:47										
+PAWW	PAWW	TEXT	Internet: Status tracking		2018.06.19 05:33:47										
+PB	PB	PBPT	Primary supply line item text	Positionstext  Primärbedarf	2018.06.19 05:33:47										
+PBC1	PBC1	HR_PBC	Notes on commitment run	Notizen zum Obligolauf	2018.06.19 05:33:47										
+PCKI	PCKI	/SCWM/DLVH	Outbound Packing Instruction	Versandpackanweisung	2018.06.19 05:33:47										
+PCKI	PCKI	/SCWM/DLVI	Outbound Packing Instruction	Versandpackanweisung	2018.06.19 05:33:47										
+PCL5	PCL5	GRAPHICS	PCL-5	PCL-5	2018.06.19 05:33:47										
+PCT1	PCT1	CGPL_TEXT	Project Charter: Problem	Projektauftrag Problem	2018.06.19 05:33:47										
+PCT2	PCT2	CGPL_TEXT	Project Charter: Scope	Projektauftrag Umfang	2018.06.19 05:33:47										
+PCT3	PCT3	CGPL_TEXT	Project Charter: Goals	Projektauftrag Ziele	2018.06.19 05:33:47										
+PDSV	PDSV	TEXT	PD-SCM: SV include texts	PD-SCM: SV-Include-Texte	2018.06.19 05:33:47										
+PE01	PE01	RE	Description	Beschreibung	2018.06.19 05:33:47										
+PE02	PE02	RE	Notice Contam./Non-HazardWaste	Notiz Altlast/Verunreinigung	2018.06.19 05:33:47										
+PE03	PE03	RE	Easement - Entry	Baulast - Eintragung	2018.06.19 05:33:47										
+PE04	PE04	RE	Easement - Note	Baulast - Bemerkung	2018.06.19 05:33:47										
+PFLT	PFLT	CMTO	Text for configuration folder	Text zur Konfigurationsmappe	2018.06.19 05:33:47										
+PKO	PKO	BOM	StlAlternative text PrjStl	StlAlternativentext PrjStl	2018.06.19 05:33:47										
+PL01	PL01	RE	Note on Site Development	Bemerkung zur Erschließung	2018.06.19 05:33:47										
+PL02	PL02	RE	Parcel - Site Development	Flurstück- Erschließung	2018.06.19 05:33:47										
+PLAN	PLAN	MCPLANLIS	LIS planning description	Beschreibung LIS-Planung	2018.06.19 05:33:47										
+PLAN	PLAN	RM_ALM_01	Note for Planning Template	Notiz für Planungsvorlage	2018.06.19 05:33:47										
+PLFH	PLFH	ROUTING	Long Text	Langtext	2018.06.19 05:33:47										
+PLFL	PLFL	ROUTING	Long Text	Langtext	2018.06.19 05:33:47										
+PLFT	PLFT	ROUTING	Long Text	Langtext	2018.06.19 05:33:47										
+PLFV	PLFV	ROUTING	Long Text	Langtext	2018.06.19 05:33:47										
+PLKO	PLKO	ROUTING	Long Text	Langtext	2018.06.19 05:33:47										
+PLPA	PLPA	SEM_BPS	Descr.Schedule Levels+Packages	Pl.Ebenen und Pakete - Beschr.	2018.06.19 05:33:47										
+PLPH	PLPH	ROUTING	Long Text	Langtext	2018.06.19 05:33:47										
+PLPO	PLPO	ROUTING	Long Text	Langtext	2018.06.19 05:33:47										
+PM	PM	UPB_PM	Planning Book	Planungsmappe	2018.06.19 05:33:47										
+PMLT	PMLT	CMTO	Text for configuration def.	Text zur Konfigurationsdef.	2018.06.19 05:33:47										
+PNCP	PNCP	PVS	Node Long Text	Knoten Langtext	2018.06.19 05:33:47										
+PNH	PNH	WTY	Claim Header	Antragskopf	2018.06.19 05:33:47										
+PNV	PNV	WTY	Claim Version	Antragsversion	2018.06.19 05:33:47										
+POSI	POSI	CGPL_TEXT	Strengths	Stärken	2018.06.19 05:33:47										
+POSN	POSN	AUFK	Order item text	Auftragspositionstext	2018.06.19 05:33:47										
+POST	POST	GRAPHICS	PostScript	PostScript	2018.06.19 05:33:47										
+PP	PP	DOKU	Profile parameters	Profilparameter	2018.06.19 05:33:47										
+PPF	PPF	TEXT	PPF: Long texts for action def	PPF: Langtexte zu Aktionsdef.	2018.06.19 05:33:47										
+PPO	PPO	BOM	StlPosition text PrjStl	StlPositionstext PrjStl	2018.06.19 05:33:47										
+PPVL	PPVL	/PLMB/RCP			2018.06.19 05:33:47										
+PR	PR	DOKU	Pragma in ABAP Source Code	Pragma in ABAP-Quelltext	2018.06.19 05:33:47										
+PRES	PRES	GRAPHICS	PRESCRIBE	PRESCRIBE	2018.06.19 05:33:47										
+PROC	PROC	J1IF	Nature of processing		2018.06.19 05:33:47										
+PRT0	PRT0	FOPC_SOA	Print Reports	Druckberichte	2018.06.19 05:33:47										
+PRUE	PRUE	MATERIAL	Inspection text	Prüftext	2018.06.19 05:33:47										
+PS	PS	DOKU	Process Step	Prozeßschritt	2018.06.19 05:33:47										
+PSTX	PSTX	PMS	PS Text	PS-Text	2018.06.19 05:33:47										
+PSTX	PSTX	PMSDOC	PS text - DOC format	PS-Text - DOC-Format	2018.06.19 05:33:47										
+PSTX	PSTX	PMSLWP	PS Text - LWP Format	PS-Text - LWP-Format	2018.06.19 05:33:47										
+PSTX	PSTX	PMSPPT	PS Text - PPT Format	PS-Text - PPT-Format	2018.06.19 05:33:47										
+PSTX	PSTX	PMSRTF	PS text - RFT format	PS-Text - RTF-Format	2018.06.19 05:33:47										
+PSTX	PSTX	PMSXLS	PS Text - XLS Format	PS-Text - XLS-Format	2018.06.19 05:33:47										
+PTXT	PTXT	PP61_TEXT	Pool Management	Poolmanagement	2018.06.19 05:33:47										
+PV	PV	WTY	Claim Item	Antragsposition	2018.06.19 05:33:47										
+PVCP	PVCP	PVS	Variant Long Text	Varianten Langtext	2018.06.19 05:33:47										
+PY04	PY04	HRPYES01			2018.06.19 05:33:47										
+PY99	PY99	HRPYXX99			2018.06.19 05:33:47										
+PZU	PZU	BOM	Bill of material text PrjStl	Stücklistentext PrjStl	2018.06.19 05:33:47										
+P_01	P_01	TEXT	Individual text for RS	Individualtext für RP	2018.06.19 05:33:47										
+QALS	QALS	QPRUEFLOS	Long text on inspection lot	Prüfloslangtext	2018.06.19 05:33:47										
+QAVE	QAVE	QPRUEFLOS	Long text on usage decision	Langtext zum VE	2018.06.19 05:33:47										
+QBST	QBST	QPRUEFLOS	Inventory posting log	Protokoll zu Bestandsbuchungen	2018.06.19 05:33:47										
+QENT	QENT	QPMERKMAL	Sampling text	Probeentnahmetext	2018.06.19 05:33:47										
+QESP	QESP	QEEESTUECK	Insp.remark on item f. inspec.	Prüfbemerkung zum Einzelstück	2018.06.19 05:33:47										
+QINF	QINF	QINF	Quality info record long text	Langtext Qualitätsinfosatz	2018.06.19 05:33:47										
+QKLP	QKLP	QEEKLASSE	Insp. remark on value class	Prüfbemerkung zur Werteklasse	2018.06.19 05:33:47										
+QM	QM	QSS	Inspection feature long text	Prüfmerkmalslangtext	2018.06.19 05:33:47										
+QMEP	QMEP	QEEMERKMAL	Insp. remark on characteristic	Prüfbemerkung zum Merkmal	2018.06.19 05:33:47										
+QMQN	QMQN	TEXT	QM: Q message / short message	QM: Q-Meldung / Kurznachricht	2018.06.19 05:33:47										
+QMTT	QMTT	QPMETHODE	Inspection method long text	Prüfmethodenlangtext	2018.06.19 05:33:47										
+QN	QN	QSS	Sampling text	Probeentnahmetext	2018.06.19 05:33:47										
+QPA1	QPA1	QKATALOG	Long text on effect	Langtext der Auswirkung	2018.06.19 05:33:47										
+QPA2	QPA2	QKATALOG	Long text on measure	Langtext der Maßnahme	2018.06.19 05:33:47										
+QPAM	QPAM	QKATALOG	Selected set long text	Auswahlmengenlangtext	2018.06.19 05:33:47										
+QPCT	QPCT	QKATALOG	Code long text	Codelangtext	2018.06.19 05:33:47										
+QPGT	QPGT	QKATALOG	Code group long text	Codegruppenlangtext	2018.06.19 05:33:47										
+QPMT	QPMT	QPMERKMAL	Inspection feature long text	Prüfmerkmalslangtext	2018.06.19 05:33:47										
+QPRP	QPRP	QEEPROBE	Inspection remark on test	Prüfbemerkung zur Probe	2018.06.19 05:33:47										
+QPVK	QPVK	QPRV	Sample-drawing procedure text	Text Probenahmeverfahren	2018.06.19 05:33:47										
+QPVP	QPVP	QPRV	Sample-drawing item text	Text Probenahmeanweisung	2018.06.19 05:33:47										
+QVDM	QVDM	QVDM_MAT01	QM/SD info records	QM/SD-Infosätze	2018.06.19 05:33:47										
+R01	R01	EKKO	Detailed Description	Detailbeschreibung	2018.06.19 05:33:47										
+R01	R01	EKPO	Item Description	Positionsbeschreibung	2018.06.19 05:33:47										
+R02	R02	EKKO	Internal note	Interne Notiz	2018.06.19 05:33:47										
+RAPA	RAPA	RE	Text for Posting Activity	Text für Buchungsvorfall	2018.06.19 05:33:47										
+RB01	RB01	VBBP	Service Provider	Leistungserbringer	2018.06.19 05:33:47										
+RB02	RB02	VBBP	Item Description	Positionsbeschreibung	2018.06.19 05:33:47										
+RC01	RC01	RE	Description	Beschreibung	2018.06.19 05:33:47										
+RE	RE	DOKU	Report/Module Pool	Report/Modulpool	2018.06.19 05:33:47										
+REC1	REC1	RECON			2018.06.19 05:33:47										
+RELN	RELN	INFO	Release Notes	Release-Informationen	2018.06.19 05:33:47										
+RELN	RELN	RELN			2018.06.19 05:33:47										
+REME	REME	TEXT	Real estate managemnt: Message	Immobilienmanagement: Notiz	2018.06.19 05:33:47										
+REQU	REQU	FMCFBUD	Long Text: Requested Res. Bdgt	Langtext: Beantr. Budgetrest	2018.06.19 05:33:47										
+RETO	RETO	/SCWM/DLVI	General Return Text	Retourentext allgemein	2018.06.19 05:33:47										
+RITM	RITM	/PLMB/RITM			2018.06.19 05:33:47										
+RJCT	RJCT	PROC_WFL			2018.06.19 05:33:47										
+RLM1	RLM1	RLMFW	Header Long Text	Kopflangtext	2018.06.19 05:33:47										
+RLST	RLST	BRF	BRF: Rule Set	BRF: Regelsatz	2018.06.19 05:33:47										
+RMEL	RMEL	AUFK	Order confirmation text	Auftragsrückmeldetext	2018.06.19 05:33:47										
+ROUT	ROUT	/PLMB/PR	Recipe Management	Rezeptverwaltung	2018.06.19 05:33:47										
+ROUT	ROUT	/PLMB/PRT	Recipe Management	Rezeptverwaltung	2018.06.19 05:33:47										
+RPRE	RPRE	/PLMB/RCP			2018.06.19 05:33:47										
+RRAE	RRAE	RE	Note on Accom.Entitlement Crt.	Notiz Wohnberechtigungsschein	2018.06.19 05:33:47										
+RSTP	RSTP	/ACCGO/VAL			2018.06.19 05:33:47										
+RT	RT	DOKU	Business Roles Template	Business Rollen Template	2018.06.19 05:33:47										
+RTF	RTF	STYLESHEET	Style sheet RTF description	Formatvorlage RTF-Beschreibung	2018.06.19 05:33:47										
+RTP1	RTP1	RTP000	Notes on Account	Notizen zum Kto	2018.06.19 05:33:47										
+RTXT	RTXT	PP61_TEXT	Pool Management	Poolmanagement	2018.06.19 05:33:47										
+S001	S001	/SCWM/DLVH			2018.06.19 05:33:47										
+SA	SA	DOKU	Analysis	Analyse	2018.06.19 05:33:47										
+SAM	SAM	/PLMB/SAM			2018.06.19 05:33:47										
+SC1F	SC1F	FVVI_MV	Table section 1 footer	Fußzeile Tabellenabschnitt 1	2018.06.19 05:33:47										
+SC1H	SC1H	FVVI_MV	Table section 1 header	Kopfzeile Tabellenabschnitt 1	2018.06.19 05:33:47										
+SC1L	SC1L	FVVI_MV	Line in table section 1	Zeile in Tabellenabschnitt 1	2018.06.19 05:33:47										
+SC2F	SC2F	FVVI_MV	Table section 2 footer	Fußzeile Tabellenabschnitt 2	2018.06.19 05:33:47										
+SC2H	SC2H	FVVI_MV	Table section 2 header	Kopfzeile Tabellenabschnitt 2	2018.06.19 05:33:47										
+SC2L	SC2L	FVVI_MV	Line in table section 2	Zeile in Tabellenabschnitt 2	2018.06.19 05:33:47										
+SCRA	SCRA	/SCWM/DLVI	Scrapping Text	Verschrottungstext	2018.06.19 05:33:47										
+SCSE	SCSE	RE	Service Charge Settlement Text	Text für Nebenkostenabrechnung	2018.06.19 05:33:47										
+SD	SD	DOKU	Syntax Documentation	Syntaxdokumentation	2018.06.19 05:33:47										
+SDCL	SDCL	ICH			2018.06.19 05:33:47										
+SDFO	SDFO	TEXT	Texts for routines	Texte für Routinen	2018.06.19 05:33:47										
+SDKD	SDKD	TEXT	CAS: Print contact	CAS: Druck Kontakt	2018.06.19 05:33:47										
+SDKI	SDKI	TEXT	CAS: Include texts f. contacts	CAS: Includetexte für Kontakte	2018.06.19 05:33:47										
+SDMD	SDMD	TEXT	CAS: Texts for Mailing	CAS: Texte fuer Mailing	2018.06.19 05:33:47										
+SDMS	SDMS	TEXT	Sender details  SDB	Absenderangaben SDB	2018.06.19 05:33:47										
+SDRE	SDRE	TEXT	Standard text for SD reporting	Standardtext für RV-Reporting	2018.06.19 05:33:47										
+SDTP	SDTP	TEXT	Standard text terms of payment	Standardtext Zahlungsbedingung	2018.06.19 05:33:47										
+SDTX	SDTX	OIU_DO			2018.06.19 05:33:47										
+SDTX	SDTX	OIU_DO_WK			2018.06.19 05:33:47										
+SDVD	SDVD	TEXT	Stand.text for SD forms	Standardtext für RV-Formulare	2018.06.19 05:33:47										
+SE	SE	DOKU	Metric/Event/Alert Description	Metrik-/Ereignis-/Alertbeschr.	2018.06.19 05:33:47										
+SECI	SECI	ESH_TAU	Security Info (EPM)	Sicherheits Info (EPM)	2018.06.19 05:33:47										
+SEQU	SEQU	AUFK	Order sequence text	Auftragsfolgentext	2018.06.19 05:33:47										
+SG	SG	DOKU	Metric Group (Description)	Metrische Gruppe (Beschreib.)	2018.06.19 05:33:47										
+SHL	SHL	SHL	Document	Dokument	2018.06.19 05:33:47										
+SI	SI	DOKU	Evaluation and Effects	Bewertung und Auswirkung	2018.06.19 05:33:47										
+SIMG	SIMG	DSYS	Hypertext module for IMG	Hypertext-Baustein für IMG	2018.06.19 05:33:47										
+SINF	SINF	/SCTM/NOTE	Addit. Shipper Information	Zusätzl. Verladerinformationen	2018.06.19 05:33:47										
+SKO	SKO	BOM	BOM alternatives text std BOM	StlAlternativentext StdStl	2018.06.19 05:33:47										
+SL	SL	DOKU	System log	Systemlog	2018.06.19 05:33:47										
+SMLS	SMLS	PMS	Standard milestone long text	Langtext Standardmeilenstein	2018.06.19 05:33:47										
+SOA1	SOA1	FOPC_SOA	Comment	Kommentar	2018.06.19 05:33:47										
+SOA1	SOA1	SCMG_CASE	Comment	Kommentar	2018.06.19 05:33:47										
+SOA2	SOA2	FOPC_SOA	Comments on Validation	Kommentar zur Validierung	2018.06.19 05:33:47										
+SOA2	SOA2	SCMG_CASE	Comments on Validation	Kommentar zur Validierung	2018.06.19 05:33:47										
+SOA3	SOA3	FOPC_SOA	Description	Beschreibung	2018.06.19 05:33:47										
+SOA3	SOA3	SCMG_CASE	Description	Beschreibung	2018.06.19 05:33:47										
+SOA4	SOA4	FOPC_SOA	Effect	Auswirkung	2018.06.19 05:33:47										
+SOA4	SOA4	SCMG_CASE	Effect	Auswirkung	2018.06.19 05:33:47										
+SOA5	SOA5	FOPC_SOA	Compensating Controls	Compensating Controls	2018.06.19 05:33:47										
+SOA5	SOA5	SCMG_CASE	Compensating Controls	Compensating Controls	2018.06.19 05:33:47										
+SOA6	SOA6	FOPC_SOA	Comment (Instead of Plan)	Kommentar (anstatt Plan)	2018.06.19 05:33:47										
+SOA6	SOA6	SCMG_CASE	Comment (Instead of Plan)	Kommentar (anstatt Plan)	2018.06.19 05:33:47										
+SOA7	SOA7	FOPC_SOA	Test Proc.	Testablauf	2018.06.19 05:33:47										
+SOA7	SOA7	SCMG_CASE	Test Proc.	Testablauf	2018.06.19 05:33:47										
+SOD0	SOD0	FOPC_SOA	Segregation of Duties	Segregation of duties	2018.06.19 05:33:47										
+SOL	SOL	/PRA/ONRR			2018.06.19 05:33:47										
+SOL	SOL	/PRA/T9			2018.06.19 05:33:47										
+SOL	SOL	/PRA/TA			2018.06.19 05:33:47										
+SOLE	SOLE	/PRA/ONRR			2018.06.19 05:33:47										
+SOLE	SOLE	/PRA/T9			2018.06.19 05:33:47										
+SOLE	SOLE	/PRA/TA			2018.06.19 05:33:47										
+SPO	SPO	BOM	BOM item text std BOM	StlPositionstext StdStl	2018.06.19 05:33:47										
+SRMO	SRMO	RE	Changes to Settlement Results	Änderungen des Abr.Ergebnisses	2018.06.19 05:33:47										
+SRSE	SRSE	RE	Sales-Based Settlement Text	Text für Umsatzabrechnung	2018.06.19 05:33:47										
+ST	ST	/ACCGO/CCK			2018.06.19 05:33:47										
+ST	ST	/ACCGO/DPQ			2018.06.19 05:33:47										
+ST	ST	/ACCGO/PM			2018.06.19 05:33:47										
+ST	ST	/ACCGO/RC			2018.06.19 05:33:47										
+ST	ST	/MVA/ATEXT	Standard Text	Allgemeiner Standardtext	2018.06.19 05:33:47										
+ST	ST	/MVA/VTEXT	Standard Text	Allgemeiner Standardtext	2018.06.19 05:33:47										
+ST	ST	DOKU	Structure	Struktur	2018.06.19 05:33:47										
+ST	ST	IAMACTTMPL			2018.06.19 05:33:47										
+ST	ST	IAMISSTYPE			2018.06.19 05:33:47										
+ST	ST	J3RFCTS			2018.06.19 05:33:47										
+ST	ST	J3RFSPD			2018.06.19 05:33:47										
+ST	ST	TEXT	Standard Text	Allgemeiner Standardtext	2018.06.19 05:33:47										
+ST02	ST02	LFM1	Purch.org.-spec.test text		2018.06.19 05:33:47										
+STAM	STAM	OCS	Texts for internal mail	Texte für internes Mail	2018.06.19 05:33:47										
+STAT	STAT	HRHAP00	Status Change Note	Status change note	2018.06.19 05:33:47										
+STEU	STEU	PLANCTR			2018.06.19 05:33:47										
+STNT	STNT	EXPD			2018.06.19 05:33:47										
+SUBM	SUBM	AUFK			2018.06.19 05:33:47										
+SUBM	SUBM	WORKST	Standard text	Textvorlage	2018.06.19 05:33:47										
+SUBT	SUBT	/FTI/WIZ	Title for Sub Group		2018.06.19 05:33:47										
+SW	SW	DOKU	Toggle + Assignment	Schalter + Zuordnung	2018.06.19 05:33:47										
+SWH1	SWH1	/SCWM/DLVH	SWP Header Text for Inb. Del.	SWP Kopftext für Anlieferung	2018.06.19 05:33:47										
+SWP1	SWP1	/SCWM/DLVI			2018.06.19 05:33:47										
+SYST	SYST	TEXT	System text (non-appl.-dep.)	Systemtext (anwend.unabhängig)	2018.06.19 05:33:47										
+SZU	SZU	BOM	BOM text std BOM	Stücklistentext StdStl	2018.06.19 05:33:47										
+T001	T001	FVVD	Main table header	Tabellenkopf Haupttabelle	2018.06.19 05:33:47										
+T002	T002	FVVD	Sub-table header	Tabellenkopf Untertabelle	2018.06.19 05:33:47										
+T01	T01	/SCWM/DLVH	Text 1 for customer	Text 1 für Debitor	2018.06.19 05:33:47										
+T01	T01	GLOS			2018.06.19 05:33:47										
+T01	T01	TERM			2018.06.19 05:33:47										
+T01	T01	VBBK	Text 1 for customer	Text 1 für Debitor	2018.06.19 05:33:47										
+T02	T02	/SCWM/DLVH	Text 2 for customer	Text 2 für Debitor	2018.06.19 05:33:47										
+T02	T02	VBBK	Text 2 for customer	Text 2 für Debitor	2018.06.19 05:33:47										
+T050	T050	FVVD	Line items	Einzelposten	2018.06.19 05:33:47										
+T098	T098	FVVD	Sub-table total	Tabellensumme Untertabelle	2018.06.19 05:33:47										
+T099	T099	FVVD	Main table total	Tabellensumme Haupttabelle	2018.06.19 05:33:47										
+T430	T430	CONTROLKEY			2018.06.19 05:33:47										
+TA	TA	DOKU	Request/Task	Auftrag/Aufgabe	2018.06.19 05:33:47										
+TA	TA	FVVI_MKB	Table header	Tabellenkopf	2018.06.19 05:33:47										
+TA	TA	FVVI_WIBE	Table header	Tabellenkopf	2018.06.19 05:33:47										
+TAPP	TAPP	APP-DOT			2018.06.19 05:33:47										
+TB	TB	DOKU	Table	Tabelle	2018.06.19 05:33:47										
+TBCO	TBCO	TEXT	TR form confirmation	TR-Formulare Bestätigungswesen	2018.06.19 05:33:47										
+TBH	TBH	FVVI_WIBE	Group header, level 1	Gruppenkopf, Ebene 1	2018.06.19 05:33:47										
+TBH1	TBH1	FVVI_MKB	Group header, level 1	Gruppenkopf, Ebene 1	2018.06.19 05:33:47										
+TBH2	TBH2	FVVI_MKB	Group header, level 2	Gruppenkopf, Ebene 2	2018.06.19 05:33:47										
+TC	TC	DOKU	Request/Task	Auftrag/Aufgabe	2018.06.19 05:33:47										
+TE02	TE02	/SCWM/DLVH	Test 02 for Text Type Assignmt	test 02 für Textartenzuordnung	2018.06.19 05:33:47										
+TE02	TE02	/SCWM/DLVI	Test ID for Text Management	Test ID für Textmanagement	2018.06.19 05:33:47										
+TE03	TE03	/SCWM/DLVH	Test ID for Text Management	Test ID für Textmanagement	2018.06.19 05:33:47										
+TE03	TE03	/SCWM/DLVI	Test ID for Text Management	Test ID für Textmanagement	2018.06.19 05:33:47										
+TE04	TE04	/SCWM/DLVH	Test	test	2018.06.19 05:33:47										
+TE04	TE04	/SCWM/DLVI	Test ID for Text Management	Test ID für Textmanagement	2018.06.19 05:33:47										
+TE05	TE05	/SCWM/DLVH	Test ID for Text Management	Test ID für Textmanagement	2018.06.19 05:33:47										
+TEM1	TEM1	HR_TEMNOTE	Remarks for processes in TEM	Notizen zu Vorgängen im VM	2018.06.19 05:33:47										
+TEST	TEST	/SCWM/DLVH	Test for Text Type Assignment	test für textartenzuordnung	2018.06.19 05:33:47										
+TEST	TEST	/SCWM/DLVI	Test ID for Item	Test ID für Item	2018.06.19 05:33:47										
+TEXT	TEXT	FVVD	Continuous Text	Fließtext	2018.06.19 05:33:47										
+TEXT	TEXT	FVVD_ALLG	Loan agreement general corresp	Allg. Anschreiben D.vertrag	2018.06.19 05:33:47										
+TEXT	TEXT	FVVD_AUSZ	Down payment generation	Auszahlungsanschreiben	2018.06.19 05:33:47										
+TEXT	TEXT	FVVD_BSFG	Decision-making	Beschlußfassung	2018.06.19 05:33:47										
+TEXT	TEXT	FVVD_DV	Loan contract	Darlehensvertrag	2018.06.19 05:33:47										
+TEXT	TEXT	FVVD_FNI0	Letter to prospective customer	Interessentenanschreiben	2018.06.19 05:33:47										
+TEXT	TEXT	FVVD_MASO	Manual debit position	Manuelle Sollstellung	2018.06.19 05:33:47										
+TEXT	TEXT	FVVD_ORDER	Order letter	Order-Anschreiben	2018.06.19 05:33:47										
+TEXT	TEXT	FVVD_PROL	Rollover offer	Prolongationsangebot	2018.06.19 05:33:47										
+TEXT	TEXT	FVVD_PRUEF	Collat. val./credit stdg chck	Beleihungswert/Bonitätsprüfg.	2018.06.19 05:33:47										
+TEXT	TEXT	FVVD_RTF	WinWord DARWIN text interface	DARWIN-Text-Interface WinWord	2018.06.19 05:33:47										
+TEXT	TEXT	FVVD_ZINS	Interest rate adjustment	Zinsanpassung	2018.06.19 05:33:47										
+TEXT	TEXT	FVVI	Continuous Text	Fließtext	2018.06.19 05:33:47										
+TEXT	TEXT	FVVI_ALZB	Continuous Text	Fließtext	2018.06.19 05:33:47										
+TEXT	TEXT	FVVI_ANPG	Continuous Text	Fließtext	2018.06.19 05:33:47										
+TEXT	TEXT	FVVI_ANPI	Continuous Text	Fließtext	2018.06.19 05:33:47										
+TEXT	TEXT	FVVI_ANPZU	Continuous Text	Fließtext	2018.06.19 05:33:47										
+TEXT	TEXT	FVVI_BA	Continuous Text	Fließtext	2018.06.19 05:33:47										
+TEXT	TEXT	FVVI_BS	Continuous Text	Fließtext	2018.06.19 05:33:47										
+TEXT	TEXT	FVVI_FGEW	Continuous Text	Fließtext	2018.06.19 05:33:47										
+TEXT	TEXT	FVVI_FWHN	Continuous Text	Fließtext	2018.06.19 05:33:47										
+TEXT	TEXT	FVVI_GUTA	Continuous Text	Fließtext	2018.06.19 05:33:47										
+TEXT	TEXT	FVVI_INTRO	Continuous Text	Fließtext	2018.06.19 05:33:47										
+TEXT	TEXT	FVVI_INVPP	Continuous Text	Fließtext	2018.06.19 05:33:47										
+TEXT	TEXT	FVVI_KU_CH	Continuous Text	Fließtext	2018.06.19 05:33:47										
+TEXT	TEXT	FVVI_MA	Continuous Text	Fließtext	2018.06.19 05:33:47										
+TEXT	TEXT	FVVI_MKB	Continuous Text	Fließtext	2018.06.19 05:33:47										
+TEXT	TEXT	FVVI_MKONT	Continuous Text	Fließtext	2018.06.19 05:33:47										
+TEXT	TEXT	FVVI_MKUE	Continuous Text	Fließtext	2018.06.19 05:33:47										
+TEXT	TEXT	FVVI_MV	Continuous Text	Fließtext	2018.06.19 05:33:47										
+TEXT	TEXT	FVVI_MVA	Continuous Text	Fließtext	2018.06.19 05:33:47										
+TEXT	TEXT	FVVI_NK	Continuous Text	Fließtext	2018.06.19 05:33:47										
+TEXT	TEXT	FVVI_NKANL	Continuous Text	Fließtext	2018.06.19 05:33:47										
+TEXT	TEXT	FVVI_OWN1	Continuous Text	Fließtext	2018.06.19 05:33:47										
+TEXT	TEXT	FVVI_RADJ	Continuous Text	Fließtext	2018.06.19 05:33:47										
+TEXT	TEXT	FVVI_SLST	Continuous Text	Fließtext	2018.06.19 05:33:47										
+TEXT	TEXT	FVVI_SOST	Continuous Text	Fließtext	2018.06.19 05:33:47										
+TEXT	TEXT	FVVI_TAB1	Continuous Text	Fließtext	2018.06.19 05:33:47										
+TEXT	TEXT	FVVI_WBNL	Continuous Text	Fließtext	2018.06.19 05:33:47										
+TEXT	TEXT	FVVI_WEG	Continuous Text	Fließtext	2018.06.19 05:33:47										
+TEXT	TEXT	FVVI_WIBE	Continuous Text	Fließtext	2018.06.19 05:33:47										
+TEXT	TEXT	HRITTXT			2018.06.19 05:33:47										
+TEXT	TEXT	MAIL			2018.06.19 05:33:47										
+TEXT	TEXT	OFFICE	Document	Dokument	2018.06.19 05:33:47										
+TEXT	TEXT	TASKTEXT	Texts for tasks	Texte bei Aufgaben	2018.06.19 05:33:47										
+THA1	THA1	THA_COMMON	Hedge Note 1	Hedge Notiz 1	2018.06.19 05:33:47										
+THA1	THA1	THA_HI	Hedge Object Details	Sicherungsobjekt Details	2018.06.19 05:33:47										
+THA1	THA1	THA_HP	Hedge Plan Details	Sicherungsplan Details	2018.06.19 05:33:47										
+THA2	THA2	THA_COMMON	Hedge Note 2	Hedge Notiz 2	2018.06.19 05:33:47										
+THA3	THA3	THA_COMMON	Hedge Note 3	Hedge Notiz 3	2018.06.19 05:33:47										
+THF	THF	FVVI_WIBE	Group footer, level 1	Gruppenfuß, Ebene 1	2018.06.19 05:33:47										
+THF1	THF1	FVVI_MKB	Group footer, level 1	Gruppenfuß, Ebene 1	2018.06.19 05:33:47										
+THF2	THF2	FVVI_MKB	Group footer, level 2	Gruppenfuß, Ebene 2	2018.06.19 05:33:47										
+THX1	THX1	THX_HR			2018.06.19 05:33:47										
+THX2	THX2	THX_HI			2018.06.19 05:33:47										
+THX3	THX3	THX_HN			2018.06.19 05:33:47										
+TI	TI	FVVI_MKB	Table footer	Tabellenfuß	2018.06.19 05:33:47										
+TI	TI	FVVI_WIBE	Table footer	Tabellenfuß	2018.06.19 05:33:47										
+TITM	TITM	/SCWM/DLVI	Texts of Item Type 'Text'	Texte der Positionsart 'Text'	2018.06.19 05:33:47										
+TJ30	TJ30	BSV	Long text on user status	Langtext zu Anwenderstatus	2018.06.19 05:33:47										
+TKO	TKO	BOM	BOM alternat.text func.loc.BOM	StlAlternativentext TechnPlStl	2018.06.19 05:33:47										
+TMNO	TMNO	RE	Note on Term	Notiz zur Klausel	2018.06.19 05:33:47										
+TMPC	TMPC	RE	Standard Notice Procedure	Standard-Kündigungsschema	2018.06.19 05:33:47										
+TMPF	TMPF	RE	Individual Notice Procedure	Individuelles Kündigungsschema	2018.06.19 05:33:47										
+TMRC	TMRC	RE	Standard Renewal Rule	Standard-Verlängerungsregel	2018.06.19 05:33:47										
+TMRF	TMRF	RE	Individual Renewal Rule	Individuelle Verlängerungsreg.	2018.06.19 05:33:47										
+TP	TP	DOKU	Transport problem description	Transportproblembeschreibung	2018.06.19 05:33:47										
+TPO	TPO	BOM	BOM item text func.loc.BOM	StlPositionstext TechnPlStl	2018.06.19 05:33:47										
+TR	TR	DOKU	Transaction	Transaktion	2018.06.19 05:33:47										
+TREE	TREE	SCMA	Texts in Sched. Manager tree	Texte im Tree  des SchedMan	2018.06.19 05:33:47										
+TS01	TS01	WCOCOH	Trade Promotion Text	Handelsförderung Text	2018.06.19 05:33:47										
+TT	TT	DOKU	Table type	Tabellentyp	2018.06.19 05:33:47										
+TU	TU	DOKU	Tutorial	Tutorial	2018.06.19 05:33:47										
+TX	TX	COFUNC2	Docu. environment function	Dokumentation Umgebungsfunkt.	2018.06.19 05:33:47										
+TX	TX	DOKU	General text	Allgemeiner Text	2018.06.19 05:33:47										
+TX01	TX01	ESSR	Entry sheet long text	Langtext Erfassungsblatt	2018.06.19 05:33:47										
+TX01	TX01	KNA1	Internal note	Interne Notiz	2018.06.19 05:33:47										
+TX01	TX01	KNVV	Internal note	Interne Notiz	2018.06.19 05:33:47										
+TX01	TX01	VBBK	Internal note	Interne Notiz	2018.06.19 05:33:47										
+TX02	TX02	KNA1	Sales Note for Customer	Verkaufsnotiz für Kunde	2018.06.19 05:33:47										
+TX02	TX02	KNVV	Sales Note for Customer	Verkaufsnotiz für Kunde	2018.06.19 05:33:47										
+TX02	TX02	VBBK	Sales Note for Customer	Verkaufsnotiz für Kunde	2018.06.19 05:33:47										
+TX02	TX02	VBBP	Sales Note for Customer	Verkaufsnotiz für Kunde	2018.06.19 05:33:47										
+TX03	TX03	KNA1	Shipping instructions	Versandvorschrift	2018.06.19 05:33:47										
+TX03	TX03	KNVV	Shipping instructions	Versandvorschrift	2018.06.19 05:33:47										
+TX03	TX03	VBBK	Shipping instructions	Versandvorschrift	2018.06.19 05:33:47										
+TX03	TX03	VBBP	Shipping instructions	Versandvorschrift	2018.06.19 05:33:47										
+TX04	TX04	KNA1	Shipping Notif. for Customer	Lieferavis für Kunde	2018.06.19 05:33:47										
+TX04	TX04	KNVV	Shipping Notif. for Customer	Lieferavis für Kunde	2018.06.19 05:33:47										
+TX04	TX04	VBBK	Shipping Notif. for Customer	Lieferavis für Kunde	2018.06.19 05:33:47										
+TX04	TX04	VBBP	Shipping Notif. for Customer	Lieferavis für Kunde	2018.06.19 05:33:47										
+TX05	TX05	KNA1	Billing Instruction	Fakturierungsanweisung	2018.06.19 05:33:47										
+TX05	TX05	KNVV	Billing Instruction	Fakturierungsanweisung	2018.06.19 05:33:47										
+TX05	TX05	VBBK	Billing Instruction	Fakturierungsanweisung	2018.06.19 05:33:47										
+TX05	TX05	VBBP	Billing Instruction	Fakturierungsanweisung	2018.06.19 05:33:47										
+TX06	TX06	KNA1	Billing Info for Customer	Fakturierungshinweis für Kunde	2018.06.19 05:33:47										
+TX06	TX06	KNVV	Billing Info for Customer	Fakturierungshinweis für Kunde	2018.06.19 05:33:47										
+TX06	TX06	VBBK	Billing Info for Customer	Fakturierungshinweis für Kunde	2018.06.19 05:33:47										
+TX06	TX06	VBBP	Billing Info for Customer	Fakturierungshinweis für Kunde	2018.06.19 05:33:47										
+TX07	TX07	VBBK	Pick / Pack Instructions	Komm./Verpackungsvorschriften	2018.06.19 05:33:47										
+TX07	TX07	VBBP	Pick / Pack Instructions	Komm./Verpackungsvorschriften	2018.06.19 05:33:47										
+TX11	TX11	VBBK	Internal Note from Customer	Interne Notiz des Kunden	2018.06.19 05:33:47										
+TX12	TX12	VBBK	Sales Note from Customer	Verkaufsnotiz des Kunden	2018.06.19 05:33:47										
+TX12	TX12	VBBP	Sales Note from Customer	Verkaufsnotiz des Kunden	2018.06.19 05:33:47										
+TX13	TX13	VBBK	Shipping Instrns from Cust.	Versandvorschrift des Kunden	2018.06.19 05:33:47										
+TX13	TX13	VBBP	Shipping Instrns from Cust.	Versandvorschrift des Kunden	2018.06.19 05:33:47										
+TX14	TX14	VBBK	Shipping Note from Customer	Versandnotiz des Kunden	2018.06.19 05:33:47										
+TX14	TX14	VBBP	Shipping Note from Customer	Versandnotiz des Kunden	2018.06.19 05:33:47										
+TX15	TX15	VBBK	Billing Note from Customer	Fakturierungsanweis. d. Kunden	2018.06.19 05:33:47										
+TX15	TX15	VBBP	Billing Note from Customer	Fakturierungsanweis. d. Kunden	2018.06.19 05:33:47										
+TX16	TX16	VBBK	Billing Instrns from Customer	Fakturierungshinweis d. Kunden	2018.06.19 05:33:47										
+TX16	TX16	VBBP	Billing Instrns from Customer	Fakturierungshinweis d. Kunden	2018.06.19 05:33:47										
+TX17	TX17	VBBK	Pick/Pack Instrns from Cust.	Komm./VerpackVorschr.d.Kunden	2018.06.19 05:33:47										
+TX17	TX17	VBBP	Pick/Pack Instrns from Cust.	Komm./VerpackVorschr.d.Kunden	2018.06.19 05:33:47										
+TXMK	TXMK	BGMK	Model warranty header shrt txt	Mustergarantie Kopf Kurztext	2018.06.19 05:33:47										
+TXMP	TXMP	BGMP	Model warranty item short text	Mustergarantie Pos. Kurztext	2018.06.19 05:33:47										
+TXPP	TXPP	GLPLTEXT	Long text in plan. processor	Langtext im Planungsprozessor	2018.06.19 05:33:47										
+TXT	TXT	FORM	Form texts	Formular Texte	2018.06.19 05:33:47										
+TXT	TXT	FORMVERS	Last form text transl.	Zuletzt übersetzter Form.text	2018.06.19 05:33:47										
+TXT	TXT	SSFO	Smart Form texts	Smart Form Texte	2018.06.19 05:33:47										
+TXT	TXT	STYLE	Style short texts	Stil Kurz-Texte	2018.06.19 05:33:47										
+TXT	TXT	STYLEVERS	Old (German) version	alte (deutsche) Version	2018.06.19 05:33:47										
+TXTE	TXTE	REP-WRITER	Last page	Schlußseite	2018.06.19 05:33:47										
+TXTF	TXTF	REP-WRITER	Footer lines	Fußzeilen	2018.06.19 05:33:47										
+TXTG	TXTG	DOKU	Report group documentation	Berichtsgruppendokumentation	2018.06.19 05:33:47										
+TXTG	TXTG	REP-WRITER	Report group documentation	Berichtsgruppendokumentation	2018.06.19 05:33:47										
+TXTG	TXTG	TEXT	Report group documentation	Berichtsgruppendokumentation	2018.06.19 05:33:47										
+TXTH	TXTH	REP-WRITER	Header lines	Kopfzeilen	2018.06.19 05:33:47										
+TXTR	TXTR	DOKU	Report documentation	Berichtsdokumentation	2018.06.19 05:33:47										
+TXTR	TXTR	REP-WRITER	Report documentation	Berichtsdokumentation	2018.06.19 05:33:47										
+TXTR	TXTR	TEXT	Report documentation	Berichtsdokumentation	2018.06.19 05:33:47										
+TXTS	TXTS	REP-WRITER	Comment on selection list	Zusatztext zum Selektionsbest.	2018.06.19 05:33:47										
+TXTT	TXTT	REP-WRITER	Title page	Titelseite	2018.06.19 05:33:47										
+TXWO	TXWO	OIUXC			2018.06.19 05:33:47										
+TZU	TZU	BOM	BOM text func.loc.BOM	Stücklistentext TechnPlStl	2018.06.19 05:33:47										
+UC	UC	DOKU	Configuration check	Konfigurationsprüfung	2018.06.19 05:33:47										
+UFTR	UFTR	FVVI_RADJ	Table footer U	Tabellenfuß U	2018.06.19 05:33:47										
+UHDR	UHDR	FVVI_RADJ	Table header U	Tabellenkopf U	2018.06.19 05:33:47										
+UKM	UKM	BUT000	Credit Management	Kreditmanagement	2018.06.19 05:33:47										
+ULN	ULN	FVVI_RADJ	Table line U	Tabellenzeile U	2018.06.19 05:33:47										
+UMBU	UMBU	/SCWM/DLVH	General Transfer Texts	Umbuchungstexte allgemein	2018.06.19 05:33:47										
+UMBU	UMBU	/SCWM/DLVI	General Transfer Texts	Umbuchungstexte allgemein	2018.06.19 05:33:47										
+UMLA	UMLA	/SCWM/DLVH	General Stock Transfer Texts	Umlagerungstexte allgemein	2018.06.19 05:33:47										
+UMLA	UMLA	/SCWM/DLVI	General Stock Transfer Texts	Umlagerungstexte allgemein	2018.06.19 05:33:47										
+UO	UO	DOKU	Authorization object	Berechtigungsobjekt	2018.06.19 05:33:47										
+UP	UP	DOKU	Authorization profile	Berechtigungsprofil	2018.06.19 05:33:47										
+V001	V001	/SCWM/DLVH	General Contract Conditions	Allgemeine Vertragsbedingungen	2018.06.19 05:33:47										
+V001	V001	VBBK	General Contract Conditions	Allgemeine Vertragsbedingungen	2018.06.19 05:33:47										
+V001	V001	VTBLLH	Limit Transfer: Note Type 1	Limitleihe Notizart 1	2018.06.19 05:33:47										
+V001	V001	VTBLRH	Reservation Note Type 1	Reservierungs-Notizart 1	2018.06.19 05:33:47										
+V001	V001	VTBLV	Limit Note Type 1	Vorgaben-Notizart 1	2018.06.19 05:33:47										
+V002	V002	/SCWM/DLVH	Sales Text	Verkaufstext	2018.06.19 05:33:47										
+V002	V002	VBBK	Sales Text	Verkaufstext	2018.06.19 05:33:47										
+V002	V002	VTBLLH	Limit Transfer: Note Type 2	Limitleihe Notizart 2	2018.06.19 05:33:47										
+V002	V002	VTBLRH	Reservation Note Type 2	Reservierungs-Notizart 2	2018.06.19 05:33:47										
+V002	V002	VTBLV	Limit Note Type 2	Vorgaben-Notizart 2	2018.06.19 05:33:47										
+V003	V003	/SCWM/DLVH	Field Service Note	Hinweis Außendienst	2018.06.19 05:33:47										
+V003	V003	VBBK	Field Service Note	Hinweis Außendienst	2018.06.19 05:33:47										
+V003	V003	VTBLLH	Limit Transfer: Note Type 3	Limitleihe Notizart 3	2018.06.19 05:33:47										
+V003	V003	VTBLRH	Reservation Note Type 3	Reservierungs-Notizart 3	2018.06.19 05:33:47										
+V003	V003	VTBLV	Limit Note Type 3	Vorgaben-Notizart 3	2018.06.19 05:33:47										
+V004	V004	/SCWM/DLVH	Note of Responsible Person	Hinweis Verantwortliche Person	2018.06.19 05:33:47										
+V004	V004	VBBK	Note for responsible person	Hinweis verantwortliche Person	2018.06.19 05:33:47										
+V004	V004	VTBLLH	Limit Transfer: Note Type 4	Limitleihe Notizart 4	2018.06.19 05:33:47										
+V004	V004	VTBLRH	Reservation Note Type 4	Reservierungs-Notizart 4	2018.06.19 05:33:47										
+V004	V004	VTBLV	Limit Note Type 4	Vorgaben-Notizart 4	2018.06.19 05:33:47										
+V005	V005	/SCWM/DLVH	Extension Note	Hinweis Verlängerung	2018.06.19 05:33:47										
+V005	V005	VBBK	Extension Note	Hinweis Verlängerung	2018.06.19 05:33:47										
+V005	V005	VTBLLH	Limit Transfer: Note Type 5	Limitleihe Notizart 5	2018.06.19 05:33:47										
+V005	V005	VTBLRH	Reservation Note Type 5	Reservierungs-Notizart 5	2018.06.19 05:33:47										
+V005	V005	VTBLV	Limit Note Type 5	Vorgaben-Notizart 5	2018.06.19 05:33:47										
+V006	V006	/SCWM/DLVH	Note for notice	Hinweis Kündigung	2018.06.19 05:33:47										
+V006	V006	VBBK	Note for notice	Hinweis Kündigung	2018.06.19 05:33:47										
+VA	VA	DOKU	Fixed Value	Festwert	2018.06.19 05:33:47										
+VALU	VALU	FEATURE	Documentation on charact.value	Dokumentation zum Merkmalwert	2018.06.19 05:33:47										
+VASC	VASC	VAST		VAS Beschr. für Konditionssät	2018.06.19 05:33:47										
+VASD	VASD	VAST		VAS Beschr. für Lieferungen	2018.06.19 05:33:47										
+VASM	VASM	VAST		VAS Beschr. für Einkaufsbeleg	2018.06.19 05:33:47										
+VASS	VASS	VAST		VAS Beschr. für Verkaufsbelege	2018.06.19 05:33:47										
+VD01	VD01	VTBLLH	Winword Notes	Winword-Notizen	2018.06.19 05:33:47										
+VD01	VD01	VTBLRH	Winword Notes	Winword-Notizen	2018.06.19 05:33:47										
+VD01	VD01	VTBLV	Winword Notes	Winword-Notizen	2018.06.19 05:33:47										
+VERM	VERM	CHARGE			2018.06.19 05:33:47										
+VERM	VERM	KONSILIEF			2018.06.19 05:33:47										
+VORL	VORL	R3VV			2018.06.19 05:33:47										
+VR01	VR01	VTBLLH	RTF Notes	RTF-Notizen	2018.06.19 05:33:47										
+VR01	VR01	VTBLRH	RTF Notes	RTF-Notizen	2018.06.19 05:33:47										
+VR01	VR01	VTBLV	RTF Notes	RTF-Notizen	2018.06.19 05:33:47										
+VRFD	VRFD	CAPV	Documentation Process	Dokumentation Verfahren	2018.06.19 05:33:47										
+VRFG	VRFG	CAPV	Process text	Verfahrenstext	2018.06.19 05:33:47										
+VSAV	VSAV	AUFK	Transaction text (versions)	Vorgangstext (Versionen)	2018.06.19 05:33:47										
+VSIO	VSIO	MCPLANLIS	LIS planning version texts	Versionstexte LIS-Planung	2018.06.19 05:33:47										
+VSKO	VSKO	AUFK	Order header text (versions)	Auftragskopftext (Versionen)	2018.06.19 05:33:47										
+VSLT	VSLT	PMS	Long text WBS/PROJ (versions)	Langtext PSP/PROJ (Versionen)	2018.06.19 05:33:47										
+VSMA	VSMA	AUFK	Component text (versions)	Komponententext (Versionen)	2018.06.19 05:33:47										
+VSMS	VSMS	AUFK	Milestone text (versions)	Meilensteintext (Versionen)	2018.06.19 05:33:47										
+VSMS	VSMS	PMS	Milestone long text (version)	Langtext Meilenstein (Version)	2018.06.19 05:33:47										
+VSPS	VSPS	PMS	PS Text - SAPSCRIPT (version)	PS-Text - SAPSCRIPT (Version)	2018.06.19 05:33:47										
+VSPS	VSPS	PMSDOC	PS text - DOC format (Version)	PS-Text - DOC-Format (Version)	2018.06.19 05:33:47										
+VSPS	VSPS	PMSLWP	PS Text - LWP Format (Version)	PS-Text - LWP-Format (Version)	2018.06.19 05:33:47										
+VSPS	VSPS	PMSPPT	PS Text - PPT Format (Version)	PS-Text - PPT-Format (Version)	2018.06.19 05:33:47										
+VSPS	VSPS	PMSRTF	PS text - RTF format (Version)	PS-Text - RTF-Format (Version)	2018.06.19 05:33:47										
+VSPS	VSPS	PMSXLS	PS Text - XLS Format (Version)	PS-Text - XLS-Format (Version)	2018.06.19 05:33:47										
+VW	VW	DOKU	View	View	2018.06.19 05:33:47										
+WASH	WASH	/ACCGO/STL			2018.06.19 05:33:47										
+WC	WC	DOKU	WD: Component/View Controller	WD: Komponente/View Controller	2018.06.19 05:33:47										
+WD	WD	DOKU	WD: Component/Interface	WD: Komponente / Interface	2018.06.19 05:33:47										
+WEWA	WEWA	/SCWM/DLVH	Material Document Text	Materialbelegstext	2018.06.19 05:33:47										
+WEWA	WEWA	/SCWM/DLVI	Material Document Texts	Materialbelegstexte	2018.06.19 05:33:47										
+WEWA	WEWA	VBBK			2018.06.19 05:33:47										
+WFN1	WFN1	WF_NOTE	Note in Workflow	Notiz im Workflow	2018.06.19 05:33:47										
+WFTR	WFTR	FVVI_RADJ	Table footer W	Tabellenfuß W	2018.06.19 05:33:47										
+WHDR	WHDR	FVVI_RADJ	Table header W	Tabellenkopf W	2018.06.19 05:33:47										
+WHOP	WHOP	/SCWM/DLVI	General Rearrangement Text	Lageroptimierungstext allgemei	2018.06.19 05:33:47										
+WIZ	WIZ	/CFG/WIZ	WEBGUI Wizard		2018.06.19 05:33:47										
+WLN	WLN	FVVI_RADJ	Table line W	Tabellenzeile W	2018.06.19 05:33:47										
+WO	WO	/PRA/ONRR			2018.06.19 05:33:47										
+WP01	WP01	HR_NL_WP01			2018.06.19 05:33:47										
+WWDV	WWDV	R3VV	Follow-up/deadline monitoring	Wiedervorlage/Terminüberw.	2018.06.19 05:33:47										
+XEXC	XEXC	/ACCGO/CSD			2018.06.19 05:33:47										
+XHER	XHER	ANLA	Asset master text origin	Anlagenstamm-Text Herkunft	2018.06.19 05:33:47										
+XI	XI	DOKU	Extension Index	Extension-Index	2018.06.19 05:33:47										
+XINC	XINC	/ACCGO/CSD			2018.06.19 05:33:47										
+XKAL	XKAL	ANLA	Asset mast.text c.acc.dep.view	Anlagenstamm-Text Kalk.Sicht	2018.06.19 05:33:47										
+XLEA	XLEA	ANLA	Asset master text leasing data	Anlagenstamm-Text Leasingdaten	2018.06.19 05:33:47										
+XLTD	XLTD	IMAK	General description of Word	Allgemeine Beschreibung Word	2018.06.19 05:33:47										
+XLTD	XLTD	IMAV	Word description	Beschreibung - Word	2018.06.19 05:33:47										
+XLTX	XLTX	ANLA	Asset master general long text	Anlagenstamm-Allg. Langtext	2018.06.19 05:33:47										
+XLTX	XLTX	IMAK	General description	Allgemeine Beschreibung	2018.06.19 05:33:47										
+XLTX	XLTX	IMAV	Variant description	Beschreibung Variante	2018.06.19 05:33:47										
+XNOD	XNOD	IMAK	Internal Word remarks	Interne Notizen Word	2018.06.19 05:33:47										
+XNOT	XNOT	IMAK	Internal remarks	Interne Notizen	2018.06.19 05:33:47										
+XNOT	XNOT	IMAV	Internal remarks	Interne Notizen	2018.06.19 05:33:47										
+XP	XP	DOKU	Text Conversion Method	Text Konvertierungsmethode	2018.06.19 05:33:47										
+XTCH	XTCH	ANLA	Asset mast.text technical view	Anlagenstamm-Text Techn.Sicht	2018.06.19 05:33:47										
+XVER	XVER	ANLA	Asset mast.text property value	Anlagenstamm-Text Vermögenswrt	2018.06.19 05:33:47										
+XVRS	XVRS	ANLA	Asset master text insurance	Anlagenstamm-Text Versicherung	2018.06.19 05:33:47										
+XXL	XXL	PMSRTF			2018.06.19 05:33:47										
+YADD	YADD	BELEG	Addenda		2018.06.19 05:33:47										
+YAPN	YAPN	BELEG	Approval Number		2018.06.19 05:33:47										
+YAPY	YAPY	BELEG	Approval Year		2018.06.19 05:33:47										
+YCDD	YCDD	BELEG	Doc.Header Supp		2018.06.19 05:33:47										
+YCGD	YCGD	DOC_ITEM	Line item supp		2018.06.19 05:33:47										
+YCUS	YCUS	BELEG	Customs Data for Re-portin		2018.06.19 05:33:47										
+YDIV	YDIV	BELEG	CFDI:Digest Value		2018.06.19 05:33:47										
+YDTP	YDTP	BELEG	Doc Type Paymt Flow		2018.06.19 05:33:47										
+YECC	YECC	BELEG	Encrypted CharString		2018.06.19 05:33:47										
+YFIN	YFIN	BELEG	CFDI:Final Chain in Base64		2018.06.19 05:33:47										
+YFKR	YFKR	VBBK			2018.06.19 05:33:47										
+YHCC	YHCC	BELEG	MD5 Hashed CharSring		2018.06.19 05:33:47										
+YISN	YISN	BELEG	CFDI:Issuer Name		2018.06.19 05:33:47										
+YOIM	YOIM	BELEG	Original Input Message		2018.06.19 05:33:47										
+YPMI	YPMI	BELEG	Paymt installmt Texts		2018.06.19 05:33:47										
+YSAT	YSAT	BELEG	CFDI: SELLO SAT		2018.06.19 05:33:47										
+YSEN	YSEN	BELEG	CFDI:Serial Number Certificate		2018.06.19 05:33:47										
+YSGR	YSGR	VBBK			2018.06.19 05:33:47										
+YSIV	YSIV	BELEG	CFDI:SignedInfo		2018.06.19 05:33:47										
+YSNC	YSNC	BELEG	Certif. Serial Number		2018.06.19 05:33:47										
+YT01	YT01	SCMG_CASE			2018.06.19 05:33:47										
+YT02	YT02	SCMG_CASE			2018.06.19 05:33:47										
+YT03	YT03	SCMG_CASE			2018.06.19 05:33:47										
+YT04	YT04	SCMG_CASE			2018.06.19 05:33:47										
+YUSG	YUSG	BELEG	CFDI:Use of CFDI		2018.06.19 05:33:47										
+YUUD	YUUD	BELEG	CFDI:Unique Identifier		2018.06.19 05:33:47										
+YXCH	YXCH	BELEG	XML Doc.Header Supp		2018.06.19 05:33:47										
+YXCL	YXCL	DOC_ITEM	XML Line item supp		2018.06.19 05:33:47										

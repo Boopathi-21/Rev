@@ -1,0 +1,9 @@
+LEGACY_PRICE_INDICATOR	PRICE_INDICATOR	ACTIVITY_PRICE_PLAN	ACTIVITY_PRICE_ACTUAL	PRICE_INDICATOR_TXT_GBL	PRICE_INDICATOR_TXT_LCL	DI_TIMESTAMP									
+001	001	X	X	Plan price, automatically based on activity	automatisch auf Basis der Planleistung ermittelt	2017.07.06 08:56:49									
+002	002	X	X	Plan price, automatically based on capacity	automatisch auf Basis der Kapazität ermittelt	2017.07.06 08:56:49									
+003	003	X	X	Determined manually	manuell festgelegt	2017.07.06 08:56:49									
+004	004	 	 	Purely iterative plan price	rein iterativer Plantarif	2017.07.06 08:56:49									
+005	005	 	X	Actual price, automatically based on activity	Isttarif automatisch auf Basis der Leistung	2017.07.06 08:56:49									
+006	006	 	X	Actual price, automatically based on capacity	Isttarif automatisch auf Basis der Kapazität	2017.07.06 08:56:49									
+007	007	 	X	Manually determined for actual allocations	manuell festgelegt für Istverrechnungen	2017.07.06 08:56:49									
+008	008	 	 	Purely iterative actual price	rein iterativer Isttarif	2017.07.06 08:56:49									

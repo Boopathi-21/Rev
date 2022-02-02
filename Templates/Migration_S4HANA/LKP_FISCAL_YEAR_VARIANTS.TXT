@@ -1,0 +1,14 @@
+LEGACY_FISCAL_YEAR_VARIANT	FISCAL_YEAR_VARIANT	FISCAL_YEAR_VARIANT_TXT_GBL	FISCAL_YEAR_VARIANT_TXT_LCL	DI_TIMESTAMP											
+24	24	Half periods	Halbperioden	2017.07.06 08:56:49											
+C1	C1	1st period (calendar year)	1. Periode (Kalenderjahr)	2017.07.06 08:56:49											
+DL	DL	Daily	Täglich	2017.07.06 08:56:49											
+K0	K0	Calendar year, 0 spec. period	Kalenderjahr, 0 Sonderperioden	2017.07.06 08:56:49											
+K1	K1	Cal. Year, 1 Special Period	Kalenderjahr, 1 Sonderperiode	2017.07.06 08:56:49											
+K2	K2	Cal. Year, 2 Special Periods	Kalenderjahr, 2 Sonderperioden	2017.07.06 08:56:49											
+K3	K3	Cal. Year, 3 Special Periods	Kalenderjahr, 3 Sonderperioden	2017.07.06 08:56:49											
+K4	K4	Cal. Year, 4 Special Periods	Kalenderjahr, 4 Sonderperioden	2017.07.06 08:56:49											
+QT	QT	Quaterly	Vierteljährlich	2017.07.06 08:56:49											
+V3	V3	Apr.- March, 4 special periods	Apr. - März, 4 Sonderperioden	2017.07.06 08:56:49											
+V6	V6	July - June, 4 special periods	Juli - Juni, 4 Sonderperioden	2017.07.06 08:56:49											
+V9	V9	Oct.- Sept., 4 special periods	Okt.- Sept., 4 Sonderperioden	2017.07.06 08:56:49											
+Y4	Y4	AA:Cal. Yr, 4 Special Periods	AA: KalJahr, 4 Sonderperioden	2017.07.06 08:56:49											

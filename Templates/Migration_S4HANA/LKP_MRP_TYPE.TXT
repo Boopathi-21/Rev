@@ -1,0 +1,14 @@
+LEGACY_MRP_TYPE	MRP_TYPE	MRP_TYPE_TXT_GBL	MRP_TYPE_TXT_LCL	DI_TIMESTAMP											
+D1	D1	Demand-Driven MRP, fixing type -1-	Bedarfsgesteuerte Wiederbeschaffung, Fixierungsart -1-	2017.07.06 08:56:49											
+M0	M0	MPS, FCST Consumption, No Firming	MPS, Fxierungsart -0-	2017.07.06 08:56:49											
+M1	M1	MPS, FCST Consumption, Auto Firming, New Ords after PTF	MPS, Fixierungsart -1-	2017.07.06 08:56:49											
+M2	M2	MPS, FCST Consumption, Auto Firming, No New Ords in PTF	MPS, Fixierungsart -2-	2017.07.06 08:56:49											
+M3	M3	MPS, FCST Consumption, Manual Firming, New Ords after PTF	MPS, Fixierungsart -3-	2017.07.06 08:56:49											
+M4	M4	MPS, FCST Consumption, Manual Firming, No New Ords in PTF	MPS, Fixierungsart -4-	2017.07.06 08:56:49											
+ND	ND	No planning	Keine Planung	2017.07.06 08:56:49											
+P1	P1	Forecast Consumption, Auto Firming, New Ords after PTF	Prognoseverrechnung, auto. Fixierung, neue Aufträge nach FH	2017.07.06 08:56:49											
+P2	P2	Forecast Consumption, Auto Firming, No New Ords in PTF	Prognoseverrechnung, auto. Fix., keine neuen Aufträge in FH	2017.07.06 08:56:49											
+P3	P3	Forecast Consumption, Manual Firming, New Ords after PTF	Prognoseverrechnung, man. Fixierung, neue Aufträge nach FH	2017.07.06 08:56:49											
+P4	P4	Forecast Consumption, Manual Firming, No New Ords in PTF	Prognoseverrech., man. Fixierung, keine neuen Aufträge in FH	2017.07.06 08:56:49											
+PD	PD	Forecast Consumption, No Planning Time Fence	Prognoseverrechnung, kein Fixierungshorizont	2017.07.06 08:56:49											
+VB	VB	Reorder-Point Planning	Bestellpunktdisposition	2017.07.06 08:56:49											

@@ -1,0 +1,15 @@
+LEGACY_PLANNING_GROUPS	PLANNING_GROUPS	PLANNING_GROUPS_TXT_GBL	PLANNING_GROUPS_TXT_LCL	DI_TIMESTAMP											
+A1	A1	Domestic payments (A/P)	K-Inlandszahlungen	2018.06.19 05:33:47											
+A2	A2	Foreign payments (A/P)	K-Auslandszahlungen	2018.06.19 05:33:47											
+A3	A3	Vendor-affiliated companies	K - Verbundene Unternehmen	2018.06.19 05:33:47											
+A4	A4	Major vendors	K-Großlieferanten	2018.06.19 05:33:47											
+A5	A5	Personnel costs	Personalkosten	2018.06.19 05:33:47											
+A6	A6	Taxes	Steuern	2018.06.19 05:33:47											
+E1	E1	Customer receipts (A/R)	D-Bankeinzug	2018.06.19 05:33:47											
+E2	E2	Domestic customers	Debitoren Inland	2018.06.19 05:33:47											
+E3	E3	Foreign customers	Debitoren Ausland	2018.06.19 05:33:47											
+E4	E4	Customer-affiliated companies	Debitoren - verb. Unternehmen	2018.06.19 05:33:47											
+E5	E5	High risk customer	Debitor mit hohem Risiko	2018.06.19 05:33:47											
+E6	E6	Major customers	D-Großkunden	2018.06.19 05:33:47											
+E7	E7	Rent received	Mieteinnahmen	2018.06.19 05:33:47											
+E8	E8	Loan redemption (A/R)	D-Tilgung gewährter Darlehen	2018.06.19 05:33:47											

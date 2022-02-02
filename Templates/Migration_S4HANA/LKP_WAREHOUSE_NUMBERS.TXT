@@ -1,0 +1,3 @@
+LEGACY_WAREHOUSE_NUMBER	WAREHOUSE_NUMBER	WAREHOUSE_NUMBER_TXT_GBL	WAREHOUSE_NUMBER_TXT_LCL	DI_TIMESTAMP											
+101	101	EWM: Cross Industries	EWM: branchenübergreifend	2017.07.06 08:56:49											
+171	171	EWM: Cross Industries	EWM: branchenübergreifend	2017.07.06 08:56:49											

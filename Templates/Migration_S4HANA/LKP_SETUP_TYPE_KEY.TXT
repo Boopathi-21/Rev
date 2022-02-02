@@ -1,0 +1,5 @@
+LEGACY_SETUP_TYPE_KEY	PLANT	SETUP_TYPE_KEY	SETUP_TYPE_KEY_TXT_GBL	SETUP_TYPE_KEY_TXT_LCL	DI_TIMESTAMP										
+1	1010	1	Setup type 1	Rüstart 1	2017.07.06 08:56:49										
+2	1010	2	Setup type 2	Rüstart 2	2017.07.06 08:56:49										
+1	1710	1	Setup type 1	Rüstart 1	2017.07.06 08:56:49										
+2	1710	2	Setup type 2	Rüstart 2	2017.07.06 08:56:49										

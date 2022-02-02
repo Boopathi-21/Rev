@@ -1,0 +1,3 @@
+LEGACY_REQS_GROUPING_IND	REQS_GROUPING_IND	REQS_GROUPING_IND_TXT_GBL	REQS_GROUPING_IND_TXT_LCL	DI_TIMESTAMP											
+0	0	In rep. mfg, individual record in addn to total requirements	In Serienfertigung Einzelsatz zusätzlich zum Summenbedarf	2017.07.06 08:56:49											
+T	T	Display of dependent requirements as a daily total	Darstellung der Sekundärbedarfe als Tagessumme	2017.07.06 08:56:49											

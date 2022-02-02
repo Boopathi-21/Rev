@@ -1,0 +1,7 @@
+LEGACY_DUNN_BLOCK	DUNN_BLOCK	DUNN_BLOCK_TXT_GBL	DUNN_BLOCK_TXT_LCL	DI_TIMESTAMP											
+ 	 	Not blocked	Nicht gesperrt	2018.06.19 05:33:47											
+A	A	Disputed	Beanstandet	2018.06.19 05:33:47											
+B	B	Promised to Pay	Zahlung zugesagt	2018.06.19 05:33:47											
+C	C	To be clarified with Sales Department	Rücksprache mit Verkaufsabteilung	2018.06.19 05:33:47											
+D	D	Legal Department	Rechtsabteilung	2018.06.19 05:33:47											
+E	E	Other reason	Anderer Grund	2018.06.19 05:33:47											

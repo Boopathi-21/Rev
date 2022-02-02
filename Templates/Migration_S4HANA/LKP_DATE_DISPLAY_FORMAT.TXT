@@ -1,0 +1,8 @@
+LEGACY_EXTERNAL_DATE_TYPE	EXTERNAL_DATE_TYPE	EXTERNAL_DATE_TYPE_TXT_GBL	EXTERNAL_DATE_TYPE_TXT_LCL	DI_TIMESTAMP											
+C	C	Calndr	Kalen.	2017.07.06 08:56:49											
+D	D	Day	Tag	2017.07.06 08:56:49											
+K	K	Calndr	Kalen.	2017.07.06 08:56:49											
+M	M	Month	Monat	2017.07.06 08:56:49											
+P	P	Period	Perio.	2017.07.06 08:56:49											
+T	T	Day	Tag	2017.07.06 08:56:49											
+W	W	Week	Woche	2017.07.06 08:56:49											

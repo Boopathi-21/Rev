@@ -1,0 +1,4 @@
+LEGACY_TASK_LIST_USAGE	TASK_LIST_USAGE	TASK_LIST_USAGE_TXT_GBL	TASK_LIST_USAGE_TXT_LCL	DI_TIMESTAMP											
+004	004	Only maintenance task lists	Nur Instandhaltungspläne	2017.07.06 08:56:49											
+008	008	Master recipe + process order	Planungsrezept + Prozessauftr.	2017.07.06 08:56:49											
+009	009	All task list types	Alle Plantypen	2017.07.06 08:56:49											

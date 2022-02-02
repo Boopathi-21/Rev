@@ -1,0 +1,4 @@
+LEGACY_MAINTENANCE_AUTH	MAINTENANCE_AUTH	MAINTENANCE_AUTH_TXT_GBL	MAINTENANCE_AUTH_TXT_LCL	DI_TIMESTAMP											
+001	001	Bills of material		2017.07.06 08:56:49											
+002	002	Characteristics and char. values		2017.07.06 08:56:49											
+ALL	ALL	All objects		2017.07.06 08:56:49											

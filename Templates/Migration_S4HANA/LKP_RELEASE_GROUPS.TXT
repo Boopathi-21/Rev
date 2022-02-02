@@ -1,0 +1,5 @@
+LEGACY_RELEASE_GROUP	RELEASE_GROUP	RELEASE_GROUP_TXT_GBL	RELEASE_GROUP_TXT_LCL	DI_TIMESTAMP											
+0001	0001	Vendor A	Kreditor A	2017.07.06 08:56:49											
+0002	0002	vendor B	Kreditor B	2017.07.06 08:56:49											
+0003	0003	Vendor C	Kreditor C	2017.07.06 08:56:49											
+0004	0004	G/L accounts	Sachkonten	2017.07.06 08:56:49											

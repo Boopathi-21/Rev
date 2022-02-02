@@ -1,0 +1,47 @@
+LEGACY_LANGUAGE	LANGUAGE_IS0639	LANGUAGE	LANGUAGE_TXT_GBL	LANGUAGE_TXT_LCL	DI_TIMESTAMP										
+1Q	1Q	늑	Technical code 1	Techn. Code 1	2018.06.19 05:33:47										
+2Q	2Q	닱	Technical code 2	Techn. Code 2	2018.06.19 05:33:47										
+AF	AF	a	Afrikaans	Afrikaans	2018.06.19 05:33:47										
+AR	AR	A	Arabic	Arabisch	2018.06.19 05:33:47										
+BG	BG	W	Bulgarian	Bulgarisch	2018.06.19 05:33:47										
+CA	CA	c	Catalan	Katalanisch	2018.06.19 05:33:47										
+CS	CS	C	Czech	Tschechisch	2018.06.19 05:33:47										
+DA	DA	K	Danish	Dänisch	2018.06.19 05:33:47										
+DE	DE	D	German	Deutsch	2018.06.19 05:33:47										
+EL	EL	G	Greek	Griechisch	2018.06.19 05:33:47										
+EN	EN	E	English	Englisch	2018.06.19 05:33:47										
+ES	ES	S	Spanish	Spanisch	2018.06.19 05:33:47										
+ET	ET	9	Estonian	Estnisch	2018.06.19 05:33:47										
+FI	FI	U	Finnish	Finnisch	2018.06.19 05:33:47										
+FR	FR	F	French	Französisch	2018.06.19 05:33:47										
+HE	HE	B	Hebrew	Hebräisch	2018.06.19 05:33:47										
+HI	HI	묩	Hindi	Hindi	2018.06.19 05:33:47										
+HR	HR	6	Croatian	Kroatisch	2018.06.19 05:33:47										
+HU	HU	H	Hungarian	Ungarisch	2018.06.19 05:33:47										
+ID	ID	i	Indonesian	Indonesisch	2018.06.19 05:33:47										
+IS	IS	b	Icelandic	Isländisch	2018.06.19 05:33:47										
+IT	IT	I	Italian	Italienisch	2018.06.19 05:33:47										
+JA	JA	J	Japanese	Japanisch	2018.06.19 05:33:47										
+KK	KK	뱋	Kazakh	Kasachisch	2018.06.19 05:33:47										
+KO	KO	3	Korean	Koreanisch	2018.06.19 05:33:47										
+LT	LT	X	Lithuanian	Litauisch	2018.06.19 05:33:47										
+LV	LV	Y	Latvian	Lettisch	2018.06.19 05:33:47										
+MS	MS	7	Malay	Malaysisch	2018.06.19 05:33:47										
+NL	NL	N	Dutch	Niederländisch	2018.06.19 05:33:47										
+NO	NO	O	Norwegian	Norwegisch	2018.06.19 05:33:47										
+PL	PL	L	Polish	Polnisch	2018.06.19 05:33:47										
+PT	PT	P	Portuguese	Portugiesisch	2018.06.19 05:33:47										
+RO	RO	4	Romanian	Rumänisch	2018.06.19 05:33:47										
+RU	RU	R	Russian	Russisch	2018.06.19 05:33:47										
+SH	SH	d	Serbian (Latin)	Serbisch(latein)	2018.06.19 05:33:47										
+SK	SK	Q	Slovak	Slowakisch	2018.06.19 05:33:47										
+SL	SL	5	Slovenian	Slowenisch	2018.06.19 05:33:47										
+SR	SR	0	Serbian	Serbisch	2018.06.19 05:33:47										
+SV	SV	V	Swedish	Schwedisch	2018.06.19 05:33:47										
+TH	TH	2	Thai	Thailändisch	2018.06.19 05:33:47										
+TR	TR	T	Turkish	Türkisch	2018.06.19 05:33:47										
+UK	UK	8	Ukrainian	Ukrainisch	2018.06.19 05:33:47										
+VI	VI	쁩	Vietnamese	Vietnamesisch	2018.06.19 05:33:47										
+Z1	Z1	Z	Customer reserve	Kundenreserve	2018.06.19 05:33:47										
+ZF	ZF	M	Chinese trad.	Chinesisch trad.	2018.06.19 05:33:47										
+ZH	ZH	1	Chinese	Chinesisch	2018.06.19 05:33:47										

@@ -1,0 +1,6 @@
+LEGACY_PROFILE	PROFILE	APPL_TASK_LIST	PROFILE_TXT_GBL	PROFILE_TXT_LCL	DI_TIMESTAMP										
+101	101	P	Default Value Profile	Vorschlagswertprofil	2017.07.06 08:56:49										
+171	171	P	Default Value Profile	Vorschlagswertprofil	2017.07.06 08:56:49										
+YB-1010	YB-1010	I	Profile for Task List of PM	Profil für Instandhaltungsarbeitsplan	2017.07.06 08:56:49										
+YB-1710	YB-1710	I	Profile for Task List of PM	Profil für Instandhaltungsarbeitsplan	2017.07.06 08:56:49										
+YPI1	YPI1	C	Profile for Process Industry	Profil für Prozessindustrie	2017.07.06 08:56:49										

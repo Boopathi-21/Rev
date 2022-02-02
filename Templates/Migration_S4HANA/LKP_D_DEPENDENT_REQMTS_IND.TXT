@@ -1,0 +1,4 @@
+LEGACY_DEPENDENT_REQS_IND	DEPENDENT_REQS_IND	DEPENDENT_REQS_IND_TXT_GBL	DEPENDENT_REQS_IND_TXT_LCL	DI_TIMESTAMP											
+ 	 	Individual and collective requirements	Einzel- und Sammelbedarf	2017.07.06 08:56:49											
+1	1	Individual requirements only	ausschließlich Einzelbedarf	2017.07.06 08:56:49											
+2	2	Collective requirements only	ausschließlich Sammelbedarf	2017.07.06 08:56:49											

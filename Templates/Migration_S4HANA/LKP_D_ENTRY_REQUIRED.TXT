@@ -1,0 +1,4 @@
+LEGACY_ENTRY_REQUIRED	ENTRY_REQUIRED	ENTRY_REQUIRED_TXT_GBL	ENTRY_REQUIRED_TXT_LCL	DI_TIMESTAMP											
+ 	 	No	nein	2017.07.06 08:56:49											
+*	*	Reference indicator	Referenzkennzeichen	2017.07.06 08:56:49											
+X	X	Yes	ja	2017.07.06 08:56:49											

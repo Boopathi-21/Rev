@@ -1,0 +1,4 @@
+LEGACY_CATALOG_PROFILE	CATALOG_PROFILE	CATALOG_PROFILE_TXT_GBL	CATALOG_PROFILE_TXT_LCL	DI_TIMESTAMP											
+YB-PM0001	YB-PM0001	Catalog profile Plant Mainten.	Berichtsschema Instandhaltung	2017.07.06 08:56:49											
+YB-PM0002	YB-PM0002	Catalog profile for Elec	Berichtsschema für Elektrik	2017.07.06 08:56:49											
+YB-PM0003	YB-PM0003	Catalog profile for Mech	Berichtsschema für Mechanik	2017.07.06 08:56:49											

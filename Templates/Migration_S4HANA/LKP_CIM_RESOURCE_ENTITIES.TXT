@@ -1,0 +1,64 @@
+LEGACY_OBJECT_ID	OBJECT_TYPE	OBJECT_ID	OBJECT_ID_TXT_GBL	OBJECT_ID_TXT_LCL	DI_TIMESTAMP										
+10000029	A	10000029	Manufacturing - Top Level	Fertigung - Oberste Ebene	2017.07.06 08:56:49										
+10000030	A	10000030	Pen Manufacturing - Top Level	Stiftfertigung - Oberste Ebene	2017.07.06 08:56:49										
+10000031	A	10000031	CNC machine	CNC-Maschine	2017.07.06 08:56:49										
+10000032	A	10000032	Work for maschine/person	Arbeit für Maschine/Mensch	2017.07.06 08:56:49										
+10000033	A	10000033	Ink Packing	Tintenverpackung	2017.07.06 08:56:49										
+10000034	A	10000034	Mechanics	Mechanik	2017.07.06 08:56:49										
+10000035	A	10000035	Electric	Elektrik	2017.07.06 08:56:49										
+10000036	A	10000036	Instrumentation	Mess- und Regeltechnik	2017.07.06 08:56:49										
+10000037	A	10000037	Quality Check Labs	Qualitätsprüfungslabore	2017.07.06 08:56:49										
+10000038	A	10000038	WC PRE1	WC PRE1	2017.07.06 08:56:49										
+10000039	A	10000039	WC FIN1		2017.07.06 08:56:49										
+10000040	A	10000040	WC FIN2		2017.07.06 08:56:49										
+10000041	A	10000041	WC SUB1		2017.07.06 08:56:49										
+10000042	A	10000042	Dummy	Dummy	2017.07.06 08:56:49										
+10000057	A	10000057	Packing Line 3		2017.07.06 08:56:49										
+10000058	A	10000058	Packing Line 5		2017.07.06 08:56:49										
+10000064	A	10000064	Packing Line 5		2017.07.06 08:56:49										
+10000065	A	10000065	Packing Line 3		2017.07.06 08:56:49										
+10000066	A	10000066	test		2017.07.06 08:56:49										
+10000075	A	10000075	Packing Line 5		2017.07.06 08:56:49										
+10000077	A	10000077	Packing Line 3		2017.07.06 08:56:49										
+10000000	FH	10000000			2017.07.06 08:56:49										
+10000004	FH	10000004			2017.07.06 08:56:49										
+10000008	FH	10000008			2017.07.06 08:56:49										
+10000012	FH	10000012			2017.07.06 08:56:49										
+10000013	FH	10000013	Caliper gauge		2017.07.06 08:56:49										
+10000014	FH	10000014			2017.07.06 08:56:49										
+10000015	FH	10000015			2017.07.06 08:56:49										
+10000016	FH	10000016			2017.07.06 08:56:49										
+10000020	FH	10000020			2017.07.06 08:56:49										
+10000024	FH	10000024			2017.07.06 08:56:49										
+10000028	FH	10000028			2017.07.06 08:56:49										
+10000000	H	10000000	Total Plant	Gesamtwerk	2017.07.06 08:56:49										
+10000001	H	10000001	Total Plant	Gesamtwerk	2017.07.06 08:56:49										
+10000000	A	10000000	Assembly	Baugruppe	2017.07.06 08:56:49										
+10000001	A	10000001	Testing	Test	2017.07.06 08:56:49										
+10000002	A	10000002	Packing Line 1	Verpackungslinie 1	2017.07.06 08:56:49										
+10000003	A	10000003	Hand Packing Work Center	Handverpackungsarbeitsplatz	2017.07.06 08:56:49										
+10000004	A	10000004	Spring Winding	Federwicklung	2017.07.06 08:56:49										
+10000005	A	10000005	Ink Bottling	Tintenabfüllung	2017.07.06 08:56:49										
+10000006	A	10000006	Ink Mixing	Tintenmischung	2017.07.06 08:56:49										
+10000007	A	10000007	Manufacturing - Top Level	Fertigung - Oberste Ebene	2017.07.06 08:56:49										
+10000008	A	10000008	Manufacturing - Top Level	Fertigung - Oberste Ebene	2017.07.06 08:56:49										
+10000009	A	10000009	Pen Manufacturing - Top Level	Stiftfertigung - Oberste Ebene	2017.07.06 08:56:49										
+10000010	A	10000010	CNC machine	CNC-Maschine	2017.07.06 08:56:49										
+10000011	A	10000011	Work for maschine/person	Arbeit für Maschine/Mensch	2017.07.06 08:56:49										
+10000012	A	10000012	Ink Packing	Tintenverpackung	2017.07.06 08:56:49										
+10000013	A	10000013	Mechanics	Mechanik	2017.07.06 08:56:49										
+10000014	A	10000014	Electric	Elektrik	2017.07.06 08:56:49										
+10000015	A	10000015	Instrumentation	Mess- und Regeltechnik	2017.07.06 08:56:49										
+10000016	A	10000016	Quality Check Labs	Qualitätsprüfungslabore	2017.07.06 08:56:49										
+10000017	A	10000017	WC FIN1	WC FIN1	2017.07.06 08:56:49										
+10000018	A	10000018	WC FIN2	WC FIN2	2017.07.06 08:56:49										
+10000019	A	10000019	WC SUB1	WC SUB1	2017.07.06 08:56:49										
+10000020	A	10000020	Dummy	Dummy	2017.07.06 08:56:49										
+10000021	A	10000021	Assembly	Baugruppe	2017.07.06 08:56:49										
+10000022	A	10000022	Testing	Test	2017.07.06 08:56:49										
+10000023	A	10000023	Packing Line 1	Verpackungslinie 1	2017.07.06 08:56:49										
+10000024	A	10000024	Hand Packing Work Center	Handverpackungsarbeitsplatz	2017.07.06 08:56:49										
+10000025	A	10000025	Spring Winding	Federwicklung	2017.07.06 08:56:49										
+10000026	A	10000026	Ink Bottling	Tintenabfüllung	2017.07.06 08:56:49										
+10000027	A	10000027	Ink Mixing	Tintenmischung	2017.07.06 08:56:49										
+10000028	A	10000028	Manufacturing - Top Level	Fertigung - Oberste Ebene	2017.07.06 08:56:49										

@@ -1,0 +1,5 @@
+LEGACY_ITEM_CATEGORY	ITEM_CATEGORY	ITEM_CATEGORY_TXT_GBL	ITEM_CATEGORY_TXT_LCL	DI_TIMESTAMP											
+K	K	Class item	Klassenposition	2017.07.06 08:56:49											
+L	L	Stock item	Lagerposition	2017.07.06 08:56:49											
+N	N	Non-stock item	Nichtlagerposition	2017.07.06 08:56:49											
+T	T	Text item	Textposition	2017.07.06 08:56:49											

@@ -1,0 +1,7 @@
+LEGACY_BOM_USAGE	BOM_USAGE	BOM_USAGE_TXT_GBL	BOM_USAGE_TXT_LCL	DI_TIMESTAMP											
+1	1	Production	Fertigung	2017.07.06 08:56:49											
+2	2	Engineering/Design	Engineering/Design	2017.07.06 08:56:49											
+3	3	Universal	Universell	2017.07.06 08:56:49											
+4	4	Plant Maintenance	Instandhaltung	2017.07.06 08:56:49											
+6	6	Costing	Kalkulation	2017.07.06 08:56:49											
+Y	Y	Production Rework EX Stock	Fertigung: Nacharbeit ab Lager	2017.07.06 08:56:49											

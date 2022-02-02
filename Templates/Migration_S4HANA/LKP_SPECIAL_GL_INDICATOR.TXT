@@ -1,0 +1,13 @@
+LEGACY_SPECIAL_GL_INDICATOR	SPECIAL_GL_INDICATOR	ACCOUNT_TYPE	SPECIAL_GL_INDICATOR_TXT_GBL	SPECIAL_GL_INDICATOR_TXT_LCL	DI_TIMESTAMP										
+A	A	D	Rediscountable Bills of Exch.	Anzahlung	2017.07.06 08:56:49										
+A	A	K	Check/Bill of Exchange		2017.07.06 08:56:49										
+C	C	D	Rediscountable Bills of Exch.	Anzahlung	2017.07.06 08:56:49										
+D	D	D	Rediscountable Bills of Exch.	Anzahlung	2017.07.06 08:56:49										
+E	E	D	Rediscountable Bills of Exch.	Anzahlung	2017.07.06 08:56:49										
+F	F	D	Rediscountable Bills of Exch.	Anzahlung	2017.07.06 08:56:49										
+F	F	K	Check/Bill of Exchange		2017.07.06 08:56:49										
+M	M	K	Check/Bill of Exchange		2017.07.06 08:56:49										
+R	R	D	Rediscountable Bills of Exch.	Anzahlung	2017.07.06 08:56:49										
+W	W	D	Rediscountable Bills of Exch.	Anzahlung	2017.07.06 08:56:49										
+W	W	K	Check/Bill of Exchange		2017.07.06 08:56:49										
+X	X	K	Check/Bill of Exchange		2017.07.06 08:56:49										

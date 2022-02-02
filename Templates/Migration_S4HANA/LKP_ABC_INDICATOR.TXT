@@ -1,0 +1,4 @@
+LEGACY_ABC_INDICATOR	ABC_INDICATOR	ABC_INDICATOR_TXT_GBL	ABC_INDICATOR_TXT_LCL	DI_TIMESTAMP											
+A	A	Significant Material	Bedeutendes Material	2017.07.06 08:56:49											
+B	B	Material - Medium Significance	Material mittlerer Bedeutung	2017.07.06 08:56:49											
+C	C	Material - Low Significance	Material geringerer Bedeutung	2017.07.06 08:56:49											

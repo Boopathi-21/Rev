@@ -1,0 +1,4 @@
+LEGACY_NOTIFICATION_TYPE	NOTIFICATION_TYPE	NOTIFICATION_TYPE_TXT_GBL	NOTIFICATION_TYPE_TXT_LCL	DI_TIMESTAMP											
+M1	M1	Maintenance Request	InstandhAnforderung	2017.07.20 01:56:28											
+M2	M2	Malfunction Report	Störmeldung	2017.07.20 01:56:28											
+M3	M3	Activity Report	Tätigkeitsmeldung	2017.07.20 01:56:28											

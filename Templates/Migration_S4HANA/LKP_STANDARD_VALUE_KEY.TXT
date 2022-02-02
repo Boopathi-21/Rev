@@ -1,0 +1,4 @@
+LEGACY_STANDARD_VALUE_KEY	STANDARD_VALUE_KEY	STANDARD_VALUE_KEY_TXT_GBL	STANDARD_VALUE_KEY_TXT_LCL	DI_TIMESTAMP											
+SAP0	SAP0	No standard values	Keine Vorgabewerte	2017.07.06 08:56:49											
+SAP1	SAP1	Normal production	Fertigung normal	2017.07.06 08:56:49											
+YBP1	YBP1	Process industry	Prozessindustrie	2017.07.06 08:56:49											

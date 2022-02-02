@@ -1,0 +1,4 @@
+LEGACY_DYN_MOD_LEVEL	DYN_MOD_LEVEL	DYN_MOD_LEVEL_TXT_GBL	DYN_MOD_LEVEL_TXT_LCL	DI_TIMESTAMP											
+0	0	Dynamic modification at insp. type level	Dynamisierung auf Prüfartebene	2017.07.06 08:56:49											
+1	1	Dynamic modification at lot level	Dynamisierung auf Losebene	2017.07.06 08:56:49											
+3	3	Dynamic Modification at Char. Level	Dynamisierung auf Merkmalsebene	2017.07.06 08:56:49											

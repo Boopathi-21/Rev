@@ -1,0 +1,14 @@
+LEGACY_DEPREC_AREA	CHART_OF_DEP	DEPREC_AREA	DEPREC_AREA_TXT_GBL	DEPREC_AREA_TXT_LCL	DI_TIMESTAMP										
+01	1010	01	Book Depreciation	Handelsrecht	2017.07.06 08:56:49										
+15	1010	15	Local Tax in local currency	Lokale Steuern in Hauswährung	2017.07.06 08:56:49										
+31	1010	31	Local GAAP in group currency	Lokale Rechnungslegungsvorschr. in Konzernwährung	2017.07.06 08:56:49										
+32	1010	32	IFRS in local currency	IFRS in Hauswährung	2017.07.06 08:56:49										
+33	1010	33	IFRS in group currency	IFRS in Konzernwährung	2017.07.06 08:56:49										
+01	1710	01	Book Depreciation	Handelsrecht	2017.07.06 08:56:49										
+31	1710	31	Local GAAP in group currency	Lokale Rechnungslegungsvorschr. in Konzernwährung	2017.07.06 08:56:49										
+32	1710	32	IFRS in local currency	IFRS in Hauswährung	2017.07.06 08:56:49										
+33	1710	33	IFRS in group currency	IFRS in Konzernwährung	2017.07.06 08:56:49										
+90	1710	90	Federal Tax ACRS/MACRS	Bundessteuer ACRS/MACRS	2017.07.06 08:56:49										
+91	1710	91	Alternative Minimum Tax	Alternative Mindeststeuer	2017.07.06 08:56:49										
+92	1710	92	Adjusted Current Earnings	Angepasste laufende Einnahmen	2017.07.06 08:56:49										
+93	1710	93	Corporate Earnings & Profits	Unternehmenseinnahmen und -gewinne	2017.07.06 08:56:49										

@@ -1,0 +1,13 @@
+LEGACY_PRODPROFILE	PRODPROFILE	PLANT	PRODPROFILE_TXT_GBL	PRODPROFILE_TXT_LCL	DI_TIMESTAMP										
+YB0001	YB0001	1010	MTS Valuated	MTS-bewertet	2017.07.06 08:56:49										
+YB0001	YB0001	1710	MTS DI Valuated	Lagerfertigung FertigIndustrie bewertet	2017.07.06 08:56:49										
+YB0002	YB0002	1010	MTS Process Manufacturing	MTS-Prozessfertigung	2017.07.06 08:56:49										
+YB0002	YB0002	1710	MTS Process Manufacturing	MTS-Prozessfertigung	2017.07.06 08:56:49										
+YB0003	YB0003	1010	MTO and ETO Non Valuated		2017.07.06 08:56:49										
+YB0003	YB0003	1710	MTO and ETO Non Valuated		2017.07.06 08:56:49										
+YB0004	YB0004	1010	MTO Valuated	KDE-bewertet	2017.07.06 08:56:49										
+YB0004	YB0004	1710	MTO Valuated	KDE-bewertet	2017.07.06 08:56:49										
+YBR001	YBR001	1010	MTS REM	MTS-Serienfertigung	2017.07.06 08:56:49										
+YBR001	YBR001	1710	REM - Rep. Man.	Serienfertigung - REM	2017.07.06 08:56:49										
+YW0001	YW0001	1010	MTS Valuated - EWM Prod. Integration	MTS-bewertet	2017.07.06 08:56:49										
+YW0001	YW0001	1710	MTS Valuated - EWM Prod. Integration	MTS-bewertet	2017.07.06 08:56:49										

@@ -1,0 +1,23 @@
+LEGACY_BUSTRANSACTTYPE	BUSTRANSACTTYPE	COUNTRY_KEY	BUSTRANSACTTYPE_TXT_GBL	BUSTRANSACTTYPE_TXT_LCL	DI_TIMESTAMP										
+91	91	DE	Temporary Movements over 24 Months (e.g. Rent-to-Buy)	Vorübergehende Warenverkehre über 24 Monate (z.B. Mietkauf)	2017.07.06 08:56:49										
+11	11	DE	Final Purchase/Sale	Endgültiger Kauf/Verkauf	2017.07.06 08:56:49										
+12	12	DE	Trial/Sample Shipments, Shipments with Right of Return	Ansichts- oder Probesendungen, Sendungen mit Rückgaberecht	2017.07.06 08:56:49										
+13	13	DE	Transactions Involving Payment in Kind	Kompensationsgeschäfte (Tauschhandel)	2017.07.06 08:56:49										
+14	14	DE	Sale to Private Persons	Verkauf an Privatpersonen	2017.07.06 08:56:49										
+19	19	DE	Financial Leasing (Rent-to-Buy)	Finanzierungsleasing	2017.07.06 08:56:49										
+21	21	DE	Return of Goods	Rücksendung von Waren	2017.07.06 08:56:49										
+22	22	DE	Replacement for Returned Goods	Ersatz für zurückgesandte Waren	2017.07.06 08:56:49										
+23	23	DE	Replacement (e.g. due to Warranty) for Non-Returned Goods	Ersatz (z.B. wegen Garantie) für nicht zurückgesandte Waren	2017.07.06 08:56:49										
+29	29	DE	Other	Sonstiges	2017.07.06 08:56:49										
+31	31	DE	Deliveries of Goods for EU-Financed Aid Programs	Warenlieferungen im Rahmen EU-finanzierter Hilfsprogramme	2017.07.06 08:56:49										
+32	32	DE	Other Aid Deliveries from Public Institutions	Andere Hilfslieferungen öffentlicher Stellen	2017.07.06 08:56:49										
+33	33	DE	Other Aid Deliveries (from Private Organizations)	Sonstige Hilfslieferungen (von privaten Organisationen)	2017.07.06 08:56:49										
+34	34	DE	Other Transactions with Transfer of Title w/o Reciprocation	Sonstige Geschäfte mit Eigentumsübergang ohne Gegenleistung	2017.07.06 08:56:49										
+41	41	DE	Consignments of Goods for Job Processing (with return)	Warensendungen zur Lohnveredelung (mit Rückkehr)	2017.07.06 08:56:49										
+42	42	DE	Consignments of Goods for Job Processing (without return)	Warensendungen zur Lohnveredelung (ohne Rückkehr)	2017.07.06 08:56:49										
+51	51	DE	Consignments of Goods after Job Processing (with return)	Warensendungen nach Lohnveredelung (mit Rückkehr)	2017.07.06 08:56:49										
+52	52	DE	Returns of Goods after Job Processing (without return)	Warensendungen nach Lohnveredelung (ohne Rückkehr)	2017.07.06 08:56:49										
+71	71	DE	For Military Purposes	Für militärische Zwecke	2017.07.06 08:56:49										
+72	72	DE	For Civilian Purposes (e.g. Airbus)	Für zivile Zwecke (z.B. Airbus)	2017.07.06 08:56:49										
+81	81	DE	Delivery of Building Materials and Equipment	Lieferung von Baumaterial und Ausrüstungen	2017.07.06 08:56:49										
+99	99	DE	Other Transactions Not Otherwise Recorded	Andere Geschäfte nicht anderweitig erfasst	2017.07.06 08:56:49										

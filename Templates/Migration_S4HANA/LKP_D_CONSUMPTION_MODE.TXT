@@ -1,0 +1,6 @@
+LEGACY_CONSUMPTION_MODE	CONSUMPTION_MODE	CONSUMPTION_MODE_TXT_GBL	CONSUMPTION_MODE_TXT_LCL	DI_TIMESTAMP											
+1	1	Backward consumption only	Ausschließlich Rückwärtsverrechnung	2017.07.06 08:56:49											
+2	2	Backward/forward consumption	Rückwärts-/Vorwärtsverrechnung	2017.07.06 08:56:49											
+3	3	Forward consumption only	Ausschließlich Vorwärtsverrechnung	2017.07.06 08:56:49											
+4	4	Forward/backward consumption	Vorwärts-/Rückwärtsverrechnung	2017.07.06 08:56:49											
+5	5	Period-based consumption	Periodengenaue Verrechnung	2017.07.06 08:56:49											

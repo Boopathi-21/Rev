@@ -1,0 +1,3 @@
+LEGACY_VARIANCES_OBJECT_TYPE	VARIANCES_OBJECT_TYPE	VARIANCE_KEY	VARIANCES_OBJECT_TYPE_TXT_GBL	VARIANCES_OBJECT_TYPE_TXT_LCL	DI_TIMESTAMP										
+HP	HP	000002	Variance Calculation for Cost Objects	Abweichungsermittlung für Kostenträger	2017.07.06 08:56:49										
+OR	OR	000001	Variance Calculation for Orders	Abweichungsermittlung für Aufträge	2017.07.06 08:56:49										

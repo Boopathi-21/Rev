@@ -1,0 +1,6 @@
+LEGACY_BLOCK	BLOCK	BLOCK_TXT_GBL	BLOCK_TXT_LCL	DI_TIMESTAMP											
+03	03	Pricing Incomplete	Preisfind. unvollst.	2018.06.19 05:33:47											
+04	04	Check Payment Terms	ZahlBeding. prüfen	2018.06.19 05:33:47											
+Y2	Y2	Compl Confirm Missng	Rückmeldung fehlt	2018.06.19 05:33:47											
+Y8	Y8	Check Credit Memo	Gutschrift prüfen	2018.06.19 05:33:47											
+Y9	Y9	Check Debit Memo	Lastschrift prüfen	2018.06.19 05:33:47											

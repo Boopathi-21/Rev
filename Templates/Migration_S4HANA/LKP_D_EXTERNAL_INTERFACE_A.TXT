@@ -1,0 +1,6 @@
+LEGACY_EXTERNAL_INTERFACE_A	EXTERNAL_INTERFACE_A	EXTERNAL_INTERFACE_A_TXT_GBL	EXTERNAL_INTERFACE_A_TXT_LCL	DI_TIMESTAMP											
+C	C	Current State	Current State	2017.07.06 08:56:49											
+D	D	Delete	Delete	2017.07.06 08:56:49											
+I	I	Insert	Insert	2017.07.06 08:56:49											
+M	M	Modify	Modify	2017.07.06 08:56:49											
+U	U	Update	Update	2017.07.06 08:56:49											

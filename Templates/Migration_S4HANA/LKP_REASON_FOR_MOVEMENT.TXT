@@ -1,0 +1,100 @@
+LEGACY_REASON_FOR_MOVEMENT	MOVEMENT_TYPE	REASON_FOR_MOVEMENT	REASON_FOR_MOVEMENT_TXT_GBL	REASON_FOR_MOVEMENT_TXT_LCL	DI_TIMESTAMP										
+0001	101	0001	Poor quality	Schlechte Qualität	2017.07.06 08:56:49										
+0101	101	0101	Not identifyable	Nicht identifizierb.	2017.07.06 08:56:49										
+0103	103	0103	Spoiled	Verdorben	2017.07.06 08:56:49										
+0001	122	0001	Poor quality	Schlechte Qualität	2017.07.06 08:56:49										
+0002	122	0002	Incomplete	Unvollständig	2017.07.06 08:56:49										
+0003	122	0003	Damaged	Beschädigt	2017.07.06 08:56:49										
+0001	123	0001	Poor quality	Schlechte Qualität	2017.07.06 08:56:49										
+0002	123	0002	Incomplete	Unvollständig	2017.07.06 08:56:49										
+0003	123	0003	Damaged	Beschädigt	2017.07.06 08:56:49										
+0001	124	0001	Poor quality	Schlechte Qualität	2017.07.06 08:56:49										
+0002	124	0002	Incomplete	Unvollständig	2017.07.06 08:56:49										
+0003	124	0003	Damaged	Beschädigt	2017.07.06 08:56:49										
+0001	125	0001	Poor quality	Schlechte Qualität	2017.07.06 08:56:49										
+0002	125	0002	Incomplete	Unvollständig	2017.07.06 08:56:49										
+0003	125	0003	Damaged	Beschädigt	2017.07.06 08:56:49										
+0001	161	0001	Poor quality	Poor quality	2017.07.06 08:56:49										
+0002	161	0002	Incomplete	Incomplete	2017.07.06 08:56:49										
+0003	161	0003	Damaged	Damaged	2017.07.06 08:56:49										
+0001	261	0001	Process Damage	Process Damage	2017.07.06 08:56:49										
+0002	261	0002	Bad from vendor	Bad from vendor	2017.07.06 08:56:49										
+0001	262	0001	Process Damage	Process Damage	2017.07.06 08:56:49										
+0002	262	0002	Component  Quality	Component  Quality	2017.07.06 08:56:49										
+0543	543	0543	Damage in transport	Beschäd. bei Transp.	2017.07.06 08:56:49										
+0544	544	0544	Damage in ret.transp	Beschäd. b. Rücktrsp	2017.07.06 08:56:49										
+0001	551	0001	Shrinkage	Schwund	2017.07.06 08:56:49										
+0002	551	0002	Spoiled	Verdorben	2017.07.06 08:56:49										
+0003	551	0003	Cutting Rest	Cutting Rest	2017.07.06 08:56:49										
+0004	551	0004	Dead Stock	Dead Stock	2017.07.06 08:56:49										
+0005	551	0005	Eng Change	Eng Change	2017.07.06 08:56:49										
+0006	551	0006	Material Damage	Material Damage	2017.07.06 08:56:49										
+0007	551	0007	Quality	Quality	2017.07.06 08:56:49										
+0008	551	0008	Short length	Short length	2017.07.06 08:56:49										
+0009	551	0009	Customer Cause	Customer Cause	2017.07.06 08:56:49										
+0010	551	0010	Other	Other	2017.07.06 08:56:49										
+0011	551	0011	Credit Note	Credit Note	2017.07.06 08:56:49										
+0001	552	0001	Shrinkage	Schwund	2017.07.06 08:56:49										
+0002	552	0002	Spoiled	Verdorben	2017.07.06 08:56:49										
+0003	552	0003	Cutting Rest	Cutting Rest	2017.07.06 08:56:49										
+0004	552	0004	Dead Stock	Dead Stock	2017.07.06 08:56:49										
+0005	552	0005	Eng Change	Eng Change	2017.07.06 08:56:49										
+0006	552	0006	Material Damage	Material Damage	2017.07.06 08:56:49										
+0007	552	0007	Quality	Quality	2017.07.06 08:56:49										
+0008	552	0008	Short length	Short length	2017.07.06 08:56:49										
+0009	552	0009	Customer Cause	Customer Cause	2017.07.06 08:56:49										
+0010	552	0010	Other	Other	2017.07.06 08:56:49										
+0011	552	0011	Credit Note	Credit Note	2017.07.06 08:56:49										
+0001	553	0001	Shrinkage	Shrinkage	2017.07.06 08:56:49										
+0002	553	0002	Spoiled	Spoiled	2017.07.06 08:56:49										
+0003	553	0003	Cutting Rest	Cutting Rest	2017.07.06 08:56:49										
+0004	553	0004	Dead Stock	Dead Stock	2017.07.06 08:56:49										
+0005	553	0005	Eng Change	Eng Change	2017.07.06 08:56:49										
+0006	553	0006	Material Damage	Material Damage	2017.07.06 08:56:49										
+0007	553	0007	Quality	Quality	2017.07.06 08:56:49										
+0008	553	0008	Short length	Short length	2017.07.06 08:56:49										
+0009	553	0009	Customer Cause	Customer Cause	2017.07.06 08:56:49										
+0010	553	0010	Other	Other	2017.07.06 08:56:49										
+0001	554	0001	Shrinkage	Shrinkage	2017.07.06 08:56:49										
+0002	554	0002	Spoiled	Spoiled	2017.07.06 08:56:49										
+0003	554	0003	Cutting Rest	Cutting Rest	2017.07.06 08:56:49										
+0004	554	0004	Dead Stock	Dead Stock	2017.07.06 08:56:49										
+0005	554	0005	Eng Change	Eng Change	2017.07.06 08:56:49										
+0006	554	0006	Material Damage	Material Damage	2017.07.06 08:56:49										
+0007	554	0007	Quality	Quality	2017.07.06 08:56:49										
+0008	554	0008	Short length	Short length	2017.07.06 08:56:49										
+0009	554	0009	Customer Cause	Customer Cause	2017.07.06 08:56:49										
+0010	554	0010	Other	Other	2017.07.06 08:56:49										
+0001	555	0001	Shrinkage	Shrinkage	2017.07.06 08:56:49										
+0002	555	0002	Spoiled	Spoiled	2017.07.06 08:56:49										
+0003	555	0003	Cutting Rest	Cutting Rest	2017.07.06 08:56:49										
+0004	555	0004	Dead Stock	Dead Stock	2017.07.06 08:56:49										
+0005	555	0005	Eng Change	Eng Change	2017.07.06 08:56:49										
+0006	555	0006	Material Damage	Material Damage	2017.07.06 08:56:49										
+0007	555	0007	Quality	Quality	2017.07.06 08:56:49										
+0008	555	0008	Short length	Short length	2017.07.06 08:56:49										
+0009	555	0009	Customer Cause	Customer Cause	2017.07.06 08:56:49										
+0010	555	0010	Other	Other	2017.07.06 08:56:49										
+0001	556	0001	Shrinkage	Shrinkage	2017.07.06 08:56:49										
+0002	556	0002	Spoiled	Spoiled	2017.07.06 08:56:49										
+0003	556	0003	Cutting Rest	Cutting Rest	2017.07.06 08:56:49										
+0004	556	0004	Dead Stock	Dead Stock	2017.07.06 08:56:49										
+0005	556	0005	Eng Change	Eng Change	2017.07.06 08:56:49										
+0006	556	0006	Material Damage	Material Damage	2017.07.06 08:56:49										
+0007	556	0007	Quality	Quality	2017.07.06 08:56:49										
+0008	556	0008	Short length	Short length	2017.07.06 08:56:49										
+0009	556	0009	Customer Cause	Customer Cause	2017.07.06 08:56:49										
+0010	556	0010	Other	Other	2017.07.06 08:56:49										
+0001	701	0001	Wrngly plcd in stor.	Falsch gelagert	2017.07.06 08:56:49										
+0002	702	0002	Poor quality	Schlechte Qualität	2017.07.06 08:56:49										
+0003	702	0003	Damaged	Beschädigt	2017.07.06 08:56:49										
+0001	703	0001	Wrngly plcd in stor.	Falsch gelagert	2017.07.06 08:56:49										
+0002	704	0002	Poor quality	Schlechte Qualität	2017.07.06 08:56:49										
+0003	704	0003	Damaged	Damaged	2017.07.06 08:56:49										
+0001	707	0001	Wrngly plcd in stor.	Falsch gelagert	2017.07.06 08:56:49										
+0002	708	0002	Poor quality	Schlechte Qualität	2017.07.06 08:56:49										
+0003	708	0003	Damaged	Beschädigt	2017.07.06 08:56:49										
+0001	951	0001	Shrinkage	Schwund	2017.07.06 08:56:49										
+0002	951	0002	Spoiled	Verdorben	2017.07.06 08:56:49										
+0001	952	0001	Shrinkage	Schwund	2017.07.06 08:56:49										
+0002	952	0002	Spoiled	Verdorben	2017.07.06 08:56:49										

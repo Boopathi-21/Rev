@@ -1,0 +1,21 @@
+LEGACY_FUNCTIONAL_AREA	FUNCTIONAL_AREA	FUNCTIONAL_AREA_TXT_GBL	FUNCTIONAL_AREA_TXT_LCL	DI_TIMESTAMP											
+YB10	YB10	Sales Revenue	Umsatzerlöse	2017.07.06 08:56:49											
+YB15	YB15	Sales discounts and allow	Erlösschmäl. und Rabatte	2017.07.06 08:56:49											
+YB20	YB20	Production	Fertigung	2017.07.06 08:56:49											
+YB25	YB25	Consulting/Services	Beratung/Services	2017.07.06 08:56:49											
+YB30	YB30	Sales and Distribution	Vertrieb	2017.07.06 08:56:49											
+YB35	YB35	Marketing	Marketing	2017.07.06 08:56:49											
+YB40	YB40	Administration	Verwaltung	2017.07.06 08:56:49											
+YB50	YB50	Research & Development	Forschung und Entwicklung	2017.07.06 08:56:49											
+YB70	YB70	Other gains	Sonstige Erträge	2017.07.06 08:56:49											
+YB75	YB75	Other expenses	Sonstige Aufwendungen	2017.07.06 08:56:49											
+YB77	YB77	Gain from investments	Ertr. aus Beteiligungen	2017.07.06 08:56:49											
+YB79	YB79	Gain from shares & loans	Ertr. andere Wertp.&Ausl.	2017.07.06 08:56:49											
+YB81	YB81	Interest & similar gains	Zinsen u. ähnl. Erträge	2017.07.06 08:56:49											
+YB83	YB83	Amort.curr.Fin.Assets;Sec	Amort.Umlaufvermögen;Sek.	2017.07.06 08:56:49											
+YB85	YB85	Interest & similar costs	Zinsen u. ähnl. Aufw.	2017.07.06 08:56:49											
+YB87	YB87	Extraordinary gain	Außerordentliche Erträge	2017.07.06 08:56:49											
+YB89	YB89	Extraordinary expense	Außerordentliche Aufwend.	2017.07.06 08:56:49											
+YB90	YB90	Taxes from income and rev	Steuern v. Eink.u.Ertrag	2017.07.06 08:56:49											
+YB98	YB98	Other Taxes	Andere Steuern	2017.07.06 08:56:49											
+YB99	YB99	Dummy functional area	Dummy Funktionsbereich	2017.07.06 08:56:49											

@@ -1,0 +1,4 @@
+LEGACY_SAFETY_TIME_INDICATOR	SAFETY_TIME_INDICATOR	SAFETY_TIME_INDICATOR_TXT_GBL	SAFETY_TIME_INDICATOR_TXT_LCL	DI_TIMESTAMP											
+ 	 	Ignore safety time	Bedarfsvorlauf nicht berücksichtigen	2017.07.06 08:56:49											
+1	1	Safety time for independent reqmts	Bedarfsvorlauf für Primärbedarf	2017.07.06 08:56:49											
+2	2	Safety time for all requirements	Bedarfsvorlauf für alle Bedarfe	2017.07.06 08:56:49											

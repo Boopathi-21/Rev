@@ -1,0 +1,13 @@
+LEGACY_FORMULA_KEY	FORMULA_KEY	FORMULA1	FORMULA2	FORMULA3	CODING_GENERATED	ALLOWED_FOR_COSTING	WKCTR_FOR_RQMTS	PRT_ALLOWED_4_REQMNTS	ALLOWED_FOR_SCHEDULING	FORMULA_KEY_TXT_GBL	FORMULA_KEY_TXT_LCL	DI_TIMESTAMP			
+SAP001	SAP001	SAP_01	 	 	X	X	 	 	X	Prod.: Setup time	Fert.: Dauer Rüsten	2017.07.06 08:56:49			
+SAP002	SAP002	SAP_02 * SAP_09 / SAP_08 / SAP_11	 	 	X	X	 	 	X	Prod.: Machine time	Fert.: Dauer Masch.	2017.07.06 08:56:49			
+SAP003	SAP003	SAP_03 * SAP_09 / SAP_08 / SAP_11	 	 	X	X	 	 	X	Prod.: Labor time	Fert.: Dauer Person	2017.07.06 08:56:49			
+SAP004	SAP004	SAP_10	 	 	X	X	 	 	X	Proj:Netw/Maint.Time	Proj.: Dauer EigenB.	2017.07.06 08:56:49			
+SAP005	SAP005	SAP_01 * SAP_11	 	 	X	X	X	 	 	Prod: Setup rqmts	Fert.: Bedarf Rüsten	2017.07.06 08:56:49			
+SAP006	SAP006	SAP_02 * SAP_09 / SAP_08	 	 	X	X	X	 	 	Prod.: Machine rqmts	Fert.: Bedarf Masch.	2017.07.06 08:56:49			
+SAP007	SAP007	SAP_03 * SAP_09 / SAP_08	 	 	X	X	X	 	 	Prod.: Labor rqmts	Fert.: Bedarf Person	2017.07.06 08:56:49			
+YBPI01	YBPI01	SAP_02 * SAP_09 / SAP_08 / SAP_11	 	 	X	X	X	 	X	Machine time	Maschinenzeit	2017.07.06 08:56:49			
+YBPI02	YBPI02	SAP_03 * SAP_09 / SAP_08 / SAP_11	 	 	X	X	X	 	X	Labor time	Personenzeit	2017.07.06 08:56:49			
+YBPM01	YBPM01	SAP_07	 	 	X	X	X	 	 	Proj:RqmtsNetwkMaint	Proj.: Bedarf EigenB	2017.07.06 08:56:49			
+ZPRT01	ZPRT01	SAP_11 * Z_PRT1	 	 	 	 	 	X	 	PRT: Quantity		2017.07.06 08:56:49			
+ZPRT02	ZPRT02	Z_PRT2 * SAP_03 * SAP_09 / SAP_08 / SAP_11	 	 	 	 	 	X	 	PRT: Usage value		2017.07.06 08:56:49			

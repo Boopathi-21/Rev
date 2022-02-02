@@ -1,0 +1,30 @@
+LEGACY_ROUTE	ROUTE	ROUTE_TXT_GBL	ROUTE_TXT_LCL	DI_TIMESTAMP											
+TR0001	TR0001	Truck/0days lead time/1day transit time	LKW/0 Tage Vorlaufzeit/1 Tag Transitzeit	2017.07.06 08:56:49											
+TR0002	TR0002	Truck/0days lead time/2days transit time	LKW/0 Tage Vorlaufzeit/2 Tage TransZeit	2017.07.06 08:56:49											
+TR0100	TR0100	Truck/1day lead time /0days transit time	LKW/1 Tag Vorlaufzeit/0 Tage Transitzeit	2017.07.06 08:56:49											
+TR0101	TR0101	Truck/1day lead time /1day transit time	LKW/1 Tag Vorlaufzeit/1 Tag Transitzeit	2017.07.06 08:56:49											
+TR0102	TR0102	Truck/1day lead time /2days transit time	LKW/1 Tag Vorlaufzeit/2 Tage Transitzeit	2017.07.06 08:56:49											
+YCNDE5	YCNDE5	CN-DE [Airplane]	CN-DE [Flugzeug]	2017.07.06 08:56:49											
+YCNFR5	YCNFR5	CN-FR [Airplane]	CN-FR [Flugzeug]	2017.07.06 08:56:49											
+YCNNL5	YCNNL5	CN-NL [Airplane]	CN-NL [Flugzeug]	2017.07.06 08:56:49											
+YCNUS4	YCNUS4	CN-US [SEA]	CN-US [See]	2017.07.06 08:56:49											
+YCNUS5	YCNUS5	CN-US [Airplane]	CN-US [Flugzeug]	2017.07.06 08:56:49											
+YDEFR1	YDEFR1	DE-FR [Road]	DE-FR [Straße]	2017.07.06 08:56:49											
+YDENL1	YDENL1	DE-NL [Road]	DE-NL [Straße]	2017.07.06 08:56:49											
+YDEPT1	YDEPT1	DE-PT [Road]	DE-PT [Straße]	2017.07.06 08:56:49											
+YDEUS4	YDEUS4	DE-US [SEA]	DE-US [See]	2017.07.06 08:56:49											
+YDEUS5	YDEUS5	Route US Air	Route US Luft	2017.07.06 08:56:49											
+YFRDE1	YFRDE1	FR-DE [Road]	FR-DE [Straße]	2017.07.06 08:56:49											
+YFRNL1	YFRNL1	FR-NL [Road]	FR-NL [Straße]	2017.07.06 08:56:49											
+YNLDE1	YNLDE1	NL-DE [Road]	NL-DE [Straße]	2017.07.06 08:56:49											
+YNLFR1	YNLFR1	NL-FR [Road]	NL-FR [Straße]	2017.07.06 08:56:49											
+YUSCN4	YUSCN4	US-CN [SEA]	US-CN [See]	2017.07.06 08:56:49											
+YUSCN5	YUSCN5	US-CN [Airplane]	US-CN [Flugzeug]	2017.07.06 08:56:49											
+YUSDE4	YUSDE4	US-DE [SEA]	US-DE [See]	2017.07.06 08:56:49											
+YUSDE5	YUSDE5	US-DE [Airplane]	US-DE [Flugzeug]	2017.07.06 08:56:49											
+YUSFR4	YUSFR4	US-FR [SEA]	US-FR [See]	2017.07.06 08:56:49											
+YUSFR5	YUSFR5	US-FR [Airplane]	US-FR [Flugzeug]	2017.07.06 08:56:49											
+YUSNL4	YUSNL4	US-NL [SEA]	US-NL [See]	2017.07.06 08:56:49											
+YUSNL5	YUSNL5	US-NL [Airplane]	US-NL [Flugzeug]	2017.07.06 08:56:49											
+YUSPT4	YUSPT4	US-PT [SEA]	US-PT [See]	2017.07.06 08:56:49											
+YUSPT5	YUSPT5	US-PT [Airplane]	US-PT [Flugzeug]	2017.07.06 08:56:49											

@@ -1,0 +1,338 @@
+LEGACY_UNIT_OF_MEASUREMENT	UNIT_OF_MEASUREMENT	DIMENSION_KEY	EXT_UOM_COMM_FORM_TXT_GBL	EXT_UOM_COMM_FORM_TXT_LCL	DI_TIMESTAMP										
+%	%	PROPOR	Proportion	Verhältnis	2017.07.06 08:56:49										
+%O	%O	PROPOR	Proportion	Verhältnis	2017.07.06 08:56:49										
+1	1	PROPOR	Proportion	Verhältnis	2017.07.06 08:56:49										
+10	10	TIME	Time	Zeit	2017.07.06 08:56:49										
+22S	22S	VISKIN	Kinematic viscosity	Zähigkeit, kinemat.	2017.07.06 08:56:49										
+2M	2M	SPEED	Speed	Geschwindigkeit	2017.07.06 08:56:49										
+2X	2X	SPEED	Speed	Geschwindigkeit	2017.07.06 08:56:49										
+4G	4G	VOLUME	Volume	Volumen	2017.07.06 08:56:49										
+4O	4O	CAPACI	Capacitance	Elektr. Kapazität	2017.07.06 08:56:49										
+4T	4T	CAPACI	Capacitance	Elektr. Kapazität	2017.07.06 08:56:49										
+A	A	ECURR	Electric Current	Elektr. Strom	2017.07.06 08:56:49										
+A87	A87	RESIST	Elec. Resistance	Elektr. Widerstand	2017.07.06 08:56:49										
+A93	A93	DENSI	Density	Dichte	2017.07.06 08:56:49										
+ACR	ACR	SURFAC	Area	Fläche	2017.07.06 08:56:49										
+B34	B34	DENSI	Density	Dichte	2017.07.06 08:56:49										
+B45	B45	MOLQU	Mole quantity	Molmenge	2017.07.06 08:56:49										
+B47	B47	FORCE	Force	Kraft	2017.07.06 08:56:49										
+B73	B73	FORCE	Force	Kraft	2017.07.06 08:56:49										
+B75	B75	RESIST	Elec. Resistance	Elektr. Widerstand	2017.07.06 08:56:49										
+B78	B78	VOLTAG	Electrical Tension	Elektr. Spannung	2017.07.06 08:56:49										
+B84	B84	ECURR	Electric Current	Elektr. Strom	2017.07.06 08:56:49										
+BAG	BAG	AAAADL	(no dimensions)	(dimensionslos)	2017.07.06 08:56:49										
+BAR	BAR	PRESS	Pressure	Druck	2017.07.06 08:56:49										
+BB6	BB6	VOLUME	Volume	Volumen	2017.07.06 08:56:49										
+BBL	BBL	VOLUME	Volume	Volumen	2017.07.06 08:56:49										
+BCF	BCF	VOLUME	Volume	Volumen	2017.07.06 08:56:49										
+BOT	BOT	AAAADL	(no dimensions)	(dimensionslos)	2017.07.06 08:56:49										
+BQK	BQK	SPARAD	Spec. Act. Rad. Sub.	Spez Akt radioak Sub	2017.07.06 08:56:49										
+BTU	BTU	ENERGY	Energy	Energie	2017.07.06 08:56:49										
+BUI	BUI	VOLUME	Volume	Volumen	2017.07.06 08:56:49										
+BUU	BUU	VOLUME	Volume	Volumen	2017.07.06 08:56:49										
+Bqm	Bqm	ACTCON	Activ. Concentration	Aktiv.konzentration	2017.07.06 08:56:49										
+C10	C10	CAPACI	Capacitance	Elektr. Kapazität	2017.07.06 08:56:49										
+C36	C36	ACBAC	Acid/Base capacity	Säure/Basekapazität	2017.07.06 08:56:49										
+C38	C38	ACBAC	Acid/Base capacity	Säure/Basekapazität	2017.07.06 08:56:49										
+C39	C39	ECURR	Electric Current	Elektr. Strom	2017.07.06 08:56:49										
+C3S	C3S	VOLFLO	Volumetric Flow Rate	Volumenstrom	2017.07.06 08:56:49										
+C41	C41	CAPACI	Capacitance	Elektr. Kapazität	2017.07.06 08:56:49										
+C56	C56	PRESS	Pressure	Druck	2017.07.06 08:56:49										
+CCK	CCK	VOLWTF	VOLWTF		2017.07.06 08:56:49										
+CCM	CCM	VOLUME	Volume	Volumen	2017.07.06 08:56:49										
+CD	CD	LIGHT	Luminous intensity	Lichtstärke	2017.07.06 08:56:49										
+CDM	CDM	VOLUME	Volume	Volumen	2017.07.06 08:56:49										
+CM	CM	LENGTH	Length	Länge	2017.07.06 08:56:49										
+CM2	CM2	SURFAC	Area	Fläche	2017.07.06 08:56:49										
+CMH	CMH	SPEED	Speed	Geschwindigkeit	2017.07.06 08:56:49										
+CS	CS	AAAADL	(no dimensions)	(dimensionslos)	2017.07.06 08:56:49										
+CTL	CTL	VOLUME	Volume	Volumen	2017.07.06 08:56:49										
+D10	D10	CONDUC	Conductivity	Leifähigkeit	2017.07.06 08:56:49										
+D41	D41	DENSI	Density	Dichte	2017.07.06 08:56:49										
+D46	D46	POWER	Power	Leistung	2017.07.06 08:56:49										
+DBA	DBA	SNDPLV	Sound Pressure Level	Schalldruckpegel	2017.07.06 08:56:49										
+DBC	DBC	SNDPLV	Sound Pressure Level	Schalldruckpegel	2017.07.06 08:56:49										
+DEG	DEG	AAAADL	(no dimensions)	(dimensionslos)	2017.07.06 08:56:49										
+DGP	DGP	AAAADL	(no dimensions)	(dimensionslos)	2017.07.06 08:56:49										
+DM	DM	LENGTH	Length	Länge	2017.07.06 08:56:49										
+DR	DR	AAAADL	(no dimensions)	(dimensionslos)	2017.07.06 08:56:49										
+DZ	DZ	AAAADL	(no dimensions)	(dimensionslos)	2017.07.06 08:56:49										
+EA	EA	AAAADL	(no dimensions)	(dimensionslos)	2017.07.06 08:56:49										
+EE	EE	AAAADL	(no dimensions)	(dimensionslos)	2017.07.06 08:56:49										
+EML	EML	AAAADL	(no dimensions)	(dimensionslos)	2017.07.06 08:56:49										
+F	F	CAPACI	Capacitance	Elektr. Kapazität	2017.07.06 08:56:49										
+FA	FA	TEMP	Temperature	Temperatur	2017.07.06 08:56:49										
+FT	FT	LENGTH	Length	Länge	2017.07.06 08:56:49										
+FT2	FT2	SURFAC	Area	Fläche	2017.07.06 08:56:49										
+FT3	FT3	VOLUME	Volume	Volumen	2017.07.06 08:56:49										
+G	G	MASS	Mass	Masse	2017.07.06 08:56:49										
+G/L	G/L	AAAADL	(no dimensions)	(dimensionslos)	2017.07.06 08:56:49										
+GAU	GAU	AAAADL	(no dimensions)	(dimensionslos)	2017.07.06 08:56:49										
+GC	GC	TEMP	Temperature	Temperatur	2017.07.06 08:56:49										
+GHG	GHG	MPROPO	Mass Proportion	Massenverhältnis	2017.07.06 08:56:49										
+GJ	GJ	ENERGY	Energy	Energie	2017.07.06 08:56:49										
+GJT	GJT	SPENER	Specific energy	Spezifische Energie	2017.07.06 08:56:49										
+GKG	GKG	MPROPO	Mass Proportion	Massenverhältnis	2017.07.06 08:56:49										
+GLI	GLI	DENSI	Density	Dichte	2017.07.06 08:56:49										
+GLL	GLL	VOLUME	Volume	Volumen	2017.07.06 08:56:49										
+GLM	GLM	SURFAC	Area	Fläche	2017.07.06 08:56:49										
+GM	GM	MOLMAS	Molar Mass	Molmasse	2017.07.06 08:56:49										
+GM2	GM2	MASSBD	Mass Coverage	Massenbedeckung	2017.07.06 08:56:49										
+GPH	GPH	VOLFLO	Volumetric Flow Rate	Volumenstrom	2017.07.06 08:56:49										
+GQ	GQ	DENSI	Density	Dichte	2017.07.06 08:56:49										
+GRO	GRO	AAAADL	(no dimensions)	(dimensionslos)	2017.07.06 08:56:49										
+GW	GW	AAAADL	(no dimensions)	(dimensionslos)	2017.07.06 08:56:49										
+H	H	TIME	Time	Zeit	2017.07.06 08:56:49										
+HAR	HAR	SURFAC	Area	Fläche	2017.07.06 08:56:49										
+HL	HL	VOLUME	Volume	Volumen	2017.07.06 08:56:49										
+HPA	HPA	PRESS	Pressure	Druck	2017.07.06 08:56:49										
+HZ	HZ	FREQU	Frequency	Frequenz	2017.07.06 08:56:49										
+IN	IN	LENGTH	Length	Länge	2017.07.06 08:56:49										
+IN2	IN2	SURFAC	Area	Fläche	2017.07.06 08:56:49										
+IN3	IN3	VOLUME	Volume	Volumen	2017.07.06 08:56:49										
+J	J	ENERGY	Energy	Energie	2017.07.06 08:56:49										
+JHR	JHR	TIME	Time	Zeit	2017.07.06 08:56:49										
+JKG	JKG	SPENER	Specific energy	Spezifische Energie	2017.07.06 08:56:49										
+JKK	JKK	SPHCAP	Spec. Heat Capacity	Spez. Wärmekapazität	2017.07.06 08:56:49										
+JMO	JMO	MOENER	Molar energy	Molare Energie	2017.07.06 08:56:49										
+K	K	TEMP	Temperature	Temperatur	2017.07.06 08:56:49										
+KA	KA	ECURR	Electric Current	Elektr. Strom	2017.07.06 08:56:49										
+KAN	KAN	AAAADL	(no dimensions)	(dimensionslos)	2017.07.06 08:56:49										
+KAR	KAR	AAAADL	(no dimensions)	(dimensionslos)	2017.07.06 08:56:49										
+KBK	KBK	SPARAD	Spec. Act. Rad. Sub.	Spez Akt radioak Sub	2017.07.06 08:56:49										
+KG	KG	MASS	Mass	Masse	2017.07.06 08:56:49										
+KGF	KGF	MASSBD	Mass Coverage	Massenbedeckung	2017.07.06 08:56:49										
+KGH	KGH	MASFLO	Mass Flow Rate	Massenstrom	2017.07.06 08:56:49										
+KGK	KGK	MPROPO	Mass Proportion	Massenverhältnis	2017.07.06 08:56:49										
+KGM	KGM	MOLMAS	Molar Mass	Molmasse	2017.07.06 08:56:49										
+KGS	KGS	MASFLO	Mass Flow Rate	Massenstrom	2017.07.06 08:56:49										
+KGT	KGT	MPROPO	Mass Proportion	Massenverhältnis	2017.07.06 08:56:49										
+KGV	KGV	DENSI	Density	Dichte	2017.07.06 08:56:49										
+KGW	KGW	AAAADL	(no dimensions)	(dimensionslos)	2017.07.06 08:56:49										
+KHZ	KHZ	FREQU	Frequency	Frequenz	2017.07.06 08:56:49										
+KI	KI	AAAADL	(no dimensions)	(dimensionslos)	2017.07.06 08:56:49										
+KJ	KJ	ENERGY	Energy	Energie	2017.07.06 08:56:49										
+KJK	KJK	SPENER	Specific energy	Spezifische Energie	2017.07.06 08:56:49										
+KJM	KJM	MOENER	Molar energy	Molare Energie	2017.07.06 08:56:49										
+KM	KM	LENGTH	Length	Länge	2017.07.06 08:56:49										
+KM2	KM2	SURFAC	Area	Fläche	2017.07.06 08:56:49										
+KMH	KMH	SPEED	Speed	Geschwindigkeit	2017.07.06 08:56:49										
+KMK	KMK	VPROPO	Volume proportion	Volumenverhältnis	2017.07.06 08:56:49										
+KMN	KMN	TEMPRT	Rate of temp. change	Temper.änderungsrate	2017.07.06 08:56:49										
+KMS	KMS	TEMPRT	Rate of temp. change	Temper.änderungsrate	2017.07.06 08:56:49										
+KOH	KOH	RESIST	Elec. Resistance	Elektr. Widerstand	2017.07.06 08:56:49										
+KPA	KPA	PRESS	Pressure	Druck	2017.07.06 08:56:49										
+KT	KT	MASS	Mass	Masse	2017.07.06 08:56:49										
+KV	KV	VOLTAG	Electrical Tension	Elektr. Spannung	2017.07.06 08:56:49										
+KVA	KVA	POWER	Power	Leistung	2017.07.06 08:56:49										
+KW	KW	POWER	Power	Leistung	2017.07.06 08:56:49										
+KWH	KWH	ENERGY	Energy	Energie	2017.07.06 08:56:49										
+KWK	KWK	AAAADL	(no dimensions)	(dimensionslos)	2017.07.06 08:56:49										
+KWM	KWM	PRESS	Pressure	Druck	2017.07.06 08:56:49										
+L	L	VOLUME	Volume	Volumen	2017.07.06 08:56:49										
+L2	L2	VOLFLO	Volumetric Flow Rate	Volumenstrom	2017.07.06 08:56:49										
+LB	LB	MASS	Mass	Masse	2017.07.06 08:56:49										
+LBJ	LBJ	MASFLO	Mass Flow Rate	Massenstrom	2017.07.06 08:56:49										
+LBm	LBm	MASFLO	Mass Flow Rate	Massenstrom	2017.07.06 08:56:49										
+LE	LE	AAAADL	(no dimensions)	(dimensionslos)	2017.07.06 08:56:49										
+LHK	LHK	SURFAC	Area	Fläche	2017.07.06 08:56:49										
+LM	LM	AAAADL	(no dimensions)	(dimensionslos)	2017.07.06 08:56:49										
+LMS	LMS	HYDROL	Hydrolysis Rate	Hydrolysegeschwind.	2017.07.06 08:56:49										
+LPH	LPH	VOLFLO	Volumetric Flow Rate	Volumenstrom	2017.07.06 08:56:49										
+M	M	LENGTH	Length	Länge	2017.07.06 08:56:49										
+M%	M%	MPROPO	Mass Proportion	Massenverhältnis	2017.07.06 08:56:49										
+M%O	M%O	MPROPO	Mass Proportion	Massenverhältnis	2017.07.06 08:56:49										
+M/S	M/S	SPEED	Speed	Geschwindigkeit	2017.07.06 08:56:49										
+M2	M2	SURFAC	Area	Fläche	2017.07.06 08:56:49										
+M2I	M2I	SURINV	Inverse Surface Area	Inverse Fläche	2017.07.06 08:56:49										
+M2S	M2S	VISKIN	Kinematic viscosity	Zähigkeit, kinemat.	2017.07.06 08:56:49										
+M3	M3	VOLUME	Volume	Volumen	2017.07.06 08:56:49										
+M3D	M3D	VOLFLO	Volumetric Flow Rate	Volumenstrom	2017.07.06 08:56:49										
+M3S	M3S	VOLFLO	Volumetric Flow Rate	Volumenstrom	2017.07.06 08:56:49										
+MA	MA	ECURR	Electric Current	Elektr. Strom	2017.07.06 08:56:49										
+MBA	MBA	PRESS	Pressure	Druck	2017.07.06 08:56:49										
+MBT	MBT	ENERGY	Energy	Energie	2017.07.06 08:56:49										
+MBZ	MBZ	STEXKZ	Dust explosion ratio	Staubexplosionskennz	2017.07.06 08:56:49										
+MEJ	MEJ	ENERGY	Energy	Energie	2017.07.06 08:56:49										
+MG	MG	MASS	Mass	Masse	2017.07.06 08:56:49										
+MGF	MGF	MASSBD	Mass Coverage	Massenbedeckung	2017.07.06 08:56:49										
+MGG	MGG	MPROPO	Mass Proportion	Massenverhältnis	2017.07.06 08:56:49										
+MGK	MGK	MPROPO	Mass Proportion	Massenverhältnis	2017.07.06 08:56:49										
+MGL	MGL	DENSI	Density	Dichte	2017.07.06 08:56:49										
+MGQ	MGQ	DENSI	Density	Dichte	2017.07.06 08:56:49										
+MGW	MGW	POWER	Power	Leistung	2017.07.06 08:56:49										
+MGq	MGq	DENSI	Density	Dichte	2017.07.06 08:56:49										
+MHZ	MHZ	FREQU	Frequency	Frequenz	2017.07.06 08:56:49										
+MI	MI	LENGTH	Length	Länge	2017.07.06 08:56:49										
+MI2	MI2	SURFAC	Area	Fläche	2017.07.06 08:56:49										
+MIM	MIM	LENGTH	Length	Länge	2017.07.06 08:56:49										
+MIN	MIN	TIME	Time	Zeit	2017.07.06 08:56:49										
+MIS	MIS	TIME	Time	Zeit	2017.07.06 08:56:49										
+MJ	MJ	ENERGY	Energy	Energie	2017.07.06 08:56:49										
+MJK	MJK	SPENER	Specific energy	Spezifische Energie	2017.07.06 08:56:49										
+ML	ML	VOLUME	Volume	Volumen	2017.07.06 08:56:49										
+MLK	MLK	VPROPO	Volume proportion	Volumenverhältnis	2017.07.06 08:56:49										
+MLW	MLW	AAAADL	(no dimensions)	(dimensionslos)	2017.07.06 08:56:49										
+MM	MM	LENGTH	Length	Länge	2017.07.06 08:56:49										
+MM2	MM2	SURFAC	Area	Fläche	2017.07.06 08:56:49										
+MMA	MMA	SPEED	Speed	Geschwindigkeit	2017.07.06 08:56:49										
+MMG	MMG	SPAEQU	Specific Equivalent	Spez Äquivalentmenge	2017.07.06 08:56:49										
+MMH	MMH	SPEED	Speed	Geschwindigkeit	2017.07.06 08:56:49										
+MMK	MMK	SPAEQU	Specific Equivalent	Spez Äquivalentmenge	2017.07.06 08:56:49										
+MMO	MMO	MOLQU	Mole quantity	Molmenge	2017.07.06 08:56:49										
+MMQ	MMQ	VOLUME	Volume	Volumen	2017.07.06 08:56:49										
+MMS	MMS	SPEED	Speed	Geschwindigkeit	2017.07.06 08:56:49										
+MNM	MNM	SURFTE	Surface tension	Oberflächenspannung	2017.07.06 08:56:49										
+MOK	MOK	SPAEQU	Specific Equivalent	Spez Äquivalentmenge	2017.07.06 08:56:49										
+MOL	MOL	MOLQU	Mole quantity	Molmenge	2017.07.06 08:56:49										
+MON	MON	TIME	Time	Zeit	2017.07.06 08:56:49										
+MPA	MPA	PRESS	Pressure	Druck	2017.07.06 08:56:49										
+MPB	MPB	MPROPO	Mass Proportion	Massenverhältnis	2017.07.06 08:56:49										
+MPG	MPG	SURINV	Inverse Surface Area	Inverse Fläche	2017.07.06 08:56:49										
+MPM	MPM	MPROPO	Mass Proportion	Massenverhältnis	2017.07.06 08:56:49										
+MPS	MPS	VISDYN	Dynamic viscosity	Zähigkeit, dynamisch	2017.07.06 08:56:49										
+MPT	MPT	MPROPO	Mass Proportion	Massenverhältnis	2017.07.06 08:56:49										
+MPZ	MPZ	STEXKZ	Dust explosion ratio	Staubexplosionskennz	2017.07.06 08:56:49										
+MQH	MQH	VOLFLO	Volumetric Flow Rate	Volumenstrom	2017.07.06 08:56:49										
+MS	MS	TIME	Time	Zeit	2017.07.06 08:56:49										
+MS2	MS2	ACCEL	Acceleration	Beschleunigung	2017.07.06 08:56:49										
+MTE	MTE	MAGNFD	Magnet. Flux Density	Magnet. Flußdichte	2017.07.06 08:56:49										
+MTM	MTM	TKONZ	Particle concentrat.	Teilchenkonzentratio	2017.07.06 08:56:49										
+MTS	MTS	SPEED	Speed	Geschwindigkeit	2017.07.06 08:56:49										
+MTf	MTf	TKONZ	Particle concentrat.	Teilchenkonzentratio	2017.07.06 08:56:49										
+MV	MV	VOLTAG	Electrical Tension	Elektr. Spannung	2017.07.06 08:56:49										
+MVA	MVA	POWER	Power	Leistung	2017.07.06 08:56:49										
+MW	MW	POWER	Power	Leistung	2017.07.06 08:56:49										
+MWH	MWH	ENERGY	Energy	Energie	2017.07.06 08:56:49										
+N	N	FORCE	Force	Kraft	2017.07.06 08:56:49										
+NAM	NAM	LENGTH	Length	Länge	2017.07.06 08:56:49										
+NM	NM	SURFTE	Surface tension	Oberflächenspannung	2017.07.06 08:56:49										
+NS	NS	TIME	Time	Zeit	2017.07.06 08:56:49										
+OCM	OCM	SPREST	Sp. Elec. Resistance	Spez. el. Widerstand	2017.07.06 08:56:49										
+OHM	OHM	RESIST	Elec. Resistance	Elektr. Widerstand	2017.07.06 08:56:49										
+OM	OM	SPREST	Sp. Elec. Resistance	Spez. el. Widerstand	2017.07.06 08:56:49										
+OZ	OZ	MASS	Mass	Masse	2017.07.06 08:56:49										
+OZA	OZA	VOLUME	Volume	Volumen	2017.07.06 08:56:49										
+P	P	POINTS	Points	Punkte	2017.07.06 08:56:49										
+PA	PA	PRESS	Pressure	Druck	2017.07.06 08:56:49										
+PAA	PAA	AAAADL	(no dimensions)	(dimensionslos)	2017.07.06 08:56:49										
+PAK	PAK	AAAADL	(no dimensions)	(dimensionslos)	2017.07.06 08:56:49										
+PAL	PAL	AAAADL	(no dimensions)	(dimensionslos)	2017.07.06 08:56:49										
+PAS	PAS	VISDYN	Dynamic viscosity	Zähigkeit, dynamisch	2017.07.06 08:56:49										
+PCT	PCT	AAAADL	(no dimensions)	(dimensionslos)	2017.07.06 08:56:49										
+PDA	PDA	TIME	Time	Zeit	2017.07.06 08:56:49										
+PMI	PMI	FREQU	Frequency	Frequenz	2017.07.06 08:56:49										
+PMR	PMR	PERMEA	Permeability	Permeabilität	2017.07.06 08:56:49										
+PPB	PPB	PROPOR	Proportion	Verhältnis	2017.07.06 08:56:49										
+PPM	PPM	PROPOR	Proportion	Verhältnis	2017.07.06 08:56:49										
+PPT	PPT	PROPOR	Proportion	Verhältnis	2017.07.06 08:56:49										
+PRM	PRM	PERMEA	Permeability	Permeabilität	2017.07.06 08:56:49										
+PRS	PRS	AAAADL	(no dimensions)	(dimensionslos)	2017.07.06 08:56:49										
+PS	PS	TIME	Time	Zeit	2017.07.06 08:56:49										
+PT	PT	VOLUME	Volume	Volumen	2017.07.06 08:56:49										
+PTS	PTS	SURFAC	Area	Fläche	2017.07.06 08:56:49										
+QT	QT	VOLUME	Volume	Volumen	2017.07.06 08:56:49										
+RHO	RHO	DENSI	Density	Dichte	2017.07.06 08:56:49										
+ROL	ROL	AAAADL	(no dimensions)	(dimensionslos)	2017.07.06 08:56:49										
+S	S	TIME	Time	Zeit	2017.07.06 08:56:49										
+ST	ST	AAAADL	(no dimensions)	(dimensionslos)	2017.07.06 08:56:49										
+STD	STD	TIME	Time	Zeit	2017.07.06 08:56:49										
+TAG	TAG	TIME	Time	Zeit	2017.07.06 08:56:49										
+TC3	TC3	TKONZ	Particle concentrat.	Teilchenkonzentratio	2017.07.06 08:56:49										
+TCM	TCM	TKONZ	Particle concentrat.	Teilchenkonzentratio	2017.07.06 08:56:49										
+TES	TES	MAGNFD	Magnet. Flux Density	Magnet. Flußdichte	2017.07.06 08:56:49										
+TEU	TEU	AAAADL	(no dimensions)	(dimensionslos)	2017.07.06 08:56:49										
+TH	TH	AAAADL	(no dimensions)	(dimensionslos)	2017.07.06 08:56:49										
+TJH	TJH	MASFLO	Mass Flow Rate	Massenstrom	2017.07.06 08:56:49										
+TM3	TM3	TKONZ	Particle concentrat.	Teilchenkonzentratio	2017.07.06 08:56:49										
+TO	TO	MASS	Mass	Masse	2017.07.06 08:56:49										
+TON	TON	MASS	Mass	Masse	2017.07.06 08:56:49										
+TST	TST	TIME	Time	Zeit	2017.07.06 08:56:49										
+Tmt	Tmt	MASFLO	Mass Flow Rate	Massenstrom	2017.07.06 08:56:49										
+ToS	ToS	MASFLO	Mass Flow Rate	Massenstrom	2017.07.06 08:56:49										
+Tot	Tot	MPROPO	Mass Proportion	Massenverhältnis	2017.07.06 08:56:49										
+UGL	UGL	DENSI	Density	Dichte	2017.07.06 08:56:49										
+V	V	VOLTAG	Electrical Tension	Elektr. Spannung	2017.07.06 08:56:49										
+V%	V%	VPROPO	Volume proportion	Volumenverhältnis	2017.07.06 08:56:49										
+V%O	V%O	VPROPO	Volume proportion	Volumenverhältnis	2017.07.06 08:56:49										
+V01	V01	CONDUC	Conductivity	Leifähigkeit	2017.07.06 08:56:49										
+V02	V02	ACBAC	Acid/Base capacity	Säure/Basekapazität	2017.07.06 08:56:49										
+VAL	VAL	AAAADL	(no dimensions)	(dimensionslos)	2017.07.06 08:56:49										
+VPB	VPB	VPROPO	Volume proportion	Volumenverhältnis	2017.07.06 08:56:49										
+VPM	VPM	VPROPO	Volume proportion	Volumenverhältnis	2017.07.06 08:56:49										
+VPT	VPT	VPROPO	Volume proportion	Volumenverhältnis	2017.07.06 08:56:49										
+W	W	POWER	Power	Leistung	2017.07.06 08:56:49										
+WCH	WCH	TIME	Time	Zeit	2017.07.06 08:56:49										
+WMK	WMK	THCOND	Heat Conductivity	Wärmeleitfähigkeit	2017.07.06 08:56:49										
+WTL	WTL	EVARA	Evaporation Rate	Verdampfungsgeschw.	2017.07.06 08:56:49										
+YD	YD	LENGTH	Length	Länge	2017.07.06 08:56:49										
+YD2	YD2	SURFAC	Area	Fläche	2017.07.06 08:56:49										
+YD3	YD3	VOLUME	Volume	Volumen	2017.07.06 08:56:49										
+bJH	bJH	POWER	Power	Leistung	2017.07.06 08:56:49										
+bMO	bMO	POWER	Power	Leistung	2017.07.06 08:56:49										
+bbl	bbl	PRESS	Pressure	Druck	2017.07.06 08:56:49										
+bft	bft	PRESS	Pressure	Druck	2017.07.06 08:56:49										
+bgl	bgl	PRESS	Pressure	Druck	2017.07.06 08:56:49										
+bsc	bsc	PRESS	Pressure	Druck	2017.07.06 08:56:49										
+btl	btl	SPENER	Specific energy	Spezifische Energie	2017.07.06 08:56:49										
+fcm	fcm	TKONZ	Particle concentrat.	Teilchenkonzentratio	2017.07.06 08:56:49										
+fm3	fm3	TKONZ	Particle concentrat.	Teilchenkonzentratio	2017.07.06 08:56:49										
+fml	fml	TKONZ	Particle concentrat.	Teilchenkonzentratio	2017.07.06 08:56:49										
+gj3	gj3	PRESS	Pressure	Druck	2017.07.06 08:56:49										
+gjm	gjm	PRESS	Pressure	Druck	2017.07.06 08:56:49										
+gjt	gjt	SPENER	Specific energy	Spezifische Energie	2017.07.06 08:56:49										
+jm3	jm3	PRESS	Pressure	Druck	2017.07.06 08:56:49										
+kgb	kgb	DENSI	Density	Dichte	2017.07.06 08:56:49										
+kgg	kgg	DENSI	Density	Dichte	2017.07.06 08:56:49										
+kgj	kgj	MAPER	Mass per Energy	Masse pro Energie	2017.07.06 08:56:49										
+kgm	kgm	MAPER	Mass per Energy	Masse pro Energie	2017.07.06 08:56:49										
+kgs	kgs	DENSI	Density	Dichte	2017.07.06 08:56:49										
+kgt	kgt	MPROPO	Mass Proportion	Massenverhältnis	2017.07.06 08:56:49										
+kml	kml	MOLMAS	Molar Mass	Molmasse	2017.07.06 08:56:49										
+kwk	kwk	SPENER	Specific energy	Spezifische Energie	2017.07.06 08:56:49										
+lbb	lbb	MAPER	Mass per Energy	Masse pro Energie	2017.07.06 08:56:49										
+lbg	lbg	DENSI	Density	Dichte	2017.07.06 08:56:49										
+lbl	lbl	MOLMAS	Molar Mass	Molmasse	2017.07.06 08:56:49										
+lbm	lbm	MAPER	Mass per Energy	Masse pro Energie	2017.07.06 08:56:49										
+lbs	lbs	DENSI	Density	Dichte	2017.07.06 08:56:49										
+lbt	lbt	MPROPO	Mass Proportion	Massenverhältnis	2017.07.06 08:56:49										
+lcm	lcm	VPROPO	Volume proportion	Volumenverhältnis	2017.07.06 08:56:49										
+lhh	lhh	MAPER	Mass per Energy	Masse pro Energie	2017.07.06 08:56:49										
+lht	lht	MAPER	Mass per Energy	Masse pro Energie	2017.07.06 08:56:49										
+lmf	lmf	DENSI	Density	Dichte	2017.07.06 08:56:49										
+lmg	lmg	DENSI	Density	Dichte	2017.07.06 08:56:49										
+ltb	ltb	DENSI	Density	Dichte	2017.07.06 08:56:49										
+ltf	ltf	DENSI	Density	Dichte	2017.07.06 08:56:49										
+ltg	ltg	DENSI	Density	Dichte	2017.07.06 08:56:49										
+lth	lth	MAPER	Mass per Energy	Masse pro Energie	2017.07.06 08:56:49										
+mHg	mHg	PRESS	Pressure	Druck	2017.07.06 08:56:49										
+mbb	mbb	PRESS	Pressure	Druck	2017.07.06 08:56:49										
+mbg	mbg	PRESS	Pressure	Druck	2017.07.06 08:56:49										
+mbk	mbk	SPENER	Specific energy	Spezifische Energie	2017.07.06 08:56:49										
+mbl	mbl	SPENER	Specific energy	Spezifische Energie	2017.07.06 08:56:49										
+mbm	mbm	PRESS	Pressure	Druck	2017.07.06 08:56:49										
+mbs	mbs	PRESS	Pressure	Druck	2017.07.06 08:56:49										
+mbt	mbt	SPENER	Specific energy	Spezifische Energie	2017.07.06 08:56:49										
+mjm	mjm	PRESS	Pressure	Druck	2017.07.06 08:56:49										
+mmB	mmB	ENERGY	Energy	Energie	2017.07.06 08:56:49										
+nQ	nQ	DENSI	Density	Dichte	2017.07.06 08:56:49										
+pQ	pQ	DENSI	Density	Dichte	2017.07.06 08:56:49										
+sM3	sM3	TKONZ	Particle concentrat.	Teilchenkonzentratio	2017.07.06 08:56:49										
+sMb	sMb	VPROPO	Volume proportion	Volumenverhältnis	2017.07.06 08:56:49										
+scf	scf	VOLUME	Volume	Volumen	2017.07.06 08:56:49										
+sch	sch	VOLFLO	Volumetric Flow Rate	Volumenstrom	2017.07.06 08:56:49										
+scy	scy	VOLFLO	Volumetric Flow Rate	Volumenstrom	2017.07.06 08:56:49										
+tJH	tJH	MASFLO	Mass Flow Rate	Massenstrom	2017.07.06 08:56:49										
+tMb	tMb	DENSI	Density	Dichte	2017.07.06 08:56:49										
+tMs	tMs	DENSI	Density	Dichte	2017.07.06 08:56:49										
+tbl	tbl	DENSI	Density	Dichte	2017.07.06 08:56:49										
+tbt	tbt	MAPER	Mass per Energy	Masse pro Energie	2017.07.06 08:56:49										
+tgl	tgl	DENSI	Density	Dichte	2017.07.06 08:56:49										
+thm	thm	ENERGY	Energy	Energie	2017.07.06 08:56:49										
+tjl	tjl	MAPER	Mass per Energy	Masse pro Energie	2017.07.06 08:56:49										
+tm3	tm3	DENSI	Density	Dichte	2017.07.06 08:56:49										
+tmt	tmt	MASFLO	Mass Flow Rate	Massenstrom	2017.07.06 08:56:49										
+toS	toS	MASFLO	Mass Flow Rate	Massenstrom	2017.07.06 08:56:49										
+tot	tot	MPROPO	Mass Proportion	Massenverhältnis	2017.07.06 08:56:49										
+tt	tt	MPROPO	Mass Proportion	Massenverhältnis	2017.07.06 08:56:49										
+ttj	ttj	MAPER	Mass per Energy	Masse pro Energie	2017.07.06 08:56:49										

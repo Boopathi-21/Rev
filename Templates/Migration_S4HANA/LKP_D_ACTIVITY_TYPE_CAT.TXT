@@ -1,0 +1,5 @@
+LEGACY_ACTIVITY_TYPE_CAT	ACTIVITY_TYPE_CAT	ACTIVITY_TYPE_CAT_TXT_GBL	ACTIVITY_TYPE_CAT_TXT_LCL	DI_TIMESTAMP											
+1	1	Manual entry, manual allocation	manuelle Erfassung, manuelle Verrechnung	2017.07.06 08:56:49											
+2	2	Indirect determination, indirect allocation	indirekte Ermittlung, indirekte Verrechnung	2017.07.06 08:56:49											
+3	3	Manual entry, indirect allocation	manuelle Erfassung, indirekte Verrechnung	2017.07.06 08:56:49											
+4	4	Manual entry, no allocation	manuelle Erfassung, keine Verrechnung	2017.07.06 08:56:49											

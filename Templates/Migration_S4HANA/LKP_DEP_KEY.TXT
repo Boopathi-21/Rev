@@ -1,0 +1,76 @@
+LEGACY_DEPRECIATION_KEY	CHART_OF_DEP	DEPRECIATION_KEY	DEPRECIATION_KEY_TXT_GBL	DEPRECIATION_KEY_TXT_LCL	DI_TIMESTAMP										
+0000	1010	0000	No depreciation and no interest	Keine Abschreibung und keine Zinsen	2017.07.06 08:56:49										
+DG20	1010	DG20	Declining balance 2 x	Degressiv 2-fach	2017.07.06 08:56:49										
+DG25	1010	DG25	Declining balance 2.5 x	Degressiv 2,5-fach	2017.07.06 08:56:49										
+DG30	1010	DG30	Declining balance 3 x	Degressiv 3-fach	2017.07.06 08:56:49										
+GD10	1010	GD10	Buildings decl.bal.10.0/ 5.0 / 2.5 %	Gebäude degressiv 10,0 / 5,0 / 2,5 %	2017.07.06 08:56:49										
+GD35	1010	GD35	Buildings decl.bal.3.5/ 2.0 / 1.0 %	Gebäude degressiv 3,5 / 2,0 / 1,0 %	2017.07.06 08:56:49										
+GD50	1010	GD50	Buildings decl.bal. 5.0 / 2.5 / 1.25 %	Gebäude degressiv 5,0 / 2,5 / 1,25 %	2017.07.06 08:56:49										
+GD70	1010	GD70	Buildings decl.bal. 7.0 / 5.0 / 2.0 / 1.25 %	Gebäude degressiv 7,0 / 5,0 / 2,0 / 1,25 %	2017.07.06 08:56:49										
+GL20	1010	GL20	Buildings straight-line 2%	Gebäude linear 2%	2017.07.06 08:56:49										
+GL25	1010	GL25	Buildings straight-line 2.5%	Gebäude linear 2,5 %	2017.07.06 08:56:49										
+GL40	1010	GL40	Buildings straight-line 4%	Gebäude linear 4 %	2017.07.06 08:56:49										
+GWG	1010	GWG	LVA 100 % Complete write off	GWG 100 % Vollabschreibung	2017.07.06 08:56:49										
+GWGS	1010	GWGS	Low value asset tax depreciation	GWG Abschreibung Steuerrecht	2017.07.06 08:56:49										
+LINA	1010	LINA	Str.-line frm acq.value pro rata w/curb + intrst	Linear AnschWert pro rata mit Dämpfung mit Zins	2017.07.06 08:56:49										
+LINB	1010	LINB	Straight-line acq.value pro rata to zero, with int	Linear AnschWert pro rata bis Null mit Zins	2017.07.06 08:56:49										
+LINC	1010	LINC	Str.-line acq. val. pro rata w/o curb w/ inter.	Linear AnschWert pro rata ohne Dämpfung mit Zins	2017.07.06 08:56:49										
+LINI	1010	LINI	Str.-line/Acquis. val./pro rata/to 0/no interest	Linear AnschWert pro rata bis Null ohne Zins	2017.07.06 08:56:49										
+LINJ	1010	LINJ	Str.-line/Acquis. val./annual rule/to 0/no int.	Linear AnschWert Jahresregel bis Null ohne Zins	2017.07.06 08:56:49										
+LINK	1010	LINK	Str.-line frm acq.value to zero without interest	Linear über Anschaffungswert bis Null ohne Zins	2017.07.06 08:56:49										
+LINR	1010	LINR	Str.-line frm rem.life to book value zero	Linear über Restnutzungsdauer bis Buchwert Null	2017.07.06 08:56:49										
+LINS	1010	LINS	Str.-line over rem.life pro rata to zero	Linear über Restnutzungsdauer pro rata bis Null	2017.07.06 08:56:49										
+LINU	1010	LINU	Str.-line over rem useful life/annual rule/to 0	Linear über Restnutzungsdauer Jahresr. bis Null	2017.07.06 08:56:49										
+MANU	1010	MANU	Manual depreciation only	Nur manuelle AfA	2017.07.06 08:56:49										
+S7DA	1010	S7DA	Spec.dep §7d Environ.protection (60/10/10/10/10%)	Sonder-AfA §7d Umweltschutz (60/10/10/10/10%)	2017.07.06 08:56:49										
+S7DB	1010	S7DB	Spec.dep. §7d Environ.protection AuC (60%)	Sonder-AfA §7d Umweltschutz Anlage im Bau (60 %)	2017.07.06 08:56:49										
+S7DC	1010	S7DC	Spec.dep §7d Environ.prot. supp.entries after 1992	Sonder-AfA §7d Umweltschutz Nachträge ab 1992	2017.07.06 08:56:49										
+S7GD	1010	S7GD	Spec.dep. §7g and decl.bal.ordinary dep. 3 x	Sonder-AfA §7g und degressive Normal-Afa 3-fach	2017.07.06 08:56:49										
+S7GL	1010	S7GL	Spec.dep. §7g and str.-line ord.dep. First-yr.conv	Sonder-AfA §7g und lineare Normal-Afa Vereinf.	2017.07.06 08:56:49										
+SFE1	1010	SFE1	Spec.dep. §82 R&D immobile goods (15%)	Sonder-AfA §82 Forsch. und Entw. unbewegl WG (15%)	2017.07.06 08:56:49										
+SFE4	1010	SFE4	Spec. dep. §82 R&D moveable goods (40%)	Sonder-AfA §82 Forsch. und Entw. bewegl. WG (40%)	2017.07.06 08:56:49										
+SFEB	1010	SFEB	Spec.dep. §82 R&D immobile goods (15%)	Sonder-AfA §82 Forsch. und Entw. unbewegl WG (15%)	2017.07.06 08:56:49										
+SFG4	1010	SFG4	Spec.dep. §4 SSAL (50%) moveable goods	Sonder-AfA §4 FGG (50%) bewegliche WG	2017.07.06 08:56:49										
+SFGN	1010	SFGN	Spec.dep. §4 SSAL (50&) subsequent APC buildings	Sonder-AfA §4 FGG (50%) nachträgliche AHK Gebäude	2017.07.06 08:56:49										
+SMAN	1010	SMAN	Manual special deprec. and str-line ord. deprec.	Manuelle Sonderabschreibung und lineare Normal-AfA	2017.07.06 08:56:49										
+SNFB	1010	SNFB	Spec.dep.§4 SSL (50%) immovable assets (new)	S-AfA §4 FGG (50%) unbewegliche WG (neu)	2017.07.06 08:56:49										
+SNFG	1010	SNFG	Spec.dep. §4 SSAL (40%) movable assets (new)	Sonder-AfA §4 FGG (40%) bewegliche WG (neu)	2017.07.06 08:56:49										
+SNFU	1010	SNFU	Spec.dep. §4 SSAL (40%) movable assets (1996)	Sonder-AfA §4 FGG (40%) bewegliche WG (1996)	2017.07.06 08:56:49										
+SNFV	1010	SNFV	Spec.dep. §4 SSAL (20%) imov.asts under 5 yr(1996)	Sonder-AfA §4 FGG (20%) unb. WG < 5 Jahre (1996)	2017.07.06 08:56:49										
+SNFW	1010	SNFW	Spec.dep. §4 SSAL (25%) residential bldgs (1996)	Sonder-AfA §4 FGG (25%) Wohngebäude (1996)	2017.07.06 08:56:49										
+STCK	1010	STCK	Unit-of-production deprec. (seasonal activity)	AfA nach Stückzahl (saisonale Leistung)	2017.07.06 08:56:49										
+0000	1710	0000	No depreciation and no interest	Keine Abschreibung und keine Zinsen	2017.07.06 08:56:49										
+ACE	1710	ACE	ACE, S/L Half Year - All Lives	ACE, linear, Halbjahr - jede Nutzungsdauer	2017.07.06 08:56:49										
+EP1	1710	EP1	E&P S/L - Half Year - All Lives	Gewinn - linear - Halbjahr, jede Nutzungsdauer	2017.07.06 08:56:49										
+EP2	1710	EP2	E&P S/L - Mid-Month - All Lives	Gewinn - linear - Monatsmitte, jede Nutzungsdauer	2017.07.06 08:56:49										
+GWG	1710	GWG	LVA 100 % Complete depreciation	GWG 100 % Vollabschreibung	2017.07.06 08:56:49										
+LINA	1710	LINA	Str.-line frm acq.value pro rata w/curb + intrst	Linear AnschWert pro rata mit Dämpfung mit Zins	2017.07.06 08:56:49										
+LINS	1710	LINS	Str.-line over rem.life pro rata to zero	Linear über Restnutzungsdauer pro rata bis Null	2017.07.06 08:56:49										
+LVA	1710	LVA	LVA 100 % Complete depreciation	GWG 100 % Vollabschreibung	2017.07.06 08:56:49										
+M150	1710	M150	MACRS 15, 20 years property	MACRS 15, Sachanlagen 20 Jahre	2017.07.06 08:56:49										
+M200	1710	M200	MACRS 3,5,7,10 years property	MACRS, Sachanlagen 3, 5, 7, 10 Jahre	2017.07.06 08:56:49										
+MCAR	1710	MCAR	MACRS Luxury Auto	MACRS PKW der Oberklasse	2017.07.06 08:56:49										
+MSTL	1710	MSTL	MACRS 27.5, 31.5 years property	MACRS Sachanlagen 27,5 oder 31,5	2017.07.06 08:56:49										
+NA0	1710	NA0	Alt Min Tax, 150% DB	Alternative Mindeststeuer, 150 % degressiv	2017.07.06 08:56:49										
+NA1	1710	NA1	Alt Min Tax, Straight Line - 40 Years	Alternative Mindeststeuer, linear - 40 Jahre	2017.07.06 08:56:49										
+Y000	1710	Y000	No Depr No Interest Current Month Convention	Keine Abschr., kei. Zinsen, Konvention lauf. Monat	2017.07.06 08:56:49										
+Y150	1710	Y150	DB 150% Half Year w/Bonus	Degressiv 150% Halbjahr mit Bonus	2017.07.06 08:56:49										
+Y151	1710	Y151	DB 150% MQTR w/Bonus	Degressiv 150% MQTR mit Bonus	2017.07.06 08:56:49										
+Y200	1710	Y200	DB 200% Half Year w/Bonus	Degressiv 200% Halbjahr mit Bonus	2017.07.06 08:56:49										
+Y201	1710	Y201	DB 200% MQTR w/Bonus	Degressiv 200% MQTR mit Bonus	2017.07.06 08:56:49										
+YLA1	1710	YLA1	Luxury Auto	Luxusautomobil	2017.07.06 08:56:49										
+YLA2	1710	YLA2	Luxury Auto w/Bonus	Luxusautomobil mit Bonus	2017.07.06 08:56:49										
+YQ15	1710	YQ15	DB 150% MQTR Convention	Degressiv 150% - MQTR-Konvention	2017.07.06 08:56:49										
+YQ20	1710	YQ20	DB 200% MQTR Convention	Degressiv 200% - MQTR-Konvention	2017.07.06 08:56:49										
+YRS1	1710	YRS1	RSL Current Month	RSL - Laufender Monat	2017.07.06 08:56:49										
+YRX1	1710	YRX1	RSL Current Month w/Bonus	RSL - Laufender Monat mit Bonus	2017.07.06 08:56:49										
+YSL1	1710	YSL1	SL Current Month	Linear - Laufender Monat	2017.07.06 08:56:49										
+YSL2	1710	YSL2	SL Mid Month	Linear - Monatsmitte	2017.07.06 08:56:49										
+YSL3	1710	YSL3	SL Next Month	Linear - Nächster Monat	2017.07.06 08:56:49										
+YSL4	1710	YSL4	SL MQTR	Linear - MQTR	2017.07.06 08:56:49										
+YSL5	1710	YSL5	SL Half Year	Linear - Halbjahr	2017.07.06 08:56:49										
+YSX1	1710	YSX1	SL Current Month w/Bonus	Linear - Laufender Monat mit Bonus	2017.07.06 08:56:49										
+YSX2	1710	YSX2	SL Mid Month w/Bonus	Linear - Monatsmitte mit Bonus	2017.07.06 08:56:49										
+YSX3	1710	YSX3	SL Next Month w/Bonus	Linear - Nächster Monat mit Bonus	2017.07.06 08:56:49										
+YSX4	1710	YSX4	SL MQTR w/Bonus	Linear - MQTR mit Bonus	2017.07.06 08:56:49										
+YSX5	1710	YSX5	SL Half Year w/Bonus	Linear - Halbjahr mit Bonus	2017.07.06 08:56:49										

@@ -1,0 +1,11 @@
+LEGACY_GROUPING	GROUPING	GROUPING_TXT_GBL	GROUPING_TXT_LCL	DI_TIMESTAMP											
+BP01	BP01		Ext. numerische Numm. (unterer Bereich)	2018.06.19 05:33:47											
+BP02	BP02		Int. Nummerierung für Standardverwendung	2018.06.19 05:33:47											
+BP03	BP03		Ext. numerische Numm. (oberer Bereich)	2018.06.19 05:33:47											
+BP04	BP04	Ext. alphanumeric numb. (Sample Data)	Ext. alphanumerische Nr. (Beispieldaten)	2018.06.19 05:33:47											
+BPAB	BPAB		Externe alphanumerische Nummerierung	2018.06.19 05:33:47											
+BPEE	BPEE		Interne Nummerierung für Mitarbeiter	2018.06.19 05:33:47											
+CPD2	CPD2	Ext. alphanum. numb. CPD (Sample Data)	Ext. alphanum. Nr. CPD (Beispieldaten)	2018.06.19 05:33:47											
+CPDA	CPDA	External alpha-numeric for CPD BPs	Ext. alphanum. für CPD Geschäftspartner	2018.06.19 05:33:47											
+CPDN	CPDN	Internal Numbering for CPD BPs	Int. Nummerier. für CPD-Geschäftspartner	2018.06.19 05:33:47											
+CPDS	CPDS	External num. numb. CPD (higer range)	Ext. num. Numm. CPD (oberer Bereich)	2018.06.19 05:33:47											

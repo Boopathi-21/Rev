@@ -1,0 +1,2 @@
+LEGACY_CHANGE_TYPE	CHANGE_TYPE	CHANGE_TYPE_TXT_GBL	CHANGE_TYPE_TXT_LCL	DI_TIMESTAMP											
+001	001	Change type for all objects	Änderungsart für alle Objekte	2017.07.06 08:56:49											

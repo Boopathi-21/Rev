@@ -1,0 +1,18 @@
+LEGACY_GL_ACCOUNT_GRP	CHART_OF_ACCOUNTS	GL_ACCOUNT_GRP	GL_ACCOUNT_GRP_TXT_GBL	GL_ACCOUNT_GRP_TXT_LCL	DI_TIMESTAMP										
+YCOA	YCOA	ABST	Recon.account AP/AR	Abgrenzungskonto KR/DE	2017.07.20 01:56:28										
+YCOA	YCOA	ANL.	Fixed assets accounts	Konten des Anlagevermögens	2017.07.20 01:56:28										
+YCOA	YCOA	ERG.	Income statement accounts	Erfolgskonten	2017.07.20 01:56:28										
+YCOA	YCOA	FIN.	Liquid funds accounts	Konten für flüssige Mittel	2017.07.20 01:56:28										
+YCOA	YCOA	MAT.	Materials management accounts	Konten der Materialwirtschaft	2017.07.20 01:56:28										
+YCOA	YCOA	SAKO	G/L accounts (general)	Sachkonten allgemein	2017.07.20 01:56:28										
+YCOA	YCOA	SASL	G/L accounts (ledger-spec. OI)	Sachkonten (ledgerspezif. OP)	2017.07.20 01:56:28										
+YCOA	YCOA	SEC0	Secondary Costs	Secondary Costs	2017.07.20 01:56:28										
+YCOA	YCOA	SECC	Secondary costs / revenues	Sekundärkosten/-erlöse	2017.07.20 01:56:28										
+YIKR	YIKR	ABST	Recon.account AP/AR	Abgrenzungskonto KR/DE	2017.07.20 01:56:28										
+YIKR	YIKR	ANL.	Fixed assets accounts	Konten des Anlagevermögens	2017.07.20 01:56:28										
+YIKR	YIKR	ERG.	Income statement accounts	Erfolgskonten	2017.07.20 01:56:28										
+YIKR	YIKR	FIN.	Liquid funds accounts	Konten für flüssige Mittel	2017.07.20 01:56:28										
+YIKR	YIKR	MAT.	Materials management accounts	Konten der Materialwirtschaft	2017.07.20 01:56:28										
+YIKR	YIKR	SAKO	G/L accounts (general)	Sachkonten allgemein	2017.07.20 01:56:28										
+YIKR	YIKR	SASL	G/L accounts (ledger-spec. OI)	Sachkonten (ledgerspezif. OP)	2017.07.20 01:56:28										
+YIKR	YIKR	SECC	Secondary costs / revenues	Sekundärkosten/-erlöse	2017.07.20 01:56:28										

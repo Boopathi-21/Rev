@@ -1,0 +1,10 @@
+LEGACY_PAYMENT_METHOD	PAYMENT_METHOD	COUNTRY_KEY	PAYMENT_METHOD_TXT_GBL	PAYMENT_METHOD_TXT_LCL	DI_TIMESTAMP										
+C	C	US	Check	Check	2017.07.06 08:56:49										
+D	D	US	Bank transfer (ACH CCD)	Bank transfer (ACH CCD)	2017.07.06 08:56:49										
+E	E	DE	Direct Debit	Direct Debit	2017.07.06 08:56:49										
+E	E	US	Direct Debit	Direct Debit	2017.07.06 08:56:49										
+F	F	DE	Auslandsüberweisung (DTAZV)	Auslandsüberweisung (DTAZV)	2017.07.06 08:56:49										
+I	I	US	ISO PAIN.001 Credit Transfer	ISO PAIN.001 Credit Transfer	2017.07.06 08:56:49										
+P	P	US	Bank transfer (ACH PPD)	Bank transfer (ACH PPD)	2017.07.06 08:56:49										
+T	T	DE	SEPA Überweisung	SEPA Überweisung	2017.07.06 08:56:49										
+T	T	US	Bank transfer (ACH CTX)	Bank transfer (ACH CTX)	2017.07.06 08:56:49										

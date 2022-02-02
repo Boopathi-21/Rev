@@ -1,0 +1,4 @@
+LEGACY_COPY_MODEL	COPY_MODEL	COPY_MODEL_TXT_GBL	COPY_MODEL_TXT_LCL	DI_TIMESTAMP											
+ 	 	Incomplete Copy Model	Unvollständige Kopiervorlage	2017.07.06 08:56:49											
+1	1	Complete Copy Model	Vollständige Kopiervorlage	2017.07.06 08:56:49											
+X	X	Reference Characteristic	Referenzmerkmal	2017.07.06 08:56:49											

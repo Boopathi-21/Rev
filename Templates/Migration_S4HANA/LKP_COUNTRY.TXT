@@ -1,0 +1,250 @@
+LEGACY_COUNTRY	COUNTRY	COUNTRY_TXT_GBL	COUNTRY_TXT_LCL	DI_TIMESTAMP											
+AD	AD	Andorra	Andorra	2018.06.19 05:33:47											
+AE	AE			2018.06.19 05:33:47											
+AF	AF			2018.06.19 05:33:47											
+AG	AG			2018.06.19 05:33:47											
+AI	AI			2018.06.19 05:33:47											
+AL	AL			2018.06.19 05:33:47											
+AM	AM	Armenia	Armenien	2018.06.19 05:33:47											
+AO	AO	Angola	Angola	2018.06.19 05:33:47											
+AQ	AQ			2018.06.19 05:33:47											
+AR	AR			2018.06.19 05:33:47											
+AS	AS			2018.06.19 05:33:47											
+AT	AT			2018.06.19 05:33:47											
+AU	AU			2018.06.19 05:33:47											
+AW	AW			2018.06.19 05:33:47											
+AX	AX	Aland Islands		2018.06.19 05:33:47											
+AZ	AZ	Azerbaijan	Aserbaidschan	2018.06.19 05:33:47											
+BA	BA			2018.06.19 05:33:47											
+BB	BB			2018.06.19 05:33:47											
+BD	BD			2018.06.19 05:33:47											
+BE	BE			2018.06.19 05:33:47											
+BF	BF			2018.06.19 05:33:47											
+BG	BG			2018.06.19 05:33:47											
+BH	BH			2018.06.19 05:33:47											
+BI	BI			2018.06.19 05:33:47											
+BJ	BJ	Benin	Benin	2018.06.19 05:33:47											
+BL	BL	Saint Barthelemy	Saint-Barthélemy	2018.06.19 05:33:47											
+BM	BM			2018.06.19 05:33:47											
+BN	BN			2018.06.19 05:33:47											
+BO	BO	Bolivia	Bolivien	2018.06.19 05:33:47											
+BQ	BQ	Bonaire, Sint Eustatius and Saba	Bonaire, Sint Eustatius und Saba	2018.06.19 05:33:47											
+BR	BR	Brazil	Brasilien	2018.06.19 05:33:47											
+BS	BS			2018.06.19 05:33:47											
+BT	BT	Bhutan	Bhutan	2018.06.19 05:33:47											
+BV	BV	Bouvet Islands	Bouvetinsel	2018.06.19 05:33:47											
+BW	BW	Botswana	Botswana	2018.06.19 05:33:47											
+BY	BY	Belarus	Weißrussland	2018.06.19 05:33:47											
+BZ	BZ	Belize	Belize	2018.06.19 05:33:47											
+CA	CA			2018.06.19 05:33:47											
+CC	CC			2018.06.19 05:33:47											
+CD	CD	Democratic Republic of the Congo	Demokratische Republik Kongo	2018.06.19 05:33:47											
+CF	CF			2018.06.19 05:33:47											
+CG	CG			2018.06.19 05:33:47											
+CH	CH	Switzerland		2018.06.19 05:33:47											
+CI	CI	Cote d'Ivoire	Elfenbeinküste	2018.06.19 05:33:47											
+CK	CK	Cook Islands	Cookinseln	2018.06.19 05:33:47											
+CL	CL			2018.06.19 05:33:47											
+CM	CM	Cameroon	Kamerun	2018.06.19 05:33:47											
+CN	CN			2018.06.19 05:33:47											
+CO	CO			2018.06.19 05:33:47											
+CR	CR	Costa Rica	Costa Rica	2018.06.19 05:33:47											
+CU	CU	Cuba	Kuba	2018.06.19 05:33:47											
+CV	CV			2018.06.19 05:33:47											
+CW	CW			2018.06.19 05:33:47											
+CX	CX	Christmas Island	Weihnachtsinsel	2018.06.19 05:33:47											
+CY	CY			2018.06.19 05:33:47											
+CZ	CZ	Czech Republic	Tschechische Republik	2018.06.19 05:33:47											
+DE	DE			2018.06.19 05:33:47											
+DJ	DJ			2018.06.19 05:33:47											
+DK	DK			2018.06.19 05:33:47											
+DM	DM	Dominica	Dominica	2018.06.19 05:33:47											
+DO	DO			2018.06.19 05:33:47											
+DZ	DZ			2018.06.19 05:33:47											
+EC	EC	Ecuador	Ecuador	2018.06.19 05:33:47											
+EE	EE			2018.06.19 05:33:47											
+EG	EG	Egypt	Ägypten	2018.06.19 05:33:47											
+EH	EH	West Sahara	Westsahara	2018.06.19 05:33:47											
+ER	ER	Eritrea	Eritrea	2018.06.19 05:33:47											
+ES	ES	Spain	Spanien	2018.06.19 05:33:47											
+ET	ET	Ethiopia	Äthiopien	2018.06.19 05:33:47											
+FI	FI			2018.06.19 05:33:47											
+FJ	FJ			2018.06.19 05:33:47											
+FK	FK			2018.06.19 05:33:47											
+FM	FM			2018.06.19 05:33:47											
+FO	FO	Faroe Islands	Färöer	2018.06.19 05:33:47											
+FR	FR			2018.06.19 05:33:47											
+GA	GA			2018.06.19 05:33:47											
+GB	GB	United Kingdom	Großbritannien	2018.06.19 05:33:47											
+GD	GD	Grenada	Grenada	2018.06.19 05:33:47											
+GE	GE	Georgia	Georgien	2018.06.19 05:33:47											
+GF	GF	French Guyana	Französisch-Guayana	2018.06.19 05:33:47											
+GG	GG	Guernsey	Guernsey	2018.06.19 05:33:47											
+GH	GH	Ghana	Ghana	2018.06.19 05:33:47											
+GI	GI			2018.06.19 05:33:47											
+GL	GL	Greenland	Grönland	2018.06.19 05:33:47											
+GM	GM			2018.06.19 05:33:47											
+GN	GN	Guinea	Guinea	2018.06.19 05:33:47											
+GP	GP	Guadeloupe	Guadeloupe	2018.06.19 05:33:47											
+GQ	GQ			2018.06.19 05:33:47											
+GR	GR			2018.06.19 05:33:47											
+GS	GS	South Georgia and the Southern Sandwich Islands	Südgeorgien und die Südlichen Sandwichinseln	2018.06.19 05:33:47											
+GT	GT	Guatemala		2018.06.19 05:33:47											
+GU	GU	Guam	Guam	2018.06.19 05:33:47											
+GW	GW			2018.06.19 05:33:47											
+GY	GY	Guyana	Guyana	2018.06.19 05:33:47											
+HK	HK	Hong Kong	Hongkong	2018.06.19 05:33:47											
+HM	HM			2018.06.19 05:33:47											
+HN	HN	Honduras	Honduras	2018.06.19 05:33:47											
+HR	HR	Croatia	Kroatien	2018.06.19 05:33:47											
+HT	HT	Haiti	Haiti	2018.06.19 05:33:47											
+HU	HU			2018.06.19 05:33:47											
+ID	ID	Indonesia	Indonesien	2018.06.19 05:33:47											
+IE	IE	Ireland	Irland	2018.06.19 05:33:47											
+IL	IL	Israel	Israel	2018.06.19 05:33:47											
+IM	IM			2018.06.19 05:33:47											
+IN	IN			2018.06.19 05:33:47											
+IO	IO	British Indian Ocean Territory	Britisches Territorium im Indischen Ozean	2018.06.19 05:33:47											
+IQ	IQ	Iraq		2018.06.19 05:33:47											
+IR	IR			2018.06.19 05:33:47											
+IS	IS	Iceland	Island	2018.06.19 05:33:47											
+IT	IT			2018.06.19 05:33:47											
+JE	JE	Jersey	Jersey	2018.06.19 05:33:47											
+JM	JM			2018.06.19 05:33:47											
+JO	JO			2018.06.19 05:33:47											
+JP	JP			2018.06.19 05:33:47											
+KE	KE			2018.06.19 05:33:47											
+KG	KG			2018.06.19 05:33:47											
+KH	KH			2018.06.19 05:33:47											
+KI	KI	Kiribati	Kiribati	2018.06.19 05:33:47											
+KM	KM			2018.06.19 05:33:47											
+KN	KN			2018.06.19 05:33:47											
+KP	KP	North Korea	Nordkorea	2018.06.19 05:33:47											
+KR	KR	South Korea	Südkorea	2018.06.19 05:33:47											
+KW	KW	Kuwait	Kuwait	2018.06.19 05:33:47											
+KY	KY			2018.06.19 05:33:47											
+KZ	KZ			2018.06.19 05:33:47											
+LA	LA	Laos	Laos	2018.06.19 05:33:47											
+LB	LB	Lebanon	Libanon	2018.06.19 05:33:47											
+LC	LC			2018.06.19 05:33:47											
+LI	LI			2018.06.19 05:33:47											
+LK	LK			2018.06.19 05:33:47											
+LR	LR	Liberia	Liberia	2018.06.19 05:33:47											
+LS	LS			2018.06.19 05:33:47											
+LT	LT			2018.06.19 05:33:47											
+LU	LU	Luxembourg	Luxemburg	2018.06.19 05:33:47											
+LV	LV			2018.06.19 05:33:47											
+LY	LY			2018.06.19 05:33:47											
+MA	MA			2018.06.19 05:33:47											
+MC	MC			2018.06.19 05:33:47											
+MD	MD	Moldova		2018.06.19 05:33:47											
+ME	ME			2018.06.19 05:33:47											
+MF	MF			2018.06.19 05:33:47											
+MG	MG	Madagascar	Madagaskar	2018.06.19 05:33:47											
+MH	MH			2018.06.19 05:33:47											
+MK	MK			2018.06.19 05:33:47											
+ML	ML	Mali	Mali	2018.06.19 05:33:47											
+MM	MM	Myanmar	Myanmar	2018.06.19 05:33:47											
+MN	MN			2018.06.19 05:33:47											
+MO	MO	Macao	Macao	2018.06.19 05:33:47											
+MP	MP	North Mariana Islands	Nördliche Marianen	2018.06.19 05:33:47											
+MQ	MQ			2018.06.19 05:33:47											
+MR	MR			2018.06.19 05:33:47											
+MS	MS	Montserrat	Montserrat	2018.06.19 05:33:47											
+MT	MT	Malta	Malta	2018.06.19 05:33:47											
+MU	MU	Mauritius	Mauritius	2018.06.19 05:33:47											
+MV	MV			2018.06.19 05:33:47											
+MW	MW			2018.06.19 05:33:47											
+MX	MX			2018.06.19 05:33:47											
+MY	MY	Malaysia	Malaysia	2018.06.19 05:33:47											
+MZ	MZ			2018.06.19 05:33:47											
+NA	NA			2018.06.19 05:33:47											
+NC	NC			2018.06.19 05:33:47											
+NE	NE			2018.06.19 05:33:47											
+NF	NF			2018.06.19 05:33:47											
+NG	NG			2018.06.19 05:33:47											
+NI	NI			2018.06.19 05:33:47											
+NL	NL	Netherlands	Niederlande	2018.06.19 05:33:47											
+NO	NO	Norway	Norwegen	2018.06.19 05:33:47											
+NP	NP	Nepal	Nepal	2018.06.19 05:33:47											
+NR	NR	Nauru	Nauru	2018.06.19 05:33:47											
+NU	NU			2018.06.19 05:33:47											
+NZ	NZ			2018.06.19 05:33:47											
+OM	OM	Oman	Oman	2018.06.19 05:33:47											
+PA	PA	Panama	Panama	2018.06.19 05:33:47											
+PE	PE			2018.06.19 05:33:47											
+PF	PF			2018.06.19 05:33:47											
+PG	PG			2018.06.19 05:33:47											
+PH	PH	Philippines	Philippinen	2018.06.19 05:33:47											
+PK	PK			2018.06.19 05:33:47											
+PL	PL			2018.06.19 05:33:47											
+PM	PM			2018.06.19 05:33:47											
+PN	PN	Pitcairn Islands	Pitcairninseln	2018.06.19 05:33:47											
+PR	PR			2018.06.19 05:33:47											
+PS	PS	State of Palestine	Staat Palästina	2018.06.19 05:33:47											
+PT	PT			2018.06.19 05:33:47											
+PW	PW	Palau	Palau	2018.06.19 05:33:47											
+PY	PY			2018.06.19 05:33:47											
+QA	QA	Qatar	Katar	2018.06.19 05:33:47											
+RE	RE	Reunion	Réunion	2018.06.19 05:33:47											
+RO	RO			2018.06.19 05:33:47											
+RS	RS			2018.06.19 05:33:47											
+RU	RU			2018.06.19 05:33:47											
+RW	RW			2018.06.19 05:33:47											
+SA	SA			2018.06.19 05:33:47											
+SB	SB			2018.06.19 05:33:47											
+SC	SC			2018.06.19 05:33:47											
+SD	SD			2018.06.19 05:33:47											
+SE	SE	Sweden	Schweden	2018.06.19 05:33:47											
+SG	SG			2018.06.19 05:33:47											
+SH	SH			2018.06.19 05:33:47											
+SI	SI			2018.06.19 05:33:47											
+SJ	SJ			2018.06.19 05:33:47											
+SK	SK	Slovakia	Slowakei	2018.06.19 05:33:47											
+SL	SL			2018.06.19 05:33:47											
+SM	SM			2018.06.19 05:33:47											
+SN	SN	Senegal	Senegal	2018.06.19 05:33:47											
+SO	SO	Somalia	Somalia	2018.06.19 05:33:47											
+SR	SR			2018.06.19 05:33:47											
+SS	SS			2018.06.19 05:33:47											
+ST	ST	Sao Tome and Principe	Sao Tome und Príncipe	2018.06.19 05:33:47											
+SV	SV	El Salvador	El Salvador	2018.06.19 05:33:47											
+SX	SX			2018.06.19 05:33:47											
+SY	SY			2018.06.19 05:33:47											
+SZ	SZ			2018.06.19 05:33:47											
+TC	TC			2018.06.19 05:33:47											
+TD	TD	Chad	Tschad	2018.06.19 05:33:47											
+TF	TF			2018.06.19 05:33:47											
+TG	TG	Togo	Togo	2018.06.19 05:33:47											
+TH	TH	Thailand	Thailand	2018.06.19 05:33:47											
+TJ	TJ			2018.06.19 05:33:47											
+TK	TK	Tokelau Islands	Tokelau	2018.06.19 05:33:47											
+TL	TL	Timor-Leste	Timor-Leste	2018.06.19 05:33:47											
+TM	TM	Turkmenistan	Turkmenistan	2018.06.19 05:33:47											
+TN	TN			2018.06.19 05:33:47											
+TO	TO			2018.06.19 05:33:47											
+TR	TR			2018.06.19 05:33:47											
+TT	TT			2018.06.19 05:33:47											
+TV	TV	Tuvalu	Tuvalu	2018.06.19 05:33:47											
+TW	TW			2018.06.19 05:33:47											
+TZ	TZ	Tanzania	Tansania	2018.06.19 05:33:47											
+UA	UA	Ukraine	Ukraine	2018.06.19 05:33:47											
+UG	UG	Uganda	Uganda	2018.06.19 05:33:47											
+UM	UM			2018.06.19 05:33:47											
+US	US			2018.06.19 05:33:47											
+UY	UY			2018.06.19 05:33:47											
+UZ	UZ	Uzbekistan		2018.06.19 05:33:47											
+VA	VA	Vatican City	Vatikanstadt	2018.06.19 05:33:47											
+VC	VC			2018.06.19 05:33:47											
+VE	VE	Venezuela	Venezuela	2018.06.19 05:33:47											
+VG	VG			2018.06.19 05:33:47											
+VI	VI			2018.06.19 05:33:47											
+VN	VN			2018.06.19 05:33:47											
+VU	VU			2018.06.19 05:33:47											
+WF	WF			2018.06.19 05:33:47											
+WS	WS	Samoa	Samoa	2018.06.19 05:33:47											
+YE	YE	Yemen	Jemen	2018.06.19 05:33:47											
+YT	YT			2018.06.19 05:33:47											
+ZA	ZA			2018.06.19 05:33:47											
+ZM	ZM			2018.06.19 05:33:47											
+ZW	ZW	Zimbabwe	Simbabwe	2018.06.19 05:33:47											

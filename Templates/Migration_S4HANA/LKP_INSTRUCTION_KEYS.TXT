@@ -1,0 +1,6 @@
+LEGACY_INSTRUCTION_KEYS	BANK_COUNTRY	PAYMENT_METHOD	INSTRUCTION_KEYS	GL_ACCOUNT_GRP_TXT_GBL	GL_ACCOUNT_GRP_TXT_LCL	DI_TIMESTAMP									
+01	DE	F	01	For.bk transf., domest.bk transf. in for. currency	Auslandsüberw., Inlandsüberw. in Fremdwährung	2018.06.19 05:33:47									
+02	DE	F	02	Foreign bank transfer, payer pays bank charges	Auslandsüberweisung, Zahler zahlt Bankgebühren	2018.06.19 05:33:47									
+03	DE	F	03	Foreign bank transfer, payee pays bank charges	Auslandsüberweisung, Spesen trägt Empfänger	2018.06.19 05:33:47									
+04	DE	F	04	Check issuing by recipient bank/SWIFT check	Scheckausstellung durch Empfängerbank/SWIFT-Scheck	2018.06.19 05:33:47									
+05	DE	F	05	Urgent foreign bank transfer	Eilige Auslandsüberweisung	2018.06.19 05:33:47									

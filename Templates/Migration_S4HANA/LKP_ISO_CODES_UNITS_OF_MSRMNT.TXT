@@ -1,0 +1,185 @@
+LEGACY_ISO_CODE	ISO_CODE	ISO_CODE_TXT_GBL	ISO_CODE_TXT_LCL	DI_TIMESTAMP											
+23	23	Gram/Cubic Centimeter	Gramm/Kubikzentimeter	2017.07.06 08:56:49											
+28	28	Kilogram/Square meter	Kilogramm/Quadratmeter	2017.07.06 08:56:49											
+2J	2J	Cubic centimeter/second	Kubikzentimeter/Sekunde	2017.07.06 08:56:49											
+2M	2M	Centimeter/second	Zentimeter/Sekunde	2017.07.06 08:56:49											
+2X	2X	Meter/Minute	Meter/Minute	2017.07.06 08:56:49											
+2Z	2Z	Millivolt	Millivolt	2017.07.06 08:56:49											
+3B	3B	Megajoule	Megajoule	2017.07.06 08:56:49											
+3H	3H	Kilogram/Kilogram	Kilogramm/Kilogramm	2017.07.06 08:56:49											
+4G	4G	Microliter	Mikroliter	2017.07.06 08:56:49											
+4H	4H	Micrometer	Mikrometer	2017.07.06 08:56:49											
+4K	4K	Milliampere	Milliampere	2017.07.06 08:56:49											
+4O	4O	Microfarad	Mikrofarad	2017.07.06 08:56:49											
+4P	4P	Newton/meter	Newton/Meter	2017.07.06 08:56:49											
+4T	4T	Pikofarad	Pikofarad	2017.07.06 08:56:49											
+59	59	Parts per million	Parts per million	2017.07.06 08:56:49											
+61	61	Parts per billion (US)	Parts per billion (US)	2017.07.06 08:56:49											
+A18	A18	Becquerel/kilogram	Becquerel/Kilogramm	2017.07.06 08:56:49											
+A87	A87	Gigaohm	Gigaohm	2017.07.06 08:56:49											
+A93	A93	Gram/Cubic meter	Gramm/Kubikmeter	2017.07.06 08:56:49											
+A97	A97	Hectopascal	Hektopascal	2017.07.06 08:56:49											
+ACR	ACR	Acre	Acre	2017.07.06 08:56:49											
+AMP	AMP	Ampere	Ampere	2017.07.06 08:56:49											
+ANN	ANN	Year	Jahr	2017.07.06 08:56:49											
+B0	B0	BTU/Cubic Foot	BTU/Kubikfuß	2017.07.06 08:56:49											
+B11	B11	Joule /(Kilogram Kelvin)	Joule /(Kilogramm Kelvin)	2017.07.06 08:56:49											
+B15	B15	Joule/Mole	Joule/Mol	2017.07.06 08:56:49											
+B22	B22	Kiloampere	Kiloampere	2017.07.06 08:56:49											
+B25	B25	Kilobecquerel/Kilogram	Kilobecquerel/Kilogramm	2017.07.06 08:56:49											
+B34	B34	Kilogram/cubic decimeter	Kilogramm/Kubikdezimeter	2017.07.06 08:56:49											
+B42	B42	Kilojoule/Kilogram	Kilojoule/Kilogramm	2017.07.06 08:56:49											
+B44	B44	Kilojoule/Mole	Kilojoule/Mol	2017.07.06 08:56:49											
+B45	B45	Kilomol	Kilomol	2017.07.06 08:56:49											
+B47	B47	Kilonewton	Kilonewton	2017.07.06 08:56:49											
+B49	B49	Kiloohm	Kiloohm	2017.07.06 08:56:49											
+B73	B73	Meganewton	Meganewton	2017.07.06 08:56:49											
+B75	B75	Megohm	Megaohm	2017.07.06 08:56:49											
+B78	B78	Megavolt	Megavolt	2017.07.06 08:56:49											
+B84	B84	Microampere	Mikroampere	2017.07.06 08:56:49											
+B98	B98	Microsecond	Mikrosekunde	2017.07.06 08:56:49											
+BAR	BAR	Bar	Bar	2017.07.06 08:56:49											
+BG	BG	Bag	Tüte	2017.07.06 08:56:49											
+BO	BO	Bottle	Flasche	2017.07.06 08:56:49											
+BX	BX	Crate	Kiste	2017.07.06 08:56:49											
+C10	C10	Millifarad	Millifarad	2017.07.06 08:56:49											
+C15	C15	Millijoule	Millijoule	2017.07.06 08:56:49											
+C16	C16	Millimeter/second	Millimeter/Sekunde	2017.07.06 08:56:49											
+C18	C18	Millimole	Millimol	2017.07.06 08:56:49											
+C19	C19	Mole/Kilogram	Mol/Kilogramm	2017.07.06 08:56:49											
+C22	C22	Millinewton/meter	Millinewton/Meter	2017.07.06 08:56:49											
+C24	C24	Millipascal seconds	Millipascalsekunde	2017.07.06 08:56:49											
+C26	C26	Millisecond	Millisekunde	2017.07.06 08:56:49											
+C29	C29	Millitesla	Millitesla	2017.07.06 08:56:49											
+C31	C31	Milliwatt	Milliwatt	2017.07.06 08:56:49											
+C34	C34	Mole	Mol	2017.07.06 08:56:49											
+C36	C36	Mol per conductability	Mol pro Leitfähigkeit	2017.07.06 08:56:49											
+C38	C38	Mole per Liter	Mol pro Liter	2017.07.06 08:56:49											
+C39	C39	Nanoampere	Nanoampere	2017.07.06 08:56:49											
+C41	C41	Nanofarad	Nanofarad	2017.07.06 08:56:49											
+C45	C45	Nanometer	Nanometer	2017.07.06 08:56:49											
+C47	C47	Nanosecond	Nanosekunde	2017.07.06 08:56:49											
+C55	C55	Newton/Square meter	Newton/Quadratmeter	2017.07.06 08:56:49											
+C56	C56	Newton/Square millimeter	Newton/Quadratmillimeter	2017.07.06 08:56:49											
+C60	C60	Ohm Centimeter	Ohm Zentimeter	2017.07.06 08:56:49											
+C61	C61	Ohm Meter	Ohm Meter	2017.07.06 08:56:49											
+C62	C62	One	Eins	2017.07.06 08:56:49											
+C65	C65	Pascal second	Pascalsekunde	2017.07.06 08:56:49											
+CA	CA	Canister	Kanister	2017.07.06 08:56:49											
+CCK	CCK			2017.07.06 08:56:49											
+CDL	CDL	Candela	Candela	2017.07.06 08:56:49											
+CEL	CEL	Celsius	Celsius	2017.07.06 08:56:49											
+CLT	CLT	Centiliter	Centiliter	2017.07.06 08:56:49											
+CMK	CMK	Square Centimeter	Quadratzentimeter	2017.07.06 08:56:49											
+CMQ	CMQ	Cubic centimeter	Kubikcentimeter	2017.07.06 08:56:49											
+CMT	CMT	Centimeter	Zentimeter	2017.07.06 08:56:49											
+CR	CR	Crate	Kiste	2017.07.06 08:56:49											
+CS	CS	Case	Kasten	2017.07.06 08:56:49											
+CT	CT	Carton	Karton	2017.07.06 08:56:49											
+D10	D10	Siemens per meter	Siemens pro Meter	2017.07.06 08:56:49											
+D33	D33	Tesla	Tesla	2017.07.06 08:56:49											
+D41	D41	Ton/Cubic meter	Tonne/Kubikmeter	2017.07.06 08:56:49											
+D46	D46	Voltampere	Voltampere	2017.07.06 08:56:49											
+D53	D53	Watts per (Meter Kelvin)	Watt pro (Meter Kelvin)	2017.07.06 08:56:49											
+D87	D87	Millimole/Kilogram	Millimol/Kilogramm	2017.07.06 08:56:49											
+DAY	DAY	Day	Tag	2017.07.06 08:56:49											
+DD	DD	Degree	Grad	2017.07.06 08:56:49											
+DMQ	DMQ	Cubic decimeter	Kubikdezimeter	2017.07.06 08:56:49											
+DMT	DMT	Decimeter	Dezimeter	2017.07.06 08:56:49											
+DR	DR	Drum	Trommel	2017.07.06 08:56:49											
+DZN	DZN	Dozen	Dutzend	2017.07.06 08:56:49											
+E22	E22			2017.07.06 08:56:49											
+EA	EA	Each	Each	2017.07.06 08:56:49											
+FAH	FAH	Fahrenheit	Fahrenheit	2017.07.06 08:56:49											
+FAR	FAR	Farad	Farad	2017.07.06 08:56:49											
+FOT	FOT	Feet	Fuß	2017.07.06 08:56:49											
+FTK	FTK	Square foot	Quadratfuß	2017.07.06 08:56:49											
+FTQ	FTQ	Cubic foot	Kubikfuß	2017.07.06 08:56:49											
+GE	GE	US Pound/US Gallon	US Pfund/US Gallone	2017.07.06 08:56:49											
+GJ	GJ	Gram/Milliliter	Gramm/Milliliter	2017.07.06 08:56:49											
+GK	GK	Gram/kilogram	Gramm/Kilogramm	2017.07.06 08:56:49											
+GL	GL	Gram/liter	Gramm/Liter	2017.07.06 08:56:49											
+GLL	GLL	US gallon	US-Gallone	2017.07.06 08:56:49											
+GM	GM	Gram/square meter	Gramm/Quadratmeter	2017.07.06 08:56:49											
+GP	GP	Milligram/cubic meter	Milligramm/Kubikmeter	2017.07.06 08:56:49											
+GQ	GQ	Microgram/cubic meter	Mikrogramm/Kubikmeter	2017.07.06 08:56:49											
+GRM	GRM	Gram	Gramm	2017.07.06 08:56:49											
+GRO	GRO	Gross	Gross	2017.07.06 08:56:49											
+GV	GV	Gigajoule	Gigajoule	2017.07.06 08:56:49											
+HAR	HAR	Hectare	Hektar	2017.07.06 08:56:49											
+HLT	HLT	Hectoliter	Hektoliter	2017.07.06 08:56:49											
+HTZ	HTZ	Hertz	Hertz	2017.07.06 08:56:49											
+HUR	HUR	Hour	Stunde	2017.07.06 08:56:49											
+IE	IE	Person	Person	2017.07.06 08:56:49											
+INH	INH	Inch	Zoll	2017.07.06 08:56:49											
+INK	INK	Square inch	Quadratzoll	2017.07.06 08:56:49											
+INQ	INQ	Cubic inch	Kubikzoll	2017.07.06 08:56:49											
+J2	J2	Joule/Kilogram	Joule/Kilogramm	2017.07.06 08:56:49											
+JOU	JOU	Joule	Joule	2017.07.06 08:56:49											
+KEL	KEL	Kelvin	Kelvin	2017.07.06 08:56:49											
+KGM	KGM	Kilogram	Kilogramm	2017.07.06 08:56:49											
+KGS	KGS	Kilogram per second	Kilogramm/Sekunde	2017.07.06 08:56:49											
+KHZ	KHZ	Kilohertz	Kilohertz	2017.07.06 08:56:49											
+KJO	KJO	Kilojoule	Kilojoule	2017.07.06 08:56:49											
+KMH	KMH	Kilometer/hour	Kilometer/Stunde	2017.07.06 08:56:49											
+KMK	KMK	Square kilometer	Quadrat Kilometer	2017.07.06 08:56:49											
+KMQ	KMQ	Kilogram per cubic meter	Kilogramm pro Kubikmeter	2017.07.06 08:56:49											
+KMT	KMT	Kilometer	Kilometer	2017.07.06 08:56:49											
+KPA	KPA	Kilopascal	Kilopascal	2017.07.06 08:56:49											
+KVA	KVA	Kilovoltampere	Kilovoltampere	2017.07.06 08:56:49											
+KVT	KVT	Kilovolt	Kilovolt	2017.07.06 08:56:49											
+KWH	KWH	Kilowatt-hour	Kilowattstunde	2017.07.06 08:56:49											
+KWT	KWT	Kilowatt	Kilowatt	2017.07.06 08:56:49											
+L2	L2	Liter/Minute	Liter/Minute	2017.07.06 08:56:49											
+LBR	LBR	US pound	US-Pfund	2017.07.06 08:56:49											
+LTR	LTR	Liter	Liter	2017.07.06 08:56:49											
+M1	M1	Milligram/Liter	Milligramms/Liter	2017.07.06 08:56:49											
+MAW	MAW	Megawatt	Megawatt	2017.07.06 08:56:49											
+MBR	MBR	Millibar	Millibar	2017.07.06 08:56:49											
+MGM	MGM	Milligram	Milligramm	2017.07.06 08:56:49											
+MHZ	MHZ	Megahertz	Megahertz	2017.07.06 08:56:49											
+MIK	MIK	Square mile	Quadratmeile	2017.07.06 08:56:49											
+MIL	MIL	Thousand	Tausend	2017.07.06 08:56:49											
+MIN	MIN	Minute	Minute	2017.07.06 08:56:49											
+MLT	MLT	Milliliter	Millilitre	2017.07.06 08:56:49											
+MMK	MMK	Square millimeter	Quadratmillimeter	2017.07.06 08:56:49											
+MMQ	MMQ	Cubic millimeter	Kubikmillimeter	2017.07.06 08:56:49											
+MMT	MMT	Millimeter	Millimeter	2017.07.06 08:56:49											
+MON	MON	Month	Monat	2017.07.06 08:56:49											
+MPA	MPA	Megapascal	Megapascal	2017.07.06 08:56:49											
+MQH	MQH	Cubic meter/Hour	Kubikmeter/Stunde	2017.07.06 08:56:49											
+MQS	MQS	Cubic meter per second	Kubikmeter pro Sekunde	2017.07.06 08:56:49											
+MSK	MSK	Meter per second squared	Meter pro Quadratsekunde	2017.07.06 08:56:49											
+MTK	MTK	Square meter	Quadratmeter	2017.07.06 08:56:49											
+MTQ	MTQ	Cubic meter	Kubikmeter	2017.07.06 08:56:49											
+MTR	MTR	Meter	Meter	2017.07.06 08:56:49											
+MTS	MTS	Meters per second	Meter pro Sekunde	2017.07.06 08:56:49											
+MVA	MVA	Megavoltampere	Megavoltampere	2017.07.06 08:56:49											
+MWH	MWH	Megawatt Hour	Megawattstunde	2017.07.06 08:56:49											
+NA	NA	Milligram/kilogram	Milligramm/Kilogramm	2017.07.06 08:56:49											
+NEW	NEW	Newton	Newton	2017.07.06 08:56:49											
+OHM	OHM	Ohm	Ohm	2017.07.06 08:56:49											
+ONZ	ONZ	Ounce	Unze	2017.07.06 08:56:49											
+OZA	OZA	Fluid Ounce US	Fluid Ounce US	2017.07.06 08:56:49											
+P1	P1	Percentage	Prozent	2017.07.06 08:56:49											
+PA	PA	Package	Paket	2017.07.06 08:56:49											
+PAL	PAL	Pascal	Pascal	2017.07.06 08:56:49											
+PCE	PCE	Piece	Stück	2017.07.06 08:56:49											
+PF	PF	Pallet	Palette	2017.07.06 08:56:49											
+PK	PK	Pack	Packen	2017.07.06 08:56:49											
+PR	PR	Pair	Paar	2017.07.06 08:56:49											
+PT	PT	Pint, US liquid	Pint, U.S. liquid	2017.07.06 08:56:49											
+PTS	PTS	Points		2017.07.06 08:56:49											
+QT	QT	Quart, US liquid	Quart, U.S. liquid	2017.07.06 08:56:49											
+RO	RO	Role	Rolle	2017.07.06 08:56:49											
+S4	S4	Square meter/second	Quadratmeter/Sekunde	2017.07.06 08:56:49											
+SEC	SEC	Second	Sekunde	2017.07.06 08:56:49											
+SMI	SMI	Mile	Meile	2017.07.06 08:56:49											
+STN	STN	US Ton	US-Tonne	2017.07.06 08:56:49											
+TNE	TNE	Tonne (1000 kg)	Tonne (1000 KG)	2017.07.06 08:56:49											
+VLT	VLT	Volt	Volt	2017.07.06 08:56:49											
+WEE	WEE	Week	Woche	2017.07.06 08:56:49											
+WTT	WTT	Watt	Watt	2017.07.06 08:56:49											
+YDK	YDK	Square Yard	Quadrat Yard	2017.07.06 08:56:49											
+YDQ	YDQ	Cubic yard	Kubik Yard	2017.07.06 08:56:49											
+YRD	YRD	Yards	Yard	2017.07.06 08:56:49											

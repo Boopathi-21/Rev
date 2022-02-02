@@ -1,0 +1,5 @@
+LEGACY_PROCUREMENT_TYPE	PROCUREMENT_TYPE	PROCUREMENT_TYPE_TXT_GBL	PROCUREMENT_TYPE_TXT_LCL	DI_TIMESTAMP											
+ 	 	No procurement	Keine Beschaffung	2017.07.06 08:56:49											
+E	E	In-house production	Eigenfertigung	2017.07.06 08:56:49											
+F	F	External procurement	Fremdbeschaffung	2017.07.06 08:56:49											
+X	X	Both procurement types	beide Beschaffungsarten	2017.07.06 08:56:49											

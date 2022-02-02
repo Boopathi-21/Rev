@@ -1,0 +1,4 @@
+LEGACY_INVEST_PROFILE	INVEST_PROFILE	INVEST_PROFILE_TXT_GBL	INVEST_PROFILE_TXT_LCL	DI_TIMESTAMP											
+000001	000001	Model with AuC, summary settlement	Muster mit AiB summarische Abrechnung	2017.07.06 08:56:49											
+000002	000002	Model for depreciation simulation only	Muster nur für Abschreibungssimulation	2017.07.06 08:56:49											
+000003	000003	Model with line item settlement of AuC	Muster mit AiB-Einzelposten-Abrechnung	2017.07.06 08:56:49											

@@ -1,0 +1,6 @@
+LEGACY_RISK_CLASS	RISK_CLASS	RISK_CLASS_TXT_GBL	RISK_CLASS_TXT_LCL	DI_TIMESTAMP											
+A	A	No Default Risk	Kein Ausfallrisiko	2019.09.06 09:19:45											
+B	B	Low Default Risk	Niedriges Ausfallrisiko	2019.09.06 09:19:45											
+C	C	Medium Default Risk	Mittleres Ausfallrisiko	2019.09.06 09:19:45											
+D	D	High Default Risk	Hohes Ausfallrisiko	2019.09.06 09:19:45											
+E	E	Very High Default Risk	Sehr hohes Ausfallrisiko	2019.09.06 09:19:45											

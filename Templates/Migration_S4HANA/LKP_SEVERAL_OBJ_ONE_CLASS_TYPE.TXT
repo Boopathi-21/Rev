@@ -1,0 +1,51 @@
+LEGACY_TABLE	CLASS_TYPE	TABLE_NAME	TABLE_TXT_GBL	TABLE_TXT_LCL	DI_TIMESTAMP										
+PLKO	018	PLKO	Task list	Plan	2017.07.06 08:56:49										
+PLPO	018	PLPO	Operation	Vorgang	2017.07.06 08:56:49										
+/PLMB/RPR_EQR	019	/PLMB/RPR_EQR	Equipment Requirements	Ausrüstungsanforderungen	2017.07.06 08:56:49										
+/PLMB/RPR_PE	019	/PLMB/RPR_PE	Equiqment	Equipment	2017.07.06 08:56:49										
+AFVC	019	AFVC	Order operation	Auftragsvorgang	2017.07.06 08:56:49										
+CRHD	019	CRHD	Work center	Arbeitsplatz	2017.07.06 08:56:49										
+PLPO	019	PLPO	Task List Item	Planposition	2017.07.06 08:56:49										
+PNEQR	019	PNEQR	Equipment Requirements	Ausrüstungsanforderungen	2017.07.06 08:56:49										
+PNEQRAENNR	019	PNEQRAENNR	Equipment Requirements	Ausrüstungsanforderungen	2017.07.06 08:56:49										
+BDO_LIPS	022	BDO_LIPS	Ext. Preceding Doc. for LIPS	Ext. Vorgängerbeleg für LIPS	2017.07.06 08:56:49										
+KONDH	022	KONDH	Conditions	Konditionen	2017.07.06 08:56:49										
+LIPS	022	LIPS	Delivery	Lieferung	2017.07.06 08:56:49										
+MARA	022	MARA	Material	Material	2017.07.06 08:56:49										
+MARM_WS	022	MARM_WS	Proportion/var. unit	Anteilsmengeneinheit/var. ME	2017.07.06 08:56:49										
+MCHA	022	MCHA	Batch	Charge	2017.07.06 08:56:49										
+MSEG	022	MSEG	Material document	Materialbeleg	2017.07.06 08:56:49										
+RESB	022	RESB	Reservation	Reservierung	2017.07.06 08:56:49										
+STPO	022	STPO	BOM item	Stücklistenposition	2017.07.06 08:56:49										
+TBIC_SC	022	TBIC_SC	BIC - Selection Variant	BIC - Selektionsvariante	2017.07.06 08:56:49										
+VBAP	022	VBAP	Sales document	Verkaufsbeleg	2017.07.06 08:56:49										
+WBHI	022	WBHI	Trading Contract Item	Trading-Kontraktposition	2017.07.06 08:56:49										
+BDO_LIPS	023	BDO_LIPS	Ext. Preceding Doc. for LIPS	Ext. Vorgängerbeleg für LIPS	2017.07.06 08:56:49										
+KONDH	023	KONDH	Conditions	Konditionen	2017.07.06 08:56:49										
+LIPS	023	LIPS	Delivery	Lieferung	2017.07.06 08:56:49										
+MARA	023	MARA	Material	Material	2017.07.06 08:56:49										
+MARM_WS	023	MARM_WS	Proportion/var. unit	Anteilsmengeneinheit/var. ME	2017.07.06 08:56:49										
+MCH1	023	MCH1	Batch	Charge	2017.07.06 08:56:49										
+MSEG	023	MSEG	Material document	Materialbeleg	2017.07.06 08:56:49										
+RESB	023	RESB	Reservation	Reservierung	2017.07.06 08:56:49										
+STPO	023	STPO	BOM item	Stücklistenposition	2017.07.06 08:56:49										
+TBIC_SC	023	TBIC_SC	BIC - Selection Variant	BIC - Selektionsvariante	2017.07.06 08:56:49										
+VBAP	023	VBAP	Sales document	Verkaufsbeleg	2017.07.06 08:56:49										
+WBHI	023	WBHI	Trading Contract Item	Trading-Kontraktposition	2017.07.06 08:56:49										
+AFPO	300	AFPO	Order item	Auftragsposition	2017.07.06 08:56:49										
+BGMP	300	BGMP	Service item	Leistungsposition	2017.07.06 08:56:49										
+EBAN	300	EBAN	Purchase Requisition	Bestellanforderung	2017.07.06 08:56:49										
+EKPO	300	EKPO	Purchasing Document	Einkaufsbeleg	2017.07.06 08:56:49										
+EQUI	300	EQUI	Equipment	Equipment	2017.07.06 08:56:49										
+KMAT_NST	300	KMAT_NST	Multi-level config. material	Konfig. Material (mehrstufig)	2017.07.06 08:56:49										
+LIPS	300	LIPS	Delivery	Lieferung	2017.07.06 08:56:49										
+MARA	300	MARA	Material	Material	2017.07.06 08:56:49										
+MARAT	300	MARAT	Type on client level	Type auf A-Segment	2017.07.06 08:56:49										
+MARC	300	MARC	Plant	Werk	2017.07.06 08:56:49										
+MARCV	300	MARCV	Plant	Werk	2017.07.06 08:56:49										
+PBKO	300	PBKO	Planned Ind. Reqmts	Planprimärbedarfe	2017.07.06 08:56:49										
+PLKOGMTL	300	PLKOGMTL	General Maintenance Task List	Instandhaltungsanleitung	2017.07.06 08:56:49										
+PLKONET	300	PLKONET	Standard network	Standardnetz	2017.07.06 08:56:49										
+RESB	300	RESB	Reservation	Reservierung	2017.07.06 08:56:49										
+SER00	300	SER00	Serial Number	Serialnummer	2017.07.06 08:56:49										
+VBPS	300	VBPS	Sales Document	Verkaufsbeleg	2017.07.06 08:56:49										

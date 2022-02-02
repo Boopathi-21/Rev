@@ -1,0 +1,17 @@
+LEGACY_SPECIAL_STOCK_IND	SPECIAL_STOCK_IND	SPECIAL_STOCK_IND_TXT_GBL	SPECIAL_STOCK_IND_TXT_LCL	DI_TIMESTAMP											
+B	B	Customer Stock	Kundenbestand	2017.07.06 08:56:49											
+C	C	SC Customer Stock	LB Kundenbestand	2017.07.06 08:56:49											
+E	E	Orders on hand	Auftragsbestand	2017.07.06 08:56:49											
+F	F	SCCustomerOrderStock	LB KdAUF-Bestand	2017.07.06 08:56:49											
+I	I	SC RTP	LB MVT	2017.07.06 08:56:49											
+J	J	SC Vendor consignmnt	LB Lief.-Konsignat.	2017.07.06 08:56:49											
+K	K	Consignment (vendor)	Konsignation Lief.	2017.07.06 08:56:49											
+M	M	Ret.trans.pkg vendor	MehrwTranspVerp Lief	2017.07.06 08:56:49											
+O	O	Parts prov. vendor	Beistellteile Lief.	2017.07.06 08:56:49											
+P	P	Pipeline material	Pipeline-Material	2017.07.06 08:56:49											
+Q	Q	Project stock	Projektbestand	2017.07.06 08:56:49											
+R	R	SC Project Stock	LB Projektbestand	2017.07.06 08:56:49											
+T	T	Stock in Transit	Transitbestand	2017.07.06 08:56:49											
+V	V	Ret. pkg w. customer	Leihgut Kunde	2017.07.06 08:56:49											
+W	W	Consignment (cust.)	Konsignation Kunde	2017.07.06 08:56:49											
+Y	Y	Shipping unit (whse)	Versandelement Lager	2017.07.06 08:56:49											

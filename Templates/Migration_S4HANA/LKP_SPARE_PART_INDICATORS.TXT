@@ -1,0 +1,4 @@
+LEGACY_INDICATOR_SPARE_PART	INDICATOR_SPARE_PART	SPARE_PART	INDICATOR_SPARE_PART_TXT_GBL	INDICATOR_SPARE_PART_TXT_LCL	DI_TIMESTAMP										
+A	A	X	Spare part customer A	Ersatzteil Kunde A	2017.07.06 08:56:49										
+B	B	X	Spare part customer B	Ersatzteil Kunde B	2017.07.06 08:56:49										
+C	C	X	Critical spare part	Kritisches Ersatzteil	2017.07.06 08:56:49										

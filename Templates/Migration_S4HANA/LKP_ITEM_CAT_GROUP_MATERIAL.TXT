@@ -1,0 +1,21 @@
+LEGACY_ITEM_CATGROUP_MM	ITEM_CATGROUP_MM	ITEM_CATGROUP_MM_TXT_GBL	ITEM_CATGROUP_MM_TXT_LCL	DI_TIMESTAMP											
+0002	0002	Configuration		2017.07.06 08:56:49											
+BADS	BADS	Subcontracting (DS)	Lohnbearbeitung (DS)	2017.07.06 08:56:49											
+BANS	BANS	Third-party Item	Streckenposition	2017.07.06 08:56:49											
+CB01	CB01	Credit Memo	Gutschrift	2017.07.06 08:56:49											
+CB02	CB02	Ret. Pack. Delivery	Leihgutlieferung	2017.07.06 08:56:49											
+CBNA	CBNA	3rd Party SO w/o SN	Str.-LB-Best. o. LA	2017.07.06 08:56:49											
+CBOR	CBOR	3rd Party SO w. SN	Str.-LB-Best. mit LA	2017.07.06 08:56:49											
+CBUK	CBUK	Bought-In	Eingekauft	2017.07.06 08:56:49											
+ERLA	ERLA	Structure/Mat. Above	Strukt./Mat. darüber	2017.07.06 08:56:49											
+LEIH	LEIH	Returnable Packaging	Leihgut	2017.07.06 08:56:49											
+NLAG	NLAG	Non-stock Material	Nichtlagermaterial	2017.07.06 08:56:49											
+NORM	NORM	Standard item	Normalposition	2017.07.06 08:56:49											
+PSFP	PSFP	Fixed Price Item	Festpreisposition	2017.07.06 08:56:49											
+PSPS	PSPS	Periodic Service	Periodischer Service	2017.07.06 08:56:49											
+PSTA	PSTA	Statistical Item	Statist. Position	2017.07.06 08:56:49											
+PSTE	PSTE	Time and Expense Itm	Zeit-/Aufwandsposit.	2017.07.06 08:56:49											
+SERV	SERV	Service	Service	2017.07.06 08:56:49											
+VCIT	VCIT	Value Contract Item	Wertkontraktposition	2017.07.06 08:56:49											
+VERP	VERP	Packaging	Verpackung	2017.07.06 08:56:49											
+WMPP	WMPP	Raw materials WM-PP	Rohmaterial WM-PP	2017.07.06 08:56:49											

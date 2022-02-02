@@ -1,0 +1,5 @@
+LEGACY_REVERSAL_REASON	REVERSAL_REASON	REVERSAL_REASON_TXT_GBL	REVERSAL_REASON_TXT_LCL	DI_TIMESTAMP											
+01	01	Wrong posting	Falsche Buchung	2017.07.06 08:56:49											
+02	02	Wrong period	Falsche Periode	2017.07.06 08:56:49											
+03	03	Wrong prices and conditions	Falsche Preise und Bedingungen	2017.07.06 08:56:49											
+04	04	Return	Rückgabe	2017.07.06 08:56:49											

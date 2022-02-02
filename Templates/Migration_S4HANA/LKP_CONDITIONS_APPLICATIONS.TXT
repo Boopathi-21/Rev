@@ -1,0 +1,111 @@
+LEGACY_APPLICATION	APPLICATION	APPLICATION_TXT_GBL	APPLICATION_TXT_LCL	DI_TIMESTAMP											
+J5	J5	IS-PSD	IS-PSD	2017.07.06 08:56:49											
+J6	J6	IS-PSD	IS-PSD	2017.07.06 08:56:49											
+J7	J7	IS-PSD	IS-PSD	2017.07.06 08:56:49											
+J8	J8	IS-PSD	IS-PSD	2017.07.06 08:56:49											
+J9	J9	IS-PSD	IS-PSD	2017.07.06 08:56:49											
+JA	JA	IS-PAM: Order	IS-PAM: Auftrag	2017.07.06 08:56:49											
+JB	JB	IS-PAM:	IS-PAM:	2017.07.06 08:56:49											
+JC	JC	IS-PAM: Com.Rate.Det	IS-PAM: ProvSatzErm.	2017.07.06 08:56:49											
+JD	JD	IS-PAM: Final Disc.	IS-PAM: AbschlRabatt	2017.07.06 08:56:49											
+JE	JE	IS-PAM: Rev.Redempt.	IS-PAM: Erlösvertlg.	2017.07.06 08:56:49											
+JF	JF	IS-PAM: Billing Doc.	IS-PAM: Faktura	2017.07.06 08:56:49											
+JG	JG	IS-PAM: Master Data	IS-PAM: Stammdaten	2017.07.06 08:56:49											
+JH	JH	IS-PAM	IS-PAM	2017.07.06 08:56:49											
+JI	JI	IS-PAM	IS-PAM	2017.07.06 08:56:49											
+JJ	JJ	IS-PAM	IS-PAM	2017.07.06 08:56:49											
+JK	JK	IS-PAM: Closing	IS-PAM: Abschluß	2017.07.06 08:56:49											
+K1	K1	Sales activities	Kontakte	2017.07.06 08:56:49											
+KA	KA	Orders	Aufträge	2017.07.06 08:56:49											
+KE	KE	Profitability Anal.	Ergebnisrechnung	2017.07.06 08:56:49											
+M	M	Purchasing	Einkauf	2017.07.06 08:56:49											
+M1	M1	Rough Goods Receipt	Grob-Wareneingang	2017.07.06 08:56:49											
+MD	MD	Direct Procurement	Direktbeschaffung	2017.07.06 08:56:49											
+ME	ME	Inventory Management	Bestandsführung	2017.07.06 08:56:49											
+MR	MR	Invoice Verification	Rechnungsprüfung	2017.07.06 08:56:49											
+MS	MS	Ext.Services Manag.	Dienstleistungsabw.	2017.07.06 08:56:49											
+NF	NF	Nota fiscal	Nota Fiscal	2017.07.06 08:56:49											
+OE	OE	E&P Pricing	E&P Pricing	2017.07.06 08:56:49											
+OI	OI	Bulk Tran Scheduling	Bulk tran.scheduling	2017.07.06 08:56:49											
+OJ	OJ	Bulk Tran Loading	Bulk tran. loading	2017.07.06 08:56:49											
+OK	OK	Bulk Tran Del Conf.	Bulk tran.delconfirm	2017.07.06 08:56:49											
+ON	ON	TSW Nominations	TSW Nominations	2017.07.06 08:56:49											
+P	P	ICM: Payment	ICM: Vergütung	2017.07.06 08:56:49											
+P1	P1	Direct Production	Direktfertigung	2017.07.06 08:56:49											
+PA	PA	JIT Call	Produktionsabruf	2017.07.06 08:56:49											
+PB	PB	ICM: Valuation	ICM: Bewertung	2017.07.06 08:56:49											
+PC	PC	ICM: Liability	ICM: Haftung	2017.07.06 08:56:49											
+PM	PM	Plant Maintenance	Instandhaltung	2017.07.06 08:56:49											
+PO	PO	Packing Object	Packobjekt	2017.07.06 08:56:49											
+PS	PS	Project System	Projektsystem	2017.07.06 08:56:49											
+QC	QC	Certificates	Zeugnisse	2017.07.06 08:56:49											
+RD	RD	DBM Automotive	DBM Automotive	2017.07.06 08:56:49											
+RE	RE	DBM Putaway Manager	DBM Einlag.manager	2017.07.06 08:56:49											
+RG	RG	Route Manager	Routenführer	2017.07.06 08:56:49											
+RS	RS	Automotive	Automotive	2017.07.06 08:56:49											
+RV	RV	Vehicle	Fahrzeug	2017.07.06 08:56:49											
+RW	RW	DI - Warranty	DI - Garantie	2017.07.06 08:56:49											
+TP	TP	Profit Center	Profit Center	2017.07.06 08:56:49											
+TX	TX	Taxes	Steuern	2017.07.06 08:56:49											
+V	V	Sales/Distribution	Vertrieb	2017.07.06 08:56:49											
+V1	V1	Sales	Verkauf	2017.07.06 08:56:49											
+V2	V2	Shipping	Versand	2017.07.06 08:56:49											
+V3	V3	Billing	Fakturierung	2017.07.06 08:56:49											
+V4	V4	Shipping (Spec.Case)	Versand (Sonderf.)	2017.07.06 08:56:49											
+V5	V5	Groups	Gruppen	2017.07.06 08:56:49											
+V6	V6	Handling Units	Handling Units	2017.07.06 08:56:49											
+V7	V7	Transport	Transport	2017.07.06 08:56:49											
+VA	VA	CO-PA	COPA	2017.07.06 08:56:49											
+VB	VB	Reconciliation Acct	Abstimmkonto	2017.07.06 08:56:49											
+VC	VC	Cash Settlement	Kassenverrechnung	2017.07.06 08:56:49											
+VD	VD	Payment cards	Zahlungskarten	2017.07.06 08:56:49											
+VE	VE	SD Services	Vertrieb Services	2017.07.06 08:56:49											
+VG	VG	GTIN Mapping	GTIN Mapping	2017.07.06 08:56:49											
+VL	VL	Visit List	Besuchsliste	2017.07.06 08:56:49											
+VP	VP	Bonus Buy	Bonuskauf	2017.07.06 08:56:49											
+VS	VS	Cross Selling	Cross-Selling	2017.07.06 08:56:49											
+W	W	Merchandise Mgmt	Warenwirtschaft	2017.07.06 08:56:49											
+W0	W0	All. Table    Group	Aufteiler     Gruppe	2017.07.06 08:56:49											
+W1	W1	Sales Promo. Group	Handelsaktion Gruppe	2017.07.06 08:56:49											
+WA	WA	Allocation Table	Aufteiler	2017.07.06 08:56:49											
+WB	WB	Retail Promotion	Handelsaktion	2017.07.06 08:56:49											
+WE	WE	Labeling	Etikettierung	2017.07.06 08:56:49											
+WM	WM	Warehouse Management	Lagerverwaltung	2017.07.06 08:56:49											
+WN	WN	Free Sett. Rel. Del.	Ntr. Abrech. - Abrlf	2017.07.06 08:56:49											
+WR	WR	Settlement Mgmt	Agenturgeschäft	2017.07.06 08:56:49											
+WS	WS	Free Sett. Agreem.	Ntr. Abrech. - Abspr	2017.07.06 08:56:49											
+WT	WT	Trading Contract	Tradingkontrakt	2017.07.06 08:56:49											
+BA	BA	IS Bank	IS-Bank	2017.07.06 08:56:49											
+CA	CA	Cost Acc. Cost Rate	KostRechn.Kostensatz	2017.07.06 08:56:49											
+CF	CF	Error Control	Fehlersteuerung	2017.07.06 08:56:49											
+CM	CM	Campus Management	Campus Management	2017.07.06 08:56:49											
+CO	CO	Production Orders	Fertigungsaufträge	2017.07.06 08:56:49											
+CQ	CQ	Resource Prices	Ressourcenpreise	2017.07.06 08:56:49											
+CR	CR	CRP Calculation	CRP-Berechnung	2017.07.06 08:56:49											
+CS	CS	Cost Centers	Kostenstellen	2017.07.06 08:56:49											
+CV	CV	Document Management	Dokumentenverw.	2017.07.06 08:56:49											
+DB	DB	Customers	Debitoren	2017.07.06 08:56:49											
+DR	DR	Ship-to Party	Empfänger	2017.07.06 08:56:49											
+DS	DS	Sender	Sender	2017.07.06 08:56:49											
+E1	E1	Inbound Delivery	Anlieferung	2017.07.06 08:56:49											
+EA	EA	Purchasing RFQ	Einkauf Anfrage	2017.07.06 08:56:49											
+EF	EF	Purchase Order	Einkauf Bestellung	2017.07.06 08:56:49											
+EH	EH	Variant Matching	Variantenfindung	2017.07.06 08:56:49											
+EL	EL	Purch. SchAgrRelease	Einkauf LP-Abruf	2017.07.06 08:56:49											
+EM	EM	ReleasePartnerMail	AbrufAnsprPartMail	2017.07.06 08:56:49											
+ES	ES	Entry Sheet	Erfassungsblatt	2017.07.06 08:56:49											
+EV	EV	Purch.Outline Agr.	Einkauf Rahmenvertr.	2017.07.06 08:56:49											
+F	F	Shipment Costs	Frachtkosten	2017.07.06 08:56:49											
+FP	FP	Freight	Freight	2017.07.06 08:56:49											
+GJ	GJ	JV Billing	JV Faktura	2017.07.06 08:56:49											
+H1	H1	Sample Processing	Musterbearbeitung	2017.07.06 08:56:49											
+H2	H2	DRM: Resale Match	DRM: Wiederverkauf	2017.07.06 08:56:49											
+H3	H3	DRM: PP Rules	DRM : PP-Regeln	2017.07.06 08:56:49											
+H4	H4	DRM : PP Rules (DR)	DRM : PP-Regeln (DR)	2017.07.06 08:56:49											
+H5	H5	DRM: Duplicate Check	DRM: Duplikatprüfung	2017.07.06 08:56:49											
+H6	H6	DRM: BillUp Matching	DRM: Rückzahlung	2017.07.06 08:56:49											
+J0	J0	IS-P SD for Publish.	IS-P Verlagsvertrieb	2017.07.06 08:56:49											
+J1	J1	IS-PSD	IS-PSD	2017.07.06 08:56:49											
+J2	J2	IS-PSD	IS-PSD	2017.07.06 08:56:49											
+J3	J3	IS-PSD	IS-PSD	2017.07.06 08:56:49											
+J4	J4	IS-PSD	IS-PSD	2017.07.06 08:56:49											

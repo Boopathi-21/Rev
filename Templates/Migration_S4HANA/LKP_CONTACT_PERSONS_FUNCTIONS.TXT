@@ -1,0 +1,11 @@
+LEGACY_FUNCTION	FUNCTION_	FUNCTION_TXT_GBL	FUNCTION_TXT_LCL	DI_TIMESTAMP											
+01	01	Executive Board	Vorstand	2018.06.19 05:33:47											
+02	02	Purchasing Manager	Einkaufsleiter	2018.06.19 05:33:47											
+03	03	Sales Manager	Sales Manager	2018.06.19 05:33:47											
+04	04	Head of Personnel	Personalchef	2018.06.19 05:33:47											
+05	05	Quality Officer	QualitätBeauftragter	2018.06.19 05:33:47											
+06	06	Production Manager	Manager Produktion	2018.06.19 05:33:47											
+07	07	Personal Assistant	Chefsekretärin	2018.06.19 05:33:47											
+08	08	IT Manager	IT-Manager	2018.06.19 05:33:47											
+09	09	Financial Accounting	Finanzbuchhaltung	2018.06.19 05:33:47											
+10	10	Marketing Manager	Marketingmanager	2018.06.19 05:33:47											

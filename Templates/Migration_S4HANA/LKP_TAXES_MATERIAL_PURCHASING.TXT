@@ -1,0 +1,7 @@
+LEGACY_TAX_INDICATOR	COUNTRY_DEST_GOODS	TAX_INDICATOR	TAX_INDICATOR_TXT_GBL	TAX_INDICATOR_TXT_LCL	DI_TIMESTAMP										
+0	DE	0	Material 0%	Material 0%	2017.07.06 08:56:49										
+1	DE	1	Material 100%	Material 100%	2017.07.06 08:56:49										
+2	DE	2	Material 50% exempt	Material 50% befreit	2017.07.06 08:56:49										
+0	US	0	Material 0%	Material 0%	2017.07.06 08:56:49										
+1	US	1	Material 100%	Material 100%	2017.07.06 08:56:49										
+2	US	2	Material 50% exempt	Material 50% befreit	2017.07.06 08:56:49										

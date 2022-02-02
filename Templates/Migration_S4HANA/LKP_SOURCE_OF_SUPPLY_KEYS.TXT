@@ -1,0 +1,14 @@
+LEGACY_SOURCE_OF_SUPPLY_KEY	SOURCE_OF_SUPPLY_KEY	SOURCE_OF_SUPPLY_KEY_TXT_GBL	SOURCE_OF_SUPPLY_KEY_TXT_LCL	DI_TIMESTAMP											
+1	1	Standard	Normal	2017.07.06 08:56:49											
+2	2	Stock Transfer	Umlagerung	2017.07.06 08:56:49											
+3	3	Standard Before Stock Transfer	Normal vor Umlagerung	2017.07.06 08:56:49											
+4	4	Stock Transfer Before Standard	Umlagerung vor Normal	2017.07.06 08:56:49											
+A	A	Consignment	Konsignation	2017.07.06 08:56:49											
+B	B	Standard Before Consignment	Normal vor Konsignation	2017.07.06 08:56:49											
+C	C	Consignment Before Standard	Konsignation vor Normal	2017.07.06 08:56:49											
+D	D	Stock Transfer Before Consignment	Umlagerung vor Konsignation	2017.07.06 08:56:49											
+E	E	Consignment Before Stock Transfer	Konsignation vor Umlagerung	2017.07.06 08:56:49											
+F	F	Stndrd Before Consgt Before Stock Trfr	Normal vor Konsignation vor Umlagerung	2017.07.06 08:56:49											
+G	G	Consgt Before Standard Before Stock Trfr	Konsignation vor Normal vor Umlagerung	2017.07.06 08:56:49											
+H	H	Stock Trfr Before Standard Before Consgt	Umlagerung vor Normal vor Konsignation	2017.07.06 08:56:49											
+I	I	Stock Trfr Before Consgt Before Standard	Umlagerung vor Konsignation vor Normal	2017.07.06 08:56:49											

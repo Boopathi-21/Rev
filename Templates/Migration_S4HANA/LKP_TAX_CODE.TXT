@@ -1,0 +1,39 @@
+LEGACY_TAX_CODE	TAX_CODE	PROCEDURE_	TAX_CODE_TXT_GBL	TAX_CODE_TXT_LCL	DI_TIMESTAMP										
+A0	A0	0TXD	0% Output Tax non taxable	0 % Ausgangssteuer nicht steuerbar	2017.07.06 08:56:49										
+A1	A1	0TXD	19 % Output Tax Domestic	19 % Ausgangssteuer Inland	2017.07.06 08:56:49										
+A2	A2	0TXD	7% Output Tax Domestic	7 % Ausgangssteuer Inland	2017.07.06 08:56:49										
+A3	A3	0TXD	0% Output Tax Domestic taxable/tax exempt	0 % Ausgangssteuer Inland steuerbar/steuerfrei	2017.07.06 08:56:49										
+A4	A4	0TXD	Intra-Community Supply	Innergemeinschaftliche Lieferung	2017.07.06 08:56:49										
+A5	A5	0TXD	0% Output Tax Foreign non taxable	0 % Ausgangssteuer Ausland steuerfrei	2017.07.06 08:56:49										
+A6	A6	0TXD	Triangulation Sale	Dreiecksgeschäft Verkauf	2017.07.06 08:56:49										
+A7	A7	0TXD	Service Export EU Reverse Charge	Serviceexport EU Reverse Charge	2017.07.06 08:56:49										
+A8	A8	0TXD	Tax rev good, Rev chg §13b Abs5 Satz1 iVm Abs2Nr10	Stpf Ums Waren, Rev Chg §13bAbs5Satz1 iVm Abs2Nr10	2017.07.06 08:56:49										
+A9	A9	0TXD	Tax rev svcs, Rev chg §13b Abs5 Satz1 iVm Abs2Nr10	Stpf Ums Serv., Rev Chg §13bAbs5Satz1 iVm Abs2Nr10	2017.07.06 08:56:49										
+AV	AV	0TXD	Tax exempt revenues according to § 4 Nr. 2-7 UStG	Steuerfreie Umsätze gemäß § 4 Nr. 2-7 UStG	2017.07.06 08:56:49										
+AW	AW	0TXD	Tax exempt revenues according to § 13b Abs. 5 UStG	Steuerfreie Umsätze gemäß § 13b Abs. 5 UStG	2017.07.06 08:56:49										
+E1	E1	0TXD	19% Acquisition Tax on EC Delivery on Goods	19 % Erwerbssteuer für EU-Warenlieferungen	2017.07.06 08:56:49										
+E2	E2	0TXD	7% Acquisition Tax on EC Delivery on Goods	7 % Erwerbssteuer für EU-Warenlieferungen	2017.07.06 08:56:49										
+E3	E3	0TXD	0% Acquisition Tax on EC Delivery on Goods	0 % Erwerbssteuer für EU-Warenlieferungen	2017.07.06 08:56:49										
+I0	I0	0TXUSX	A/P Sales Tax, exempt	Kreditoren - Umsatzsteuer befreit	2017.07.06 08:56:49										
+I0	I0	TAXUSJ	A/P Sales Tax, exempt	Kreditoren - Umsatzsteuer befreit	2017.07.06 08:56:49										
+I1	I1	0TXUSX	A/P Sales Tax, taxable, distributed to line items	Kreditoren - USt, steuerpfl., auf Posten verteilt	2017.07.06 08:56:49										
+I1	I1	TAXUSJ	A/P Sales Tax, taxable, distributed to line items	Kreditoren - USt, steuerpfl., auf Posten verteilt	2017.07.06 08:56:49										
+O0	O0	0TXUSX	A/R Sales Tax, exempt	Debitoren - Umsatzsteuer befreit	2017.07.06 08:56:49										
+O0	O0	TAXUSJ	A/R Sales Tax, exempt	Debitoren - Umsatzsteuer befreit	2017.07.06 08:56:49										
+O1	O1	0TXUSX	A/R Sales Tax, taxable	Debitoren - Umsatzsteuer, steuerpflichtig	2017.07.06 08:56:49										
+O1	O1	TAXUSJ	A/R Sales Tax, taxable	Debitoren - Umsatzsteuer, steuerpflichtig	2017.07.06 08:56:49										
+U1	U1	0TXD	19% Input Tax Import Tax	19% Importsteuer (Einfuhrumsatzsteuer)	2017.07.06 08:56:49										
+U1	U1	0TXUSX	A/P Use Tax, taxable, self assessed	Kredit. - VerbrSteuer, steuerpfl., selbstveranlagt	2017.07.06 08:56:49										
+U1	U1	TAXUSJ	A/P Use Tax, taxable, self assessed	Kredit. - VerbrSteuer, steuerpfl., selbstveranlagt	2017.07.06 08:56:49										
+U2	U2	0TXD	7% Input Tax Import Tax	7% Importsteuer (Einfuhrumsatzsteuer)	2017.07.06 08:56:49										
+V0	V0	0TXD	0% Input tax non taxable	0 % Eingangsteuer nicht steuerbar	2017.07.06 08:56:49										
+V1	V1	0TXD	19% Input Tax Domestic	19 % Eingangsteuer Inland	2017.07.06 08:56:49										
+V2	V2	0TXD	7% Input Tax Domestic	7 % Vorsteuer Inland	2017.07.06 08:56:49										
+V3	V3	0TXD	0% Input Tax Domestic taxable/tax exempt	0 % Eingangsteuer Inland steuerbar/steuerfrei	2017.07.06 08:56:49										
+V8	V8	0TXD	EU Purchase, Reverse Charge §13b Abs.2 Nr 10 UStG	EU Erwerb, Reverse Charge §13b Abs.2 Nr 10 UStG	2017.07.06 08:56:49										
+V9	V9	0TXD	EU Pur, Rev Chg §13b Abs2 Nr4,5Buchs b,Nr6-9,11US	EU Erwerb, Rev Chg §13b Abs2 Nr4,5Buchs b,Nr6-9,11	2017.07.06 08:56:49										
+XU	XU	0TXD	Purch Frgn, Rev Chg §13b Ab 2 Nr1,5 Buchst a UStG	Erw. Ausl., Rev Chg §13b Ab 2 Nr1,5 Buchst a UStG	2017.07.06 08:56:49										
+XW	XW	0TXD	Triangulation Acquisition	Dreiecksgeschäft Erwerb	2017.07.06 08:56:49										
+XY	XY	0TXD	EU Purchase of Services, Reverse Charge	Service Erwerb EU Reverse Charge	2017.07.06 08:56:49										
+XZ	XZ	0TXD	EU Purch, Reve Chg §13b Abs.2 Nr 2 und 3 UStG	EU Erwerb, Rev Chg §13b Abs. 2 Nr. 2 und 3 UStG	2017.07.06 08:56:49										
+YU	YU	0TXD	0% Input Tax Import Tax	0% Importsteuer (Einfuhrumsatzsteuer)	2017.07.06 08:56:49										

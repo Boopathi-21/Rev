@@ -1,0 +1,29 @@
+LEGACY_CODE_GROUP	CODE_GROUP	CATALOG	CODE_GROUP_TXT_GBL	CODE_GROUP_TXT_LCL	DI_TIMESTAMP										
+DEF-FUNC	DEF-FUNC	9	Functional Defects	Funktionale Fehler	2017.07.06 08:56:49										
+DEF-SURF	DEF-SURF	9	Surface Defects	Oberflächenfehler	2017.07.06 08:56:49										
+DEF-TOL	DEF-TOL	9	Tolerance Defects	Toleranzfehler	2017.07.06 08:56:49										
+DETEST	DETEST	9	Defect type test en	Oberfläche von Glaskörpern	2017.07.06 08:56:49										
+DETEST1	DETEST1	1	Defect type test en	Oberfläche von Glaskörpern	2017.07.06 08:56:49										
+SURF2022	SURF2022	1	Surface of glass bodies	Oberfläche von Glaskörpern	2017.07.06 08:56:49										
+SURF3017	SURF3017	1	Surface of glass bodies	Oberfläche von Glaskörpern	2017.07.06 08:56:49										
+SURFACE	SURFACE	1	Surface	Oberfläche	2017.07.06 08:56:49										
+SURFACE9	SURFACE9	1	short  descripton 40 CHAR	DE short  descripton 40 CHAR	2017.07.06 08:56:49										
+UD01	UD01	3	UD for Good Receipt for Purchase Orders	VE für Wareneingang für Bestellungen	2017.07.06 08:56:49										
+UD03	UD03	3	UD for Inspection Lots in Production	VE für Prüflose in der Produktion	2017.07.06 08:56:49										
+UD04	UD04	3	UD for Goods Receipt from Production	VE für Wareneingang aus der Produktion	2017.07.06 08:56:49										
+UD08	UD08	3	UD for Stock Transfer	VE für Umlagerung	2017.07.06 08:56:49										
+UD10	UD10	3	UD for Sales and Distribution	VE für Vertrieb	2017.07.06 08:56:49										
+UD1701	UD1701	3	Decision Code Grp Inbound Delivery (EWM)		2017.07.06 08:56:49										
+UD1701P	UD1701P	3	Dec Code Grp ID (EWM) Partial Quantities		2017.07.06 08:56:49										
+YB-PM001	YB-PM001	0	Reason for Interruption of Work (PM)		2017.07.06 08:56:49										
+YB-PMEL1	YB-PMEL1	2	Tasks Electric	Aufgaben - Elektrik	2017.07.06 08:56:49										
+YB-PMEL1	YB-PMEL1	5	 Causes electrical	Ursachen - Elektrik	2017.07.06 08:56:49										
+YB-PMEL1	YB-PMEL1	A	Activities electrical	Leistungen - Elektrik	2017.07.06 08:56:49										
+YB-PMEL1	YB-PMEL1	B	Object parts electrical	Objektteile - Elektrik	2017.07.06 08:56:49										
+YB-PMEL1	YB-PMEL1	C	Damages electrical	Schäden - Elektrik	2017.07.06 08:56:49										
+YB-PMME1	YB-PMME1	2	Tasks Mechanical	Aufgaben - Mechanik	2017.07.06 08:56:49										
+YB-PMME1	YB-PMME1	5	Causes mechanical	Ursachen - Mechanik	2017.07.06 08:56:49										
+YB-PMME1	YB-PMME1	A	Activities mechanical	Leistungen - Mechanik	2017.07.06 08:56:49										
+YB-PMME1	YB-PMME1	B	Object parts mechanical	Objektteile - mechanisch	2017.07.06 08:56:49										
+YB-PMME1	YB-PMME1	C	Damages mechanical	Schäden - Mechanik	2017.07.06 08:56:49										
+YBMSRDEC	YBMSRDEC	3	Advanced Returns - Inspection Codes	Erweiterte Retouren - Prüfungscodes	2017.07.06 08:56:49										

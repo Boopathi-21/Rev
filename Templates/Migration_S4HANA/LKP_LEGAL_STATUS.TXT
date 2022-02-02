@@ -1,0 +1,9 @@
+LEGACY_LEGAL_STATUS	LEGAL_STATUS	LEGAL_STATUS_TXT_GBL	LEGAL_STATUS_TXT_LCL	DI_TIMESTAMP											
+01	01	Corporation	AG	2017.07.06 08:56:49											
+02	02	P.l.c.	GmbH	2017.07.06 08:56:49											
+03	03	P.Lim.by Shares	KG	2017.07.06 08:56:49											
+04	04	P.Lim.by Shares	KG	2017.07.06 08:56:49											
+05	05	P.l.c.& Co LP	GmbH & Co KG	2017.07.06 08:56:49											
+06	06	Gen.Partnership	OHG	2017.07.06 08:56:49											
+07	07	Private Company	GbR	2017.07.06 08:56:49											
+08	08	Co., Ltd.	Co., Ltd.	2017.07.06 08:56:49											

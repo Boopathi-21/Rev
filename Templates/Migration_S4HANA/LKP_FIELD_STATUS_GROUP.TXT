@@ -1,0 +1,48 @@
+LEGACY_FIELD_STATUS_GROUP	COMPANY_CODE	FIELD_STATUS_GROUP	FIELD_STATUS_GROUP_TXT_GBL	FIELD_STATUS_GROUP_TXT_LCL	DI_TIMESTAMP										
+SEC0	0010	SEC0	All Fields optional	Alle Felder optional	2017.07.20 01:56:28										
+SECC	0010	SECC	Secondary GL	Sekundäres HB	2017.07.20 01:56:28										
+YB01	0010	YB01	General (with text & assignment)	Allgemein (mit Text & Zuordnung)	2017.07.20 01:56:28										
+YB03	0010	YB03	Material consumption accounts	Materialverbrauchskonten	2017.07.20 01:56:28										
+YB04	0010	YB04	Cost accounts	Kostenkonten	2017.07.20 01:56:28										
+YB05	0010	YB05	Bank accounts (obligatory value date)	Bankkonten (Valutadatum obligatorisch)	2017.07.20 01:56:28										
+YB06	0010	YB06	Material accounts	Materialkonten	2017.07.20 01:56:28										
+YB07	0010	YB07	Asset accts (w/o accumulated depreciatn)	Anlagekonten (ohne Wertberichtigungen)	2017.07.20 01:56:28										
+YB08	0010	YB08	Assets area clearing accounts	Verrechnungskonten Anlagebereich	2017.07.20 01:56:28										
+YB09	0010	YB09	Bank accounts (obligatory due date)	Bankkonten (Fälligkeitsdatum obligat.)	2017.07.20 01:56:28										
+YB11	0010	YB11	Clearing accounts (with settlement per.)	Verrechnungskonten (mit Abrechnungsper.)	2017.07.20 01:56:28										
+YB12	0010	YB12	Receivables/payables clearing	Forderungs-, Verbindlichkeitsverrechnung	2017.07.20 01:56:28										
+YB13	0010	YB13	General (obligatory text)	Allgemein (Text obligatorisch)	2017.07.20 01:56:28										
+YB14	0010	YB14	MM adjustment accounts	Differenzkonten MM	2017.07.20 01:56:28										
+YB17	0010	YB17	Freight/customs provisions/clearing (MM)	Fracht/Zoll Rückstell./Verrech. (MM)	2017.07.20 01:56:28										
+YB18	0010	YB18	Scrapping (MM)	Verschrottung (MM)	2017.07.20 01:56:28										
+YB19	0010	YB19	Other receivables/payables	Sonstige Forderungen/Verbindlichkeiten	2017.07.20 01:56:28										
+YB23	0010	YB23	Plant maintenance accounts	Instandhaltungskonten	2017.07.20 01:56:28										
+YB25	0010	YB25	Inventory adjustment accounts	Inventurdifferenzkonten	2017.07.20 01:56:28										
+YB26	0010	YB26	Accounts for down payments made	Konten für geleistete Anzahlungen	2017.07.20 01:56:28										
+YB29	0010	YB29	Revenue accounts	Erlöskonten	2017.07.20 01:56:28										
+YB30	0010	YB30	Change in stock accounts	Bestandsveränderungskonten	2017.07.20 01:56:28										
+YB31	0010	YB31	Accounts for down payments received	Konten für erhaltene Anzahlungen	2017.07.20 01:56:28										
+YB32	0010	YB32	Bank accounts (obligat.value/due dates)	Bankkonten (Valuta/Fälligkeit obligat.)	2017.07.20 01:56:28										
+YB33	0010	YB33	Cost accounts for external services	Kostenkonten f. fremdbezogene Leistungen	2017.07.20 01:56:28										
+YB36	0010	YB36	Revenue accts (with cost center)	Erlöskonten (mit Kostenstelle)	2017.07.20 01:56:28										
+YB39	0010	YB39	Accts for pmnts on acct made for assets	Konten für gel. Anzahlungen auf Anlagen	2017.07.20 01:56:28										
+YB40	0010	YB40	Personnel clearing accounts	Personalverrechnungskonten	2017.07.20 01:56:28										
+YB41	0010	YB41	Tax office clearing accounts	Verrechnungskonten Finanzamt	2017.07.20 01:56:28										
+YB45	0010	YB45	Goods/invoice received clearing accounts	WE/RE Verrechnungskonten	2017.07.20 01:56:28										
+YB49	0010	YB49	Manufacturing costs accounts	Fertigungskostenkonten	2017.07.20 01:56:28										
+YB50	0010	YB50	Central control clearing accounts	Verrechnungskonten Kundenkommision	2017.07.20 01:56:28										
+YB52	0010	YB52	Accounts for fixed asset retirement	Konten für Anlagenabgang	2017.07.20 01:56:28										
+YB56	0010	YB56	Amortization accounts	Amortisationskonten	2017.07.20 01:56:28										
+YB59	0010	YB59	Inventory accounting material stock acct	Bestandskonten Materialbuchhaltung	2017.07.20 01:56:28										
+YB62	0010	YB62	Investment support accounts	Investitionsförderungskonten	2017.07.20 01:56:28										
+YB64	0010	YB64	Other cost accounts (obligatory text)	Sonstige Kostenkonten (Text obligat.)	2017.07.20 01:56:28										
+YB65	0010	YB65	Provisions (transac.type obligatory)	Rückstellungen (BEWA Muss)	2017.07.20 01:56:28										
+YB67	0010	YB67	Reconciliation accounts	Abstimmkonten	2017.07.20 01:56:28										
+YB68	0010	YB68	Reconciliatn accts (payables - Austria)	Abstimmkonten (Verbindl. - Österreich)	2017.07.20 01:56:28										
+YB69	0010	YB69	Cost accounts (travel expenses)	Kostenkonten (Reisekosten)	2017.07.20 01:56:28										
+YB70	0010	YB70	Clearing accounts (travel expenses)	Verrechnungskonten (Reisekosten)	2017.07.20 01:56:28										
+YB71	0010	YB71	Reconcil.accts (KIDNO/foreign payment)	Abstimmkonten (KIDNO/Zahlung Ausland)	2017.07.20 01:56:28										
+YBCF	0010	YBCF	CO <-> FI reconciliation posting	Abstimmbuchung CO <-> FI	2017.07.20 01:56:28										
+YBIC	0010	YBIC	Intercompany	Buchungskreisübergreifend	2017.07.20 01:56:28										
+YBXX	0010	YBXX	non-operative expense or income	nicht operativer Aufwand oder Ertrag	2017.07.20 01:56:28										
+ZB03	0010	ZB03	General Tax Base Posting UA	Allgemeine Steuerbasis - Buchung UA	2017.07.20 01:56:28										

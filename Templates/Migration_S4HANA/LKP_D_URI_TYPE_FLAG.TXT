@@ -1,0 +1,10 @@
+LEGACY_URI_TYPE_FLAG	URI_TYPE_FLAG	URI_TYPE_FLAG_TXT_GBL	URI_TYPE_FLAG_TXT_LCL	DI_TIMESTAMP											
+ACC	ACC	Bank statement request	Anforderung von Kontoauszügen	2018.06.19 05:33:47											
+FTP	FTP	FTP address	FTP-Adresse	2018.06.19 05:33:47											
+HPG	HPG	Homepage (WWW)	Homepage (WWW)	2018.06.19 05:33:47											
+INT	INT	Intranet page	Intranet-Seite	2018.06.19 05:33:47											
+LOG	LOG	Company logo	Firmenlogo	2018.06.19 05:33:47											
+PFB	PFB	Published Free/Busy information (calendar)	Published Free/Busy-Informationen (Kalender)	2018.06.19 05:33:47											
+ROU	ROU	Link to Route Planner	Link auf Routenplaner	2018.06.19 05:33:47											
+SIP	SIP	Session Initiation Protocol	Session Initiation Protocol	2018.06.19 05:33:47											
+STK	STK	Callup share prices	Abruf von Aktienkursen	2018.06.19 05:33:47											

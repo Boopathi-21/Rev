@@ -1,0 +1,7 @@
+LEGACY_PLANNER_GROUP	PLANT	PLANNER_GROUP	PLANNER_GROUP_TXT_GBL	PLANNER_GROUP_TXT_LCL	DI_TIMESTAMP										
+1	1010	1	Planner group 1	Planner group 1	2017.07.06 08:56:49										
+2	1010	2	Planner group 2	Planner group 2	2017.07.06 08:56:49										
+YB1	1010	YB1	Planner Maintenance	Planner Maintenance	2017.07.06 08:56:49										
+1	1710	1	Planner group 1	Planner group 1	2017.07.06 08:56:49										
+2	1710	2	Planner group 2	Planner group 2	2017.07.06 08:56:49										
+YB1	1710	YB1	Planner Maintenance	Planner Maintenance	2017.07.06 08:56:49										

@@ -1,0 +1,52 @@
+LEGACY_WITHHOLDING_TAX_CODE	COUNTRY_KEY	WITHHLD_TAX_TYPE	WITHHOLDING_TAX_CODE	WITHHOLDING_TAX_CODE_TXT_GBL	WITHHOLDING_TAX_CODE_TXT_LCL	DI_TIMESTAMP									
+42	US	03	42	1042S Reporting Income Code 20	1042S Reporting Einnahmen Code 20	2018.06.19 05:33:47									
+43	US	03	43	1042S Reporting Income Code 20	1042S Reporting Einnahmen Code 20	2018.06.19 05:33:47									
+44	US	03	44	1042S Reporting Income Code 20	1042S Reporting Einnahmen Code 20	2018.06.19 05:33:47									
+01	US	FE	01	Rents	Mieten	2018.06.19 05:33:47									
+02	US	FE	02	Royalties	Lizenzgebühren	2018.06.19 05:33:47									
+03	US	FE	03	Other Income	Sonstige Einnahmen	2018.06.19 05:33:47									
+05	US	FE	05	Fishing Boat Proceeds	Erlöse Fischereifahrzeug	2018.06.19 05:33:47									
+06	US	FE	06	Medical and Healthcare Payments	Zahlg. medizin. Versorgung/GesundhWesen	2018.06.19 05:33:47									
+07	US	FE	07	Non-employee Compensation	Vergütung für Betriebsfremde	2018.06.19 05:33:47									
+08	US	FE	08	Substitute Paymn in Lieu of Dividends	Ersatzzahlungen für Dividenden	2018.06.19 05:33:47									
+09	US	FE	09	Direct Sales	Direktverkauf	2018.06.19 05:33:47									
+10	US	FE	10	Crop Insurance Proceeds	Ernteversicherungseinnahmen	2018.06.19 05:33:47									
+13	US	FE	13	Excess Golden Parachute Payments	Überzahlungen goldener Fallschirm	2018.06.19 05:33:47									
+14	US	FE	14	Gross Proceeds Paid to an Attorney	An einen Anwalt gezahlte Bruttoerlöse	2018.06.19 05:33:47									
+15	US	FE	15	Section 409A deferrals	Abschnitt 409A Abgrenzung	2018.06.19 05:33:47									
+16	US	FE	16	State Tax Withheld	Einbehaltene einzelstaatliche Steuer	2018.06.19 05:33:47									
+1I	US	FE	1I	Total Int Amount	Gesamtbetrag Zinsen	2018.06.19 05:33:47									
+1J	US	FE	1J	Total Int Amount	Gesamtbetrag Zinsen	2018.06.19 05:33:47									
+2I	US	FE	2I	Total early withdrawal Amount	Gesamtbetrag für vorzeitige Verfügung	2018.06.19 05:33:47									
+3I	US	FE	3I	Total Int Savings bonds Amount	Gesamtbetrag Zinsen Sparbriefe	2018.06.19 05:33:47									
+7B	US	FE	7B	Section 409A Income	Abschnitt 409A Einnahmen	2018.06.19 05:33:47									
+F1	US	FE	F1	Rents	Mieten	2018.06.19 05:33:47									
+F2	US	FE	F2	Royalties	Lizenzgebühren	2018.06.19 05:33:47									
+F3	US	FE	F3	Other Income	Sonstige Einnahmen	2018.06.19 05:33:47									
+F5	US	FE	F5	Fishing boat proceeds	Erlöse Fischereifahrzeug	2018.06.19 05:33:47									
+F6	US	FE	F6	Medical and health Care payments	Zahlg. medizin. Versorgung/GesundhWesen	2018.06.19 05:33:47									
+F7	US	FE	F7	Non-employee Compensation	Vergütung für Betriebsfremde	2018.06.19 05:33:47									
+F8	US	FE	F8	Substitute paym in lieu of dividends	Ersatzzahlungen für Dividenden	2018.06.19 05:33:47									
+F9	US	FE	F9	Direct Sales	Direktverkauf	2018.06.19 05:33:47									
+FB	US	FE	FB	Excess Golden Parachute Payments	Überzahlungen goldener Fallschirm	2018.06.19 05:33:47									
+FC	US	FE	FC	Gross Proceeds Paid to an Attorney	An einen Anwalt gezahlte Bruttoerlöse	2018.06.19 05:33:47									
+FD	US	FE	FD	Section 409A Deferrals	Abschnitt 409A Aufgeschobene Beträge	2018.06.19 05:33:47									
+FE	US	FE	FE	Section 409A Income	Abschnitt 409A Einnahmen	2018.06.19 05:33:47									
+K9	US	FE	K9	1099K report	1099K Bericht	2018.06.19 05:33:47									
+S1	US	FE	S1	Rents	Mieten	2018.06.19 05:33:47									
+S2	US	FE	S2	Royalties	Lizenzgebühren	2018.06.19 05:33:47									
+S3	US	FE	S3	Other Income	Sonstige Einnahmen	2018.06.19 05:33:47									
+S5	US	FE	S5	Fishing Boat Proceeds	Erlöse Fischereifahrzeug	2018.06.19 05:33:47									
+S6	US	FE	S6	Medical and Healthcare Payments	Zahlg. medizin. Versorgung/GesundhWesen	2018.06.19 05:33:47									
+S7	US	FE	S7	Non-employee Compensation	Vergütung für Betriebsfremde	2018.06.19 05:33:47									
+S8	US	FE	S8	Substitute Paymn in Lieu of Dividends	Ersatzzahlungen für Dividenden	2018.06.19 05:33:47									
+S9	US	FE	S9	Direct Sales	Direktverkauf	2018.06.19 05:33:47									
+SB	US	FE	SB	Excess Golden Parachute Payments	Überzahlungen goldener Fallschirm	2018.06.19 05:33:47									
+SC	US	FE	SC	Gross Proceeds Paid to an Attorney	An einen Anwalt gezahlte Bruttoerlöse	2018.06.19 05:33:47									
+1G	US	G1	1G	Unemployed compensation amount	Vergütung für Betriebsfremde	2018.06.19 05:33:47									
+2G	US	G1	2G	Total state tax refunds amount	GesamterstattBetrag einzelstaatl. Steuer	2018.06.19 05:33:47									
+5B	US	G1	5B	ATAA Payment amount	Betrag ATAA-Zahlung	2018.06.19 05:33:47									
+5G	US	G1	5G	Taxable Grant amount	Betrag steuerpflichtiger Zuschuss	2018.06.19 05:33:47									
+6G	US	G1	6G	Taxable Grant amount	Betrag steuerpflichtiger Zuschuss	2018.06.19 05:33:47									
+7G	US	G1	7G	Total Agriculture payment amount	Gesamtbetrag Zahlungen Landwirtschaft	2018.06.19 05:33:47									
+8G	US	G1	8G	Total trade or business amount	Gesamtbetrag Handel/Geschäft	2018.06.19 05:33:47									

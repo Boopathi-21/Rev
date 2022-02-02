@@ -1,0 +1,14 @@
+LEGACY_DEPENDENCY_TYPE	DEPENDENCY_TYPE	DEPENDENCY_TYPE_TXT_GBL	DEPENDENCY_TYPE_TXT_LCL	DI_TIMESTAMP											
+1	1	Constraint	Constraint	2017.07.06 08:56:49											
+11	11	Constraint AVC	Constraint AVC	2017.07.06 08:56:49											
+12	12	Precondition AVC	Vorbedingung AVC	2017.07.06 08:56:49											
+14	14	Rule AVC	Regel AVC	2017.07.06 08:56:49											
+15	15	Selection Condition AVC	Auswahlbedingung AVC	2017.07.06 08:56:49											
+16	16	Dependency Net AVC	Beziehungsnetz AVC	2017.07.06 08:56:49											
+17	17	Procedure AVC	Prozedur AVC	2017.07.06 08:56:49											
+2	2	Precondition	Vorbedingung	2017.07.06 08:56:49											
+3	3	Action	Aktion	2017.07.06 08:56:49											
+4	4	Rule	Regel	2017.07.06 08:56:49											
+5	5	Selection condition	Auswahlbedingung	2017.07.06 08:56:49											
+6	6	Dependency net	Beziehungsnetz	2017.07.06 08:56:49											
+7	7	Procedure	Prozedur	2017.07.06 08:56:49											

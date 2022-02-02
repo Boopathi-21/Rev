@@ -1,0 +1,6 @@
+LEGACY_STATUS_MASTER_RECORD	STATUS_MASTER_RECORD	STATUS_MASTER_RECORD_TXT_GBL	STATUS_MASTER_RECORD_TXT_LCL	DI_TIMESTAMP											
+1	1	Being Created	In Erstellung	2017.07.06 08:56:49											
+2	2	Released	Freigegeben	2017.07.06 08:56:49											
+3	3	Can No Longer Be Used	Nicht mehr verwendbar	2017.07.06 08:56:49											
+4	4	Deletion Flag	Löschvormerkung	2017.07.06 08:56:49											
+5	5	Archived	Archiviert	2017.07.06 08:56:49											

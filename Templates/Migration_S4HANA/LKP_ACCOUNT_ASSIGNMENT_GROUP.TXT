@@ -1,0 +1,4 @@
+LEGACY_ACCTASSGGR	ACCTASSGGR	ACCTASSGGR_TXT_GBL	ACCTASSGGR_TXT_LCL	DI_TIMESTAMP											
+01	01	Domestic Revenues	Inlandseinnahmen	2018.06.19 05:33:47											
+02	02	Foreign Revenues	Auslandseinnahmen	2018.06.19 05:33:47											
+03	03	Affiliat Comp Revenu	Einn. verbund. Unt.	2018.06.19 05:33:47											

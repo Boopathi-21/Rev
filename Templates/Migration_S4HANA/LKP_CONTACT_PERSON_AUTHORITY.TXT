@@ -1,0 +1,8 @@
+LEGACY_AUTHORITY	AUTHORITY	AUTHORITY_TXT_GBL	AUTHORITY_TXT_LCL	DI_TIMESTAMP											
+1	1	General Authority	Generalvollmacht	2017.07.06 08:56:49											
+2	2	No Authority	Keine Vollmacht	2017.07.06 08:56:49											
+3	3	Authorized Buyer	Einkäufer mit Vollm.	2017.07.06 08:56:49											
+4	4	Sole Decision Maker	Alleinentscheider	2017.07.06 08:56:49											
+5	5	Main Decision Maker	Hauptentscheider	2017.07.06 08:56:49											
+6	6	Joint Decision Maker	Mitentscheider	2017.07.06 08:56:49											
+7	7	Decision Authority	Vollmacht	2017.07.06 08:56:49											

@@ -1,0 +1,17 @@
+LEGACY_TERMS_OF_PAYMENT_KEY	TERMS_OF_PAYMENT_KEY	TERMS_OF_PAYMENT_KEY_TXT_GBL	TERMS_OF_PAYMENT_KEY_TXT_LCL	DI_TIMESTAMP											
+0001	0001	Pay Immediately w/o Deduction	Sofort zahlbar ohne Abzug	2017.07.06 08:56:49											
+0002	0002	14 Days 2%, 30 Net	14 Tage 2 %, 30 netto	2017.07.06 08:56:49											
+0003	0003	14 Days 3%, 20/2%, 30 Net	14 Tage 3 %, 20/2 %, 30 netto	2017.07.06 08:56:49											
+0004	0004	As of End of Month	Ab Monatsende	2017.07.06 08:56:49											
+0005	0005	From the 10th of Subs. Month	Ab 10. des Folgemonats	2017.07.06 08:56:49											
+0006	0006	End of Month 4%, Mid-Month 2%	Monatsende 4 %, Monatsmtte 2 %	2017.07.06 08:56:49											
+0007	0007	15th/31st Subs. Month 2%, ...	15./31. Folgemonat 2 %, ...	2017.07.06 08:56:49											
+0008	0008	14 Days 2%, 30/1,5%, 45 Net	14 Tge 2 %, 30/1,5 %, 45 netto	2017.07.06 08:56:49											
+0009	0009	Payable in 3 Installments	Zahlbar in 3 Teilbeträgen	2017.07.06 08:56:49											
+NT00	NT00	Payable upon Receipt	Zahlbar bei Erhalt	2017.07.06 08:56:49											
+NT08	NT08	Net Due in 8 Days	Nettofälligkeit in 8 Tagen	2017.07.06 08:56:49											
+NT15	NT15	Net Due in 15 Days	Nettofälligkeit in 15 Tagen	2017.07.06 08:56:49											
+NT30	NT30	Net Due in 30 Days	Nettofälligkeit in 30 Tagen	2017.07.06 08:56:49											
+NT45	NT45	Net Due in 45 Days	Nettofälligkeit in 45 Tagen	2017.07.06 08:56:49											
+NT60	NT60	Net Due in 60 Days	Nettofälligkeit in 60 Tagen	2017.07.06 08:56:49											
+SEPA	SEPA	SEPA Direct Debit	SEPA-Lastschrift	2017.07.06 08:56:49											

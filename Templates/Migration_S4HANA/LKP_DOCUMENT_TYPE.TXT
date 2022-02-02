@@ -1,0 +1,47 @@
+LEGACY_DOCUMENT_TYPE	DOCUMENT_TYPE	DOCUMENT_TYPE_TXT_GBL	DOCUMENT_TYPE_TXT_LCL	DI_TIMESTAMP											
+AA	AA	Asset Posting	Anlagenbuchung	2017.07.06 08:56:49											
+AB	AB	Journal Entry	Buchhaltungsbeleg	2017.07.06 08:56:49											
+AF	AF	Depreciation Pstngs	Abschreibungsbuch.	2017.07.06 08:56:49											
+AN	AN	Net Asset Posting	Anlagenbuchung netto	2017.07.06 08:56:49											
+AP	AP	Periodic asset post	Anlagenbuchung perio	2017.07.06 08:56:49											
+CC	CC	Sec. Cost CrossComp.	SekKosten übergreif.	2017.07.06 08:56:49											
+CL	CL	CL/OP FY Postings	CL/OP GJ-Buchungen	2017.07.06 08:56:49											
+CO	CO	Secondary Cost	Sekundärkosten	2017.07.06 08:56:49											
+DA	DA	Customer document	Debitorenbeleg	2017.07.06 08:56:49											
+DG	DG	Customer credit memo	Debitoren-Gutschrift	2017.07.06 08:56:49											
+DR	DR	Customer invoice	Debitoren-Rechnung	2017.07.06 08:56:49											
+DV	DV	Customer interests	Debitoren-Verzinsung	2017.07.06 08:56:49											
+DZ	DZ	Customer Payment	Debitorenzahlung	2017.07.06 08:56:49											
+ER	ER	Manual ExpenseTravel	Manuelle Reisekosten	2017.07.06 08:56:49											
+EU	EU	Euro Rounding Diff.	Euro-Rundungsdiffer.	2017.07.06 08:56:49											
+EX	EX	External Number	Externe Nummer	2017.07.06 08:56:49											
+KA	KA	Vendor Document	Kreditorenbeleg	2017.07.06 08:56:49											
+KG	KG	Vendor Credit Memo	Kreditorengutschrift	2017.07.06 08:56:49											
+KN	KN	Net vendors	Kreditoren netto	2017.07.06 08:56:49											
+KP	KP	Account maintenance	Kontenpflege	2017.07.06 08:56:49											
+KR	KR	Vendor Invoice	Kreditorenrechnung	2017.07.06 08:56:49											
+KZ	KZ	Vendor payment	Kreditorenzahlung	2017.07.06 08:56:49											
+ML	ML	ML Settlement	ML Abrechnung	2017.07.06 08:56:49											
+PR	PR	Price Change	Preisänderung	2017.07.06 08:56:49											
+RA	RA	Sub.Cred.Memo Stlmt	Nachtr. GutschrKlär.	2017.07.06 08:56:49											
+RE	RE	Invoice - Gross	Rechnung brutto	2017.07.06 08:56:49											
+RK	RK	Invoice Reduction	Rechnungskürzung	2017.07.06 08:56:49											
+RN	RN	Invoice - Net	Rechnung - netto	2017.07.06 08:56:49											
+RV	RV	Billing doc.transfer	Fakturaübernahme	2017.07.06 08:56:49											
+SA	SA	G/L Account Document	Sachkontenbeleg	2017.07.06 08:56:49											
+SB	SB	G/L Account Posting	Sachkontenbuchung	2017.07.06 08:56:49											
+SE	SE	Inventory Postings	Bestandsbuchungen	2017.07.06 08:56:49											
+SK	SK	Cash Document	Kassenbeleg	2017.07.06 08:56:49											
+SU	SU	Intercompany	Bukrs-übergreifend	2017.07.06 08:56:49											
+UE	UE	Data Transfer	Datentransfer	2017.07.06 08:56:49											
+WA	WA	Goods Issue	Warenausgang	2017.07.06 08:56:49											
+WE	WE	Goods Receipt	Wareneingang	2017.07.06 08:56:49											
+WI	WI	Inventory Document	Inventurbeleg	2017.07.06 08:56:49											
+WL	WL	Goods Issue/Delivery	Warenausg./Lief.	2017.07.06 08:56:49											
+WN	WN	Net Goods Receipt	Wareneingang netto	2017.07.06 08:56:49											
+Y1	Y1	Invoice - Gross	Rechnung brutto	2017.07.06 08:56:49											
+ZP	ZP	Payment Posting	Zahlungsbuchung	2017.07.06 08:56:49											
+ZR	ZR	Bank reconciliation	Bankabstimmung	2017.07.06 08:56:49											
+ZS	ZS	Payment by Check	Zahlung per Scheck	2017.07.06 08:56:49											
+ZV	ZV	Payment Clearing	Zahlungsausgleich	2017.07.06 08:56:49											
+ZZ	ZZ	Billing doc.transfer	Fakturaübernahme	2017.07.06 08:56:49											

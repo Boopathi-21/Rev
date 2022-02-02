@@ -1,0 +1,139 @@
+LEGACY_REFERENCE_TRANSACTION	REFERENCE_TRANSACTION	REFERENCE_TRANSACTION_TXT_GBL	REFERENCE_TRANSACTION_TXT_LCL	DI_TIMESTAMP											
+ABR	ABR	FS-RI Sett. Document	FS-RI Abr.Beleg	2017.07.06 08:56:49											
+ACE	ACE	Accrual Engine	Accrual Engine	2017.07.06 08:56:49											
+AFRU	AFRU	Reporting document	Rückmeldungsbeleg	2017.07.06 08:56:49											
+AIBU	AIBU	Assts und.const.set.	AiB Abrechnung	2017.07.06 08:56:49											
+AMBU	AMBU	Asset Transaction	Anlagenbewegung	2017.07.06 08:56:49											
+AMDP	AMDP	Depreciation posting	Abschreibungsbuchung	2017.07.06 08:56:49											
+ANLA	ANLA	Asset Transaction	Anlagenbewegung	2017.07.06 08:56:49											
+AS91	AS91	FIAA old assets data	FIAA-Altdatenbeweg.	2017.07.06 08:56:49											
+AUAK	AUAK	Settlement document	Abrechnungsbeleg	2017.07.06 08:56:49											
+AXBTA	AXBTA	Bus. Travel Account	Bus. Travel Account	2017.07.06 08:56:49											
+BCAEB	BCAEB	Acc.Mgt Single Doc.	Einzelbeleg Acc.Mgmt	2017.07.06 08:56:49											
+BCASU	BCASU	Acc.Mgt Totals Doc.	Summenbeleg Acc.Mgmt	2017.07.06 08:56:49											
+BEBD	BEBD	RE Billing Document	Fakturabeleg RE	2017.07.06 08:56:49											
+BERD	BERD	Settlement Document	Abrechnungsbeleg	2017.07.06 08:56:49											
+BERE	BERE	Transaction Data	Transaktionsdaten	2017.07.06 08:56:49											
+BKKEB	BKKEB	BCA individual doc.	BKK Einzelbeleg	2017.07.06 08:56:49											
+BKKPR	BKKPR	Pmnt order from BCA	Zahl.auftr. aus BKK	2017.07.06 08:56:49											
+BKKSU	BKKSU	BCA totals document	BKK Summenbeleg	2017.07.06 08:56:49											
+BKPF	BKPF	Accounting document	Buchhaltungsbeleg	2017.07.06 08:56:49											
+BKPFE	BKPFE	Acctg doc.ECS	Buchh.blg ECS	2017.07.06 08:56:49											
+BKPFF	BKPFF	Actg doc.direct inpt	Buchh.blg dirct inpt	2017.07.06 08:56:49											
+BKPFI	BKPFI	Acctg doc.f.initial.	Buchh.blg f.Initial.	2017.07.06 08:56:49											
+BKPFM	BKPFM	Substitute Document	Stellvertreter-Beleg	2017.07.06 08:56:49											
+BKPFR	BKPFR	Reorg. Transfer	Reorg-Umbuchung	2017.07.06 08:56:49											
+BKPWF	BKPWF			2017.07.06 08:56:49											
+CACS	CACS	Commission Settlemt	Provisionsabrechnung	2017.07.06 08:56:49											
+CAJO	CAJO	Cash journal doc.	Kassenbuchbeleg	2017.07.06 08:56:49											
+CATS	CATS	Document from CATS	Beleg aus CATS	2017.07.06 08:56:49											
+CF3P	CF3P			2017.07.06 08:56:49											
+CIAP	CIAP			2017.07.06 08:56:49											
+CMPEV	CMPEV			2017.07.06 08:56:49											
+COBK	COBK	Controlling Document	Kostenrechnungsbeleg	2017.07.06 08:56:49											
+COFIS	COFIS	Reconcil. ledger	Abstimmledger	2017.07.06 08:56:49											
+COPA	COPA	Profitab. Analysis	Ergebnisrechnung	2017.07.06 08:56:49											
+COPCA	COPCA	Profit center doc.	Profit-Center-Beleg	2017.07.06 08:56:49											
+CRMCS	CRMCS	Claim Subm. Posting	FordEinrBuch.	2017.07.06 08:56:49											
+CRMFM	CRMFM	Funds Posting	Fondsbuchung	2017.07.06 08:56:49											
+CRP	CRP	CRP Document	CRP Document	2017.07.06 08:56:49											
+DBMCD	DBMCD	DBM Cash Desk	DBM Kasse	2017.07.06 08:56:49											
+DBMDP	DBMDP	DBM Down Payment	DBM Anzahlung	2017.07.06 08:56:49											
+DBMIB	DBMIB	DBM Int. Billing Doc	DBM Int. Billing Doc	2017.07.06 08:56:49											
+DBMSO	DBMSO	DBM Workshop Order	DBM Werkstattauftrag	2017.07.06 08:56:49											
+DBMTR	DBMTR	DBM Time Recording	DBM Zeiterfassung	2017.07.06 08:56:49											
+DBMVM	DBMVM	DBM Vehicle Mgmt.	DBM Vehicle Mgmt.	2017.07.06 08:56:49											
+DIDPC	DIDPC	Down Payment Chains	Anzahlungsketten	2017.07.06 08:56:49											
+DIPNV	DIPNV	Constr. Prog. Report	Leistungsmeldung	2017.07.06 08:56:49											
+EACC	EACC	Accounting Engine	Accounting Engine	2017.07.06 08:56:49											
+EBKPF	EBKPF	External accounting	Buchhaltung extern	2017.07.06 08:56:49											
+ECCS	ECCS	Consolidation	Konsolidierung	2017.07.06 08:56:49											
+ENTD	ENTD	Deposit Refund Prog.	Pfandabwickung	2017.07.06 08:56:49											
+FCO	FCO	Failure Cost Proc.	Fehlerkostenabwickl.	2017.07.06 08:56:49											
+FCVS	FCVS			2017.07.06 08:56:49											
+FDIS	FDIS	Cash Management	Cashmanagement	2017.07.06 08:56:49											
+FEBEP	FEBEP	Acct statement item	Kontoauszugsposition	2017.07.06 08:56:49											
+FERC	FERC	FERC: Reporting	FERC: Meldewesen	2017.07.06 08:56:49											
+FICA	FICA	Contract A/R and A/P	Vertragskontokorrent	2017.07.06 08:56:49											
+FILA	FILA	Lease accounting	Lease accounting	2017.07.06 08:56:49											
+FILC	FILC	Consolidation	Konsolidierung	2017.07.06 08:56:49											
+FISS	FISS	Internal SelfService	Interner SelfService	2017.07.06 08:56:49											
+FKKCO	FKKCO	Contract A/R and A/P	Vertragskontokorrent	2017.07.06 08:56:49											
+FKKKO	FKKKO	FI-CA Document	FI-CA Beleg	2017.07.06 08:56:49											
+FKKSU	FKKSU	Contract A/R and A/P	Vertragskontokorrent	2017.07.06 08:56:49											
+FMBHI	FMBHI			2017.07.06 08:56:49											
+FMBL	FMBL	Budgetary Ledger		2017.07.06 08:56:49											
+FMBTR	FMBTR			2017.07.06 08:56:49											
+FMCA	FMCA	Funds Management doc	Haushaltsmgm.-Beleg	2017.07.06 08:56:49											
+FMCCF	FMCCF	Cmmt Carryforw. Doc.	Obligovortragsbeleg	2017.07.06 08:56:49											
+FMCJ	FMCJ	PS Cash journal	PS Kassenbuch	2017.07.06 08:56:49											
+FMCO	FMCO	Proj.Cash Mngmnt doc	ProjekteCashm.-Beleg	2017.07.06 08:56:49											
+FMED	FMED	BCS Entry Documents	BCS Erfassungsbeleg	2017.07.06 08:56:49											
+FMLI	FMLI	BCS Change Document	BCS Änderungsbeleg	2017.07.06 08:56:49											
+FMPSO	FMPSO	Request document	Anordnungsbeleg	2017.07.06 08:56:49											
+FMRES	FMRES	Earmarked funds	Mittelvormerkung	2017.07.06 08:56:49											
+FOTP	FOTP	One-Time Postings	Einmalbuchungen	2017.07.06 08:56:49											
+FPL00	FPL00			2017.07.06 08:56:49											
+FPL01	FPL01			2017.07.06 08:56:49											
+FPL02	FPL02			2017.07.06 08:56:49											
+FPL03	FPL03			2017.07.06 08:56:49											
+FS-BA	FS-BA	GL Bank Analyzer	GL Bank Analyzer	2017.07.06 08:56:49											
+FS-PM	FS-PM	Policy Management	Policenmanagement	2017.07.06 08:56:49											
+GLAL0	GLAL0	FlexGL Allocation	FlexGL Allokation	2017.07.06 08:56:49											
+GLSUM	GLSUM	Totals Document	Summarischer Beleg	2017.07.06 08:56:49											
+GLX	GLX	Spec. purpose ledger	Spezielle Ledger	2017.07.06 08:56:49											
+GLYEC	GLYEC	Year-End Closing Doc	Jahresabschlußbeleg	2017.07.06 08:56:49											
+GM	GM	Grants Mgm. Doc.	Grants mgm.-Beleg	2017.07.06 08:56:49											
+GMBD	GMBD	Grants Mgm. Doc.	Grants mgm.-Beleg	2017.07.06 08:56:49											
+GMCTR	GMCTR	Guaran. Min.Contract	Gar.Minimum Contract	2017.07.06 08:56:49											
+HRBLK	HRBLK	Funds Block	Mittelsperre	2017.07.06 08:56:49											
+HRBUD	HRBUD	Budget Planning	Budetplanung	2017.07.06 08:56:49											
+HRCOM	HRCOM	HR funds commitment	HR Mittelbindung	2017.07.06 08:56:49											
+HRPAY	HRPAY	HR settlement post.	Buch. HR-Abrechnung	2017.07.06 08:56:49											
+HRPRE	HRPRE	HR funds precommt	HR Mittelvorbindung	2017.07.06 08:56:49											
+HRRES	HRRES	Funds Reservation	Mittelreservierung	2017.07.06 08:56:49											
+HRTIM	HRTIM	Time management post	Buch. Zeitwirtschaft	2017.07.06 08:56:49											
+IBKPF	IBKPF	Document from IDoc	Beleg aus IDOC	2017.07.06 08:56:49											
+IDOC	IDOC	External IDoc doc.	externer Beleg IDoc	2017.07.06 08:56:49											
+ISU	ISU	IS-U billing request	IS-U Fakturaanford.	2017.07.06 08:56:49											
+ISUDR	ISUDR	ISU Agg. Invoice	ISU aggr. Rechnung	2017.07.06 08:56:49											
+J7LR	J7LR	REA Declaration	REA Meldung	2017.07.06 08:56:49											
+JVA	JVA	Joint Venture	Joint Venture	2017.07.06 08:56:49											
+JVAM	JVAM	Joint Venture	Joint Venture	2017.07.06 08:56:49											
+KADO	KADO	Reval. of Act. Pstg	DUV Leistungsbuchung	2017.07.06 08:56:49											
+KFPK	KFPK	Fixed price alloc.	Festpreisverrechnung	2017.07.06 08:56:49											
+KOROP	KOROP	FS-RI Open Items	FS-RI off.Posten	2017.07.06 08:56:49											
+KORUM	KORUM	FS-RI Transfer	FS-RI Umbuchung	2017.07.06 08:56:49											
+LOANS	LOANS	Loans	Darlehen	2017.07.06 08:56:49											
+MKPF	MKPF	Material document	Materialbeleg	2017.07.06 08:56:49											
+MLCU	MLCU	Cumulation fin.stats	Abschluss Kumulation	2017.07.06 08:56:49											
+MLDUV	MLDUV	Mat. Posting Reval.	Materialbuchung DUV	2017.07.06 08:56:49											
+MLHD	MLHD	Material ledger	Material-Ledger	2017.07.06 08:56:49											
+MYDLT	MYDLT	Delta Posting Bal.Sh	Deltabuchung Bilanzb	2017.07.06 08:56:49											
+NFSC	NFSC	Nota Fiscal Brazil	Nota Fiscal Brasil	2017.07.06 08:56:49											
+NFWRI	NFWRI			2017.07.06 08:56:49											
+PAYRQ	PAYRQ	Payment request	Zahlungsanordnung	2017.07.06 08:56:49											
+PCON	PCON	Contract	Kontrakt	2017.07.06 08:56:49											
+PEAC	PEAC	Payment Engine	Payment Engine	2017.07.06 08:56:49											
+PORD	PORD	Purchase order	Bestellung	2017.07.06 08:56:49											
+PRCHG	PRCHG	Price change	Preisänderung	2017.07.06 08:56:49											
+PREQ	PREQ	Purchase requisition	Bestellanforderung	2017.07.06 08:56:49											
+PYMTD	PYMTD	Payment data	Zahlungsdaten	2017.07.06 08:56:49											
+REACC	REACC	Real Estate document	Immobilienbeleg	2017.07.06 08:56:49											
+REACI	REACI	Real Estate Document	Immobilienbeleg	2017.07.06 08:56:49											
+RECOM	RECOM	Real Estate Contract	Immobilienvertrag	2017.07.06 08:56:49											
+RESV	RESV	Material Reservation	Materialreservierung	2017.07.06 08:56:49											
+RETAX	RETAX	Real est. doc. in.tx	Immobilienbeleg Vst.	2017.07.06 08:56:49											
+RMBE	RMBE	SRM Document	SRM Beleg	2017.07.06 08:56:49											
+RMRP	RMRP	Invoice receipt	Rechnungseingang	2017.07.06 08:56:49											
+SLRV	SLRV	Only Special Pur.Ldg	Nur Spez.Ledgr	2017.07.06 08:56:49											
+TBRR	TBRR	Event-Based RevRecog	Eventbas. Erlösreal.	2017.07.06 08:56:49											
+TR-TM	TR-TM	Treasury Management	Treasury-Management	2017.07.06 08:56:49											
+TRAVL	TRAVL	Posting: Travel Exp.	Buchung: Reisekosten	2017.07.06 08:56:49											
+UKPF	UKPF	Rtl revaluation doc.	VK-Wertänd.-Beleg	2017.07.06 08:56:49											
+VBAK	VBAK	Billing document	Faktura	2017.07.06 08:56:49											
+VBRK	VBRK	Billing document	Faktura	2017.07.06 08:56:49											
+VBRR	VBRR	Original Document	Original Document	2017.07.06 08:56:49											
+VZBL	VZBL	Int.doc.in PS	Zinsbeleg im PS	2017.07.06 08:56:49											
+WBRK	WBRK	Vendor Bill.Document	Lieferantenfaktura	2017.07.06 08:56:49											
+WTYD	WTYD	Warranty Claim	Garantieantrag	2017.07.06 08:56:49											

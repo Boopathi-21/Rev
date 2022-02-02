@@ -1,0 +1,11 @@
+LEGACY_SPECPROCUREMENT	SPECPROCUREMENT	PLANT	SPECPROCUREMENT_TXT_GBL	SPECPROCUREMENT_TXT_LCL	DI_TIMESTAMP										
+10	10	1010	Consignment	Konsignation	2017.07.06 08:56:49										
+10	10	1710	Consignment	Konsignation	2017.07.06 08:56:49										
+20	20	1010	External procurement	Fremdbeschaffung	2017.07.06 08:56:49										
+20	20	1710	External procurement	Fremdbeschaffung	2017.07.06 08:56:49										
+30	30	1010	Subcontracting	Lohnbearbeitung	2017.07.06 08:56:49										
+30	30	1710	Subcontracting	Lohnbearbeitung	2017.07.06 08:56:49										
+45	45	1010	Stock transfer from plant to MRP area	Umlagerung von Werk an Dispobereich	2017.07.06 08:56:49										
+45	45	1710	Stock transfer from plant to MRP area	Umlagerung von Werk an Dispobereich	2017.07.06 08:56:49										
+50	50	1010	Phantom assembly	Dummy-Baugruppe	2017.07.06 08:56:49										
+50	50	1710	Phantom assembly	Dummy-Baugruppe	2017.07.06 08:56:49										

@@ -1,0 +1,9 @@
+LEGACY_BUSINESS_PARTNER_TYPE	BUSINESS_PARTNER_TYPE	BUSINESS_PARTNER_TYPE_TXT_GBL	BUSINESS_PARTNER_TYPE_TXT_LCL	DI_TIMESTAMP											
+0001	0001	Partner type 0001	Partnerart 0001	2017.07.06 08:56:49											
+0002	0002	Partner type 0002	Partnerart 0002	2017.07.06 08:56:49											
+0003	0003	Employee	Mitarbeiter	2017.07.06 08:56:49											
+0004	0004	Broker	Makler	2017.07.06 08:56:49											
+9001	9001	Manager	Manager	2017.07.06 08:56:49											
+9002	9002	Sales Representative	Vertriebsrepräsentant	2017.07.06 08:56:49											
+9003	9003	Sales Agent	Vertriebsagent	2017.07.06 08:56:49											
+SRM	SRM	Stakeholder	Stakeholder	2017.07.06 08:56:49											

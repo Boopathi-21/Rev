@@ -1,0 +1,4 @@
+LEGACY_WEIGHTING_OF_CHAR	WEIGHTING_OF_CHAR	WEIGHTING_OF_CHAR_TXT_GBL	WEIGHTING_OF_CHAR_TXT_LCL	DI_TIMESTAMP											
+91	91	Critical characteristic	Kritisches Merkmal	2017.07.06 08:56:49											
+92	92	Major characteristic	Hauptmerkmal	2017.07.06 08:56:49											
+93	93	Minor characteristic	Nebenmerkmal	2017.07.06 08:56:49											

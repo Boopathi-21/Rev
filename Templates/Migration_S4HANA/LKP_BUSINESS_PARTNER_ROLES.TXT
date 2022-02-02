@@ -1,0 +1,114 @@
+LEGACY_BP_ROLES	APP_OBJECT	BP_ROLES	BLOCK_REASON_TXT_GBL	BLOCK_REASON_TXT_LCL	DI_TIMESTAMP										
+000000	BUPA	000000	Business Partner (General)	Geschäftspartner allgemein	2018.06.19 05:33:47										
+BBP003	BUPA	BBP003	Plant	Werk	2018.06.19 05:33:47										
+BKK010	BUPA	BKK010	Account Holder	Kontoinhaber	2018.06.19 05:33:47										
+BKK020	BUPA	BKK020	Authorized Drawer	Verfügungsberechtigter	2018.06.19 05:33:47										
+BKK030	BUPA	BKK030	Bank Statement Recipient	Kontoauszugsempfänger	2018.06.19 05:33:47										
+BKK200	BUPA	BKK200	Account Maintenance Officer	Kontoführer	2018.06.19 05:33:47										
+BPTM02	BUPA	BPTM02	Extended BP Data for TM (Carrier)	Erweiterte GP-Daten für TM (Spediteur)	2018.06.19 05:33:47										
+BUP000	BUPA	BUP000	Obsolete	obsolet	2018.06.19 05:33:47										
+BUP001	BUPA	BUP001	Contact Person	Ansprechpartner	2018.06.19 05:33:47										
+BUP002	BUPA	BUP002	Prospect	Interessent	2018.06.19 05:33:47										
+BUP003	BUPA	BUP003	Employee	Mitarbeiter	2018.06.19 05:33:47										
+BUP004	BUPA	BUP004	Organizational Unit	Organisationseinheit	2018.06.19 05:33:47										
+BUP005	BUPA	BUP005	Internet User	Internetbenutzer	2018.06.19 05:33:47										
+CACSA1	BUPA	CACSA1	Commission Contract Partner	Provisionsvertragspartner	2018.06.19 05:33:47										
+CACSA2	BUPA	CACSA2	Commission Clerk	Provisionssachbearbeiter	2018.06.19 05:33:47										
+CACSA3	BUPA	CACSA3	Agents	Vermittler	2018.06.19 05:33:47										
+CBIH10	BUPA	CBIH10	External Person	Externe Person	2018.06.19 05:33:47										
+CBIH20	BUPA	CBIH20	Authority	Behörde	2018.06.19 05:33:47										
+CMS001	BUPA	CMS001	CMS Collateral Partner	Sicherheitenpartner CMS	2018.06.19 05:33:47										
+FLCU00	BUPA	FLCU00	Customer/Vendor Integration: FI Customer	Debitor-/Kreditorintegration: Debitor	2018.06.19 05:33:47										
+FLCU01	BUPA	FLCU01	Customer/Vendor Integration: Customer	Debitor-/Kreditorintegration: Kunde	2018.06.19 05:33:47										
+FLVN00	BUPA	FLVN00	Customer/Vendor Integration: FI Vendor	Debitor-/Kreditorintegration: Kreditor	2018.06.19 05:33:47										
+FLVN01	BUPA	FLVN01	Customer/Vendor Integration: Vendor	Debitor-/Kreditorintegration: Lieferant	2018.06.19 05:33:47										
+FS0001	BUPA	FS0001	FS - Maximum Number of Characteristic Values	Financial Services - Maximalausprägung	2018.06.19 05:33:47										
+FS0002	BUPA	FS0002	Financial Services - Minimum Value	Financial Services - Minimalausprägung	2018.06.19 05:33:47										
+FS0003	BUPA	FS0003	Financial Services - Differentiation	Financial Services - Differenzierung	2018.06.19 05:33:47										
+FS0004	BUPA	FS0004	Financial Services - Company Code	Financial Services - Buchungskreis	2018.06.19 05:33:47										
+FS0005	BUPA	FS0005	Financial Services - Direct Input	Financial Services - Direct Input	2018.06.19 05:33:47										
+FS0006	BUPA	FS0006	Financial Services - Regulatory Reporting	Financial Services - Meldewesen	2018.06.19 05:33:47										
+FS0KNE	BUPA	FS0KNE	Business Partner Borrower Entity	Geschäftspartner Kreditnehmereinheit	2018.06.19 05:33:47										
+FTB000	BUPA	FTB000	Business Partner with Company Code	Geschäftspartner mit Buchungskreis	2018.06.19 05:33:47										
+HEA010	BUPA	HEA010	Doctor	Arzt	2018.06.19 05:33:47										
+HEA020	BUPA	HEA020	External Physician	Externer Arzt	2018.06.19 05:33:47										
+HEA030	BUPA	HEA030	Health Center	Medizin. Zentrum	2018.06.19 05:33:47										
+HEA040	BUPA	HEA040	Laboratory	Labor	2018.06.19 05:33:47										
+HEA050	BUPA	HEA050	External Company	Externe Firma	2018.06.19 05:33:47										
+HR1000	BUPA	HR1000	Human Resources Payee	Human Resources Zahlungsempfänger	2018.06.19 05:33:47										
+IHB010	BUPA	IHB010	Account Holder In-House Cash	Kontoinhaber Inhouse Cash	2018.06.19 05:33:47										
+LM0001	BUPA	LM0001	Processor	Ausführender	2018.06.19 05:33:47										
+PSSP01	BUPA	PSSP01	Sponsor	Förderer	2018.06.19 05:33:47										
+RCFAGY	BUPA	RCFAGY	Agency	Agentur	2018.06.19 05:33:47										
+RCFBRA	BUPA	RCFBRA	Branch	Niederlassung	2018.06.19 05:33:47										
+RFMV01	BUPA	RFMV01			2018.06.19 05:33:47										
+RTP010	BUPA	RTP010	Retirement Plan Beneficiary	Beguenstigster des Pensionsplans	2018.06.19 05:33:47										
+RTP020	BUPA	RTP020	Grantor of an ESA	Geber eines Bildungssparplans	2018.06.19 05:33:47										
+RTP030	BUPA	RTP030	Responsible Individual for an ESA	Verantwortlicher fuer Bildungssparplan	2018.06.19 05:33:47										
+RTP050	BUPA	RTP050	Deceased Holder of a Retirement Plan	Verstorbener Inhaber eines Pensionsplans	2018.06.19 05:33:47										
+SLLSTL	BUPA	SLLSTL	Clerk	Sachbearbeiter	2018.06.19 05:33:47										
+TM0001	BUPA	TM0001	Driver	Fahrer	2018.06.19 05:33:47										
+RTP040	BUPA	RTP040	Successor Responsible Individual for an ESA	Rechtsnachfolger des Verantwortl. eines Bld.sparp	2018.06.19 05:33:47										
+TR0100	BUPA	TR0100	Obsolete: Main Loan Partner	Obsolet:Hauptdarlehenspartner	2018.06.19 05:33:47										
+TR0101	BUPA	TR0101	Obsolete: Borrower	Obsolet:Darlehensnehmer	2018.06.19 05:33:47										
+TR0110	BUPA	TR0110	Obsolete: Prospect	Obsolet:Interessent	2018.06.19 05:33:47										
+TR0113	BUPA	TR0113	Obsolete: Credit Standing Check	Obsolet:Bonitätsprüfung	2018.06.19 05:33:47										
+TR0115	BUPA	TR0115	Obsolete: Special Arrangement	Obsolet:Sondervereinbarung	2018.06.19 05:33:47										
+TR0120	BUPA	TR0120	Obsolete: Authorized Drawer	Obsolet:Verfügungsberechtigter	2018.06.19 05:33:47										
+TR0121	BUPA	TR0121	Obsolete: Other Loan Partner with Customer Account	Obsolet:sonst. debit. Darlehenspartner	2018.06.19 05:33:47										
+TR0150	BUPA	TR0150	Obsolete: Issuer	Obsolet:Emittent	2018.06.19 05:33:47										
+TR0151	BUPA	TR0151	Obsolete: Counterparty	Obsolet:Kontrahent	2018.06.19 05:33:47										
+TR0152	BUPA	TR0152	Obsolete: Depository Bank	Obsolet:Depotbank	2018.06.19 05:33:47										
+TR0153	BUPA	TR0153	Obsolete: Paying Bank	Obsolet:Zahlbank	2018.06.19 05:33:47										
+TR0154	BUPA	TR0154	Obsolete: Beneficiary	Obsolet:Begünstigter	2018.06.19 05:33:47										
+TR0160	BUPA	TR0160	Obsolete: Ultimate Borrower	Obsolet:Enddarlehensnehmer	2018.06.19 05:33:47										
+TR0200	BUPA	TR0200	Obsolete: Guarantor	Obsolet:Bürge	2018.06.19 05:33:47										
+TR0202	BUPA	TR0202	Obsolete: Alternative Payer	Obsolet:Abweichender Regulierer	2018.06.19 05:33:47										
+TR0203	BUPA	TR0203	Obsolete: Recoverer	Obsolet:Beitreiber	2018.06.19 05:33:47										
+TR0600	BUPA	TR0600	Obsolete: Master Tenant with Customer Account	Obsolet:Debitorischer Hauptmieter	2018.06.19 05:33:47										
+TR0601	BUPA	TR0601	Obsolete: Tenant (Without Customer Account)	Obsolet:Mieter (nichtdebitorisch)	2018.06.19 05:33:47										
+TR0602	BUPA	TR0602	Obsolete: Landlord with a Vendor Account	Obsolet:Kreditorischer Vermieter	2018.06.19 05:33:47										
+TR0603	BUPA	TR0603	Obsolete: Partner with a Customer Account	Obsolet:Debitorischer Vertragspartner	2018.06.19 05:33:47										
+TR0604	BUPA	TR0604	Obsolete: Partner with a Vendor Account	Obsolet:Kreditorischer Vertragspartner	2018.06.19 05:33:47										
+TR0610	BUPA	TR0610	Obsolete: Tenant External Comparative Apartment	Obsolet:Mieter ext. Vergleichswohnung	2018.06.19 05:33:47										
+TR0622	BUPA	TR0622	Obsolete: Subsidizer	Obsolet:Zuschußgeber	2018.06.19 05:33:47										
+TR0624	BUPA	TR0624	Obsolete: Subsidizer (with Customer Account)	Obsolet:Zuschußgeber debit.	2018.06.19 05:33:47										
+TR0630	BUPA	TR0630	Obsolete: Court	Obsolet:Gericht	2018.06.19 05:33:47										
+TR0635	BUPA	TR0635	Obsolete: State Central Bank	Obsolet:Landeszentralbank	2018.06.19 05:33:47										
+TR0636	BUPA	TR0636	Obsolete: Bank for Rent Deposit	Obsolet:Bank für Kaution	2018.06.19 05:33:47										
+TR0640	BUPA	TR0640	Obsolete: Applicants	Obsolet:Bewerber	2018.06.19 05:33:47										
+TR0641	BUPA	TR0641	Obsolete: Co-Applicants	Obsolet:Mitbewerber	2018.06.19 05:33:47										
+TR0645	BUPA	TR0645	Obsolete: Authorized Occupant	Obsolet:Belegungsberechtigter	2018.06.19 05:33:47										
+TR0646	BUPA	TR0646	Obsolete: Authorized to Suggest Tenant	Obsolet:Vorschlagsberechtigter	2018.06.19 05:33:47										
+TR0655	BUPA	TR0655	Obsolete: Guarantor	Obsolet:Sicherheitengeber	2018.06.19 05:33:47										
+TR0700	BUPA	TR0700	Obsolete: Policyholder	Obsolet:Versicherungsnehmer	2018.06.19 05:33:47										
+TR0701	BUPA	TR0701	Obsolete: Insurer	Obsolet:Versicherungsträger	2018.06.19 05:33:47										
+TR0702	BUPA	TR0702	Obsolete: Person Insured	Obsolet:Versicherter	2018.06.19 05:33:47										
+TR0703	BUPA	TR0703	Obsolete: Credit Institute	Obsolet:Kreditinstitut	2018.06.19 05:33:47										
+TR0800	BUPA	TR0800	Obsolete: Customer/Vendor Integration: FI Customer	Obsolete:Debitor-/Kreditorintegration: Debitor	2018.06.19 05:33:47										
+TR0801	BUPA	TR0801	Obsolete: Broker	Obsolet:Makler	2018.06.19 05:33:47										
+TR0802	BUPA	TR0802	Obsolete: Notary	Obsolet:Notar	2018.06.19 05:33:47										
+TR0803	BUPA	TR0803	Obsolete: Property Developer	Obsolet:Bauträger	2018.06.19 05:33:47										
+TR0804	BUPA	TR0804	Obsolete: Primary Contractor	Obsolet:Generalunternehmer	2018.06.19 05:33:47										
+TR0805	BUPA	TR0805	Obsolete: Primary Receiver	Obsolet:Generalübernehmer	2018.06.19 05:33:47										
+TR0806	BUPA	TR0806	Obsolete: Administrator	Obsolet:Verwalter	2018.06.19 05:33:47										
+TR0807	BUPA	TR0807	Obsolete: Technology	Obsolet:Technik	2018.06.19 05:33:47										
+TR0808	BUPA	TR0808	Obsolete: Janitor	Obsolet:Hausmeister	2018.06.19 05:33:47										
+TR0809	BUPA	TR0809	Obsolete: Architect	Obsolet:Architekt	2018.06.19 05:33:47										
+TR0810	BUPA	TR0810	Obsolete: Land Registry	Obsolet:Grundbuchamt	2018.06.19 05:33:47										
+TR0815	BUPA	TR0815	Obsolete: Appraiser	Obsolet:Gutachter	2018.06.19 05:33:47										
+TR0820	BUPA	TR0820	Obsolete: Survey Office	Obsolet:Katasteramt	2018.06.19 05:33:47										
+TR0821	BUPA	TR0821	Obsolete: Survey Office	Obsolet:Katasteramt	2018.06.19 05:33:47										
+TR0822	BUPA	TR0822	Obsolete: Creditor	Obsolet:Gläubiger	2018.06.19 05:33:47										
+TR0850	BUPA	TR0850	Obsolete: Correspondence Partner (Private)	Obsolet:Korrespondenzpartner privat	2018.06.19 05:33:47										
+TR0860	BUPA	TR0860	Obsolete: Correspondence Partner (Business)	Obsolet:Korrespondenzpartner geschäftl	2018.06.19 05:33:47										
+TR0990	BUPA	TR0990	Obsolete: Loan Contract Clerk	Obsolet:Sachbearbeiter Darl. Vertr.	2018.06.19 05:33:47										
+TR0991	BUPA	TR0991	Obsolete: Loan Rollover Clerk	Obsolet:Sachbearbeiter Darl. Prol.	2018.06.19 05:33:47										
+TR0992	BUPA	TR0992	Obsolete: Loan Accounting Clerk	Obsolet:Sachbearbeiter Darl. Buchh.	2018.06.19 05:33:47										
+TR0997	BUPA	TR0997	Obsolete: Service Charge Settlement Clerk	Obsolet:Sachbearbeiter NKA	2018.06.19 05:33:47										
+TR0998	BUPA	TR0998	Obsolete: Clerk	Obsolet:Sachbearbeiter	2018.06.19 05:33:47										
+TXS001	BUPA	TXS001	Investor	Investor	2018.06.19 05:33:47										
+UDM000	BUPA	UDM000	Business Partner Collections Management	Geschäftspartner Collections Management	2018.06.19 05:33:47										
+UKM000	BUPA	UKM000	Business Partner Credit Management	Geschäftspartner Kreditmanagement	2018.06.19 05:33:47										
+VLC001	BUPA	VLC001	End Customer	Endkunde	2018.06.19 05:33:47										
+WFM001	BUPA	WFM001	Resource	Ressource	2018.06.19 05:33:47										

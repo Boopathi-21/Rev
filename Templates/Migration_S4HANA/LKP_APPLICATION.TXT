@@ -1,0 +1,7 @@
+LEGACY_APPLICATION	APPLICATION	APPLICATION_TXT_GBL	APPLICATION_TXT_LCL	DI_TIMESTAMP											
+BEST	BEST	Inventory Management	Bestandsführung	2017.07.06 08:56:49											
+INST	INST	Plant Maintenance	Instandhaltung	2017.07.06 08:56:49											
+PC01	PC01	Costing	Kalkulation	2017.07.06 08:56:49											
+PI01	PI01	Process Manufacturing	Prozeßfertigung	2017.07.06 08:56:49											
+PP01	PP01	Production - General	Fertigung - allgemein	2017.07.06 08:56:49											
+SD01	SD01	Sales and Distribution	Vertrieb	2017.07.06 08:56:49											

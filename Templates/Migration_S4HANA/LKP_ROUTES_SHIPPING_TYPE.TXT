@@ -1,0 +1,6 @@
+LEGACY_SHIPPING_TYPE	SHIPPING_TYPE	SHIPPING_TYPE_TXT_GBL	SHIPPING_TYPE_TXT_LCL	DI_TIMESTAMP											
+01	01	Truck	LKW	2017.07.06 08:56:49											
+02	02	Mail	Post	2017.07.06 08:56:49											
+03	03	Rail	Zug	2017.07.06 08:56:49											
+04	04	Sea	Schiff	2017.07.06 08:56:49											
+05	05	Airplane	Flugzeug	2017.07.06 08:56:49											

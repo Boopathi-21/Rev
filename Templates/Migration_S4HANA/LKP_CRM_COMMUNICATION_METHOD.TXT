@@ -1,0 +1,15 @@
+LEGACY_COMM_METHOD	COMM_METHOD	COMM_METHOD_TXT_GBL	COMM_METHOD_TXT_LCL	DI_TIMESTAMP											
+RML	RML	Remote Mail	Remote Mail	2017.07.06 08:56:49											
+SSF	SSF	Secure Store & Forw.	Secure Store & Forw.	2017.07.06 08:56:49											
+TEL	TEL	Telephone	Telefon	2017.07.06 08:56:49											
+TLX	TLX	Telex	Telex	2017.07.06 08:56:49											
+TTX	TTX	Teletex	Teletex	2017.07.06 08:56:49											
+URI	URI	URL (Homepage)	URL (Homepage)	2017.07.06 08:56:49											
+VIS	VIS	Sales call	Besuch	2017.07.06 08:56:49											
+X40	X40	X.400	X.400	2017.07.06 08:56:49											
+FAX	FAX	Fax	Fax	2017.07.06 08:56:49											
+INT	INT	E-Mail	E-Mail	2017.07.06 08:56:49											
+LET	LET	Post (letter)	Postsendung (Brief)	2017.07.06 08:56:49											
+PAG	PAG	Pager/SMS	Pager/SMS	2017.07.06 08:56:49											
+PRT	PRT	Printer	Drucker	2017.07.06 08:56:49											
+RFC	RFC	Remote Function Call	Remote Function Call	2017.07.06 08:56:49											

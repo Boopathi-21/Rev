@@ -1,0 +1,9 @@
+LEGACY_NAME_SUPPLEMENT	NAME_SUPPLEMENT	NAME_SUPPLEMENT_TXT_GBL	NAME_SUPPLEMENT_TXT_LCL	DI_TIMESTAMP											
+0001	0001	Count	Graf	2017.07.06 08:56:49											
+0002	0002	Countess	Gräfin	2017.07.06 08:56:49											
+0003	0003	Baron	Baron	2017.07.06 08:56:49											
+0004	0004	Baroness	Baronin	2017.07.06 08:56:49											
+0005	0005	Earl	Earl	2017.07.06 08:56:49											
+0006	0006	Sir	Sir	2017.07.06 08:56:49											
+0007	0007	Prince	Prinz	2017.07.06 08:56:49											
+0008	0008	Princess	Prinzessin	2017.07.06 08:56:49											

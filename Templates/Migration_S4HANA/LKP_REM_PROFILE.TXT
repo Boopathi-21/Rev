@@ -1,0 +1,2 @@
+LEGACY_REM_PROFILE	REM_PROFILE	REM_PROFILE_TXT_GBL	REM_PROFILE_TXT_LCL	DI_TIMESTAMP											
+0002	0002	F. backflsh w. act. Prel.cost.	Endrückm. mit Ist-Vorkalkulat.	2017.07.06 08:56:49											

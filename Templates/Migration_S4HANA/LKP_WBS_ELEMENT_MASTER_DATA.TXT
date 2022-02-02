@@ -1,0 +1,13 @@
+LEGACY_WBS_ELEMENT	WBS_ELEMENT	WBS_ELEMENT_TXT_GBL	WBS_ELEMENT_TXT_LCL	DI_TIMESTAMP											
+GJ002A1	GJ002A1	Produktontwikkeling	Produktontwikkeling	2017.07.25 03:03:05											
+GJ002A2	GJ002A2	Produktontwikkeling	Produktontwikkeling	2017.07.25 03:03:05											
+GJ002A3	GJ002A3	Produktontwikkeling	Produktontwikkeling	2017.07.25 03:03:05											
+GJ002A3-1	GJ002A3-1	Produktontwikkeling	Produktontwikkeling	2017.07.25 03:03:05											
+GJ002A3-2	GJ002A3-2	Produktontwikkeling	Produktontwikkeling	2017.07.25 03:03:05											
+GJ002A3-3	GJ002A3-3	Produktontwikkeling	Produktontwikkeling	2017.07.25 03:03:05											
+GJ002A3-4	GJ002A3-4	Produktontwikkeling	Produktontwikkeling	2017.07.25 03:03:05											
+GJ002A3-5	GJ002A3-5	Produktontwikkeling	Produktontwikkeling	2017.07.25 03:03:05											
+GJ002A3-6	GJ002A3-6	Produktontwikkeling	Produktontwikkeling	2017.07.25 03:03:05											
+GJ002A3-7	GJ002A3-7	Produktontwikkeling	Produktontwikkeling	2017.07.25 03:03:05											
+GJ002A3-8	GJ002A3-8	Produktontwikkeling	Produktontwikkeling	2017.07.25 03:03:05											
+GJ002A3-9	GJ002A3-9	Produktontwikkeling	Produktontwikkeling	2017.07.25 03:03:05											

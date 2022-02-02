@@ -1,0 +1,3 @@
+LEGACY_PROCUREMENT_RULE	PROCUREMENT_RULE	PROCUREMENT_RULE_TXT_GBL	PROCUREMENT_RULE_TXT_LCL	DI_TIMESTAMP											
+ 	 	Order as required	beliebig oft ordern	2017.07.06 08:56:49											
+1	1	One external PO	einmal extern best.	2017.07.06 08:56:49											

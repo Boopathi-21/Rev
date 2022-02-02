@@ -1,0 +1,12 @@
+LEGACY_SALES_DISTRICT	SALES_DISTRICT	SALES_DISTRICT_TXT_GBL	SALES_DISTRICT_TXT_LCL	DI_TIMESTAMP											
+DE0001	DE0001	Northern Germany	Norddeutschland	2018.06.19 05:33:47											
+DE0002	DE0002	Southern Germany	Süddeutschland	2018.06.19 05:33:47											
+DE0003	DE0003	Western Germany	Westdeutschland	2018.06.19 05:33:47											
+DE0004	DE0004	Eastern Germany	Ostdeutschland	2018.06.19 05:33:47											
+DE0005	DE0005	Middle Germany	Mitteldeutschland	2018.06.19 05:33:47											
+US0001	US0001	Pacific Northwest	Pazifik/Nordwesten	2018.06.19 05:33:47											
+US0002	US0002	Southwest	Südwesten	2018.06.19 05:33:47											
+US0003	US0003	Southeast	Südosten	2018.06.19 05:33:47											
+US0004	US0004	Northeast	Nordosten	2018.06.19 05:33:47											
+US0005	US0005	Rockies	Rocky Mountains	2018.06.19 05:33:47											
+US0006	US0006	Midwest	Mittlerer Westen	2018.06.19 05:33:47											

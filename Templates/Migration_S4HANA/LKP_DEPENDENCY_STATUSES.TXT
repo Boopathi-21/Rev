@@ -1,0 +1,4 @@
+LEGACY_DEPENDENCY_STATUS	DEPENDENCY_STATUS	DEPENDENCY_STATUS_TXT_GBL	DEPENDENCY_STATUS_TXT_LCL	DI_TIMESTAMP											
+1	1	Released	Freigabe	2017.07.06 08:56:49											
+2	2	In Preparation	In Erstellung	2017.07.06 08:56:49											
+3	3	Locked	Gesperrt	2017.07.06 08:56:49											

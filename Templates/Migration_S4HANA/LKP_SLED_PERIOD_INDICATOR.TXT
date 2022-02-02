@@ -1,0 +1,5 @@
+LEGACY_PERIOD_IND	PERIOD_IND	PERIOD_IND_TXT_GBL	PERIOD_IND_TXT_LCL	DI_TIMESTAMP											
+ 	 	Day	Tag	2017.07.06 08:56:49											
+1	1	Week	Woche	2017.07.06 08:56:49											
+2	2	Month	Monat	2017.07.06 08:56:49											
+3	3	Year	Jahr	2017.07.06 08:56:49											

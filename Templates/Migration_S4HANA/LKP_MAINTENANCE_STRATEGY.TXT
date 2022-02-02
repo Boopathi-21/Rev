@@ -1,0 +1,4 @@
+LEGACY_MPLA_STRATEGY	MPLA_STRATEGY	MPLA_STRATEGY_TXT_LCL		DI_TIMESTAMP											
+EAM_24	EAM_24	Mechanical Inspection 1		2017.08.08 10:31:43											
+EAM_70	EAM_70	Scheduling by TIME		2017.08.08 10:31:43											
+EAM_80	EAM_80	Scheduling by KEY DATE		2017.08.08 10:31:43											

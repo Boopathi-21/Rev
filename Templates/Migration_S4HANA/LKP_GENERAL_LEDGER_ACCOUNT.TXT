@@ -1,0 +1,836 @@
+LEGACY_GL_ACCOUNT_NUMBER	GL_ACCOUNT_NUMBER	CHART_OF_ACCOUNTS	GL_ACCOUNT_NUMBER_TXT_GBL	GL_ACCOUNT_NUMBER_TXT_LCL	DI_TIMESTAMP										
+0000121200	0000121200	YCOA	test		2018.06.19 05:33:47										
+0010010000	0010010000	YCOA	Petty Cash	Handkasse	2018.06.19 05:33:47										
+0010020000	0010020000	YCOA	Petty Cash Journal - postings automatic only	Kassenbuch - Buchungen nur automatisch	2018.06.19 05:33:47										
+0011001000	0011001000	YCOA	Bank 1 - Bank (Main) Account	Bank 1 - Bankhauptkonto	2018.06.19 05:33:47										
+0011001010	0011001010	YCOA	Bank 1 - Cash Payment	Bank 1 - Barzahlung	2018.06.19 05:33:47										
+0011001020	0011001020	YCOA	Bank 1 - Bank Transfer (Domestic/SEPA/Foreign)	Bank 1 - Überweisung (In-/Ausland/SEPA)	2018.06.19 05:33:47										
+0011001030	0011001030	YCOA	Bank 1 - Other Interim Transfers	Bank 1 - Sonstige Zwischenbuchungen	2018.06.19 05:33:47										
+0011001040	0011001040	YCOA	Bank 1 - Direct Debit	Bank 1 - Lastschrift	2018.06.19 05:33:47										
+0011001045	0011001045	YCOA	Bank 1 - Returns	Bank 1 - Rückläufer	2018.06.19 05:33:47										
+0011001050	0011001050	YCOA	Bank 1 - Checks Out	Bank 1 - Scheckausgang	2018.06.19 05:33:47										
+0011001055	0011001055	YCOA	Bank 1 - BoE Out	Bank 1 - Wechselausgang	2018.06.19 05:33:47										
+0011001060	0011001060	YCOA	Bank 1 - Checks In	Bank 1 - Scheckeingang	2018.06.19 05:33:47										
+0011001065	0011001065	YCOA	Bank 1 - BoE Collection	Bank 1 - Wechselinkasso	2018.06.19 05:33:47										
+0011001066	0011001066	YCOA	Bank 1 - BoE Discounting	Bank 1 - Wechseldiskontierung	2018.06.19 05:33:47										
+0011001070	0011001070	YCOA	Bank 1 - Check Clearing Account	Bank 1 - Scheckverrechnung	2018.06.19 05:33:47										
+0011001080	0011001080	YCOA	Bank 1 - Cash Receipt	Bank 1 - Bareinzahlung	2018.06.19 05:33:47										
+0011001090	0011001090	YCOA	Bank 1 - Technical Account for Bank Statement	Bank 1 - Technisches Konto für Kontoauszug	2018.06.19 05:33:47										
+0011001099	0011001099	YCOA	Bank 1 - Foreign Currency Adjustment	Bank 1 - Korrekturkonto	2018.06.19 05:33:47										
+0011001100	0011001100	YCOA	Bank 1 - Bank (Main) Account Foreign Currency	Bank 1 - (Haupt-)Bankkonto Fremdwährung	2018.06.19 05:33:47										
+0011001200	0011001200	YCOA	Bank 1 Bank (Lockbox) Account	Bank 1 Bankkonto (Lockbox-Konto)	2018.06.19 05:33:47										
+0011002000	0011002000	YCOA	Bank 2 - Bank (Main) Account	Bank 2 - Bankhauptkonto	2018.06.19 05:33:47										
+0011002010	0011002010	YCOA	Bank 2 - Cash Payment	Bank 2 - Barzahlung	2018.06.19 05:33:47										
+0011002030	0011002030	YCOA	Bank 2 - Other Interim Transfers	Bank 2 - Sonstige Zwischenbuchungen	2018.06.19 05:33:47										
+0011002020	0011002020	YCOA	Bank 2 - Bank Transfer (Domestic/SEPA/Foreign)	Bank 2 - Überweisung (In-/Ausland/SEPA)	2018.06.19 05:33:47										
+0011002040	0011002040	YCOA	Bank 2 - Direct Debit	Bank 2 - Lastschrift	2018.06.19 05:33:47										
+0011002045	0011002045	YCOA	Bank 2 - Returns	Bank 2 - Rückläufer	2018.06.19 05:33:47										
+0011002050	0011002050	YCOA	Bank 2 - Checks Out	Bank 2 - Scheckausgang	2018.06.19 05:33:47										
+0011002055	0011002055	YCOA	Bank 2 - BoE Out	Bank 2 - Wechselausgang	2018.06.19 05:33:47										
+0011002060	0011002060	YCOA	Bank 2 - Checks In	Bank 2 - Scheckeingang	2018.06.19 05:33:47										
+0011002065	0011002065	YCOA	Bank 2 - BoE Collection	Bank 2 - Wechselinkasso	2018.06.19 05:33:47										
+0011002066	0011002066	YCOA	Bank 2 - BoE Discounting	Bank 2 - Wechseldiskontierung	2018.06.19 05:33:47										
+0011002067	0011002067	YCOA	Bank2 - BoE Foreiting (AE)	Bank 2 - Wechsel Forfaitierung (RAP)	2018.06.19 05:33:47										
+0011002070	0011002070	YCOA	Bank 2 - Check Clearing Account	Bank 2 - Scheckverrechnung	2018.06.19 05:33:47										
+0011002080	0011002080	YCOA	Bank 2 - Cash Receipt	Bank 2 - Bareinzahlung	2018.06.19 05:33:47										
+0011002090	0011002090	YCOA	Bank 2 - Technical Account for Bank Statement	Bank 2 - Technisches Konto für Kontoauszug	2018.06.19 05:33:47										
+0011002099	0011002099	YCOA	Bank 2 - Foreign Currency Adjustment	Bank 2 - Korrekturkonto	2018.06.19 05:33:47										
+0011008000	0011008000	YCOA	Bank 3 - Digital Payments Acquirer Bank	Bank 3 - digitale Zahlungen - Käuferbank	2018.06.19 05:33:47										
+0011008030	0011008030	YCOA	Bank 3 - Digital Payments Transfer Account	Bank 3 - digitale Zahlungen - Konto für Transfer	2018.06.19 05:33:47										
+0011008070	0011008070	YCOA	Bank 3 - Digital Payments Acquirer Clrng (Stlmnt)	Bank 3 - digit. Zahlungen - Verrech. Käufer (Abr.)	2018.06.19 05:33:47										
+0011008099	0011008099	YCOA	Bank 3 - Foreign Currency Adjustment	Bank 3 - Korrekturkonto	2018.06.19 05:33:47										
+0011009055	0011009055	YCOA	Bank 1 BoE Out (FR)	Bank 1 - Wechselausgang (FR)	2018.06.19 05:33:47										
+0011009100	0011009100	YCOA	Bills of Exchange Collection	Wechsel-Inkasso	2018.06.19 05:33:47										
+0011009200	0011009200	YCOA	Bills of Exchange Discounting	Wechsel-Diskontierung	2018.06.19 05:33:47										
+0011009900	0011009900	YCOA	BoE Payable - Clearing	Schuldwechsel - Verrechnung	2018.06.19 05:33:47										
+0011999000	0011999000	YCOA	Bank 4 - External Payments Account	Bank 4 - Konto für externe Zahlungen	2018.06.19 05:33:47										
+0011999030	0011999030	YCOA	Bank 4 - External Payments Clearing Account	Bank 4 - Verrechnungskonto für externe Zahlungen	2018.06.19 05:33:47										
+0011999099	0011999099	YCOA	Bank 4 - Foreign Currency Adjustment	Bank 4 - Korrekturkonto	2018.06.19 05:33:47										
+0012010000	0012010000	YCOA	Short Term Investments	Kurzfristige Investitionen	2018.06.19 05:33:47										
+0012100000	0012100000	YCOA	Receivables Domestic	Forderungen Inland	2018.06.19 05:33:47										
+0012100100	0012100100	YCOA	Receivables Domestic - One Time Accounts	Forderungen Inland - CpD-Konten	2018.06.19 05:33:47										
+0012101000	0012101000	YCOA	Receivables Domestic due > 1 Year	Forderungen Inland mit Restlaufzeit > 1 Jahr	2018.06.19 05:33:47										
+0012102000	0012102000	YCOA	Receivables Domestic Adjustments	Berichtigungen Forderungen Inland	2018.06.19 05:33:47										
+0012110000	0012110000	YCOA	Other Down Payments Made Current Assets	Sonstige geleistete Anzahlungen auf Umlaufvermögen	2018.06.19 05:33:47										
+0012110100	0012110100	YCOA	Down Payments Made due > 1 Year	Geleistete Anzahlungen fällig > 1 Jahr	2018.06.19 05:33:47										
+0012111000	0012111000	YCOA	Input Tax Clrg-other Down Pyts Made for Curr. Asts	Vorsteuer-Verr. sonst. gel. Anzahlung Umlaufverm.	2018.06.19 05:33:47										
+0012112000	0012112000	YCOA	Down Payments made for Inventory	Geleistete Anzahlungen für Vorräte	2018.06.19 05:33:47										
+0012113000	0012113000	YCOA	Input Tax Clearing Inventory Down Payments made	VST-Verrechnung Anzahlung Vorräte	2018.06.19 05:33:47										
+0012119000	0012119000	YCOA	Down Payment Requests Vendors	Anzahlungsanforderungen Kreditoren	2018.06.19 05:33:47										
+0012119200	0012119200	YCOA	Adjustment Account Vendor Down Payments	Korrekturkonto geleistete Kundenanzahlungen UV	2018.06.19 05:33:47										
+0012120000	0012120000	YCOA	Receivables Foreign	Forderungen Ausland	2018.06.19 05:33:47										
+0012120100	0012120100	YCOA	Receivables Foreign - One Time Accounts	Forderungen Ausland - CpD-Konten	2018.06.19 05:33:47										
+0012121000	0012121000	YCOA	Receivables Foreign due > 1 Year	Forderungen Ausland mit Restlaufzeit > 1 Jahr	2018.06.19 05:33:47										
+0012122000	0012122000	YCOA	Receivables Foreign Adjustments	Berichtigungen Forderungen Ausland	2018.06.19 05:33:47										
+0012200100	0012200100	YCOA	Lease Receivables - Buildings (ROU)	Leasingforderungen - Gebäude (ROU)	2018.06.19 05:33:47										
+0012200300	0012200300	YCOA	Lease Receivables - Motor Vehicles (ROU)	Leasingforderungen - Fuhrpark (ROU)	2018.06.19 05:33:47										
+0012300000	0012300000	YCOA	Receivables affiliated Companies	Forderungen an verbundene Unternehmnen	2018.06.19 05:33:47										
+0012200000	0012200000	YCOA	Lease Receivables - Land & Land Improvements (ROU)	Leasingforder. - Grundstück u. Erschließung. (ROU)	2018.06.19 05:33:47										
+0012200200	0012200200	YCOA	Lease Receivables - Machinery & Equipment (ROU)	Leasingforder. - techn. Anlagen u. Maschinen (ROU)	2018.06.19 05:33:47										
+0012200400	0012200400	YCOA	Lease Receivables - Office Equipment (ROU)	Leasingforder. - Betriebs-/Geschäftsausstat. (ROU)	2018.06.19 05:33:47										
+0012200500	0012200500	YCOA	Lease Receivables - Furniture and Fixtures (ROU)	Leasingforderungen - Büroeinrichtung (ROU)	2018.06.19 05:33:47										
+0012200600	0012200600	YCOA	Lease Receivables-Compt Hardwr and Eqpmt(ROU)	Leasingford.- Computer-Hardware/-Ausstattung (ROU)	2018.06.19 05:33:47										
+0012301000	0012301000	YCOA	Receivables affiliated Companies > 1 Year	Forderungen verb. Unternehmen Restlaufz. > 1 Jahr	2018.06.19 05:33:47										
+0012302000	0012302000	YCOA	Receivables affiliated Companies Adjustments	Berichtigungen Forderungen verbundene Unternehmen	2018.06.19 05:33:47										
+0012303000	0012303000	YCOA	Receivables vs affil. Companies (no recon acct)	Forderungen geg. verb. Untern. (kein Abstimmkonto)	2018.06.19 05:33:47										
+0012400000	0012400000	YCOA	Allowance for Doubtful Receivables	Zweifelhafte Forderungen	2018.06.19 05:33:47										
+0012401000	0012401000	YCOA	Individual Value Adjustments for Receivables	Einzelwertberichtigungen zu Forderungen	2018.06.19 05:33:47										
+0012401100	0012401100	YCOA	Allowance for Doubtful Receivables(Valuation)	Zweifelhafte Forderungen (Bewertung)	2018.06.19 05:33:47										
+0012402000	0012402000	YCOA	Depreciation Receivables from Aff.Companies	Wertberichtigungen zu Forderungen gg. Verbundene	2018.06.19 05:33:47										
+0012410000	0012410000	YCOA	Clearing of Granted Warranties to Customers	Verrechnung gewährter Garantieen an Kunden	2018.06.19 05:33:47										
+0012411000	0012411000	YCOA	Guarantees given to Customers	Gegebene Bürgschaften Debitoren	2018.06.19 05:33:47										
+0012420000	0012420000	YCOA	Security Deposit Customers	Sicherheitseinbehalt Debitoren	2018.06.19 05:33:47										
+0012500000	0012500000	YCOA	Interest Receivables	Zins-Forderungen	2018.06.19 05:33:47										
+0012501000	0012501000	YCOA	Clearing Interest Receivables	Verrechnung Zins-Forderungen	2018.06.19 05:33:47										
+0012510000	0012510000	YCOA	Accounts Receivable - BoE Receivable	Forderungen - Besitzwechsel	2018.06.19 05:33:47										
+0012511000	0012511000	YCOA	Accounts Receivable - BOE Bounced Check (AE)	Debitoren - geplatzter Wechsel (RAP)	2018.06.19 05:33:47										
+0012530000	0012530000	YCOA	Accounts Receivable - Payment Cards	Forderungen aus Zahlungskarten	2018.06.19 05:33:47										
+0012530100	0012530100	YCOA	Accounts Receivable - External Payments Clearing	Debitoren - Verrechnung externer Zahlungen	2018.06.19 05:33:47										
+0012531000	0012531000	YCOA	Accounts Receivable - Unapplied Checks	Forderungen - nicht angewendete Schecks	2018.06.19 05:33:47										
+0012532000	0012532000	YCOA	Clrg Cont.Claims-Check/Bill of Exch. Payments	Verrechnung Eventual-Forderung aus SW- Zahlungen	2018.06.19 05:33:47										
+0012540000	0012540000	YCOA	Other Receivables (no recon acct)	Sonstige Forderungen (kein Abstimmkonto)	2018.06.19 05:33:47										
+0012540200	0012540200	YCOA	Other Receivables Adjustments	Sonstige Forderungsberichtigungen	2018.06.19 05:33:47										
+0012541000	0012541000	YCOA	Receivables from Tax Authorities (no recon acct)	Forderungen gegenüber Finanzbehörde (kein AbstKto)	2018.06.19 05:33:47										
+0012542000	0012542000	YCOA	Receivables from Employees Overpay (no recon acct)	Forderungen an Mitarb. Überzahlung (kein AbstKto)	2018.06.19 05:33:47										
+0012543000	0012543000	YCOA	Receivables from Partners (no recon acct)	Forderungen an Gesellschafter (kein Abstimmkonto)	2018.06.19 05:33:47										
+0012549000	0012549000	YCOA	Depreciation from other Receivables	Wertberichtigungen zu sonstigen Forderungen	2018.06.19 05:33:47										
+0012550000	0012550000	YCOA	Unbilled Revenue	Nicht fakturierter Erlös	2018.06.19 05:33:47										
+0012561000	0012561000	YCOA	Prepaid Expenses	Aktive Rechnungsabgrenzung	2018.06.19 05:33:47										
+0012562000	0012562000	YCOA	Deferred Income	Passive Rechngabgrzg	2018.06.19 05:33:47										
+0012590000	0012590000	YCOA	Vendors with a Debit Balance	Debitorische Kreditoren	2018.06.19 05:33:47										
+0012600000	0012600000	YCOA	Input Tax (VST)	Vorsteuer (VST)	2018.06.19 05:33:47										
+0012600010	0012600010	YCOA	Input tax / Fixed assets VST	Vorsteuer/Anlagen VST	2018.06.19 05:33:47										
+0012601000	0012601000	YCOA	Input Tax (VS1)	Vorsteuer (VS1)	2018.06.19 05:33:47										
+0012602000	0012602000	YCOA	Input Tax (VS2)	Vorsteuer (VS2)	2018.06.19 05:33:47										
+0012603000	0012603000	YCOA	Input tax (VS3)	Vorsteuer (VS3)	2018.06.19 05:33:47										
+0012604000	0012604000	YCOA	Input Tax (VS4)	Vorsteuer (VS4)	2018.06.19 05:33:47										
+0012605000	0012605000	YCOA	Import Sales Tax paid (VST)	Einfuhr-Umsatzsteuer bezahlt (VST)	2018.06.19 05:33:47										
+0012605010	0012605010	YCOA	Luxury Tax VAT In (ID)	Luxussteuer Umsatzsteuer Eingang (ID)	2018.06.19 05:33:47										
+0012605900	0012605900	YCOA	Input Tax account IGST (IN)	Vorsteuerkonto IGST (IN)	2018.06.19 05:33:47										
+0012605901	0012605901	YCOA	Input Tax account SGST (IN)	Vorsteuerkonto SGST (IN)	2018.06.19 05:33:47										
+0012605902	0012605902	YCOA	Input Tax account CGST (IN)	Vorsteuerkonto CGST (IN)	2018.06.19 05:33:47										
+0012605903	0012605903	YCOA	Input Tax account UTGST (IN)	Vorsteuerkonto UTGST (IN)	2018.06.19 05:33:47										
+0012605904	0012605904	YCOA	Input Tax account Compensation CESS (IN)	Vorsteuerkonto Ausgleich CESS (IN)	2018.06.19 05:33:47										
+0012605905	0012605905	YCOA	Input Tax account Import IGST (IN)	Vorsteuerkonto Import IGST (IN)	2018.06.19 05:33:47										
+0012605906	0012605906	YCOA	Input Tax account Import Compensation CESS (IN)	Vorsteuerkonto Import Ausgleich CESS (IN)	2018.06.19 05:33:47										
+0012605907	0012605907	YCOA	Output Tax account IGST (IN)	Ausgangssteuerkonto IGST (IN)	2018.06.19 05:33:47										
+0012605908	0012605908	YCOA	Output Tax account SGST (IN)	Ausgangssteuerkonto SGST (IN)	2018.06.19 05:33:47										
+0012605909	0012605909	YCOA	Output Tax account CGST (IN)	Ausgangssteuerkonto CGST (IN)	2018.06.19 05:33:47										
+0012605910	0012605910	YCOA	Output Tax account UTGST (IN)	Ausgangssteuerkonto UTGST (IN)	2018.06.19 05:33:47										
+0012605911	0012605911	YCOA	Output Tax account Compensation CESS (IN)	Ausgangssteuerkonto Ausgleich CESS (IN)	2018.06.19 05:33:47										
+0012605912	0012605912	YCOA	Reverse Charge Account IGST (IN)	Reverse-Charge-Konto IGST (IN)	2018.06.19 05:33:47										
+0012605913	0012605913	YCOA	Reverse Charge Account SGST (IN)	Reverse-Charge-Konto SGST (IN)	2018.06.19 05:33:47										
+0012605914	0012605914	YCOA	Reverse Charge Account CGST (IN)	Reverse-Charge-Konto CGST (IN)	2018.06.19 05:33:47										
+0012605915	0012605915	YCOA	Reverse Charge Account UTGST (IN)	Reverse-Charge-Konto UTGST (IN)	2018.06.19 05:33:47										
+0012605916	0012605916	YCOA	Reverse Charge Account Compensation CESS (IN)	Reverse-Charge-Konto Ausgleich CESS (IN)	2018.06.19 05:33:47										
+0012605917	0012605917	YCOA	Reverse Charge Account Import IGST (IN)	Reverse-Charge-Konto Import IGST (IN)	2018.06.19 05:33:47										
+0012605918	0012605918	YCOA	Reverse Charge Account Import Comp. CESS (IN)	Reverse-Charge-Konto Import Augleich CESS (IN)	2018.06.19 05:33:47										
+0012605919	0012605919	YCOA	Reverse Charge Account IGST Inv (IN)	Reverse-Charge-Konto IGST Bestand (IN)	2018.06.19 05:33:47										
+0012605920	0012605920	YCOA	Reverse Charge Account SGST Inv (IN)	Reverse-Charge-Konto SGST Bestand (IN)	2018.06.19 05:33:47										
+0012605921	0012605921	YCOA	Reverse Charge Account CGST Inv (IN)	Reverse-Charge-Konto CGST Bestand (IN)	2018.06.19 05:33:47										
+0012605922	0012605922	YCOA	Reverse Charge Account UTGST Inv (IN)	Reverse-Charge-Konto UTGST Bestand (IN)	2018.06.19 05:33:47										
+0012605923	0012605923	YCOA	Reverse Charge Account Compensation CESS Inv (IN)	Reverse-Charge-Konto Ausgleich CESS Bestand (IN)	2018.06.19 05:33:47										
+0012605924	0012605924	YCOA	Reverse Charge Account Import IGST Inv (IN)	Reverse-Charge-Konto Import IGST Bestand (IN)	2018.06.19 05:33:47										
+0012605925	0012605925	YCOA	Reverse Charge Account Import Comp. CESS Inv (IN)	Reverse-Charge-Konto Import Aus. CESS Bestand (IN)	2018.06.19 05:33:47										
+0012606000	0012606000	YCOA	Deferred tax assets	Aktivische Rechnungsabgrenzungsposten für Steuern	2018.06.19 05:33:47										
+0012606010	0012606010	YCOA	Deferred Input tax / Fixed assets VST	Latente Vorsteuer/Anlagen VST	2018.06.19 05:33:47										
+0012608000	0012608000	YCOA	Tax Transference of Establishment	Steuer Transfer zwischen Betriebsstätte	2018.06.19 05:33:47										
+0012609000	0012609000	YCOA	Deferred Input Tax > 0%	Latente Vorsteuer > 0 %	2018.06.19 05:33:47										
+0012609020	0012609020	YCOA	Deferred Input Taxes 0%	Latente Vorsteuer 0 %	2018.06.19 05:33:47										
+0012609100	0012609100	YCOA	Deferred Import input tax (VST)	Latente Einfuhrvorsteuer (VST)	2018.06.19 05:33:47										
+0012609110	0012609110	YCOA	Deferred VAT for Down-Payments Issued (RU)	Latente USt für geleistete Anzahlungen (RU)	2018.06.19 05:33:47										
+0012609111	0012609111	YCOA	VAT for Outgoing Export Operations (RU)	USt für ausgehende Exportgeschäfte (RU)	2018.06.19 05:33:47										
+0012609112	0012609112	YCOA	VAT for Down-Payments Issued, Deduction (RU)	USt für geleistete Anzahlungen, Abzug (RU)	2018.06.19 05:33:47										
+0012610000	0012610000	YCOA	Input Tax	Vorsteuer	2018.06.19 05:33:47										
+0012610100	0012610100	YCOA	Domestic input VAT (reverse charge)	Vorsteuer Inland (Reverse Charge)	2018.06.19 05:33:47										
+0012614000	0012614000	YCOA	Input Tax (ICx)	Vorsteuer (ICx)	2018.06.19 05:33:47										
+0012618000	0012618000	YCOA	Input CENVAT	Vorsteuer CENVAT	2018.06.19 05:33:47										
+0012619000	0012619000	YCOA	VAT regularizations&out of scope (receivables)	USt-Regelungen und nicht steuerbar (Forderungen)	2018.06.19 05:33:47										
+0012631000	0012631000	YCOA	Input Tax (J1*)	Vorsteuer (J1*)	2018.06.19 05:33:47										
+0012656000	0012656000	YCOA	SED Input deductable (ZVV)	SED Vorsteuer abzugsfähig (ZVV)	2018.06.19 05:33:47										
+0013100000	0013100000	YCOA	Inventory - Raw Material	Bestand Rohstoffe	2018.06.19 05:33:47										
+0013100900	0013100900	YCOA	Inventory - Revaluation Raw Material	Bestand - Neubewertung Rohstoffe	2018.06.19 05:33:47										
+0013200000	0013200000	YCOA	Inventory - Work In Progress	Bestand Ware in Arbeit	2018.06.19 05:33:47										
+0013210000	0013210000	YCOA	WIP	Ware in Arbeit	2018.06.19 05:33:47										
+0013300000	0013300000	YCOA	Inventory - Semi Finished Goods	Bestand unfertige Erzeugnisse	2018.06.19 05:33:47										
+0013300900	0013300900	YCOA	Inventory - Revaluation Semi Finished Goods	Bestand - Neubewertung Halbfabrikate	2018.06.19 05:33:47										
+0013400000	0013400000	YCOA	Inventory - Finished Goods	Bestand Fertige Erzeugnisse	2018.06.19 05:33:47										
+0013400900	0013400900	YCOA	Inventory - Revaluation Finished Goods	Bestand - Neubewertung Fertigerzeugnisse	2018.06.19 05:33:47										
+0013500000	0013500000	YCOA	Inventory - Packaging Materials	Bestand Verpackung	2018.06.19 05:33:47										
+0013500900	0013500900	YCOA	Inventory - Revaluation Packaging Materials	Bestand - Neubewertung Verpackung	2018.06.19 05:33:47										
+0013600000	0013600000	YCOA	Inventory - Trading Goods	Bestand - Handelsware	2018.06.19 05:33:47										
+0013600900	0013600900	YCOA	Inventory - Revaluation Trading Goods	Bestand - Neubewertung Handelsware	2018.06.19 05:33:47										
+0013601000	0013601000	YCOA	Inventory Adjustment Account	Korrekturkonto zum Bestand	2018.06.19 05:33:47										
+0013701400	0013701400	YCOA	WIP Deferred Revenue	WIP passive Abgrenzung	2018.06.19 05:33:47										
+0013711400	0013711400	YCOA	WIP Accrued Revenue	WIP aktive Abgrenzung	2018.06.19 05:33:47										
+0013711900	0013711900	YCOA	WIP Unbilled Revenue	WIP nicht fakturierter Erlös	2018.06.19 05:33:47										
+0013781000	0013781000	YCOA	B/S reserves for anticipated losses	Rücklagen Bilanzkonto für drohende Verluste	2018.06.19 05:33:47										
+0014102000	0014102000	YCOA	Loans Other - short term	Sonstige Darlehen - kurzfristig	2018.06.19 05:33:47										
+0014107000	0014107000	YCOA	Loans to Staff	Mitarbeiterdarlehen	2018.06.19 05:33:47										
+0015200000	0015200000	YCOA	Salary and Wages Advances	Lohn- und Gehaltsvorschüsse	2018.06.19 05:33:47										
+0015300000	0015300000	YCOA	Trip Costs in Advance	Reisekostenvorschuss	2018.06.19 05:33:47										
+0016000000	0016000000	YCOA	Land & Land Improvements	Grundstücke und grundstücksgleiche Rechte	2018.06.19 05:33:47										
+0016001000	0016001000	YCOA	Buildings	Betriebsgebäude	2018.06.19 05:33:47										
+0016001010	0016001010	YCOA	Buildings - Reduction Entry Reserve	Gebäude - Kürzung Einrittsrückstellung	2018.06.19 05:33:47										
+0016002000	0016002000	YCOA	Machinery & Equipment	Technische Anlagen und Maschinen	2018.06.19 05:33:47										
+0016003000	0016003000	YCOA	Building Improvements	Gebäudeeinrichtungen	2018.06.19 05:33:47										
+0016004000	0016004000	YCOA	Motor Vehicles	Fuhrpark	2018.06.19 05:33:47										
+0016005000	0016005000	YCOA	Office Equipment	Betriebs- und Geschäftsausstattung	2018.06.19 05:33:47										
+0016006000	0016006000	YCOA	Furniture and Fixtures	Büroeinrichtung	2018.06.19 05:33:47										
+0016007000	0016007000	YCOA	Computer Hardware and Equipment	Computer-Hardware und -Ausstattung	2018.06.19 05:33:47										
+0016008000	0016008000	YCOA	Computer Software	Computer-Software	2018.06.19 05:33:47										
+0016009000	0016009000	YCOA	Assets under Construction	Anlagen im Bau	2018.06.19 05:33:47										
+0016010000	0016010000	YCOA	Down Payments made on Tangible Assets w/o FI-AA	Geleistete Anzahlungen auf Sachanlagen	2018.06.19 05:33:47										
+0016010500	0016010500	YCOA	Sett. of Input Tax Down Payts Tangibles w/o FI-AA	Verrechnung Vorsteuer für Anzahlungen Sachanlagen	2018.06.19 05:33:47										
+0016011500	0016011500	YCOA	Input Tax Clearing Intangibles Down Payments made	VSt-Verrechnung Anzahlung immaterielle Anlagen	2018.06.19 05:33:47										
+0016012000	0016012000	YCOA	Capitalized Down Payments made on Fixed Assets	Aktivierte Anzahlungen auf Anlagen	2018.06.19 05:33:47										
+0016013000	0016013000	YCOA	Clearing capitalized Down Payments on Fixed Assets	Verrechnung aktivierte Anzahlungen auf Anlagen	2018.06.19 05:33:47										
+0016014000	0016014000	YCOA	Technical Clrng Acct Integrated Asset Acquisition	Technische Verrechnung integrierter Anlagenzugang	2018.06.19 05:33:47										
+0016014100	0016014100	YCOA	Clearing Account for Asset Acquisition	Verrechnungskonto Anlagenzugang	2018.06.19 05:33:47										
+0016015000	0016015000	YCOA	Offsetting Account Revaluation APC	Gegenkonto Aufwertung AHK	2018.06.19 05:33:47										
+0016020000	0016020000	YCOA	Low Value Assets	Geringwertige Wirtschaftsgüter	2018.06.19 05:33:47										
+0016050000	0016050000	YCOA	Land & Land Improvements (ROU)	Grundstücke und Bodenerschließungen (ROU)	2018.06.19 05:33:47										
+0016051000	0016051000	YCOA	Buildings (ROU)	Gebäude (ROU)	2018.06.19 05:33:47										
+0016052000	0016052000	YCOA	Machinery & Equipment (ROU)	Technische Anlagen und Maschinen (ROU)	2018.06.19 05:33:47										
+0016054000	0016054000	YCOA	Motor Vehicles (ROU)	Fuhrpark (ROU)	2018.06.19 05:33:47										
+0016055000	0016055000	YCOA	Office Equipment (ROU)	Geschäftsausstattung (ROU)	2018.06.19 05:33:47										
+0016056000	0016056000	YCOA	Furniture and Fixtures (ROU)	Betriebs- und Geschäftsausstattung (ROU)	2018.06.19 05:33:47										
+0016057000	0016057000	YCOA	Computer Hardware and Equipment (ROU)	Computer-Hardware und -Ausstattung (ROU)	2018.06.19 05:33:47										
+0016059000	0016059000	YCOA	Leasing Clearing Account	Verrechnungskonto Leasing	2018.06.19 05:33:47										
+0017000000	0017000000	YCOA	Accumulated Depreciation - Land Improvements	Wertberichtigungen Grundstücke	2018.06.19 05:33:47										
+0017001000	0017001000	YCOA	Accumulated Depreciation - Buildings	Wertberichtigungen Betriebsgebäude	2018.06.19 05:33:47										
+0017001010	0017001010	YCOA	Acc Depr Buildings - Reduction Entry Reserve	Kumulierte Abschr. Geb. - Kürz. Eintrittsrückst.	2018.06.19 05:33:47										
+0017002000	0017002000	YCOA	Accumulated Depreciation - Machinery & Equipment	Wertberichtigungen Technische Anlagen u. Maschinen	2018.06.19 05:33:47										
+0017003000	0017003000	YCOA	Accumulated Depreciation - Building Improvements	Wertberichtigungen Gebäudeeinrichtungen	2018.06.19 05:33:47										
+0017004000	0017004000	YCOA	Accumulated Depreciation - Motor Vehicles	Wertberichtigungen Fuhrpark	2018.06.19 05:33:47										
+0017005000	0017005000	YCOA	Accumulated Depreciation - Office Equipment	Wertberichtigungen Betriebs-/Geschäftsausstattung	2018.06.19 05:33:47										
+0017006000	0017006000	YCOA	Accumulated Depreciation - Furniture and Fixtures	Wertberichtigungen Büroeinrichtungen	2018.06.19 05:33:47										
+0017007000	0017007000	YCOA	Accumulated Depreciation - Computer Hardware	Wertberichtigungen Computer-Hardware	2018.06.19 05:33:47										
+0017008000	0017008000	YCOA	Accumulated Depreciation - Computer Software	Wertberichtigungen Computer-Software	2018.06.19 05:33:47										
+0017009000	0017009000	YCOA	Accumul. Depreciation - Assets under Construction	Wertberichtigung - Anlagen im Bau	2018.06.19 05:33:47										
+0017020000	0017020000	YCOA	Accumulated Depreciation - Low Value Assets	Wertberichtigungen Geringwertige Wirtschaftsgüter	2018.06.19 05:33:47										
+0017030000	0017030000	YCOA	Accumulated Depreciation - Exceptional Depr	Wertberichtigungen außerordentliche Abschreibung	2018.06.19 05:33:47										
+0017050000	0017050000	YCOA	Accumulated Depreciation - Land Improvements (ROU)	Wertberichtigung - Bodenerschließungen (ROU)	2018.06.19 05:33:47										
+0017051000	0017051000	YCOA	Accumulated Depreciation - Buildings (ROU)	Wertberichtigung - Gebäude (ROU)	2018.06.19 05:33:47										
+0017054000	0017054000	YCOA	Accumulated Depreciation - Motor Vehicles (ROU)	Wertberichtigung - Fuhrpark (ROU)	2018.06.19 05:33:47										
+0018010000	0018010000	YCOA	Investment Subsidiaries	Beteiligung Tochtergesellschaften	2018.06.19 05:33:47										
+0017052000	0017052000	YCOA	Accumulated Depr'n - Machinery & Equipment (ROU)	Wertbericht. - techn. Anlagen und Maschinen (ROU)	2018.06.19 05:33:47										
+0017055000	0017055000	YCOA	Accumulated Depreciation - Office Equipment (ROU)	Wertberichtigung - Geschäftsausstattung (ROU)	2018.06.19 05:33:47										
+0017056000	0017056000	YCOA	Accumulated Depr'n Fixtures Fittings (ROU)	Wertberichtigung - Betriebs-/Geschäftsausst. (ROU)	2018.06.19 05:33:47										
+0017057000	0017057000	YCOA	Accumulated Depreciation - Computer Hardware (ROU)	Wertberichtigung - Computer-Hardware (ROU)	2018.06.19 05:33:47										
+0018020000	0018020000	YCOA	Other Long Term Investments	Sonstige Beteiligungen	2018.06.19 05:33:47										
+0019110000	0019110000	YCOA	Loans Other - Long Term	Sonstige Darlehen - langfristig	2018.06.19 05:33:47										
+0019210000	0019210000	YCOA	Other Receivables > 1 year	Sonstige Forderungen Restlaufzeit > 1 Jahr	2018.06.19 05:33:47										
+0019310000	0019310000	YCOA	Internal Development	Eigenentwicklung	2018.06.19 05:33:47										
+0019320000	0019320000	YCOA	Intangible Assets	Immaterielle Vermögensgegenstände	2018.06.19 05:33:47										
+0019330000	0019330000	YCOA	Goodwill	Geschäfts- oder Firmenwert	2018.06.19 05:33:47										
+0019410000	0019410000	YCOA	Accumulated amortization - Internal Development	Wertberichtigungen Eigenentwicklung	2018.06.19 05:33:47										
+0019420000	0019420000	YCOA	Accumulated Amortization - Intangible Assets	Wertberichtigungen immaterielle Anlagen	2018.06.19 05:33:47										
+0019430000	0019430000	YCOA	Amortization - Goodwill	Wertberichtigungen Geschäfts- oder Firmenwert	2018.06.19 05:33:47										
+0021100000	0021100000	YCOA	Payables Domestic	Verbindlichkeiten Inland	2018.06.19 05:33:47										
+0021100100	0021100100	YCOA	Payables Domestic - One Time Accounts	Verbindlichkeiten Inland - CpD-Konten	2018.06.19 05:33:47										
+0021100200	0021100200	YCOA	Payables Domestic due within 1-5 Years	Verbindlichkeiten Inland Restlaufzeit 1-5 Jahre	2018.06.19 05:33:47										
+0021100300	0021100300	YCOA	Payables Domestic due > 5 Years	Verbindlichkeiten Inland Restlaufzeit > 5 Jahre	2018.06.19 05:33:47										
+0021102000	0021102000	YCOA	Payables Domestic Adjustments	Berichtigungen Verbindlichkeiten Inland	2018.06.19 05:33:47										
+0021320000	0021320000	YCOA	Lease Out Clearing Account (ROU)	Mietvertrag - Verrechnungskonto (ROU)	2018.06.19 05:33:47										
+0021350000	0021350000	YCOA	Clearing Invoice Reduction	Verrechnung Rechnungskürzung (Retail)	2018.06.19 05:33:47										
+0021501000	0021501000	YCOA	Accrued Net Payroll	Auszuzahlende Löhne und Gehälter	2018.06.19 05:33:47										
+0021102100	0021102100	YCOA	Credit adjustm. due to foreign currency valuation	Habenanpassung aufgr. von Fremdwährungsbewertung	2018.06.19 05:33:47										
+0021105000	0021105000	YCOA	Travel Expenses Payable	Auszuzahlende Reisekosten-Erstattungen	2018.06.19 05:33:47										
+0021110000	0021110000	YCOA	Goods Received/Invoice Received Consignt/Pipeline	Wareneingang/Rechnungseingang Konsignat./Pipeline	2018.06.19 05:33:47										
+0021120000	0021120000	YCOA	Goods Received/Invoice Received	Wareneingang/Rechnungseingang	2018.06.19 05:33:47										
+0021121000	0021121000	YCOA	GR/IR Sett.transferred (material ledger)	Übernommene WE/RE Verrechnung Material Ledger	2018.06.19 05:33:47										
+0021122000	0021122000	YCOA	Goods Received / Invoice Received Adjustment	Korrektur Wareneingang/Rechnungseingang	2018.06.19 05:33:47										
+0021180000	0021180000	YCOA	Customers with a Credit Balance	Kreditorische Debitoren	2018.06.19 05:33:47										
+0021190000	0021190000	YCOA	Down Payments-Customers (sp ind A)	Erhaltene Anzahlungen	2018.06.19 05:33:47										
+0021190100	0021190100	YCOA	Down Payments received due within 1-5 Years	Erhaltene Anzahlungen mit Restlaufzeit 1-5 Jahre	2018.06.19 05:33:47										
+0021190200	0021190200	YCOA	Down Payments received due > 5 Years	Erhaltene Anzahlungen mit Restlaufzeit > 5 Jahre	2018.06.19 05:33:47										
+0021191000	0021191000	YCOA	Down Payment Requests-Customers (Sp Ind F)	Anzahlungsanforderungen Debitoren	2018.06.19 05:33:47										
+0021191100	0021191100	YCOA	Contract Liability for Down Payments		2018.06.19 05:33:47										
+0021191200	0021191200	YCOA	Contract Liability for Down Payment Requests		2018.06.19 05:33:47										
+0021191500	0021191500	YCOA	Tax on sls/purch-settlement of Customer Down Pyts	MWS Verrechnung erhaltene Kundenanzahlungen	2018.06.19 05:33:47										
+0021192000	0021192000	YCOA	Adjustment account down payments received	Korrekturkonto Erhaltene Anzahlungen	2018.06.19 05:33:47										
+0021200000	0021200000	YCOA	Payables Foreign	Verbindlichkeiten Ausland	2018.06.19 05:33:47										
+0021200100	0021200100	YCOA	Payables Foreign - One Time Accounts	Verbindlichkeiten Ausland - CpD-Konten	2018.06.19 05:33:47										
+0021200300	0021200300	YCOA	Payables Foreign due > 5 years	Verbindlichkeiten Ausland Restlaufz. > 5 Jahre	2018.06.19 05:33:47										
+0021202000	0021202000	YCOA	Payables Foreign Adjustments	Berichtigung Verbindlichkeiten Ausland	2018.06.19 05:33:47										
+0021300000	0021300000	YCOA	Payables affiliated Companies	Verbindlichkeiten verbundene Unternehmen	2018.06.19 05:33:47										
+0021310000	0021310000	YCOA	Accounts Payable - BoE Payable	Schuldwechsel	2018.06.19 05:33:47										
+0021200200	0021200200	YCOA	Payables Foreign due within 1-5 years	Verbindlichkeiten Ausland Restlaufz. 1-5 Jahre	2018.06.19 05:33:47										
+0021300200	0021300200	YCOA	Payables affiliated Companies due 1-5 Years	Verbindl. verbundene Untern. Restlaufz. 1-5 Jahre	2018.06.19 05:33:47										
+0021300300	0021300300	YCOA	Payables affiliated Companies due > 5 years	Verbindl. verbundene Untern. Restlaufz. > 5 Jahre	2018.06.19 05:33:47										
+0021302000	0021302000	YCOA	Payables affiliated Companies Adjustments	Berichtigungen Verbindlichkeiten verbund. Untern.	2018.06.19 05:33:47										
+0021303000	0021303000	YCOA	Payables vs affiliated Companies (no recon acct)	Verbindlich. geg. verb. Unternehmen (kein AbstKto)	2018.06.19 05:33:47										
+0021450000	0021450000	YCOA	Offsett. of Travel Expenses paid by Employer	Reisekostenverrechnung - vom Arbeitgeber bezahlt	2018.06.19 05:33:47										
+0021460000	0021460000	YCOA	Dividends payable to owners, partners	Verbindlichkeiten ggü Gesellschaftern (Dividende)	2018.06.19 05:33:47										
+0021501100	0021501100	YCOA	Bonus provision Previous year	Bonusrückstellung Vorjahr	2018.06.19 05:33:47										
+0021501200	0021501200	YCOA	13th month salary provision	Rückstellung für 13. Monatsgehalt	2018.06.19 05:33:47										
+0021501300	0021501300	YCOA	Holiday Pay	Urlaubsgeld	2018.06.19 05:33:47										
+0021501400	0021501400	YCOA	Holiday Pay Provision Current year	Urlaubsgeldrückstellung aktuelles Jahr	2018.06.19 05:33:47										
+0021501500	0021501500	YCOA	Holiday Pay Provision previous year	Urlaubsgeldrückstellung Vorjahr	2018.06.19 05:33:47										
+0021502000	0021502000	YCOA	Payroll Taxes	Abzuführende Lohn-und Kirchensteuer	2018.06.19 05:33:47										
+0021503000	0021503000	YCOA	Payroll - Social Security	Verbindlichkeiten ggü Sozialversicherungsträgern	2018.06.19 05:33:47										
+0021505000	0021505000	YCOA	Payroll - Savings Plan	Abzuführende Vermögensbildung	2018.06.19 05:33:47										
+0021508000	0021508000	YCOA	Payroll - Garnishment	Abzuführende Pfändungen	2018.06.19 05:33:47										
+0021509000	0021509000	YCOA	Payroll - Workers' Compensation Association	Verbindlichkeiten gegenüber Berufsgenossenschaft	2018.06.19 05:33:47										
+0021512000	0021512000	YCOA	Payroll - EE Benefit	Leistungen Arbeitgeber	2018.06.19 05:33:47										
+0021516000	0021516000	YCOA	Payroll - ER Benefit	Leistungen Arbeitnehmer	2018.06.19 05:33:47										
+0021517000	0021517000	YCOA	Other Personnel Costs	Sonstige Personalaufwendungen	2018.06.19 05:33:47										
+0021533000	0021533000	YCOA	Tax - PIS to Pay (BR)	Steuer - PIS zu zahlen (BR)	2018.06.19 05:33:47										
+0021518000	0021518000	YCOA	Document split acct (trip costs co.code clrg HR)	Belegsplittkonto (Reiseko.Bukrs.verrechnung HR)	2018.06.19 05:33:47										
+0021519000	0021519000	YCOA	Payroll Allocation	Lohn- und Gehaltsverrechnungskonto	2018.06.19 05:33:47										
+0021520000	0021520000	YCOA	IPI to Recover (BR)	IPI zu erstatten (BR)	2018.06.19 05:33:47										
+0021521000	0021521000	YCOA	ICMS to Recover (BR)	ICMS zu erstatten (BR)	2018.06.19 05:33:47										
+0021522000	0021522000	YCOA	IR to Recover (BR)	IR zu erstatten (BR)	2018.06.19 05:33:47										
+0021523000	0021523000	YCOA	TAX Transfer Plant (BR)	Steuer Transfer zwischen Werk (BR)	2018.06.19 05:33:47										
+0021524000	0021524000	YCOA	PIS to Recover (BR)	PIS zu erstatten (BR)	2018.06.19 05:33:47										
+0021525000	0021525000	YCOA	ISS to Recover (BR)	ISS zu erstatten (BR)	2018.06.19 05:33:47										
+0021526000	0021526000	YCOA	COFINS to Recover (BR)	COFINS zu erstatten (BR)	2018.06.19 05:33:47										
+0021527000	0021527000	YCOA	CSLL to Recover (BR)	CSLL zu erstatten (BR)	2018.06.19 05:33:47										
+0021530000	0021530000	YCOA	Tax - ICMS to Pay (BR)	Steuer - ICMS zu zahlen (BR)	2018.06.19 05:33:47										
+0021530001	0021530001	YCOA	ICMS to Recover - UF Origem (Partilha) (BR)	ICMS zu erstatten - UF Origem (Partilha) (BR)	2018.06.19 05:33:47										
+0021530002	0021530002	YCOA	ICMS to Recover - UF Destino (Partilha) (BR)	ICMS zu erstatten - UF Destino (Partilha) (BR)	2018.06.19 05:33:47										
+0021530003	0021530003	YCOA	FCP / FECOEP To Recover (Partilha) (BR)	FCP / FECOEP zu erstatten (Partilha) (BR)	2018.06.19 05:33:47										
+0021530004	0021530004	YCOA	ICMS - ST (Substituição Tributária) (BR)	ICMS - ST (Substituicão Tributaria) (BR)	2018.06.19 05:33:47										
+0021530005	0021530005	YCOA	FCP to Pay to Destination State (BR)	FCP - an Zielstaat zu zahlen (BR)	2018.06.19 05:33:47										
+0021530006	0021530006	YCOA	FCP to Pay to State of Invoice Issuer (BR)	FCP - an Staat d. Rechnungsstellers zu zahlen (BR)	2018.06.19 05:33:47										
+0021530007	0021530007	YCOA	ICMS Complementary (BR)	ICMS komplementär (BR)	2018.06.19 05:33:47										
+0021530008	0021530008	YCOA	ICMS clearing (BR)	ICMS Verrechnung (BR)	2018.06.19 05:33:47										
+0021531000	0021531000	YCOA	Tax - IPI to Pay (BR)	Steuer - IPI zu zahlen (BR)	2018.06.19 05:33:47										
+0021532000	0021532000	YCOA	Tax - ISS to Pay (BR)	Steuer - ISS zu zahlen (BR)	2018.06.19 05:33:47										
+0021532001	0021532001	YCOA	ISS WHT to Pay (BR)	ISS: Zu zahlende QST (BR)	2018.06.19 05:33:47										
+0021533001	0021533001	YCOA	PIS WHT to Pay (BR)	PIS: Zu zahlende Quellensteuer (BR)	2018.06.19 05:33:47										
+0021534000	0021534000	YCOA	Tax - IRF General to Pay (PIS/COFINS/CSLL/IR) (BR)	Str - IFR allg zu zahlen (PIS/COFINS/CSLL/IR) (BR)	2018.06.19 05:33:47										
+0021535000	0021535000	YCOA	Tax - COFINS to Pay (BR)	Steuer - COFINS zu zahlen (BR)	2018.06.19 05:33:47										
+0021535001	0021535001	YCOA	COFINS WHT to Pay (BR)	COFINS: Zu zahlende QST (BR)	2018.06.19 05:33:47										
+0021536000	0021536000	YCOA	Tax - IRRF - Contracted Services (BR)	Steuer - IRRF - vertragliche Leistungen (BR)	2018.06.19 05:33:47										
+0021537000	0021537000	YCOA	Tax - CSLL to Pay (BR)	Steuer - CSLL zu zahlen (BR)	2018.06.19 05:33:47										
+0021538000	0021538000	YCOA	Tax Other - to Pay (BR)	Sonstige Steuer - zu zahlen (BR)	2018.06.19 05:33:47										
+0021539000	0021539000	YCOA	INSS Contractors to Pay (BR)	INSS Auftragnehmer zu zahlen (BR)	2018.06.19 05:33:47										
+0021539001	0021539001	YCOA	INSS FreeLancer to Pay (BR)	INSS: Zu bezahlender Freiberufler (BR)	2018.06.19 05:33:47										
+0021539002	0021539002	YCOA	INSS on Wage to Pay (BR)	Zu zahl. INSS für Lohn (BR)	2018.06.19 05:33:47										
+0021539003	0021539003	YCOA	FGTS to Pay (BR)	Zu zahl. FGTS (BR)	2018.06.19 05:33:47										
+0021539100	0021539100	YCOA	Vacation Accrual (BR)	Urlaubsrückstellungen (BR)	2018.06.19 05:33:47										
+0021539101	0021539101	YCOA	13 Wage Accrual (BR)	Rückstellungen für das 13. Gehalt (BR)	2018.06.19 05:33:47										
+0021539102	0021539102	YCOA	INSS - Vacation Accrual (BR)	INSS: Urlaubsrückstellungen (BR)	2018.06.19 05:33:47										
+0021539103	0021539103	YCOA	FGTS - 13 Wage Accrual (BR)	FGTS: Rückstellungen für 13. Gehalt (BR)	2018.06.19 05:33:47										
+0021539104	0021539104	YCOA	Labor Contingency (BR)	Eventualverbindlichkeiten Personal (BR)	2018.06.19 05:33:47										
+0021539105	0021539105	YCOA	Judicial Contingency (BR)	Eventualverbindlichkeit f. Gerichtsentscheid. (BR)	2018.06.19 05:33:47										
+0021539106	0021539106	YCOA	INSS - 13 Wage Accrual (BR)	INSS: Rückstellungen für das 13. Gehalt (BR)	2018.06.19 05:33:47										
+0021539107	0021539107	YCOA	FGTS - Vacation Accrual (BR)	FGTS: Urlaubsrückstellungen (BR)	2018.06.19 05:33:47										
+0021540000	0021540000	YCOA	Other Clearing Account	Sonstiges Verrechnungskonto	2018.06.19 05:33:47										
+0021599000	0021599000	YCOA	HR Month End Accruals	HR Abgrenzungen Monatsende	2018.06.19 05:33:47										
+0021600000	0021600000	YCOA	Reserve for Deferred Taxes	Abgrenzung für latente Steuern	2018.06.19 05:33:47										
+0021603000	0021603000	YCOA	Withholding Tax	Quellensteuer	2018.06.19 05:33:47										
+0021613000	0021613000	YCOA	Prepaid Tax for Creditable Withholding Tax	Vorausbezahlte Steuer für anrechenbare Quellenst.	2018.06.19 05:33:47										
+0021613010	0021613010	YCOA	Tax Collected at Source Off-setting (IN)	Tax Collected at Source: Gegenbuchen (IN)	2018.06.19 05:33:47										
+0021613011	0021613011	YCOA	Tax Collected at Source (IN)	Tax Collected at Source (IN)	2018.06.19 05:33:47										
+0021613012	0021613012	YCOA	Tax Collected at Source SD (IN)	Tax Collected at Source SD (IN)	2018.06.19 05:33:47										
+0021710000	0021710000	YCOA	Amortization - Prepayments	Vorleistungen Amortisation	2018.06.19 05:33:47										
+0021720000	0021720000	YCOA	Other Payables (no recon acct)	Sonstige Verbindlichkeiten (kein Abstimmkonto)	2018.06.19 05:33:47										
+0021720100	0021720100	YCOA	Guarantees received from Vendors	Erhaltene Bürgschaften Kreditoren	2018.06.19 05:33:47										
+0021720200	0021720200	YCOA	Other Payables Adjustments	Sonstige Verbindlichkeitsberichtigungen	2018.06.19 05:33:47										
+0021721000	0021721000	YCOA	Reserves for Unrealized Costs	Rückstellungen für fehlende Kosten	2018.06.19 05:33:47										
+0021730000	0021730000	YCOA	Freight Clearing Account (MM)	Frachtverrechnung MM	2018.06.19 05:33:47										
+0021735000	0021735000	YCOA	Delivery Costs Provision (MM)	Bezugsnebenkostenrückstellung (MM)	2018.06.19 05:33:47										
+0021735500	0021735500	YCOA	Delivery Costs Clearing (MM)	Bezugsnebenkosten-Verrechnung (MM)	2018.06.19 05:33:47										
+0021740000	0021740000	YCOA	Customs Duty Clearing Account (MM)	Zollverrechnung MM	2018.06.19 05:33:47										
+0021745000	0021745000	YCOA	Customs Provision (MM)	Zollrückstellung (MM)	2018.06.19 05:33:47										
+0021750000	0021750000	YCOA	Clearing Vendor Discounts - Net Method	Verrechnung Lieferantenskonti Nettoverfahren	2018.06.19 05:33:47										
+0021751000	0021751000	YCOA	Clearing - Guarantees Received Vendors	Verrechnung erhalten Bürgschaften Kreditoren	2018.06.19 05:33:47										
+0021760000	0021760000	YCOA	Freight Provision (MM)	Frachtrückstellung (MM)	2018.06.19 05:33:47										
+0021770000	0021770000	YCOA	Accrued Volume Rebate	Bonusrückstellung	2018.06.19 05:33:47										
+0021771000	0021771000	YCOA	Accrued Supplier Rebate		2018.06.19 05:33:47										
+0021780000	0021780000	YCOA	Freight Provision SD	Frachtrückstellung SD	2018.06.19 05:33:47										
+0021790000	0021790000	YCOA	Disposite Reserve SD	Rückstellungshinterlegung SD	2018.06.19 05:33:47										
+0021814000	0021814000	YCOA	Sales - Future/Free Delivery	Verkauf - künftige/kostenfreie Lieferung	2018.06.19 05:33:47										
+0021900000	0021900000	YCOA	Payment Request Clearing Account(TRM)	Zahlungsanforderung Verrechnungskonto (TRM)	2018.06.19 05:33:47										
+0022000000	0022000000	YCOA	Output Tax (MWS)	Ausgangssteuer (MWS)	2018.06.19 05:33:47										
+0022001000	0022001000	YCOA	Sales Tax Accrued (MW1) - State	Umsatzsteuer abgegrenzt (MW1) - Bundesstaat	2018.06.19 05:33:47										
+0022001010	0022001010	YCOA	Use Tax Accrued MW1 - State (US)	Verbrauchsteuer abgegrenzt MW1 - Bundesstaat (US)	2018.06.19 05:33:47										
+0022002000	0022002000	YCOA	Sales Tax Accrued (MW2) - County	Umsatzsteuer abgegrenzt (MW2) - Kreis	2018.06.19 05:33:47										
+0022002010	0022002010	YCOA	Use Tax Accrued MW2 - County US	Verbrauchsteuer abgegrenzt MW2 - Kreis US	2018.06.19 05:33:47										
+0022003000	0022003000	YCOA	Sales Tax Accrued (MW3) - City	Umsatzsteuer abgegrenzt (MW3) - Ort	2018.06.19 05:33:47										
+0022003010	0022003010	YCOA	Use Tax Accrued MW3 - City US	Verbrauchsteuer abgegrenzt MW3 - Ort US	2018.06.19 05:33:47										
+0022004000	0022004000	YCOA	Sales Tax Accrued (MW4) - Others	Umsatzsteuer abgegrenzt (MW4) - Sonstige	2018.06.19 05:33:47										
+0022004010	0022004010	YCOA	Use Tax Accrued MW4 - Others US	Verbrauchsteuer abgegrenzt MW4 - Sonstige US	2018.06.19 05:33:47										
+0022005000	0022005000	YCOA	GST Input Tax Credit Receivable (CA)	GST Vorsteuer Forderungen (CA)	2018.06.19 05:33:47										
+0022005010	0022005010	YCOA	GST/HST Input Tax Credit Receivable Adjustment(CA)	Berichtigung GST Vorst Forderungen (CA)	2018.06.19 05:33:47										
+0022005100	0022005100	YCOA	GST Output Tax Payable (CA)	GST Ausgangssteuer Verbindlichkeiten (CA)	2018.06.19 05:33:47										
+0022005110	0022005110	YCOA	GST/HST Output Tax Payable Adjustment (CA)	Berichtigung GST AusSt Verbindlichkeiten (CA)	2018.06.19 05:33:47										
+0022005200	0022005200	YCOA	PST Receivable (CA)	PST VorSt Forderg. (CA)	2018.06.19 05:33:47										
+0022005210	0022005210	YCOA	PST Receivable Adjustment (CA)	Berichtigung PST Vorsteuer Forderungen (CA)	2018.06.19 05:33:47										
+0022005300	0022005300	YCOA	PST Output Tax Payable (CA)	PST Ausgangssteuer Verbindlichkeiten (CA)	2018.06.19 05:33:47										
+0022005400	0022005400	YCOA	HST Input Tax Credit Receivable (CA)	HST Vorsteuer Forderungen (CA)	2018.06.19 05:33:47										
+0022005500	0022005500	YCOA	HST Output Tax Payable (CA)	HST Ausgangssteuer Verbindlichkeiten (CA)	2018.06.19 05:33:47										
+0022005600	0022005600	YCOA	QST Input Tax Refund Receivable (CA)	QST Vorsteuer Forderungen (CA)	2018.06.19 05:33:47										
+0022005310	0022005310	YCOA	PST Output Tax Payable Adjustment (CA)	Berichtigung PST AusSt Verbindlichkeiten (CA)	2018.06.19 05:33:47										
+0022005610	0022005610	YCOA	QST Input Tax Refund Receivable Adjustment (CA)	Ber QST Vorsteuerrückerstattung Ford. (CA)	2018.06.19 05:33:47										
+0022005700	0022005700	YCOA	QST Output Tax Payable (CA)	QST Ausgangssteuer Verbindlichkeiten (CA)	2018.06.19 05:33:47										
+0022005710	0022005710	YCOA	QST Output Tax Payable Adjustment (CA)	Ber QST Ausgangssteuer Verbindlichkeiten (CA)	2018.06.19 05:33:47										
+0022005800	0022005800	YCOA	Recapture of Input Tax Credit (CA)	Rückgewinnung Vorsteuer (CA)	2018.06.19 05:33:47										
+0022005900	0022005900	YCOA	GST/HST Self-Assess (CA)	GST/HST Selbstveranlagung (CA)	2018.06.19 05:33:47										
+0022005910	0022005910	YCOA	PST Self-Assess (CA)	PST Selbstveranlagung (CA)	2018.06.19 05:33:47										
+0022006000	0022006000	YCOA	Import VAT delayed (reverse charge)	Verspätete Einfuhrumsatzsteuer (Reverse Charge)	2018.06.19 05:33:47										
+0022006011	0022006011	YCOA	input VAT- deductible	Vorsteuer - abzugsfähig	2018.06.19 05:33:47										
+0022006012	0022006012	YCOA	paid VAT	Gezahlte Umsatzsteuer	2018.06.19 05:33:47										
+0022006013	0022006013	YCOA	trans input VAT	Übernahme Vorsteuer	2018.06.19 05:33:47										
+0022006014	0022006014	YCOA	Tax exemption from export	Steuerbefreite Ausfuhr	2018.06.19 05:33:47										
+0022006021	0022006021	YCOA	business tax	Unternehmenssteuer	2018.06.19 05:33:47										
+0022006022	0022006022	YCOA	vehicle purchase tax payable	Abzuführende Fahrzeugerwerbsteuer	2018.06.19 05:33:47										
+0022006023	0022006023	YCOA	output tax- luxury (MW2)	Ausgangssteuer - Luxus (MW2)	2018.06.19 05:33:47										
+0022006024	0022006024	YCOA	additional education tax payable	Abzuführende Zusatzausbildungssteuer	2018.06.19 05:33:47										
+0022006025	0022006025	YCOA	additional local education tax payable	Abzuführende Steuer für lokale Zusatzausbildung	2018.06.19 05:33:47										
+0022006026	0022006026	YCOA	License tax for vehicles and vessels	Lizenzsteuer für Fahrzeuge und Schiffe	2018.06.19 05:33:47										
+0022006031	0022006031	YCOA	resource tax payable	Abzuführende Ressourcensteuer	2018.06.19 05:33:47										
+0022006041	0022006041	YCOA	land incremental value tax payable	Abzuführende Grundwertzuwachssteuer	2018.06.19 05:33:47										
+0022006051	0022006051	YCOA	Real estate tax payable	Abzuführende Immobiliensteuer	2018.06.19 05:33:47										
+0022006061	0022006061	YCOA	land usage tax payable	Abzuführende Landnutzungssteuer	2018.06.19 05:33:47										
+0022006071	0022006071	YCOA	Individual income tax payable	Abzuführende individuelle Einkommensteuer	2018.06.19 05:33:47										
+0022006081	0022006081	YCOA	Individual income tax withheld	Einbehaltene individuelle Einkommensteuer	2018.06.19 05:33:47										
+0022006100	0022006100	YCOA	VAT Technical for Export Base, Credit (RU)	Umsatzsteuer technisch für Exportbasis, Haben (RU)	2018.06.19 05:33:47										
+0022006101	0022006101	YCOA	VAT for Down-Payments Received (RU)	Umsatzsteuer für erhaltene Anzahlungen (RU)	2018.06.19 05:33:47										
+0022006110	0022006110	YCOA	Luxury Tax VAT Out (ID)	Luxussteuer Umsatzsteuer Ausgang (ID)	2018.06.19 05:33:47										
+0022007000	0022007000	YCOA	Export VAT	Ausfuhrumsatzsteuer	2018.06.19 05:33:47										
+0022008000	0022008000	YCOA	VAT regularizations&out of scope (payables)	USt-Regelungen und nicht steuerbar (Verbindlichk.)	2018.06.19 05:33:47										
+0022009000	0022009000	YCOA	Deferred Output tax > %	Latente Ausgangssteuer > %	2018.06.19 05:33:47										
+0022009020	0022009020	YCOA	Deferred Output Taxes 0%	Latente Ausgangssteuer 0 %	2018.06.19 05:33:47										
+0022009999	0022009999	YCOA	GST Base Account for Reverse Charge Mechanism (MY)	GST-Basiskonto für Reverse-Charge-Verfahren (MY)	2018.06.19 05:33:47										
+0022010100	0022010100	YCOA	Domestic output VAT (reverse charge)	Ausgangssteuer Inland (Reverse Charge)	2018.06.19 05:33:47										
+0022090000	0022090000	YCOA	Alterative Tax Payable  - UMS	Alternative Umsatzsteuer Zahllast  - UMS	2018.06.19 05:33:47										
+0022090010	0022090010	YCOA	TDS Provision JV India (IN)	TDS Rückstellung JV Indien (IN)	2018.06.19 05:33:47										
+0022090012	0022090012	YCOA	TDS Provision India (IN)	TDS Rückstellung Indien (IN)	2018.06.19 05:33:47										
+0022090020	0022090020	YCOA	PPh Pasal 21 - Witholding Tax Art 21 (ID)	PPh Pasal 21 - Quellensteuer Art. 21 (ID)	2018.06.19 05:33:47										
+0022090021	0022090021	YCOA	PPh Pasal 23 - Witholding Tax Art 23 (ID)	PPh Pasal 23 - Quellensteuer Art. 23 (ID)	2018.06.19 05:33:47										
+0022090022	0022090022	YCOA	PPh Pasal 4(2) - Witholding Tax Art 4(2) (ID)	PPh Pasal 4(2) - Quellensteuer Art. 4(2) (ID)	2018.06.19 05:33:47										
+0022090023	0022090023	YCOA	PPh Pasal 15 - Witholding Tax Art 15 (ID)	PPh Pasal 15 - Quellensteuer Art. 15 (ID)	2018.06.19 05:33:47										
+0022090024	0022090024	YCOA	PPh Pasal 26 - Witholding Tax Art 26 (ID)	PPh Pasal 26 - Quellensteuer Art. 26 (ID)	2018.06.19 05:33:47										
+0022090025	0022090025	YCOA	PPh Pasal 22 - Witholding Tax Art 22 (ID)	PPh Pasal 22 - Quellensteuer Art. 22 (ID)	2018.06.19 05:33:47										
+0022100000	0022100000	YCOA	Acquisition Tax	Erwerbssteuer	2018.06.19 05:33:47										
+0022140000	0022140000	YCOA	Output Tax (ICZ)	Ausgangssteuer (ICZ)	2018.06.19 05:33:47										
+0022140700	0022140700	YCOA	PIx Brazil	PIx Brasilien	2018.06.19 05:33:47										
+0022140900	0022140900	YCOA	COx Brazil	COx Brasilien	2018.06.19 05:33:47										
+0022510000	0022510000	YCOA	Loans from Banks (no recon acct)	Bankdarlehen (kein Abstimmkonto)	2018.06.19 05:33:47										
+0022512000	0022512000	YCOA	Loans from Banks Adjustments	Bankdarlehen - Berichtigungen	2018.06.19 05:33:47										
+0023000000	0023000000	YCOA	Lease Liability - Land & Land Improvements (ROU)	Leasingverbindlichkeiten - Grundstücke u.ä. (ROU)	2018.06.19 05:33:47										
+0023000100	0023000100	YCOA	Lease Liability - Buildings (ROU)	Leasingverbindlichkeiten - Gebäude (ROU)	2018.06.19 05:33:47										
+0023000200	0023000200	YCOA	Lease Liability - Machinery & Equipment (ROU)	Leasingverbind. - tech. Anlagen u. Maschinen (ROU)	2018.06.19 05:33:47										
+0023000300	0023000300	YCOA	Lease Liability - Motor Vehicles (ROU)	Leasingverbindlichkeiten - Fuhrpark (ROU)	2018.06.19 05:33:47										
+0023000400	0023000400	YCOA	Lease Liability - Office Equipment (ROU)	Leasingverbindlichk. - Geschäftsausstattung (ROU)	2018.06.19 05:33:47										
+0023000500	0023000500	YCOA	Lease Liability - Furniture and Fixtures (ROU)	Leasingverbind. - Betr.- und Geschäftsausst. (ROU)	2018.06.19 05:33:47										
+0023000600	0023000600	YCOA	Lease Liability-Computer Hardware&Equipment (ROU)	Leasingverbind. - Computer-Hardware/-Ausst. (ROU)	2018.06.19 05:33:47										
+0024010000	0024010000	YCOA	GR/IR: Goods and Services not yet delivered	WE/RE: Noch nicht erfolgte Lieferung und Leistung	2018.06.19 05:33:47										
+0024020000	0024020000	YCOA	GR/IR: Goods and Services not yet invoiced	WE/RE: Noch nicht berechnete Lieferung u. Leistung	2018.06.19 05:33:47										
+0024030000	0024030000	YCOA	Tax Provisions	Sonstige Steuerrückstellungen	2018.06.19 05:33:47										
+0024031000	0024031000	YCOA	Pension Provision	Rückst. für Pensionen und ähnliche Verpflichtungen	2018.06.19 05:33:47										
+0024031100	0024031100	YCOA	Pension Provision - ledgerspecific	Pensionsrückstellung - ledgerspezifisch	2018.06.19 05:33:47										
+0024032000	0024032000	YCOA	Trade Tax Provision	Rückstellungen Gewerbesteuer	2018.06.19 05:33:47										
+0024033000	0024033000	YCOA	Corporate Income Tax Provision	Rückstellungen Körperschaftssteuer	2018.06.19 05:33:47										
+0024034000	0024034000	YCOA	Capital Gains Tax Provision	Rückstellungen Kapitalertragsteuer	2018.06.19 05:33:47										
+0024035000	0024035000	YCOA	Foreign Withholding Tax Provision	Rückstellungen ausländische Quellensteuer	2018.06.19 05:33:47										
+0024036000	0024036000	YCOA	Provision for Other Income and Revenue Tax	Rückstellungen and. Steuern v. Einkommen u. Ertrag	2018.06.19 05:33:47										
+0024037000	0024037000	YCOA	Provision for Deferred Tax Liabilities	Rückstellungen für passive latente Steuern	2018.06.19 05:33:47										
+0024090000	0024090000	YCOA	Other Provisions	Sonstige Rückstellungen	2018.06.19 05:33:47										
+0024091000	0024091000	YCOA	Provisions for Guarantees	Rückstellungen für Gewährleistungen	2018.06.19 05:33:47										
+0024093000	0024093000	YCOA	Provisions for Indeterminate Payables	Rückstellungen für ungewisse Verbindlichkeiten	2018.06.19 05:33:47										
+0024097000	0024097000	YCOA	Prov for expected Losses fr executory Contracts	Rückst.f.drohende Verluste a. schweb. Geschäften	2018.06.19 05:33:47										
+0024098000	0024098000	YCOA	Asset Revaluation Reserve	Anlagenneubewertungsrücklage	2018.06.19 05:33:47										
+0024098100	0024098100	YCOA	Capital Reserves	Kapitalrücklagen	2018.06.19 05:33:47										
+0024098200	0024098200	YCOA	Profit Reserves	Gewinnrücklagen	2018.06.19 05:33:47										
+0024098300	0024098300	YCOA	Capital Reserve	Kapitalrücklage	2018.06.19 05:33:47										
+0024098400	0024098400	YCOA	Legal Reserve	Gesetzliche Rücklage	2018.06.19 05:33:47										
+0024098500	0024098500	YCOA	Statutory Reserve	Satzungsmäßige Rücklage	2018.06.19 05:33:47										
+0024098600	0024098600	YCOA	Other Reservers	Andere Gewinnrücklagen	2018.06.19 05:33:47										
+0024098700	0024098700	YCOA	Special tax-allowable Reserve §6b	Sonderposten mit Rücklageanteil nach §6b	2018.06.19 05:33:47										
+0024099900	0024099900	YCOA	Correction of Provisions	Korrektur Rückstellung	2018.06.19 05:33:47										
+0026900000	0026900000	YCOA	Functional Area Clearing	Funktionsbereich Verrechnungskonto	2018.06.19 05:33:47										
+0026910000	0026910000	YCOA	Investment Receivables received	Erhaltene Investitions-Förderungen	2018.06.19 05:33:47										
+0026911000	0026911000	YCOA	Clearing of Investment receivables received	Verrechnung erhaltene Investitions-Förderungen	2018.06.19 05:33:47										
+0029120000	0029120000	YCOA	Other Payables due > 5 Years	Sonstige Verbindlichkeiten Restlaufzeit > 5 Jahre	2018.06.19 05:33:47										
+0029500100	0029500100	YCOA	Document Split Clearing Account	Belegsplit Verrechnungskonto	2018.06.19 05:33:47										
+0029500900	0029500900	YCOA	Document Split Clearing Account CO	Belegsplit Verrechnungskonto CO	2018.06.19 05:33:47										
+0029110000	0029110000	YCOA	Other Payables due within 1-5 Years	Sonstige Verbindlichkeiten, Restlaufz. 1-5 Jahre	2018.06.19 05:33:47										
+0029130000	0029130000	YCOA	Loans from Banks remaining Life 1-5 Years	Darlehen v. Kreditinstituten Restlaufz. 1-5 Jahre	2018.06.19 05:33:47										
+0029131000	0029131000	YCOA	Loans from Banks remaining Life > 5 Years	Darlehen v. Kreditinstituten Restlaufz. > 5 Jahre	2018.06.19 05:33:47										
+0031000000	0031000000	YCOA	Common Stock	Stammkapital	2018.06.19 05:33:47										
+0031100000	0031100000	YCOA	Preferred Stock	Vorzugsaktie	2018.06.19 05:33:47										
+0032000000	0032000000	YCOA	Capital in Excess of Par Value	Kapital über dem Nennwert	2018.06.19 05:33:47										
+0032100000	0032100000	YCOA	Paid in Capital from treasury stock	Eingezahltes Kapital aus eigenen Anteilen	2018.06.19 05:33:47										
+0033000000	0033000000	YCOA	Retained Earnings	Ergebnisvortrag	2018.06.19 05:33:47										
+0039911000	0039911000	YCOA	Inventory - Initial Entry of Raw Material Balances	Gegenbuchung Bestandsaufnahme Rohstoffe	2018.06.19 05:33:47										
+0039912000	0039912000	YCOA	Inventory - Initial Entry SF & Finish Gds Balances	Gegenbu.Bestandsaufnahme Unfertig-u.Fertigprodukte	2018.06.19 05:33:47										
+0039913000	0039913000	YCOA	Initial FI-AM offset	Initiale Gegenbuchung für FI-AM	2018.06.19 05:33:47										
+0039914000	0039914000	YCOA	Initial FI-AR offset	Initiale Gegenbuchung für FI-AR	2018.06.19 05:33:47										
+0039915000	0039915000	YCOA	Initial FI-AP offset	Initiale Gegenbuchung für FI-AP	2018.06.19 05:33:47										
+0039916000	0039916000	YCOA	Initial other GL offset	Initiale Gegenbuchung für anderes Hauptbuch	2018.06.19 05:33:47										
+0039917000	0039917000	YCOA	Initial other Open Item GL offset	Initiale HB-Gegenbuchung für anderen off. Posten	2018.06.19 05:33:47										
+0041000000	0041000000	YCOA	Revenue Domestic - Product	Erlöse Inland - Erzeugnis	2018.06.19 05:33:47										
+0041000400	0041000400	YCOA	Sales Revenue w/ Cost Element	Umsatzerlöse mit Kostenart	2018.06.19 05:33:47										
+0041001000	0041001000	YCOA	Revenue Foreign - Product	Erlöse Ausland - Erzeugnis	2018.06.19 05:33:47										
+0041001500	0041001500	YCOA	Revenue Affiliate - Product	Erlöse Verbundene - Erzeugnis	2018.06.19 05:33:47										
+0041002000	0041002000	YCOA	Accrued Revenue - Adjustment	Aktiver Abgrenzungsposten - Korrektur	2018.06.19 05:33:47										
+0041003000	0041003000	YCOA	Accrued Revenue – EBR Adjustment	Aktive Abgrenzung - EBR-Anpassung	2018.06.19 05:33:47										
+0041004000	0041004000	YCOA	Sales Deductions with Cost Element	Erlösschmälerungen mit Kostenart	2018.06.19 05:33:47										
+0041090000	0041090000	YCOA	Other Operating Revenue	Sonstige betriebliche Erträge	2018.06.19 05:33:47										
+0041090010	0041090010	YCOA	VAT in Revenue (RU)	Umsatzsteuer in Erlös (RU)	2018.06.19 05:33:47										
+0041090011	0041090011	YCOA	VAT in Goods Sales (RU)	Umsatzsteuer in Warenverkäufen (RU)	2018.06.19 05:33:47										
+0044000000	0044000000	YCOA	Over/Underpayments and Unallowed Deductions	Unberechtigte Kundenabzüge	2018.06.19 05:33:47										
+0044001000	0044001000	YCOA	Sales Rebates	Kundenboni	2018.06.19 05:33:47										
+0044002000	0044002000	YCOA	Sales Discounts - Domestic	Kundenskonti - Inland	2018.06.19 05:33:47										
+0044002100	0044002100	YCOA	Sales Discounts - Foreign	Kundenskonti - Ausland	2018.06.19 05:33:47										
+0044002200	0044002200	YCOA	Sales Discounts - Affiliated	Kundenskonti - Verbundene	2018.06.19 05:33:47										
+0044003000	0044003000	YCOA	Customer Sales Deduction - Domestic	Kunden Erlösschmälerungen - Inland	2018.06.19 05:33:47										
+0044003100	0044003100	YCOA	Customer Sales Deduction - Foreign	Kunden Erlösschmälerungen - Ausland	2018.06.19 05:33:47										
+0044003200	0044003200	YCOA	Customer Sales Deduction - Affiliated	Kunden Erlösschmälerungen - Verbundene	2018.06.19 05:33:47										
+0044004000	0044004000	YCOA	Sales Deduction - Material	Erlösschmälerung - Material	2018.06.19 05:33:47										
+0044005000	0044005000	YCOA	Free Goods and Discount in kind	Naturalrabatte	2018.06.19 05:33:47										
+0044006000	0044006000	YCOA	Sales Deduction - Menge	Erlösschmälerung - Menge	2018.06.19 05:33:47										
+0044007000	0044007000	YCOA	(-) IPI on Sales (BR)	(-) IPI auf Umsatz (BR)	2018.06.19 05:33:47										
+0044007001	0044007001	YCOA	(-) ICMS on Sales (BR)	(-) ICMS auf Umsatz (BR)	2018.06.19 05:33:47										
+0044007002	0044007002	YCOA	(-) ISS on Sales (BR)	(-) ISS auf Umsatz (BR)	2018.06.19 05:33:47										
+0044007003	0044007003	YCOA	(-) PIS on Sales (BR)	(-) PIS auf Umsatz (BR)	2018.06.19 05:33:47										
+0044007004	0044007004	YCOA	(-) Cofins on Sales (BR)	(-) COFINS auf Umsatz (BR)	2018.06.19 05:33:47										
+0044420000	0044420000	YCOA	Revenue Adjustment - ERR	Erlösberichtigung - vorgangsbez. Erlösrealisierung	2018.06.19 05:33:47										
+0045000027	0045000027	YCOA	LONG TET TEST		2018.06.19 05:33:47										
+0045000028	0045000028	YCOA	Test GL account en3		2018.06.19 05:33:47										
+0045000042	0045000042	YCOA	LONG TET TEST		2018.06.19 05:33:47										
+0045000043	0045000043	YCOA	TEST ACCOUNT		2018.06.19 05:33:47										
+0045000044	0045000044	YCOA	Test GL account en3		2018.06.19 05:33:47										
+0045000127	0045000127	YCOA	LONG TET TEST		2018.06.19 05:33:47										
+0045000128	0045000128	YCOA	Automation test GL a		2018.06.19 05:33:47										
+0045000142	0045000142	YCOA	LONG TET TEST		2018.06.19 05:33:47										
+0045000143	0045000143	YCOA	Automation test GL a		2018.06.19 05:33:47										
+0045000144	0045000144	YCOA	Test short text		2018.06.19 05:33:47										
+0050100000	0050100000	YCOA	Cost of Goods Sold (Raw Material w/o Cost Element)	Kosten des Umsatzes (Rohstoffe ohne Kostenart)	2018.06.19 05:33:47										
+0050150000	0050150000	YCOA	Cost of Goods Sold (PackagingMat w/o Cost Element)	Kosten des Umsatzes (Verpackung ohne Kostenart)	2018.06.19 05:33:47										
+0050200000	0050200000	YCOA	Cost of Goods Sold (Trade w/o Cost Element)	Kosten des Umsatzes (Handel ohne Kostenart)	2018.06.19 05:33:47										
+0050300000	0050300000	YCOA	Cost of Goods Sold (SF & Finish Goods w/o Cost El)	Kosten des Umsatzes (HF & FE ohne Kostenart)	2018.06.19 05:33:47										
+0050301000	0050301000	YCOA	COGS Direct Material	UK Direktmaterial	2018.06.19 05:33:47										
+0050302000	0050302000	YCOA	COGS Third Party	UK Fremd.lst.	2018.06.19 05:33:47										
+0050303000	0050303000	YCOA	COGS Material Overhead	UK Materialgemeink.	2018.06.19 05:33:47										
+0050304000	0050304000	YCOA	COGS Personnel Time	Kosten des Umsatzes Arbeitszeit	2018.06.19 05:33:47										
+0050305000	0050305000	YCOA	COGS Machine Time	Kosten des Umsatzes Maschinenzeit	2018.06.19 05:33:47										
+0050306000	0050306000	YCOA	COGS Setup Time	Kosten des Umsatzes Rüstzeit	2018.06.19 05:33:47										
+0050307000	0050307000	YCOA	COGS Production Overhead	UK FertigGemKosten	2018.06.19 05:33:47										
+0050308000	0050308000	YCOA	COGS Credits (Co/By-Pr)	Kosten des Umsatzes Ertrag aus Std-Kosten-Kalkul.	2018.06.19 05:33:47										
+0051100000	0051100000	YCOA	Consumption - Raw Material	Verbrauch Rohstoffe	2018.06.19 05:33:47										
+0051500000	0051500000	YCOA	Consumption - Packaging Material	Verbrauch Verpackung	2018.06.19 05:33:47										
+0051600000	0051600000	YCOA	Consumption - Trading Goods	Verbrauch Handelswaren	2018.06.19 05:33:47										
+0051700000	0051700000	YCOA	Consumption - Repair Material	Verbrauch Reparaturmaterial	2018.06.19 05:33:47										
+0051900000	0051900000	YCOA	Consumption - Subcontracting, w/o CE	Verbrauch Lohnbearbeitung ohne Kostenart	2018.06.19 05:33:47										
+0051950000	0051950000	YCOA	Consumption - Subcontracting	Verbrauch Lohnbearbeitung	2018.06.19 05:33:47										
+0052001000	0052001000	YCOA	Loss Inventory Variance (Raw & Trade)	Aufwand aus Inventur-Differenzen (Roh/Handel)	2018.06.19 05:33:47										
+0052003000	0052003000	YCOA	Loss Inventory Variance (SF & Finish Goods)	Aufwand aus Inventur-Differenzen (Halbf/Fertigerz)	2018.06.19 05:33:47										
+0052011000	0052011000	YCOA	Loss Inventory Transfer (Raw & Trade)	Aufwand Bestandsumlagerung (Roh/Handel)	2018.06.19 05:33:47										
+0052013000	0052013000	YCOA	Loss Inventory Transfer (SF & Finish Goods)	Aufwand aus Umlagerung (Halbfabr./Fertigerz.)	2018.06.19 05:33:47										
+0052021000	0052021000	YCOA	Loss Consumption for Quality Control (Raw & Trade)	Aufwand Verbrauch Qualitätskontrolle (Roh/Handel)	2018.06.19 05:33:47										
+0052023000	0052023000	YCOA	Loss Consumption for Quality Control (SF&Fin Gds)	Aufwand Verbrauch Qualitätskontr (Halbfabr/Fertig)	2018.06.19 05:33:47										
+0052030000	0052030000	YCOA	Loss from Revaluation	Aufwand aus Neubewertung	2018.06.19 05:33:47										
+0052031000	0052031000	YCOA	Loss from Valuation of External Products	Aufwand aus Umbewertung Fremderzeugnisse	2018.06.19 05:33:47										
+0052033000	0052033000	YCOA	Loss from Valuation of own Products	Aufwand aus Umbewertung Eigenerzeugnisse	2018.06.19 05:33:47										
+0052041000	0052041000	YCOA	Loss Price Variance (PRD)	Aufwand Preisabweichung (PRD)	2018.06.19 05:33:47										
+0052041500	0052041500	YCOA	Loss Inventory Value Adjustment Ext. Prod. (BSK)	Aufw. Bestandswertkorrekt. Fremderzeugnisse (BSK)	2018.06.19 05:33:47										
+0052042000	0052042000	YCOA	Loss Price Differences (PRV)	Aufwand aus Preisdifferenzen (PRV)	2018.06.19 05:33:47										
+0052043000	0052043000	YCOA	Loss Price Differences (PRY)	Aufwand aus Preisdifferenzen Material Ledger PRY	2018.06.19 05:33:47										
+0052044000	0052044000	YCOA	Loss Price Differences - Material Ledger (LKW)	Abgrenzungskonto Material Ledger Fremdmaterial LKW	2018.06.19 05:33:47										
+0052045000	0052045000	YCOA	Loss Price Differences own Products (PRK)	Aufwand aus Preisdifferenzen Eigenerzeugn. (PRK)	2018.06.19 05:33:47										
+0052046000	0052046000	YCOA	Differences (AVR Price)  (PRC)	Abgrenzungskonto Material Ledger Eigenmaterial PRC	2018.06.19 05:33:47										
+0052070000	0052070000	YCOA	Loss from Production Variances	Aufwand aus Preisdifferenzen Eigenerzeugnisse	2018.06.19 05:33:47										
+0052071000	0052071000	YCOA	Price Difference PRIV	Preisdifferenz PRIV	2018.06.19 05:33:47										
+0052072000	0052072000	YCOA	Price Difference QTYV	Preisdifferenz QTYV	2018.06.19 05:33:47										
+0052051000	0052051000	YCOA	Loss Consumption of Consign. Mat (Raw & Trade)	Aufwand aus Konsignationsverbrauch (Rohst. & HAWA)	2018.06.19 05:33:47										
+0052053000	0052053000	YCOA	Loss Consumption of Consign. Mat (SF & F.Goods)	Aufwand aus Konsignationsverbrauch (HF/FE)	2018.06.19 05:33:47										
+0052060000	0052060000	YCOA	Loss Small Price Differences Invoice Receipt (MM)	Aufwand aus Kleindifferenzen Rechnungseingang MM	2018.06.19 05:33:47										
+0052070500	0052070500	YCOA	Loss Inventory Value Adjustment Own Prod. (BSK)	Aufw. Bestandswertkorrekt. Eigenerzeugnisse (BSK)	2018.06.19 05:33:47										
+0052073000	0052073000	YCOA	Price Difference RSUV	Preisdifferenz RSUV	2018.06.19 05:33:47										
+0052074000	0052074000	YCOA	Price Difference INPV	Preisdifferenz INPV	2018.06.19 05:33:47										
+0052075000	0052075000	YCOA	Price Difference MXPV	Preisdifferenz MXPV	2018.06.19 05:33:47										
+0052076000	0052076000	YCOA	Price Difference OPPV	Preisdifferenz OPPV	2018.06.19 05:33:47										
+0052077000	0052077000	YCOA	Price Difference LSFV	Preisdifferenz LSFV	2018.06.19 05:33:47										
+0052078000	0052078000	YCOA	Price Difference REMV	Preisdifferenz REMV	2018.06.19 05:33:47										
+0052079000	0052079000	YCOA	Price Difference SCRP	Preisdifferenz SCRP	2018.06.19 05:33:47										
+0052080000	0052080000	YCOA	Loss from allowed Differences GL Account Clearing	Aufwand aus tol. Differenzen Sachkontenausgleich	2018.06.19 05:33:47										
+0052501000	0052501000	YCOA	Gain Inventory Variance (Raw & Trade)	Ertrag aus Inventur-Differenzen (Roh/Handel)	2018.06.19 05:33:47										
+0052503000	0052503000	YCOA	Gain Inventory Variance (SF & Finish Goods)	Ertrag aus Inventur-Differenzen (Halbf/Fertigerz)	2018.06.19 05:33:47										
+0052511000	0052511000	YCOA	Gain Inventory Transfer (Raw & Trade)	Ertrag Bestandsumlagerung (Roh/Handel)	2018.06.19 05:33:47										
+0052513000	0052513000	YCOA	Gain Inventory Transfer (SF & Finish Goods)	Ertrag aus Umlagerung (Halbfabr./Fertigerz.)	2018.06.19 05:33:47										
+0052521000	0052521000	YCOA	Gain Consumption for Quality Control (Raw & Trade)	Ertrag Verbrauch Qualitätskontrolle (Roh/Handel)	2018.06.19 05:33:47										
+0052523000	0052523000	YCOA	Gain Consumption for QM (SF & Finish Goods)	Ertrag aus Verbrauch für QM (Halbfabr./Fertigerz.)	2018.06.19 05:33:47										
+0052530000	0052530000	YCOA	Gain from Revaluation	Ertrag aus Neubewertung	2018.06.19 05:33:47										
+0052531000	0052531000	YCOA	Gain from Valuation of External Products	Ertrag aus Umbewertung Fremderzeugnisse	2018.06.19 05:33:47										
+0052532000	0052532000	YCOA	Gain from Valuation own Products	Ertrag aus Umbewertung von Eigenerzeugnissen	2018.06.19 05:33:47										
+0052541000	0052541000	YCOA	Gain Price Variance (PRD)	Ertrag Preisabw. (Ware)	2018.06.19 05:33:47										
+0052541100	0052541100	YCOA	Activity Price Diff. writeoff from WIP (PRA)		2018.06.19 05:33:47										
+0052541200	0052541200	YCOA	Activity Price Diff. writeoff from WIP (PRM)		2018.06.19 05:33:47										
+0052541500	0052541500	YCOA	Gain Inventory Value Adjustment Ext. Prod. (BSK)	Ertrag Bestandswertkorrekt. Fremderzeugnisse (BSK)	2018.06.19 05:33:47										
+0052542000	0052542000	YCOA	Gain Price Differences (PRV)	Ertrag aus Preisdifferenzen Vorst Eigenmat. ML PRV	2018.06.19 05:33:47										
+0052543000	0052543000	YCOA	Gain Price Differences (PRY)	Ertrag aus Preisdifferenzen aus Mat. Ledger PRY	2018.06.19 05:33:47										
+0052544000	0052544000	YCOA	Gain Price Differences - Material Ledger (LKW)	Ertrag Preisdifferenzen aus Material Ledger (LKW)	2018.06.19 05:33:47										
+0052545000	0052545000	YCOA	Posterior Real Rate Activity Allocation (AUI)	LeistVerrechnung Leistungstarif Periodenende (AUI)	2018.06.19 05:33:47										
+0052546000	0052546000	YCOA	Consumption Valuation (COC)	Verbrauchsbewertung (COC)	2018.06.19 05:33:47										
+0052551000	0052551000	YCOA	Gain Consumption of Consign. Mat (Raw & Trade)	Ertrag aus Konsignationsverbrauch (Rohst. & HAWA)	2018.06.19 05:33:47										
+0052552000	0052552000	YCOA	Gain Consumption of Consign. Mat (SF & F.Goods)	Ertrag aus Verbrauch Konsignations-Mat. (HF/FE)	2018.06.19 05:33:47										
+0052560000	0052560000	YCOA	Gain Small Price Difference Invoices Receipt (MM)	Ertrag aus Kleindifferenzen Rechnungseingang MM	2018.06.19 05:33:47										
+0052570000	0052570000	YCOA	Gain from Production Variances	Ertrag aus Preisdifferenzen Eigenerzeugnisse	2018.06.19 05:33:47										
+0052570500	0052570500	YCOA	Gain Inventory Value Adjustment Own Prod. (BSK)	Ertrag Bestandswertkorrekt. Eigenerzeugnisse (BSK)	2018.06.19 05:33:47										
+0052580000	0052580000	YCOA	Gain from allowed Differences GL Account Clearing	Ertrag aus tol. Differenzen Sachkontenausgleich	2018.06.19 05:33:47										
+0052590000	0052590000	YCOA	Freight Revenue - Recovery	Frachterlös - Rückgewinnung	2018.06.19 05:33:47										
+0054011000	0054011000	YCOA	Inventory Change - Purch.Offset.Acct (Raw)	Bestandsveränderung - Einkaufsgegenkonto (Rohst.)	2018.06.19 05:33:47										
+0054040000	0054040000	YCOA	Inventory Change - Reserve	Bestandsveränderung - Rückstellungen	2018.06.19 05:33:47										
+0054051000	0054051000	YCOA	Inventory Change - Scrap External Products	Verschrottung Fremderzeugnisse	2018.06.19 05:33:47										
+0054053000	0054053000	YCOA	Inventory Change - Scrap own Products	Verschrottung Eigenerzeugnisse	2018.06.19 05:33:47										
+0054011100	0054011100	YCOA	Inventory Change - Purch.offset.acct (Packaging)	Bestandsveränderung - Einkaufsgegenkonto (Verp.)	2018.06.19 05:33:47										
+0054011200	0054011200	YCOA	Inventory Change - Purch.offset.acct (Trading)	Bestandsveränderung - Einkaufsgegenkonto (Handel)	2018.06.19 05:33:47										
+0054013000	0054013000	YCOA	Inventory Change - Purch.Offset.Acct (SF & F.Good)	Bestandsveränderung - Einkaufsgegenkonto (HF/FE)	2018.06.19 05:33:47										
+0054070000	0054070000	YCOA	Inventory Change - Receipt without PO	Bestandsveränderung - Eingang ohne Bestellung	2018.06.19 05:33:47										
+0054083000	0054083000	YCOA	Inventory Change - Cost of own Goods sold w/C.Elem	Bestandsveränderung - Verk. Eigenerz. m. Kostenart	2018.06.19 05:33:47										
+0054084000	0054084000	YCOA	Inventory Change Cost own Goods sold SO cons. w/CE	Bestandsveränderung Umsatzkosten SO kons. mit KoA	2018.06.19 05:33:47										
+0054093000	0054093000	YCOA	Inventory Change - QM cons.own prod. w/ cst elem.	Bestandsveränderung Verbrauch QM Eigenerz.m.KoArt	2018.06.19 05:33:47										
+0054200000	0054200000	YCOA	Inventory Change - Work in Progress	Bestandsveränderung in Arbeit bef. Erzeugnisse	2018.06.19 05:33:47										
+0054300000	0054300000	YCOA	Inventory Change - Semi Finished goods	Bestandsveränderung - Halbfabrikate	2018.06.19 05:33:47										
+0054400000	0054400000	YCOA	Inventory Change - Finished Goods	Bestandsveränderung fertige Erzeugnisse	2018.06.19 05:33:47										
+0054441000	0054441000	YCOA	Reserves for Unrealized Costs	Rückstellungen für fehlende Kosten	2018.06.19 05:33:47										
+0055100000	0055100000	YCOA	Plant Activity Production Order	Fabrikleistung Fertigungsaufträge (BV)	2018.06.19 05:33:47										
+0055110000	0055110000	YCOA	Settlement to Fixed Asset (FXA)	Abrechnung an Anlagen	2018.06.19 05:33:47										
+0059900000	0059900000	YCOA	Cost of Goods Sold (Affiliated)	Umsatzkosten (Verbundene)	2018.06.19 05:33:47										
+0061002000	0061002000	YCOA	3rd party material	Streckenmaterial	2018.06.19 05:33:47										
+0061003000	0061003000	YCOA	Travel Expenses - Hotel and Accommodation	Reisekosten Unterkunft (Belege/Pauschalen)	2018.06.19 05:33:47										
+0061004000	0061004000	YCOA	Travel Expenses - Meals	Reisekosten Verpflegung (Belege/Pauschalen)	2018.06.19 05:33:47										
+0061005000	0061005000	YCOA	Travel Expenses - Ground Transportation	Reisekosten - Fahrtkosten	2018.06.19 05:33:47										
+0061006000	0061006000	YCOA	Travel Expenses - Entertainment	Bewirtung und Präsentation	2018.06.19 05:33:47										
+0061007000	0061007000	YCOA	Travel Expenses - Airfare, Rail, Mileage	Reisekosten Flüge und Fahrten	2018.06.19 05:33:47										
+0061008000	0061008000	YCOA	Travel Expenses - Miscellaneous	Sonstige Reisekosten	2018.06.19 05:33:47										
+0061010000	0061010000	YCOA	Payroll - Other Personnel Expenses	Sonstige Personalkosten	2018.06.19 05:33:47										
+0061020000	0061020000	YCOA	Payroll - Bonus	Tarifliche Jahresleistungen Löhne	2018.06.19 05:33:47										
+0061021000	0061021000	YCOA	Payroll - Overtime Salaries	Überstundenzuschläge Gehälter	2018.06.19 05:33:47										
+0061021100	0061021100	YCOA	Payroll - Overtime Wages	Überstundenzuschläge Löhne	2018.06.19 05:33:47										
+0061022000	0061022000	YCOA	Payroll - Vacation Pay Salaries	Tarifliche Urlaubsgehälter	2018.06.19 05:33:47										
+0061022010	0061022010	YCOA	Payroll - Sick Pay	Krankengeld (AU)	2018.06.19 05:33:47										
+0061022020	0061022020	YCOA	Payroll - Disability Pay (AU)	Krankheitslohnfortzahlung (AU)	2018.06.19 05:33:47										
+0061022030	0061022030	YCOA	Long Service Leave	Dienstalterurlaub (AU)	2018.06.19 05:33:47										
+0061022040	0061022040	YCOA	Workers' compensation assoc. contributions (AU,BR)	Berufsgenossenschafts-Beitrag (AU, BR)	2018.06.19 05:33:47										
+0061022100	0061022100	YCOA	Payroll - Vacation Pay Wages	Tarifliches Urlaubsgeld Löhne (AU)	2018.06.19 05:33:47										
+0061023010	0061023010	YCOA	Payroll-Medical insurance	Personalabrechnung - Krankenversicherung (CN)	2018.06.19 05:33:47										
+0061023020	0061023020	YCOA	payroll- endowment insurance (CN)	Personalabrechnung - Kapitalversicherung (CN)	2018.06.19 05:33:47										
+0061023030	0061023030	YCOA	payroll- unemployment insurance	Personalabrechnung - Arbeitslosenversicherung (CN)	2018.06.19 05:33:47										
+0061023040	0061023040	YCOA	payroll- work injury insurance (CN)	PersAbr. - Arbeitsunfallversicherung (CN)	2018.06.19 05:33:47										
+0061023050	0061023050	YCOA	payroll- housing fund (CN)	Personalabrechnung - Wohnraumfonds (CN)	2018.06.19 05:33:47										
+0061023060	0061023060	YCOA	payroll- labor union dues and education dues (CN)	PerAbr.- Gewerkschafts- u. Ausbildungsbeitrag (CN)	2018.06.19 05:33:47										
+0061051000	0061051000	YCOA	Payroll Expense - Downtime Wages	Ausfalllöhne	2018.06.19 05:33:47										
+0061052000	0061052000	YCOA	Payroll Expense - Downtime Salaries	Ausfallgehälter	2018.06.19 05:33:47										
+0061060000	0061060000	YCOA	Payroll Expense - Pension Contributions	Aufwand für Altersversorgung	2018.06.19 05:33:47										
+0061061000	0061061000	YCOA	Payroll - Benefits	Arbeitgeberleistungen	2018.06.19 05:33:47										
+0061062000	0061062000	YCOA	Workers' Compensation Association Contributions	Berufsgenossenschaftsbeitrag	2018.06.19 05:33:47										
+0061063000	0061063000	YCOA	Dues to Associations	Beiträge zu Wirtschaftsverb. u. Berufsvertretungen	2018.06.19 05:33:47										
+0061100000	0061100000	YCOA	Payroll Expense - Salaries	Gehälter	2018.06.19 05:33:47										
+0061101000	0061101000	YCOA	Payroll Expense - Other salary-related expenses	Sonstige Aufwendungen mit Gehaltscharakter	2018.06.19 05:33:47										
+0061102000	0061102000	YCOA	Payroll Expense - Other wage-related expenses	Sonstige Aufwendungen mit Lohncharakter	2018.06.19 05:33:47										
+0061103000	0061103000	YCOA	Payroll Expense - Direct Labor Cost	Fertigungslöhne	2018.06.19 05:33:47										
+0061104000	0061104000	YCOA	Payroll Expense - Indirect Labor Cost	Hilfslöhne	2018.06.19 05:33:47										
+0061200000	0061200000	YCOA	Payroll Expense - Tax and Soc Security - Wages	Arbeitgeberanteil zur Sozialversicherung Löhne	2018.06.19 05:33:47										
+0061201000	0061201000	YCOA	Payroll Expense - Tax and Soc Security - Salaries	Arbeitgeberanteil zur Sozialversicherung Gehälter	2018.06.19 05:33:47										
+0061310000	0061310000	YCOA	INSS (Direct Production Cost) (BR)	INSS (Fertigungseinzelkosten) (BR)	2018.06.19 05:33:47										
+0061400000	0061400000	YCOA	Training and Education	Fort- und Weiterbildung	2018.06.19 05:33:47										
+0061401000	0061401000	YCOA	HR Recruitement	HR-Personalbeschaffung	2018.06.19 05:33:47										
+0061500000	0061500000	YCOA	Sales Commissions	Verkäuferprovisionen	2018.06.19 05:33:47										
+0062000000	0062000000	YCOA	Bad Debt Expense	Abschreibungen Forderungen wg Uneinbringlichkeit	2018.06.19 05:33:47										
+0062010000	0062010000	YCOA	Individual Value Adjustments	Einstellung in Einzelwertberichtigung	2018.06.19 05:33:47										
+0062020000	0062020000	YCOA	Flat-rate Value Adjustments	Einstellung in Pauschalwertberichtigung	2018.06.19 05:33:47										
+0063000000	0063000000	YCOA	Machine and Equipment Periodic Service	Maschinen und Geräte - periodischer Service	2018.06.19 05:33:47										
+0063000500	0063000500	YCOA	Qualtiy Control Consumption Ext. Prod. w/ Act Type	Verbrauch Qualitätskontrolle Fremderz m. Kostenart	2018.06.19 05:33:47										
+0063001000	0063001000	YCOA	Electricity and other Utilities	Strom- und Gaskosten	2018.06.19 05:33:47										
+0063002000	0063002000	YCOA	Water	Wasser	2018.06.19 05:33:47										
+0063003000	0063003000	YCOA	Other Periodic Service	Sonstiger periodischer Service	2018.06.19 05:33:47										
+0063004000	0063004000	YCOA	Insurance	Versicherungen	2018.06.19 05:33:47										
+0063005000	0063005000	YCOA	Office/Building Rent	Mieten Pachten Erbbauzinsen	2018.06.19 05:33:47										
+0063006000	0063006000	YCOA	Telephone and other Communication	Telefon und Sonstiges	2018.06.19 05:33:47										
+0063007000	0063007000	YCOA	Fax and Internet	Fax und Internet	2018.06.19 05:33:47										
+0063008000	0063008000	YCOA	Building Periodic Service	Gebäude - periodischer Service	2018.06.19 05:33:47										
+0063009000	0063009000	YCOA	Leasing Expense	Leasingaufwand	2018.06.19 05:33:47										
+0063009100	0063009100	YCOA	Lease Expense Building (ROU)	Leasingaufwendungen für Gebäude (ROU)	2018.06.19 05:33:47										
+0063009200	0063009200	YCOA	Lease Expense Land (ROU)	Leasingaufwendungen für Grundstücke (ROU)	2018.06.19 05:33:47										
+0063009300	0063009300	YCOA	Lease expense Machinery (ROU)	Leasingaufwendungen für technische Anlagen (ROU)	2018.06.19 05:33:47										
+0063009400	0063009400	YCOA	Lease expense Motor Vehicle (ROU)	Leasingaufwendungen für Fuhrpark (ROU)	2018.06.19 05:33:47										
+0063009500	0063009500	YCOA	Lease expense Office Equipment (ROU)	Leasingaufwendungen für Geschäftsausstattung (ROU)	2018.06.19 05:33:47										
+0063009600	0063009600	YCOA	Lease Expense Furniture (ROU)	Leasingaufwendungen für Betriebssausstattung (ROU)	2018.06.19 05:33:47										
+0063009700	0063009700	YCOA	Lease Expense Computer Hardware (ROU)	Leasingaufwendungen für Computer-Hardware (ROU)	2018.06.19 05:33:47										
+0063010100	0063010100	YCOA	Service Expense Land (ROU)	Aufwendungen für Leistungen - Grundstücke (ROU)	2018.06.19 05:33:47										
+0063010200	0063010200	YCOA	Service Expense Building (ROU)	Aufwendungen für Leistungen - Gebäude (ROU)	2018.06.19 05:33:47										
+0063010300	0063010300	YCOA	Service expense Machinery (ROU)	Aufwendungen für Leistungen - Tech. Anlagen (ROU)	2018.06.19 05:33:47										
+0063010400	0063010400	YCOA	Operating expense Motor Vehicle (ROU)	Betriebliche Aufwendungen - Fuhrpark (ROU)	2018.06.19 05:33:47										
+0063010500	0063010500	YCOA	Service expense Office Equipment (ROU)	Aufwendungen f. Leistungen - Geschäftsausst. (ROU)	2018.06.19 05:33:47										
+0063010600	0063010600	YCOA	Service Expense Furniture (ROU)	Aufwendungen f. Leistungen - Betriebsausst. (ROU)	2018.06.19 05:33:47										
+0063010700	0063010700	YCOA	Service Expense Computer Hardware (ROU)	Aufwendungen f. Leistungen - Computer-Hardw. (ROU)	2018.06.19 05:33:47										
+0064000100	0064000100	YCOA	Depreciation Expense - Land (ROU)	Abschreibungen - Grundstücke (ROU)	2018.06.19 05:33:47										
+0064001000	0064001000	YCOA	Depreciation Expense - Buildings	Abschreibungen auf Grundstücke und Gebäude	2018.06.19 05:33:47										
+0064001100	0064001100	YCOA	Depreciation Expense - Buildings (ROU)	Abschreibungen - Gebäude (ROU)	2018.06.19 05:33:47										
+0063020100	0063020100	YCOA	Exp./Rev. from Valuation Diff. Building (ROU)	Aufw/Erträge aus Bewertungsdifferenz Gebäude (ROU)	2018.06.19 05:33:47										
+0063020200	0063020200	YCOA	Exp./Rev. from Valuation Diff. Land (ROU)	Aufw./Ertr. aus Bewertungsdiff. Grundstücke (ROU)	2018.06.19 05:33:47										
+0063020300	0063020300	YCOA	Exp./Rev. from Valuation Diff. Machinery (ROU)	Aufw./Ertr. aus Bewertungsdiff. Tech. Anlage (ROU)	2018.06.19 05:33:47										
+0063020400	0063020400	YCOA	Exp./Rev. from Valuation Diff. Motor Vehicle (ROU)	Aufw./Ertr. aus Bewertungsdiff. Fuhrpark (ROU)	2018.06.19 05:33:47										
+0063020500	0063020500	YCOA	Exp./Rev. Valuation Diff. Office Equipment (ROU)	Aufw./Ertr. BewertDifferenz Geschäftsausst. (ROU)	2018.06.19 05:33:47										
+0063020600	0063020600	YCOA	Exp./Rev. from Valuation Diff. Furniture (ROU)	Aufw./Ertr. aus BewertDiff. Betriebsausst. (ROU)	2018.06.19 05:33:47										
+0063020700	0063020700	YCOA	Exp./Rev. Valuation Diff. Computer Hardware (ROU)	Aufw./Ertr. BewertDiffernz Computer-Hardware (ROU)	2018.06.19 05:33:47										
+0064001010	0064001010	YCOA	Depr Expense Buildings Reduction Entry Reserve(JP)	AfA Gebäude - Kürz. Eintrittsrückstellungen (JP)	2018.06.19 05:33:47										
+0064002000	0064002000	YCOA	Depreciation Expense - Machinery & Equipment	Abschreibungen auf technische Anlagen u. Maschinen	2018.06.19 05:33:47										
+0064002100	0064002100	YCOA	Depreciation Expense - Machinery & Equipment (ROU)	Abschreibungen - Tech. Anlagen und Maschinen (ROU)	2018.06.19 05:33:47										
+0064003000	0064003000	YCOA	Depreciation Expense - Building Improvement	Abschreibungen auf Gebäudeeinrichtungen	2018.06.19 05:33:47										
+0064004000	0064004000	YCOA	Depreciation Expense - Motor Vehicles	Abschreibungen auf Fahrzeuge	2018.06.19 05:33:47										
+0064004100	0064004100	YCOA	Depreciation Expense - Motor Vehicles (ROU)	Abschreibungen - Fuhrpark (ROU)	2018.06.19 05:33:47										
+0064005000	0064005000	YCOA	Depreciation Expense - Office Equipment	Abschreib. auf Betriebs- und Geschäftsausstattung	2018.06.19 05:33:47										
+0064005100	0064005100	YCOA	Depreciation Expense - Office Equipment (ROU)	Abschreibungen - Geschäftsausstattung (ROU)	2018.06.19 05:33:47										
+0064006000	0064006000	YCOA	Depreciation Expense - Furniture	Abschreibungen auf Möbel	2018.06.19 05:33:47										
+0064006100	0064006100	YCOA	Depreciation Expense - Furniture (ROU)	Abschreibungen - Betriebsausstattung (ROU)	2018.06.19 05:33:47										
+0064007000	0064007000	YCOA	Depreciation Expense - Computer Hardware	Abschreibungsaufwand - Computer-Hardware	2018.06.19 05:33:47										
+0065009000	0065009000	YCOA	Other Activity Costs	Sonstige Aufwendungen für bezogene Leistungen	2018.06.19 05:33:47										
+0064007100	0064007100	YCOA	Depreciation Expense - Computer Hardware (ROU)	Abschreibungen - Computer-Hardware (ROU)	2018.06.19 05:33:47										
+0064008000	0064008000	YCOA	Depreciation Expense - Computer Software	Abschreibungen auf Computer-Software	2018.06.19 05:33:47										
+0064010000	0064010000	YCOA	Service Contract Expense	Aufwendungen für Leistungsvertrag	2018.06.19 05:33:47										
+0064020000	0064020000	YCOA	Depreciation Expense - Low Value Assets	Abschreibungen auf Geringwertige Wirtschaftsgüter	2018.06.19 05:33:47										
+0064021000	0064021000	YCOA	Depreciation Expense - Intangible Assets	Abschreibung auf immaterielle Vermögensgegenstände	2018.06.19 05:33:47										
+0064030000	0064030000	YCOA	Unplanned Depreciation Expense	Aufwand für außerplanmäßige Abschreibung	2018.06.19 05:33:47										
+0064031000	0064031000	YCOA	Depr expense (Bk > Tax) - Exceptional depr	AfA (SL > St.) - außerord. Abschreibungen (FR)	2018.06.19 05:33:47										
+0064032000	0064032000	YCOA	Depr expense (Bk < Tax) - Exceptional depr	AfA (SL < St.) - außerord. Abschreibungen (FR)	2018.06.19 05:33:47										
+0064040000	0064040000	YCOA	Scheduled Deprec Fixed Assets below Asset Value	Planmä. Abschr. auf Sachanlagen unter Anlagenwert	2018.06.19 05:33:47										
+0064043000	0064043000	YCOA	Amortization Expense - Goodwill	Abschreibungen auf Geschäfts- oder Firmenwert	2018.06.19 05:33:47										
+0064050000	0064050000	YCOA	Estimated Depreciation (CO)	Kalkulatorische Abschreibungen (Ermittlung CO)	2018.06.19 05:33:47										
+0064060000	0064060000	YCOA	Accrued interest (CO)	Kalkulatorische Zinsen (CO)	2018.06.19 05:33:47										
+0065000000	0065000000	YCOA	Postage and Shipping	Porto und Versand	2018.06.19 05:33:47										
+0065000500	0065000500	YCOA	Non Production - Material Consumption	Materialverbrauch ohne Produktion	2018.06.19 05:33:47										
+0065001000	0065001000	YCOA	Purchased Services	Bezogene Dienstleistungen	2018.06.19 05:33:47										
+0065002000	0065002000	YCOA	Advertising and Sales Costs	Werbe- und Vertreterkosten	2018.06.19 05:33:47										
+0065003000	0065003000	YCOA	Vehicle Costs	Kraftfahrzeugkosten	2018.06.19 05:33:47										
+0065004000	0065004000	YCOA	Donations	Spenden	2018.06.19 05:33:47										
+0065008000	0065008000	YCOA	Purchased Services-Time	Bezogene Dienstleistungen - Zeit	2018.06.19 05:33:47										
+0065008300	0065008300	YCOA	Services - General	Dienstleistungen - allgemein	2018.06.19 05:33:47										
+0065008500	0065008500	YCOA	Subcontracting Services	Lohnbearbeitungsleistungen	2018.06.19 05:33:47										
+0065050000	0065050000	YCOA	Unplanned Delivery costs	Ungeplante Bezugsnebenkosten	2018.06.19 05:33:47										
+0065100000	0065100000	YCOA	Office Supplies	Büromaterial	2018.06.19 05:33:47										
+0065150000	0065150000	YCOA	Computer Supplies	EDV-Material	2018.06.19 05:33:47										
+0065200000	0065200000	YCOA	Other Supplies	Sonstiges Material	2018.06.19 05:33:47										
+0065300000	0065300000	YCOA	Legal and Audit Services	Rechts- und Beratungskosten	2018.06.19 05:33:47										
+0065301000	0065301000	YCOA	Marketing Expenses	Marketingaufwendungen	2018.06.19 05:33:47										
+0065400000	0065400000	YCOA	Freight	Frachten und Fremdlager	2018.06.19 05:33:47										
+0065900000	0065900000	YCOA	Loss in the Event of Damage	Verlust aus Schadensfällen	2018.06.19 05:33:47										
+0066000000	0066000000	YCOA	Other Operating Expenses	Sonstiger betrieblicher Aufwand	2018.06.19 05:33:47										
+0066000500	0066000500	YCOA	Income - reduction in provisions	Erträge - Kürzung von Rückstellungen	2018.06.19 05:33:47										
+0066000600	0066000600	YCOA	Other Gains	Sonstige betriebliche Erträge	2018.06.19 05:33:47										
+0066010000	0066010000	YCOA	Expense of Discounting (ZKB)	Aufwand Abzinsung (ZKB)	2018.06.19 05:33:47										
+0066019900	0066019900	YCOA	Addition to Provisions (ZKK)	Zuführung zu Rückstellungen (ZKK)	2018.06.19 05:33:47										
+0068000000	0068000000	YCOA	Purchase Account (Raw)	Einkaufskonto (Rohstoff)	2018.06.19 05:33:47										
+0068001000	0068001000	YCOA	Purchase account (Packaging)	Einkaufskonto (Verpackung)	2018.06.19 05:33:47										
+0068002000	0068002000	YCOA	Purchase account (Trading)	Einkaufskonto (Handel)	2018.06.19 05:33:47										
+0068010000	0068010000	YCOA	Purchase Account (SF & Finish Goods)	Einkaufskonto (Halbfabrikat/Fertigerzeugnis)	2018.06.19 05:33:47										
+0070010000	0070010000	YCOA	Revenue from Post Capitalization	Ertrag aus Nachaktivierung	2018.06.19 05:33:47										
+0070015000	0070015000	YCOA	Settlement of Asset u. Construction to CO Object	Abrechnung Anlage im Bau auf CO-Objekt	2018.06.19 05:33:47										
+0070020000	0070020000	YCOA	Revenue from Fixed Asset Sale	Ertrag aus Anlagenabgang	2018.06.19 05:33:47										
+0070030000	0070030000	YCOA	Clearing Account Asset Disposals	Verrechnungskonto Anlagenabgang	2018.06.19 05:33:47										
+0070040000	0070040000	YCOA	Discount Received	Lieferantenskonti	2018.06.19 05:33:47										
+0070100000	0070100000	YCOA	Interest Income	Zinserträge	2018.06.19 05:33:47										
+0070050000	0070050000	YCOA	Clearing affiliated asset transfer	Verrechnung Anlagentransfer an verbund. Unternehm.	2018.06.19 05:33:47										
+0070300000	0070300000	YCOA	Interest Income - Subsidiaries	Sonstige Zinsen u ähnliche Erträge Verbundene	2018.06.19 05:33:47										
+0070300100	0070300100	YCOA	Gain from Long Term Investment	Ertrag aus Beteiligungen	2018.06.19 05:33:47										
+0070400000	0070400000	YCOA	Dividend Income (HU)	Dividendenerträge (HU)	2018.06.19 05:33:47										
+0070500000	0070500000	YCOA	Consumption of Provisions	Inanspruchnahme Rückstellungen	2018.06.19 05:33:47										
+0070700000	0070700000	YCOA	Lease Income for - Non-Residential Real Estate	Leasingerlöse - Gewerbliche Immobilien	2018.06.19 05:33:47										
+0070700100	0070700100	YCOA	Leasing Income - Residential Real Estate	Leasingserlöse - Wohnimmobilien	2018.06.19 05:33:47										
+0070700200	0070700200	YCOA	Leasing Income - Other	Leasingerlöse - Sonstige	2018.06.19 05:33:47										
+0070700300	0070700300	YCOA	Leasing Income - Interest (ROU)	Leasingerlöse - Zins (ROU)	2018.06.19 05:33:47										
+0070700400	0070700400	YCOA	Leasing Income - Sublease (ROU)	Leasingerlöse - Untervermietung (ROU)	2018.06.19 05:33:47										
+0070800000	0070800000	YCOA	Other Extraordinary Income	Außerordentliche Erträge	2018.06.19 05:33:47										
+0070800100	0070800100	YCOA	Service Income - Real Estate	Erlöse aus Leistungen - Immobilien	2018.06.19 05:33:47										
+0070800200	0070800200	YCOA	Service Income - other	Erlöse aus Leistungen - Sonstige	2018.06.19 05:33:47										
+0070900000	0070900000	YCOA	Fines and Penalties	Bußgelder und Strafen	2018.06.19 05:33:47										
+0071000000	0071000000	YCOA	Bank Charges	Nebenkosten des Geldverkehrs	2018.06.19 05:33:47										
+0071010000	0071010000	YCOA	Loss from Asset Transactions	Mindererlös aus Anlagenabgang	2018.06.19 05:33:47										
+0071010100	0071010100	YCOA	Gain from Asset Transactions	Mehrerlös aus Anlagenabgang	2018.06.19 05:33:47										
+0071010200	0071010200	YCOA	Gain from Write Up of Fixed Assets	Ertrag aus Zuschreibungen des Anlagevermögens	2018.06.19 05:33:47										
+0071010400	0071010400	YCOA	Loss from Capitalization Differences	Aufwand aus Aktivierungsdifferenzen	2018.06.19 05:33:47										
+0072532000	0072532000	YCOA	Gain from Supplier Rebate (SD)		2018.06.19 05:33:47										
+0072540000	0072540000	YCOA	Gain from currency valuation	Ertrag aus Währungsbewertung	2018.06.19 05:33:47										
+0075001000	0075001000	YCOA	Excise Taxes	Verbrauchsteuern	2018.06.19 05:33:47										
+0071010500	0071010500	YCOA	Clearing-estimated Depreciation on Fixed Assets	Verrechnung kalkulatorische AfA auf Sachanlagen	2018.06.19 05:33:47										
+0071010600	0071010600	YCOA	Clearing Depreciation local GAAP	Verrechnung AfA - Lokale Rechnungslegung	2018.06.19 05:33:47										
+0071010700	0071010700	YCOA	Estimated depreciation (FI-AA)	Kalkulatorische Abschreibungen (Ermittlung FI-AA)	2018.06.19 05:33:47										
+0071010800	0071010800	YCOA	Depreciation local GAAP	Abschreibung nach lokalem Recht	2018.06.19 05:33:47										
+0071015000	0071015000	YCOA	Offsetting Account Revaluation ord. Depreciation	Gegenkonto Aufwertung Normalabschreibungen	2018.06.19 05:33:47										
+0071040000	0071040000	YCOA	Discount lost using Net Procedure	Skontoverlust beim Nettoverfahren	2018.06.19 05:33:47										
+0071050000	0071050000	YCOA	Cash Discounts Expense	Aufwände für Skonto	2018.06.19 05:33:47										
+0071100000	0071100000	YCOA	Interest Expense	Zinsaufwendungen	2018.06.19 05:33:47										
+0071100100	0071100100	YCOA	Interest expense Land (ROU)	Zinsaufwendungen für Grundstücke (ROU)	2018.06.19 05:33:47										
+0071100200	0071100200	YCOA	Interest expense Building (ROU)	Zinsaufwendungen für Gebäude (ROU)	2018.06.19 05:33:47										
+0071100300	0071100300	YCOA	Interest expense Machinery (ROU)	Zinsaufwendungen für technische Anlagen (ROU)	2018.06.19 05:33:47										
+0071100400	0071100400	YCOA	Interest expense Motor Vehicle (ROU)	Zinsaufwendungen für Fuhrpark (ROU)	2018.06.19 05:33:47										
+0071100500	0071100500	YCOA	Interest expense Office Equipment (ROU)	Zinsaufwendungen für Geschäftsausstattung (ROU)	2018.06.19 05:33:47										
+0071100600	0071100600	YCOA	Interest Expense Furniture (ROU)	Zinsaufwendungen für Betriebsausstatung (ROU)	2018.06.19 05:33:47										
+0071100700	0071100700	YCOA	Interest Computer Hardware (ROU)	Zinsaufwendungen für Hardware (ROU)	2018.06.19 05:33:47										
+0071300000	0071300000	YCOA	Interest Expense - Subsidiaries	Zinsaufwendungen verbundene Unternehmen	2018.06.19 05:33:47										
+0071800000	0071800000	YCOA	Other Extraordinary Expenses	Ausserordentlicher Aufwand	2018.06.19 05:33:47										
+0072010000	0072010000	YCOA	Loss from Exchange Rate Differences	Kursverluste Forderungen in FW und Valutabeständen	2018.06.19 05:33:47										
+0072040000	0072040000	YCOA	Loss from Currency Valuation	Aufwand aus Währungsbewertung	2018.06.19 05:33:47										
+0072530000	0072530000	YCOA	Gain from rebates differences	Ertrag aus Bonusdifferenzen	2018.06.19 05:33:47										
+0072531000	0072531000	YCOA	Gain from Supplier Rebate (MM)		2018.06.19 05:33:47										
+0072020000	0072020000	YCOA	Loss from Rounding Dif. Foreign Currency	Aufwand Rundungsdifferenzen Fremdwährung (MM)	2018.06.19 05:33:47										
+0072510000	0072510000	YCOA	Gain from exchange rate differences	Kursgewinne Forderungen in FW und Valutabeständen	2018.06.19 05:33:47										
+0072520000	0072520000	YCOA	Gain from rounding dif. foreign currency	Ertrag Rundungsdifferenzen Fremdwährung (MM)	2018.06.19 05:33:47										
+0075002000	0075002000	YCOA	Corporate Income Tax Expense	Aufwendungen für Körperschaftssteuer	2018.06.19 05:33:47										
+0075002100	0075002100	YCOA	Capital Gains Tax	Kapitalertragssteuer	2018.06.19 05:33:47										
+0075002200	0075002200	YCOA	Solidary Surcharge on Corporate Income Tax	Solidaritätszuschlag auf Körperschaftssteuer	2018.06.19 05:33:47										
+0075002300	0075002300	YCOA	Solidary surcharge for Interest Income Tax	Solidaritätszuschlag auf Zinsabschlagsteuer	2018.06.19 05:33:47										
+0075003000	0075003000	YCOA	Deferred Tax	Latente Steuern	2018.06.19 05:33:47										
+0075004000	0075004000	YCOA	Other Taxes on Income	Sonstige Steuern vom Einkommen und Ertrag	2018.06.19 05:33:47										
+0075004010	0075004010	YCOA	vehicle and vessels tax	Kfz- und Wasserfahrzeugsteuer	2018.06.19 05:33:47										
+0075004020	0075004020	YCOA	land usage tax	Landnutzungssteuer	2018.06.19 05:33:47										
+0075004030	0075004030	YCOA	stamp tax	Stempelsteuer	2018.06.19 05:33:47										
+0075004040	0075004040	YCOA	Tax&addit. Duty	Steuer und Zusatzzoll	2018.06.19 05:33:47										
+0075005000	0075005000	YCOA	Input Tax non deductable (NAV)	Sonstige Steuern nicht abzugsfähig (NAV)	2018.06.19 05:33:47										
+0075007000	0075007000	YCOA	Property Taxes	Grundsteuer	2018.06.19 05:33:47										
+0075008000	0075008000	YCOA	Trade Tax	Gewerbesteuer	2018.06.19 05:33:47										
+0075008010	0075008010	YCOA	Capital Gains Tax (AU)	Kapitalertragssteuer (AU)	2018.06.19 05:33:47										
+0075008020	0075008020	YCOA	Tax Fringe Benefits Tax (AU)	Steuer auf Gehaltszusätze (AU)	2018.06.19 05:33:47										
+0075008050	0075008050	YCOA	Export Taxes (FR) (AU)	Ausfuhrsteuern (FR) (AU)	2018.06.19 05:33:47										
+0075009000	0075009000	YCOA	Export Duty	Ausfuhrzölle	2018.06.19 05:33:47										
+0075009900	0075009900	YCOA	Other Company Taxes	Sonstige betriebliche Steuern	2018.06.19 05:33:47										
+0090001000	0090001000	YCOA	Activated Carried Forward Losses	Aktivierter Verlustvortrag	2018.06.19 05:33:47										
+0090002000	0090002000	YCOA	Deferred Carried Forward Losses	Abgegrenzter Verlustvortrag	2018.06.19 05:33:47										
+0092101500	0092101500	YCOA	Settl. Rework	Abrechnung Nacharbeit	2018.06.19 05:33:47										
+0092101800	0092101800	YCOA	Settlement R&D	Abrechnung Forschung und Entwicklung	2018.06.19 05:33:47										
+0092105100	0092105100	YCOA	Personnel costs	Personalkosten	2018.06.19 05:33:47										
+0092105200	0092105200	YCOA	Spare/Service/Ext Material con	Verbrauch Ersatzteile/Leistungen/Fremdmaterial	2018.06.19 05:33:47										
+0092105300	0092105300	YCOA	Other costs	Sonstige Kosten	2018.06.19 05:33:47										
+0092105400	0092105400	YCOA	Secondary costs	Sekundärkosten	2018.06.19 05:33:47										
+0093100000	0093100000	YCOA	Result Analysis Technical	Ergebnisermittlung Technik	2018.06.19 05:33:47										
+0093111100	0093111100	YCOA	Result Analysis Primary Costs	Ergebnisermittlung Primärkosten	2018.06.19 05:33:47										
+0093112000	0093112000	YCOA	Result Analysis COP Reserv.	Rückstellungen primär	2018.06.19 05:33:47										
+0093113000	0093113000	YCOA	Result Analysis SEC Costs	Ergebnisermittlung Sekundärkosten	2018.06.19 05:33:47										
+0093114000	0093114000	YCOA	Result Analysis COS Reserv.	Rückstellungen sekundär	2018.06.19 05:33:47										
+0093115000	0093115000	YCOA	Result Analysis OVH Costs	Ergebnisermittlung Gemeinkosten	2018.06.19 05:33:47										
+0093116000	0093116000	YCOA	Result Analysis OVH Reserv.	Ergebnisermittlung Gemeinkosten Rücklagen	2018.06.19 05:33:47										
+0094111000	0094111000	YCOA	Overhead Material	Gemeinkosten Material	2018.06.19 05:33:47										
+0094112000	0094112000	YCOA	Overhead production	Gemeinkosten Fertigung	2018.06.19 05:33:47										
+0094113000	0094113000	YCOA	Overhead administration	Gemeinkosten Verwaltung	2018.06.19 05:33:47										
+0094114000	0094114000	YCOA	Overhead sales	Gemeinkosten Vertrieb	2018.06.19 05:33:47										
+0094201000	0094201000	YCOA	Buildings & Periodic Service	Gebäude und periodischer Service	2018.06.19 05:33:47										
+0094202000	0094202000	YCOA	Assessment Quality costs	Umlage Qualitätskosten	2018.06.19 05:33:47										
+0094220000	0094220000	YCOA	COPA Assessment	CO-PA Umlage	2018.06.19 05:33:47										
+0094221000	0094221000	YCOA	COPA-overhead cost	CO-PA - Gemeinkosten	2018.06.19 05:33:47										
+0094222000	0094222000	YCOA	COPA-Marketing	CO-PA - Marketing	2018.06.19 05:33:47										
+0094223000	0094223000	YCOA	COPA -R&D	CO-PA - F&E	2018.06.19 05:33:47										
+0094224000	0094224000	YCOA	COPA -Admin. Overhead	CO-PA Verwaltung Gemeinkosten	2018.06.19 05:33:47										
+0094225000	0094225000	YCOA	COPA -Sales. Overhead	CO-PA Vertrieb Gemeinkosten	2018.06.19 05:33:47										
+0094226000	0094226000	YCOA	COPA-Non-Operating Expense	CO-PA - nicht betriebliche Aufwendungen	2018.06.19 05:33:47										
+0094227000	0094227000	YCOA	COPA-Non-Operating Income	CO-PA nicht betriebliche Erträge	2018.06.19 05:33:47										
+0094228000	0094228000	YCOA	COPA -Taxes	CO-PA - Steuern	2018.06.19 05:33:47										
+0094229000	0094229000	YCOA	COPA -cash Discount	CO-PA - Skonto	2018.06.19 05:33:47										
+0094229900	0094229900	YCOA	COPA -consulting overhead	CO-PA - Beratungsgemeinkosten	2018.06.19 05:33:47										
+0094301000	0094301000	YCOA	Machine hours 1	Maschinenstunden 1	2018.06.19 05:33:47										
+0094302000	0094302000	YCOA	Machine hours 2	Maschinenstunden 2	2018.06.19 05:33:47										
+0094303000	0094303000	YCOA	Setup Production	Rüsten	2018.06.19 05:33:47										
+0094304000	0094304000	YCOA	Water	Wasser	2018.06.19 05:33:47										
+0094305000	0094305000	YCOA	Industry Effluent	Industrieabwasser	2018.06.19 05:33:47										
+0094306000	0094306000	YCOA	Environmental	Umweltschutz	2018.06.19 05:33:47										
+0094307000	0094307000	YCOA	Internal Transport	Innerbetrieblicher Transport	2018.06.19 05:33:47										
+0094308000	0094308000	YCOA	Consulting	Beratung	2018.06.19 05:33:47										
+0094309000	0094309000	YCOA	Development	Entwicklung	2018.06.19 05:33:47										
+0094310000	0094310000	YCOA	QM Control	Q-Prüfung	2018.06.19 05:33:47										
+0094311000	0094311000	YCOA	Personnel hours	Personalstunden	2018.06.19 05:33:47										

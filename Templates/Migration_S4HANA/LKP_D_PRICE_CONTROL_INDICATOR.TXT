@@ -1,0 +1,3 @@
+LEGACY_PRICE_CONTROL_IND	PRICE_CONTROL_IND	PRICE_CONTROL_IND_TXT_GBL	PRICE_CONTROL_IND_TXT_LCL	DI_TIMESTAMP											
+S	S	Standard price	Standardpreis	2017.07.06 08:56:49											
+V	V	Moving average price/periodic unit price	Gleitender Durchschnittspreis/Periodischer Verrechnungspreis	2017.07.06 08:56:49											

@@ -1,0 +1,44 @@
+LEGACY_PRODUCTION_VERSION	MATERIAL_NUMBER	PLANT	PRODUCTION_VERSION	VALID_FROM_DATE	PRODUCTION_VERSION_TXT_GBL	PRODUCTION_VERSION_TXT_LCL	DI_TIMESTAMP								
+0001	CM-FL-V00	1010	0001	20170521	Production Version 1	Production Version 1	2017.07.06 08:56:49								
+0001	CM-FL-V00	1710	0001	20170522	Production Version 1	Production Version 1	2017.07.06 08:56:49								
+0001	EWMS4-50	1010	0001	20170521	Production Version 1	Production Version 1	2017.07.06 08:56:49								
+0001	EWMS4-50	1710	0001	20170522	Production Version 1	Production Version 1	2017.07.06 08:56:49								
+0001	F-10A	1010	0001	20170522	Production Version 1	Production Version 1	2017.07.06 08:56:49								
+0001	F-10A	1710	0001	20170522	Production Version 1	Production Version 1	2017.07.06 08:56:49								
+0001	F-10B	1010	0001	20170522	Production Version 1	Production Version 1	2017.07.06 08:56:49								
+0001	F-10B	1710	0001	20170522	Production Version 1	Production Version 1	2017.07.06 08:56:49								
+0001	FG-FL-MV-V00	1010	0001	20170521	Production Version 1	Production Version 1	2017.07.06 08:56:49								
+0001	FG-FL-MV-V00	1710	0001	20170522	Production Version 1	Production Version 1	2017.07.06 08:56:49								
+0001	FG126	1010	0001	20170520	Production Version 1	Production Version 1	2017.07.06 08:56:49								
+0099	FG126	1010	0099	20170520	rework	rework	2017.07.06 08:56:49								
+0001	FG126	1710	0001	20170521	Production Version 1	Production Version 1	2017.07.06 08:56:49								
+0099	FG126	1710	0099	20170521	rework	rework	2017.07.06 08:56:49								
+0001	FG129	1010	0001	20170520	Production Version 1	Production Version 1	2017.07.06 08:56:49								
+0001	FG129	1710	0001	20170522	Production Version 1	Production Version 1	2017.07.06 08:56:49								
+0001	FG226	1010	0001	20170520	Production Version 1	Production Version 1	2017.07.06 08:56:49								
+0001	FG226	1710	0001	20170521	Production Version 1	Production Version 1	2017.07.06 08:56:49								
+0001	FG233	1010	0001	20170520	Production Version 1	Production Version 1	2017.07.06 08:56:49								
+0001	FG233	1710	0001	20170521	Production Version 1	Production Version 1	2017.07.06 08:56:49								
+0001	FG29	1010	0001	20170520	FG29 - Bottled Ink (Batched-Process)	FG29 - Bottled Ink (Batched-Process)	2017.07.06 08:56:49								
+0001	FG29	1710	0001	20170521	FG29 - Bottled Ink (Batched-Process)	FG29 - Bottled Ink (Batched-Process)	2017.07.06 08:56:49								
+0001	S-201	1010	0001	20170522	Production Version 1	Production Version 1	2017.07.06 08:56:49								
+0001	S-201	1710	0001	20170522	Production Version 1	Production Version 1	2017.07.06 08:56:49								
+0001	S-301	1010	0001	20170522	Production Version 1	Production Version 1	2017.07.06 08:56:49								
+0001	S-301	1710	0001	20170522	Production Version 1	Production Version 1	2017.07.06 08:56:49								
+0001	SG124	1010	0001	20170520	Production Version 1	Production Version 1	2017.07.06 08:56:49								
+0001	SG124	1710	0001	20170521	Production Version 2	Production Version 2	2017.07.06 08:56:49								
+0001	SG21	1010	0001	20170520	Production Version 1	Production Version 1	2017.07.06 08:56:49								
+0001	SG21	1710	0001	20170521	Production Version 1	Production Version 1	2017.07.06 08:56:49								
+0001	SG22	1010	0001	20170520	Production Version 1	Production Version 1	2017.07.06 08:56:49								
+0001	SG22	1710	0001	20170521	Production Version 1	Production Version 1	2017.07.06 08:56:49								
+0001	SG224	1010	0001	20170520	Production Version 1	Production Version 1	2017.07.06 08:56:49								
+0001	SG224	1710	0001	20170521	Production Version 1	Production Version 1	2017.07.06 08:56:49								
+0001	SG23	1010	0001	20170520	Production Version 1	Production Version 1	2017.07.06 08:56:49								
+0001	SG23	1710	0001	20170521	Production Version 1	Production Version 1	2017.07.06 08:56:49								
+0001	SG233	1010	0001	20170520	Production Version 1	Production Version 1	2017.07.06 08:56:49								
+0001	SG233	1710	0001	20170521	Production Version 1	Production Version 1	2017.07.06 08:56:49								
+0001	SG24	1010	0001	20170520	SG24 - Ink (Process)	SG24 - Ink (Process)	2017.07.06 08:56:49								
+0001	SG24	1710	0001	20170521	SG24 - Ink (Process)	SG24 - Ink (Process)	2017.07.06 08:56:49								
+0001	SG29	1010	0001	20170520	Production Version 1	Production Version 1	2017.07.06 08:56:49								
+0001	SG29	1710	0001	20170522	Production Version 1	Production Version 1	2017.07.06 08:56:49								
+001	ZFG126	1010	001	20170520	Production version 1	Production version 1	2017.07.06 08:56:49								

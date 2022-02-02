@@ -1,0 +1,2830 @@
+LEGACY_STATUS	STATUS	LANGUA	DESCRP	DI_TIMESTAMP											
+00	00	1	未使用, 仅 R/2	2018.06.19 05:33:47											
+00	00	2	ไม่ใช้, เฉพาะ R/2	2018.06.19 05:33:47											
+00	00	3	사용하지 않음, R/2 전용	2018.06.19 05:33:47											
+00	00	4	Neutilizat, numai în R/2	2018.06.19 05:33:47											
+00	00	5	Neuporabljeno, samo R/2	2018.06.19 05:33:47											
+00	00	6	Nije u upotrebi, samo R/2	2018.06.19 05:33:47											
+00	00	7	Tidak digunakan, hanya R/2	2018.06.19 05:33:47											
+00	00	8	Не використовується, лише R/2	2018.06.19 05:33:47											
+00	00	9	Pole kasutusel, ainult R/2	2018.06.19 05:33:47											
+00	00	A	غير مستخدم، R/2 فقط	2018.06.19 05:33:47											
+00	00	B	לא בשימוש, R/2 בלבד	2018.06.19 05:33:47											
+00	00	C	Nepoužívá se, jen R/2	2018.06.19 05:33:47											
+00	00	D	Nicht verwendet, nur R/2	2018.06.19 05:33:47											
+00	00	E	Not used, only R/2	2018.06.19 05:33:47											
+00	00	F	Non utilisé, uniquement R/2	2018.06.19 05:33:47											
+00	00	G	Μη χρησιμοποιημένο, μόνο R/2	2018.06.19 05:33:47											
+00	00	H	Nem használják, csak R/2-ben	2018.06.19 05:33:47											
+00	00	I	Non utilizzato, solo in R/2	2018.06.19 05:33:47											
+00	00	J	不使用、R/2 のみ	2018.06.19 05:33:47											
+00	00	K	Anvendes ikke, kun R/2	2018.06.19 05:33:47											
+00	00	L	Nie stosowany, tylko R/2	2018.06.19 05:33:47											
+00	00	M	未使用，僅 R/2	2018.06.19 05:33:47											
+00	00	N	Niet gebruikt, alleen R/2	2018.06.19 05:33:47											
+00	00	O	Ikke brukt, bare R/2	2018.06.19 05:33:47											
+00	00	P	Não utilizar, apenas R/2	2018.06.19 05:33:47											
+00	00	Q	Nepoužíva sa, len R/2	2018.06.19 05:33:47											
+00	00	R	Не используется, только R/2	2018.06.19 05:33:47											
+00	00	S	No utilizado, sólo R/2	2018.06.19 05:33:47											
+00	00	T	Kullanılmıyor,yalnızca R/2	2018.06.19 05:33:47											
+00	00	U	Ei käytössä, vain R/2	2018.06.19 05:33:47											
+00	00	V	Används ej, endast R/2	2018.06.19 05:33:47											
+00	00	W	Не се използва, само R/2	2018.06.19 05:33:47											
+00	00	X	Nenaudojama, tik R/2	2018.06.19 05:33:47											
+00	00	Y	Netiek izmantots, tikai R/2	2018.06.19 05:33:47											
+00	00	c	No utilitzat, només R/2	2018.06.19 05:33:47											
+00	00	d	Nije korišteno, samo R/2	2018.06.19 05:33:47											
+00	00	늑	TAIS TEDS2*+	2018.06.19 05:33:47											
+00	00	닱	[Ńįċĥţ∙ʋēŗŵēŋƌēţ,∙ŋűŗ∙Ř/2∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙]	2018.06.19 05:33:47											
+00	00	묩	उपयोग नहीं हुआ है, केवल R/2	2018.06.19 05:33:47											
+00	00	뱋	Пайдаланылмайды, тек R/2	2018.06.19 05:33:47											
+00	00	쁩	Không sử dụng, chỉ R/2	2018.06.19 05:33:47											
+01	01	1	IDoc 已创建	2018.06.19 05:33:47											
+01	01	2	สร้าง IDoc แล้ว	2018.06.19 05:33:47											
+01	01	3	IDoc 생성됨	2018.06.19 05:33:47											
+01	01	4	IDoc creat	2018.06.19 05:33:47											
+01	01	5	IDoc generiran	2018.06.19 05:33:47											
+01	01	6	IDoc kreiran	2018.06.19 05:33:47											
+01	01	7	IDoc diciptakan	2018.06.19 05:33:47											
+01	01	8	IDoc створено	2018.06.19 05:33:47											
+01	01	9	IDoc on loodud	2018.06.19 05:33:47											
+01	01	A	IDoc تم إنشاؤه	2018.06.19 05:33:47											
+01	01	B	IDoc נוצר	2018.06.19 05:33:47											
+01	01	C	IDOC vytvořen	2018.06.19 05:33:47											
+01	01	D	IDoc erzeugt	2018.06.19 05:33:47											
+01	01	E	IDoc created	2018.06.19 05:33:47											
+01	01	F	IDOC généré	2018.06.19 05:33:47											
+01	01	G	IDoc δημιουργήθηκε	2018.06.19 05:33:47											
+01	01	H	IDoc létrehozva	2018.06.19 05:33:47											
+01	01	I	IDoc creato	2018.06.19 05:33:47											
+01	01	J	IDoc 登録済	2018.06.19 05:33:47											
+01	01	K	IDoc genereret	2018.06.19 05:33:47											
+01	01	L	IDoc wygenerowany	2018.06.19 05:33:47											
+01	01	M	已建立 IDoc	2018.06.19 05:33:47											
+01	01	N	IDoc gegenereerd	2018.06.19 05:33:47											
+01	01	O	IDOC generert	2018.06.19 05:33:47											
+01	01	P	IDoc gerado	2018.06.19 05:33:47											
+01	01	Q	IDoc gener.	2018.06.19 05:33:47											
+01	01	R	IDoc создан.	2018.06.19 05:33:47											
+01	01	S	IDOC creado	2018.06.19 05:33:47											
+01	01	T	IDOC yaratıldı	2018.06.19 05:33:47											
+01	01	U	IDOC luotu	2018.06.19 05:33:47											
+01	01	V	IDOC genererat	2018.06.19 05:33:47											
+01	01	W	IDoc е създаден	2018.06.19 05:33:47											
+01	01	X	IDOC sukurtas	2018.06.19 05:33:47											
+01	01	Y	IDoc ir izveidots	2018.06.19 05:33:47											
+01	01	c	IDoc creat	2018.06.19 05:33:47											
+01	01	d	IDoc kreiran	2018.06.19 05:33:47											
+01	01	늑	TAIS TEDS2*+	2018.06.19 05:33:47											
+01	01	닱	[ĬĎŏċ∙ēŗžēűğţ∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙]	2018.06.19 05:33:47											
+01	01	묩	IDOC बनाया गया	2018.06.19 05:33:47											
+01	01	뱋	IDoc жасалды	2018.06.19 05:33:47											
+01	01	쁩	IDoc được tạo	2018.06.19 05:33:47											
+02	02	1	传送数据到端口时出错	2018.06.19 05:33:47											
+02	02	2	เกิดข้อผิดพลาดในการผ่านข้อมูลไปยังพอร์ต	2018.06.19 05:33:47											
+02	02	3	포트로 데이터를 전달하는 동안 오류 발생	2018.06.19 05:33:47											
+02	02	4	Eroare transferare date la port	2018.06.19 05:33:47											
+02	02	5	Napaka pri prenosu podatkov na vrata	2018.06.19 05:33:47											
+02	02	6	Greška prosljeđivanja podataka na port	2018.06.19 05:33:47											
+02	02	7	Ralat menghantar data ke port	2018.06.19 05:33:47											
+02	02	8	Помилка перенесення даних у порт	2018.06.19 05:33:47											
+02	02	9	Tõrge andmete edastamisel porti	2018.06.19 05:33:47											
+02	02	A	خطأ أثناء تمرير البيانات إلى المنفذ	2018.06.19 05:33:47											
+02	02	B	שגיאה בהעברת נתונים ליציאה	2018.06.19 05:33:47											
+02	02	C	Chyba při předání dat na port	2018.06.19 05:33:47											
+02	02	D	Fehler bei Datenübergabe an Port	2018.06.19 05:33:47											
+02	02	E	Error passing data to port	2018.06.19 05:33:47											
+02	02	F	Erreur lors du transfert de données au port	2018.06.19 05:33:47											
+02	02	G	Λάθος στη μεταβίβαση δεδομένων στη θύρα	2018.06.19 05:33:47											
+02	02	H	Hiba adat átadásánál a port felé	2018.06.19 05:33:47											
+02	02	I	Errore trasferim. dati a porta	2018.06.19 05:33:47											
+02	02	J	ポートへのデータ受渡し時のエラー	2018.06.19 05:33:47											
+02	02	K	Fejl ved dataoverførsel til port	2018.06.19 05:33:47											
+02	02	L	Błąd podczas transferu danych do portu	2018.06.19 05:33:47											
+02	02	M	傳送資料至埠時發生錯誤	2018.06.19 05:33:47											
+02	02	N	Fout bij gegevensdoorgifte aan poort	2018.06.19 05:33:47											
+02	02	O	Feil ved dataoverføring til port	2018.06.19 05:33:47											
+02	02	P	Erro na transferência de dados para a porta	2018.06.19 05:33:47											
+02	02	Q	Chyba pri odovzdaní dát na port	2018.06.19 05:33:47											
+02	02	R	Ошибка при переносе данных в порт	2018.06.19 05:33:47											
+02	02	S	Error en transferencia de datos a puerta	2018.06.19 05:33:47											
+02	02	T	Port'a veri aktarımı sırasında hata	2018.06.19 05:33:47											
+02	02	U	Virhe tiedonsiirrossa porttiin	2018.06.19 05:33:47											
+02	02	V	Fel vid dataöverföring till port	2018.06.19 05:33:47											
+02	02	W	Грешка при предаване на данни към порта	2018.06.19 05:33:47											
+02	02	X	Duomenų perdavimo į prievadą klaida	2018.06.19 05:33:47											
+02	02	Y	Kļūda, nododot datus portam	2018.06.19 05:33:47											
+02	02	c	Error en la transferència de dades a la porta	2018.06.19 05:33:47											
+02	02	d	Greška predaje podataka na port	2018.06.19 05:33:47											
+02	02	늑	TAIS TEDS2*+	2018.06.19 05:33:47											
+02	02	닱	[Ƒēĥĺēŗ∙ƃēį∙Ďąţēŋüƃēŗğąƃē∙ąŋ∙Ƥŏŗţ∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙]	2018.06.19 05:33:47											
+02	02	묩	डेटा को पोर्ट पर पास करने में त्रुटि	2018.06.19 05:33:47											
+02	02	뱋	Деректерді портқа жіберу қатесі	2018.06.19 05:33:47											
+02	02	쁩	Lỗi truyền dữ liệu ra cổng	2018.06.19 05:33:47											
+03	03	1	成功将数据传送到端口	2018.06.19 05:33:47											
+03	03	2	การผ่านข้อมูลไปยังพอร์ตเรียบร้อย	2018.06.19 05:33:47											
+03	03	3	포트로 데이터 전달 OK	2018.06.19 05:33:47											
+03	03	4	Date trecute la port OK	2018.06.19 05:33:47											
+03	03	5	Prenos podatkov portalu OK	2018.06.19 05:33:47											
+03	03	6	Podaci proslijeđeni na port OK	2018.06.19 05:33:47											
+03	03	7	Data dihantar ke port OK	2018.06.19 05:33:47											
+03	03	8	Перенесення даних у порт OK	2018.06.19 05:33:47											
+03	03	9	Andmed on porti edastatud	2018.06.19 05:33:47											
+03	03	A	البيانات التي تم تمريرها إلى المنفذ مقبولة	2018.06.19 05:33:47											
+03	03	B	נתונים עברו ליציאה בהצלחה	2018.06.19 05:33:47											
+03	03	C	Předání dat na port OK	2018.06.19 05:33:47											
+03	03	D	Datenübergabe an Port OK	2018.06.19 05:33:47											
+03	03	E	Data passed to port OK	2018.06.19 05:33:47											
+03	03	F	OK pour transfert de données au port	2018.06.19 05:33:47											
+03	03	G	Μεταβιβασμένα δεδομένα σε θύρα OK	2018.06.19 05:33:47											
+03	03	H	Adatátadás port felé OK	2018.06.19 05:33:47											
+03	03	I	Trasf. dati alla porta OK	2018.06.19 05:33:47											
+03	03	J	ポートへのデータ受渡し OK	2018.06.19 05:33:47											
+03	03	K	Dataoverførsel til port OK	2018.06.19 05:33:47											
+03	03	L	Transfer danych do portu OK	2018.06.19 05:33:47											
+03	03	M	傳送資料至埠 OK	2018.06.19 05:33:47											
+03	03	N	Gegevensdoorgifte aan poort OK	2018.06.19 05:33:47											
+03	03	O	Dataoverføring til port OK	2018.06.19 05:33:47											
+03	03	P	Transferência de dados para a porta OK	2018.06.19 05:33:47											
+03	03	Q	Odovzdanie dát na port OK	2018.06.19 05:33:47											
+03	03	R	Перенос данных в порт ОК	2018.06.19 05:33:47											
+03	03	S	Transferencia de datos a puerta OK	2018.06.19 05:33:47											
+03	03	T	Port'a veri aktarımı tamamlandı	2018.06.19 05:33:47											
+03	03	U	Tiedonsiirto porttiin OK	2018.06.19 05:33:47											
+03	03	V	Dataöverföring till port OK	2018.06.19 05:33:47											
+03	03	W	Данните прехвърлени към порта OK	2018.06.19 05:33:47											
+03	03	X	Pavyko perduoti duomenis į prievadą	2018.06.19 05:33:47											
+03	03	Y	Datu nosūtīšana uz portu ir izdevusies	2018.06.19 05:33:47											
+03	03	c	Transferència de dades OK	2018.06.19 05:33:47											
+03	03	d	Podaci predati na port OK	2018.06.19 05:33:47											
+03	03	늑	TAIS TEDS2*+	2018.06.19 05:33:47											
+03	03	닱	[Ďąţēŋüƃēŗğąƃē∙ąŋ∙Ƥŏŗţ∙ŎĶ∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙]	2018.06.19 05:33:47											
+03	03	묩	पोर्ट पर पास किया गया डेटा ठीक है	2018.06.19 05:33:47											
+03	03	뱋	Деректер портқа дұрыс жіберілді	2018.06.19 05:33:47											
+03	03	쁩	Truyền dữ liệu ra cổng OK	2018.06.19 05:33:47											
+04	04	1	EDI 子系统控制信息错误	2018.06.19 05:33:47											
+04	04	2	การควบคุมข้อมูลในระบบย่อยของ EDI เกิดข้อผิดพลาด	2018.06.19 05:33:47											
+04	04	3	EDI 하위 시스템의 제어 정보에서 오류 발생	2018.06.19 05:33:47											
+04	04	4	Eroare la informaţii control la subsistem EDI	2018.06.19 05:33:47											
+04	04	5	Napaka v informacijah nadzora EDI-podsistema	2018.06.19 05:33:47											
+04	04	6	Greška unutar informacija kontrole EDI podsustava	2018.06.19 05:33:47											
+04	04	7	Ralat dalam maklumat kawalan subsietem EDI	2018.06.19 05:33:47											
+04	04	8	Помилка в інформації керування підсистеми EDI	2018.06.19 05:33:47											
+04	04	9	Tõrge EDI alamsüsteemi juhtimisteabes	2018.06.19 05:33:47											
+04	04	A	خطأ في معلومات التحكم للنظام الفرعي EDI	2018.06.19 05:33:47											
+04	04	B	שגיאה בתוך מידע בקרה של תת מערכת EDI	2018.06.19 05:33:47											
+04	04	C	Chyba v řídících informacích subsystému EDI	2018.06.19 05:33:47											
+04	04	D	Fehler in den Steuerinformationen des EDI-Subsystems	2018.06.19 05:33:47											
+04	04	E	Error within control information of EDI subsystem	2018.06.19 05:33:47											
+04	04	F	Erreur dans les informations de commande du sous-système EDI	2018.06.19 05:33:47											
+04	04	G	Λάθος με πληροφορία ελέγχου υποσυστήματος EDI	2018.06.19 05:33:47											
+04	04	H	Hiba az EDI-alrendszer vezérlési információiban	2018.06.19 05:33:47											
+04	04	I	Errore nelle info di controllo del sottosistema EDI	2018.06.19 05:33:47											
+04	04	J	EDI サブシステムの制御情報内のエラー	2018.06.19 05:33:47											
+04	04	K	Fejl i styreinformationer for EDI-subsystem	2018.06.19 05:33:47											
+04	04	L	Błąd w informacjach sterujących systemu podrzędnego EDI	2018.06.19 05:33:47											
+04	04	M	EDI 子系統的控制資訊中有錯誤	2018.06.19 05:33:47											
+04	04	N	Fout in besturingsgegevens van EDI-subsysteem	2018.06.19 05:33:47											
+04	04	O	Feil i styringsinformasjonen for EDI-subsystemet	2018.06.19 05:33:47											
+04	04	P	Erro nas informações de controle do subsistema de EDI	2018.06.19 05:33:47											
+04	04	Q	Chyba v riadiacich informáciach subsystému EDI	2018.06.19 05:33:47											
+04	04	R	Ошибка в информации управления подсистемы EDI	2018.06.19 05:33:47											
+04	04	S	Error en informaciones de control del subsistema EDI	2018.06.19 05:33:47											
+04	04	T	EDI alt sistemleri kontrol bilgilerinde hata	2018.06.19 05:33:47											
+04	04	U	Virhe EDI-alijärjestelmän ohjaustiedoissa	2018.06.19 05:33:47											
+04	04	V	Fel i styrinformationen i EDI-subsystemet	2018.06.19 05:33:47											
+04	04	W	Грешка в контролна информация на EDI подсистема	2018.06.19 05:33:47											
+04	04	X	EDI posistemės valdymo informacijos klaida	2018.06.19 05:33:47											
+04	04	Y	EDI apakšsistēmas vadības informācijā ir kļūda	2018.06.19 05:33:47											
+04	04	c	Error en la informació fiscal del susbsistema EDI	2018.06.19 05:33:47											
+04	04	d	Greška unutar informacija o kontroli EDI podsistema	2018.06.19 05:33:47											
+04	04	늑	TAIS TEDS2*+	2018.06.19 05:33:47											
+04	04	닱	[Ƒēĥĺēŗ∙įŋ∙ƌēŋ∙Ŝţēűēŗįŋƒŏŗɱąţįŏŋēŋ∙ƌēş∙ĔĎĬ-Ŝűƃşŷşţēɱş∙∙∙∙∙∙]	2018.06.19 05:33:47											
+04	04	묩	EDI सबसिस्टम की नियंत्रण जानकारी के अंतर्गत त्रुटि	2018.06.19 05:33:47											
+04	04	뱋	EDI ішкі жүйесінің басқару ақпаратындағы қате	2018.06.19 05:33:47											
+04	04	쁩	Lỗi trong thông tin kiểm soát của hệ thống phụ EDI	2018.06.19 05:33:47											
+05	05	1	转换错误	2018.06.19 05:33:47											
+05	05	2	เกิดข้อผิดพลาดของการแปล	2018.06.19 05:33:47											
+05	05	3	번역 오류	2018.06.19 05:33:47											
+05	05	4	Eroare la traducere	2018.06.19 05:33:47											
+05	05	5	Napaka pri konverziji	2018.06.19 05:33:47											
+05	05	6	Greška konverzije	2018.06.19 05:33:47											
+05	05	7	Ralat terjemahan	2018.06.19 05:33:47											
+05	05	8	Помилка підчас перекладу	2018.06.19 05:33:47											
+05	05	9	Tõlkimise tõrge	2018.06.19 05:33:47											
+05	05	A	خطأ في الترجمة	2018.06.19 05:33:47											
+05	05	B	שגיאת תרגום	2018.06.19 05:33:47											
+05	05	C	Chyba při konverzi	2018.06.19 05:33:47											
+05	05	D	Fehler bei der Konvertierung	2018.06.19 05:33:47											
+05	05	E	Translation error	2018.06.19 05:33:47											
+05	05	F	Erreur de conversion	2018.06.19 05:33:47											
+05	05	G	Λάθος κατά την Μετάφραση	2018.06.19 05:33:47											
+05	05	H	Hiba a konvertálásnál	2018.06.19 05:33:47											
+05	05	I	Errore nella conversione	2018.06.19 05:33:47											
+05	05	J	翻訳エラー	2018.06.19 05:33:47											
+05	05	K	Fejl ved konvertering	2018.06.19 05:33:47											
+05	05	L	Błąd podczas konwersji	2018.06.19 05:33:47											
+05	05	M	翻譯錯誤	2018.06.19 05:33:47											
+05	05	N	Fout bij de conversie	2018.06.19 05:33:47											
+05	05	O	Feil ved konvertering	2018.06.19 05:33:47											
+05	05	P	Erro durante a conversão	2018.06.19 05:33:47											
+05	05	Q	Chyba pri konverzii	2018.06.19 05:33:47											
+05	05	R	Ошибка в преобразовании	2018.06.19 05:33:47											
+05	05	S	Error en la conversión	2018.06.19 05:33:47											
+05	05	T	Dönüştürme sırasında hata	2018.06.19 05:33:47											
+05	05	U	Virhe muunnossa	2018.06.19 05:33:47											
+05	05	V	Fel vid konverteringen	2018.06.19 05:33:47											
+05	05	W	Грешка при преизчисление	2018.06.19 05:33:47											
+05	05	X	Konvertavimo klaida	2018.06.19 05:33:47											
+05	05	Y	Pārrēķina kļūda	2018.06.19 05:33:47											
+05	05	c	Error en la conversió	2018.06.19 05:33:47											
+05	05	d	Greška pri konverziji	2018.06.19 05:33:47											
+05	05	늑	TAIS TEDS2*+	2018.06.19 05:33:47											
+05	05	닱	[Ƒēĥĺēŗ∙ƃēį∙ƌēŗ∙Ķŏŋʋēŗţįēŗűŋğ∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙]	2018.06.19 05:33:47											
+05	05	묩	अनुवाद के दौरान त्रुटि	2018.06.19 05:33:47											
+05	05	뱋	Аудару кезіндегі қате	2018.06.19 05:33:47											
+05	05	쁩	Lỗi dịch	2018.06.19 05:33:47											
+06	06	1	翻译正确	2018.06.19 05:33:47											
+06	06	2	การแปล OK	2018.06.19 05:33:47											
+06	06	3	번역 OK	2018.06.19 05:33:47											
+06	06	4	Traducere OK	2018.06.19 05:33:47											
+06	06	5	Konverzija OK	2018.06.19 05:33:47											
+06	06	6	Konverzija OK	2018.06.19 05:33:47											
+06	06	7	Terjemahan OK	2018.06.19 05:33:47											
+06	06	8	Переклад пройшов успішно	2018.06.19 05:33:47											
+06	06	9	Tõlkimine õnnestus	2018.06.19 05:33:47											
+06	06	A	الترجمة مقبولة	2018.06.19 05:33:47											
+06	06	B	תרגום מוצלח	2018.06.19 05:33:47											
+06	06	C	Konverze OK	2018.06.19 05:33:47											
+06	06	D	Konvertierung OK	2018.06.19 05:33:47											
+06	06	E	Translation OK	2018.06.19 05:33:47											
+06	06	F	OK pour conversion	2018.06.19 05:33:47											
+06	06	G	Μετάφραση OK	2018.06.19 05:33:47											
+06	06	H	Konvertálás O.K.	2018.06.19 05:33:47											
+06	06	I	Conversione OK	2018.06.19 05:33:47											
+06	06	J	翻訳 OK	2018.06.19 05:33:47											
+06	06	K	Konvertering OK	2018.06.19 05:33:47											
+06	06	L	Konwersja OK	2018.06.19 05:33:47											
+06	06	M	翻譯 OK	2018.06.19 05:33:47											
+06	06	N	Conversie OK	2018.06.19 05:33:47											
+06	06	O	Konvertering OK	2018.06.19 05:33:47											
+06	06	P	Conversão OK	2018.06.19 05:33:47											
+06	06	Q	Konverzia OK	2018.06.19 05:33:47											
+06	06	R	Преобразование ОК	2018.06.19 05:33:47											
+06	06	S	Conversión OK	2018.06.19 05:33:47											
+06	06	T	Dönüştürme tamam	2018.06.19 05:33:47											
+06	06	U	Muunto OK	2018.06.19 05:33:47											
+06	06	V	Konvertering OK	2018.06.19 05:33:47											
+06	06	W	Транслация OK	2018.06.19 05:33:47											
+06	06	X	Pavyko konvertuoti	2018.06.19 05:33:47											
+06	06	Y	Pārrēķins ir izdevies	2018.06.19 05:33:47											
+06	06	c	Conversió OK	2018.06.19 05:33:47											
+06	06	d	Konverzija OK	2018.06.19 05:33:47											
+06	06	늑	TAIS TEDS2*+	2018.06.19 05:33:47											
+06	06	닱	[Ķŏŋʋēŗţįēŗűŋğ∙ŎĶ∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙]	2018.06.19 05:33:47											
+06	06	묩	अनुवाद ठीक है	2018.06.19 05:33:47											
+06	06	뱋	Аудару дұрыс	2018.06.19 05:33:47											
+06	06	쁩	Dịch OK	2018.06.19 05:33:47											
+07	07	1	语法检查出错	2018.06.19 05:33:47											
+07	07	2	เกิดข้อผิดพลาดระหว่างการตรวจสอบไวยากรณ์	2018.06.19 05:33:47											
+07	07	3	구문을 점검하는 동안 오류 발생	2018.06.19 05:33:47											
+07	07	4	Erore la verificare sintaxă	2018.06.19 05:33:47											
+07	07	5	Napaka sintakse v EDI-sporočilu	2018.06.19 05:33:47											
+07	07	6	Greška tokom provjere sintakse	2018.06.19 05:33:47											
+07	07	7	Ralat semasa semakan sintaks	2018.06.19 05:33:47											
+07	07	8	Помилка підчас перевірки синтаксису	2018.06.19 05:33:47											
+07	07	9	Tõrge süntaksi kontrollimisel	2018.06.19 05:33:47											
+07	07	A	خطأ أثناء فحص بناء الجملة	2018.06.19 05:33:47											
+07	07	B	שגיאה במהלך בדיקת תחביר	2018.06.19 05:33:47											
+07	07	C	Chyba syntaxe ve zprávě EDI	2018.06.19 05:33:47											
+07	07	D	Syntaxfehler in EDI-Nachricht	2018.06.19 05:33:47											
+07	07	E	Error during syntax check	2018.06.19 05:33:47											
+07	07	F	Erreur de syntaxe dans message EDI	2018.06.19 05:33:47											
+07	07	G	Λάθος κατά τον συντακτικό έλεγχο	2018.06.19 05:33:47											
+07	07	H	Szintaktikai hiba az EDI-üzenetben	2018.06.19 05:33:47											
+07	07	I	Errore di sintassi nel mess. EDI	2018.06.19 05:33:47											
+07	07	J	構文チェック中のエラー	2018.06.19 05:33:47											
+07	07	K	Syntaksfejl i EDI-meddelelse	2018.06.19 05:33:47											
+07	07	L	Błąd składni w komunikacie EDI	2018.06.19 05:33:47											
+07	07	M	語法檢查期間發生錯誤	2018.06.19 05:33:47											
+07	07	N	Syntaxerror in EDI-bericht	2018.06.19 05:33:47											
+07	07	O	Syntaksfeil i EDI-melding	2018.06.19 05:33:47											
+07	07	P	Erro de sintaxe na mensagem EDI	2018.06.19 05:33:47											
+07	07	Q	Chyba systaxe v správe EDI	2018.06.19 05:33:47											
+07	07	R	Синтаксическая ошибка в документе EDI	2018.06.19 05:33:47											
+07	07	S	Error sintaxis en mensaje EDI	2018.06.19 05:33:47											
+07	07	T	EDI iletilerinde sözdizim hatası	2018.06.19 05:33:47											
+07	07	U	Syntaksivirhe EDI-sanomassa	2018.06.19 05:33:47											
+07	07	V	Syntaxfel i EDI-meddelande	2018.06.19 05:33:47											
+07	07	W	Грешка при синтактична проверка	2018.06.19 05:33:47											
+07	07	X	Sintaksės patikros klaida	2018.06.19 05:33:47											
+07	07	Y	Sintakses pārbaudes laikā radās kļūda	2018.06.19 05:33:47											
+07	07	c	Error de sintaxi a missatge EDI	2018.06.19 05:33:47											
+07	07	d	Greška pri proveri sintakse	2018.06.19 05:33:47											
+07	07	늑	TAIS TEDS2*+	2018.06.19 05:33:47											
+07	07	닱	[Ŝŷŋţąχƒēĥĺēŗ∙įŋ∙ĔĎĬ-Ńąċĥŗįċĥţ∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙]	2018.06.19 05:33:47											
+07	07	묩	सिंटैक्स जांच के दौरान त्रुटि	2018.06.19 05:33:47											
+07	07	뱋	Синтаксистік тексеру кезіндегі қате	2018.06.19 05:33:47											
+07	07	쁩	Lỗi khi kiểm tra cú pháp	2018.06.19 05:33:47											
+08	08	1	语法检查正确	2018.06.19 05:33:47											
+08	08	2	การตรวจสอบไวยากรณ์ OK	2018.06.19 05:33:47											
+08	08	3	구문 점검 OK	2018.06.19 05:33:47											
+08	08	4	Verificare sintaxă OK	2018.06.19 05:33:47											
+08	08	5	Kontrola sintakse OK	2018.06.19 05:33:47											
+08	08	6	Provjera sintakse OK	2018.06.19 05:33:47											
+08	08	7	Semakan sintaks OK	2018.06.19 05:33:47											
+08	08	8	Перевірка синтаксису OK	2018.06.19 05:33:47											
+08	08	9	Süntaks on kontrollitud	2018.06.19 05:33:47											
+08	08	A	فحص بناء الجملة جيد	2018.06.19 05:33:47											
+08	08	B	בדיקת תחביר מוצלחת	2018.06.19 05:33:47											
+08	08	C	Kontr.syntaxe OK	2018.06.19 05:33:47											
+08	08	D	Syntaxprüfung OK	2018.06.19 05:33:47											
+08	08	E	Syntax check OK	2018.06.19 05:33:47											
+08	08	F	OK pour contrôle de syntaxe	2018.06.19 05:33:47											
+08	08	G	Συντακτικός έλεγχος OK	2018.06.19 05:33:47											
+08	08	H	Szintaktikai ellenőrzés OK	2018.06.19 05:33:47											
+08	08	I	Contr. sintassi OK	2018.06.19 05:33:47											
+08	08	J	構文チェック OK	2018.06.19 05:33:47											
+08	08	K	Syntakskontrol OK	2018.06.19 05:33:47											
+08	08	L	Kontrola składni OK	2018.06.19 05:33:47											
+08	08	M	語法檢查 OK	2018.06.19 05:33:47											
+08	08	N	Syntaxcheck OK	2018.06.19 05:33:47											
+08	08	O	Syntakskontroll OK	2018.06.19 05:33:47											
+08	08	P	Verificação de sintaxe OK	2018.06.19 05:33:47											
+08	08	Q	Kontrola syntaxe OK	2018.06.19 05:33:47											
+08	08	R	Проверка синтаксиса ОК	2018.06.19 05:33:47											
+08	08	S	Verificación sintaxis OK	2018.06.19 05:33:47											
+08	08	T	Sözdizim kontrolü tamam	2018.06.19 05:33:47											
+08	08	U	Syntaksitarkistus OK	2018.06.19 05:33:47											
+08	08	V	Syntaxkontroll OK	2018.06.19 05:33:47											
+08	08	W	Синтактична проверка OK	2018.06.19 05:33:47											
+08	08	X	Sintaksės patikra pavyko	2018.06.19 05:33:47											
+08	08	Y	Sintakses pārbaude ir veiksmīga	2018.06.19 05:33:47											
+08	08	c	Verificació de sintaxi OK	2018.06.19 05:33:47											
+08	08	d	Provera sintakse OK	2018.06.19 05:33:47											
+08	08	늑	TAIS TEDS2*+	2018.06.19 05:33:47											
+08	08	닱	[Ŝŷŋţąχρŗüƒűŋğ∙ŎĶ∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙]	2018.06.19 05:33:47											
+08	08	묩	सिंटैक्स जांच ठीक है	2018.06.19 05:33:47											
+08	08	뱋	Синтаксистік тексеру дұрыс	2018.06.19 05:33:47											
+08	08	쁩	K.tra cú pháp OK	2018.06.19 05:33:47											
+09	09	1	互换处理时出错	2018.06.19 05:33:47											
+09	09	2	เกิดข้อผิดพลาดระหว่างการจัดการการแลกเปลี่ยน	2018.06.19 05:33:47											
+09	09	3	교환 처리하는 동안 오류 발생	2018.06.19 05:33:47											
+09	09	4	Eroare la operare schimb reciproc	2018.06.19 05:33:47											
+09	09	5	Napaka pri Interchange Handling	2018.06.19 05:33:47											
+09	09	6	Greška tokom rukovanja zamjenjivošću	2018.06.19 05:33:47											
+09	09	7	Ralat semasa pengendalian pertukaran	2018.06.19 05:33:47											
+09	09	8	Помилка підчас оброблення обміну	2018.06.19 05:33:47											
+09	09	9	Tõrge andmeedastuse töötlemisel	2018.06.19 05:33:47											
+09	09	A	خطأ أثناء معالجة التبادلة	2018.06.19 05:33:47											
+09	09	B	שגיאה במשך טיפול בהחלפה	2018.06.19 05:33:47											
+09	09	C	Chyba při interchange handling	2018.06.19 05:33:47											
+09	09	D	Fehler beim Interchange Handling	2018.06.19 05:33:47											
+09	09	E	Error during interchange handling	2018.06.19 05:33:47											
+09	09	F	Interchange handling erroné	2018.06.19 05:33:47											
+09	09	G	Λάθος κατά την εναλλαγή χειρισμού	2018.06.19 05:33:47											
+09	09	H	Hiba Interchange handling-nél	2018.06.19 05:33:47											
+09	09	I	Errore durante Interchange Handling	2018.06.19 05:33:47											
+09	09	J	データ交換処理中のエラー	2018.06.19 05:33:47											
+09	09	K	Fejl ved interchange handling	2018.06.19 05:33:47											
+09	09	L	Błąd przy obsłudze wymiany	2018.06.19 05:33:47											
+09	09	M	交換處理期間發生錯誤	2018.06.19 05:33:47											
+09	09	N	Fout bij Interchange Handling	2018.06.19 05:33:47											
+09	09	O	Feil ved interchange handling	2018.06.19 05:33:47											
+09	09	P	Erro durante Interchange Handling	2018.06.19 05:33:47											
+09	09	Q	Chyba pri realizácii interchange	2018.06.19 05:33:47											
+09	09	R	Ошибка при обработке EDI	2018.06.19 05:33:47											
+09	09	S	Error en Interchange Handling	2018.06.19 05:33:47											
+09	09	T	Interchange Handling'de hata	2018.06.19 05:33:47											
+09	09	U	Virhe tiedonsiirtokäsittelyssä	2018.06.19 05:33:47											
+09	09	V	Fel vid Interchange Handling	2018.06.19 05:33:47											
+09	09	W	Грешка при обработка на обмен	2018.06.19 05:33:47											
+09	09	X	Mainų apdorojimo klaida	2018.06.19 05:33:47											
+09	09	Y	Apmaiņas apstrādes laikā radās kļūda	2018.06.19 05:33:47											
+09	09	c	Error a Interchange Handling	2018.06.19 05:33:47											
+09	09	d	Greška pri upravljanju razmenom	2018.06.19 05:33:47											
+09	09	늑	TAIS TEDS2*+	2018.06.19 05:33:47											
+09	09	닱	[Ƒēĥĺēŗ∙ƃēįɱ∙Ĭŋţēŗċĥąŋğē∙Ĥąŋƌĺįŋğ∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙]	2018.06.19 05:33:47											
+09	09	묩	इंटरचेंज हैंडलिंग के दौरान त्रुटि	2018.06.19 05:33:47											
+09	09	뱋	Айырбас өңдеуі кезіндегі қате	2018.06.19 05:33:47											
+09	09	쁩	Lỗi khi điều khiển trao đổi	2018.06.19 05:33:47											
+10	10	1	互换处理成功	2018.06.19 05:33:47											
+10	10	2	การจัดการการแลกเปลี่ยน OK	2018.06.19 05:33:47											
+10	10	3	교환 처리 OK	2018.06.19 05:33:47											
+10	10	4	Operare schimb reciproc OK	2018.06.19 05:33:47											
+10	10	5	Interchange Handling OK	2018.06.19 05:33:47											
+10	10	6	Rukovanje zamjenjivošću OK	2018.06.19 05:33:47											
+10	10	7	Pengendalian pertukaran OK	2018.06.19 05:33:47											
+10	10	8	Оброблення обміну пройшло успішно	2018.06.19 05:33:47											
+10	10	9	Andmeedastus on töödeldud	2018.06.19 05:33:47											
+10	10	A	معالجة التبادل مقبولة	2018.06.19 05:33:47											
+10	10	B	טיפול מוצלח בהחלפה	2018.06.19 05:33:47											
+10	10	C	Interchange handling OK	2018.06.19 05:33:47											
+10	10	D	Interchange Handling OK	2018.06.19 05:33:47											
+10	10	E	Interchange handling OK	2018.06.19 05:33:47											
+10	10	F	Interchange handling OK	2018.06.19 05:33:47											
+10	10	G	Εναλλαγή χειρισμού ΟΚ	2018.06.19 05:33:47											
+10	10	H	Interchange Handling OK	2018.06.19 05:33:47											
+10	10	I	Interchange Handling OK	2018.06.19 05:33:47											
+10	10	J	データ交換処理 OK	2018.06.19 05:33:47											
+10	10	K	Interchange handling OK	2018.06.19 05:33:47											
+10	10	L	Obsługa wymiany OK	2018.06.19 05:33:47											
+10	10	M	交換處理 OK	2018.06.19 05:33:47											
+10	10	N	Interchange Handling OK	2018.06.19 05:33:47											
+10	10	O	Interchange handling OK	2018.06.19 05:33:47											
+10	10	P	Interchange Handling OK	2018.06.19 05:33:47											
+10	10	Q	Realizácia interchange OK	2018.06.19 05:33:47											
+10	10	R	Обработка EDI OK	2018.06.19 05:33:47											
+10	10	S	Interchange Handling OK	2018.06.19 05:33:47											
+10	10	T	Interchange Handling tamam	2018.06.19 05:33:47											
+10	10	U	Tiedonsiirtokäsittely OK	2018.06.19 05:33:47											
+10	10	V	Interchange Handling OK	2018.06.19 05:33:47											
+10	10	W	Обработка на обмен OK	2018.06.19 05:33:47											
+10	10	X	Mainų apdorojimas pavyko	2018.06.19 05:33:47											
+10	10	Y	Apmaiņas apstrāde ir izdevusies	2018.06.19 05:33:47											
+10	10	c	Interchange Handling OK	2018.06.19 05:33:47											
+10	10	d	Upravljanje razmenom OK	2018.06.19 05:33:47											
+10	10	늑	TAIS TEDS2*+	2018.06.19 05:33:47											
+10	10	닱	[Ĭŋţēŗċĥąŋğē∙Ĥąŋƌĺįŋğ∙ŎĶ∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙]	2018.06.19 05:33:47											
+10	10	묩	इंटरचेंज हैंडलिंग ठीक है	2018.06.19 05:33:47											
+10	10	뱋	Айырбас өңдеуі дұрыс	2018.06.19 05:33:47											
+10	10	쁩	Điều khiển trao đổi OK	2018.06.19 05:33:47											
+11	11	1	分派时出错	2018.06.19 05:33:47											
+11	11	2	ข้อผิดพลาดขณะนำส่ง	2018.06.19 05:33:47											
+11	11	3	디스패치하는 동안 오류 발생	2018.06.19 05:33:47											
+11	11	4	Eroare la expediere	2018.06.19 05:33:47											
+11	11	5	Napaka pri odpravi	2018.06.19 05:33:47											
+11	11	6	Greška kod otpreme	2018.06.19 05:33:47											
+11	11	7	Ralat semasa penghantaran	2018.06.19 05:33:47											
+11	11	8	Помилка підчас відправлення	2018.06.19 05:33:47											
+11	11	9	Tõrge lähetamisel	2018.06.19 05:33:47											
+11	11	A	خطأ أثناء الإرسال	2018.06.19 05:33:47											
+11	11	B	שגיאה במהלך שיגור	2018.06.19 05:33:47											
+11	11	C	Chyba při odeslání	2018.06.19 05:33:47											
+11	11	D	Fehler beim Versand	2018.06.19 05:33:47											
+11	11	E	Error during dispatch	2018.06.19 05:33:47											
+11	11	F	Erreur lors de l'envoi de messages	2018.06.19 05:33:47											
+11	11	G	Λάθος κατά την αποστολή	2018.06.19 05:33:47											
+11	11	H	Hiba kiszállítás közben	2018.06.19 05:33:47											
+11	11	I	Errore durante invio	2018.06.19 05:33:47											
+11	11	J	ディスパッチ中のエラー	2018.06.19 05:33:47											
+11	11	K	Fejl ved afsendelse	2018.06.19 05:33:47											
+11	11	L	Błąd przy wysyłce	2018.06.19 05:33:47											
+11	11	M	分派期間發生錯誤	2018.06.19 05:33:47											
+11	11	N	Fout bij verzending	2018.06.19 05:33:47											
+11	11	O	Feil ved forsendelse	2018.06.19 05:33:47											
+11	11	P	Erro na transmissão	2018.06.19 05:33:47											
+11	11	Q	Chyba pri odosielaní	2018.06.19 05:33:47											
+11	11	R	Ошибка при отправке	2018.06.19 05:33:47											
+11	11	S	Error en expedición	2018.06.19 05:33:47											
+11	11	T	Gönderme hatası	2018.06.19 05:33:47											
+11	11	U	Virhe lähetyksessä	2018.06.19 05:33:47											
+11	11	V	Fel vid sändning	2018.06.19 05:33:47											
+11	11	W	Грешка при изпращане	2018.06.19 05:33:47											
+11	11	X	Išsiuntimo klaida	2018.06.19 05:33:47											
+11	11	Y	Nosūtīšanas laikā radās kļūda	2018.06.19 05:33:47											
+11	11	c	Error en l'expedició	2018.06.19 05:33:47											
+11	11	d	Greška pri otpremi	2018.06.19 05:33:47											
+11	11	늑	TAIS TEDS2*+	2018.06.19 05:33:47											
+11	11	닱	[Ƒēĥĺēŗ∙ƃēįɱ∙Ʋēŗşąŋƌ∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙]	2018.06.19 05:33:47											
+11	11	묩	प्रेषण के दौरान त्रुटि	2018.06.19 05:33:47											
+11	11	뱋	Жіберу кезіндегі қате	2018.06.19 05:33:47											
+11	11	쁩	Lỗi khi gửi	2018.06.19 05:33:47											
+12	12	1	分派成功	2018.06.19 05:33:47											
+12	12	2	นำส่ง OK	2018.06.19 05:33:47											
+12	12	3	디스패치 OK	2018.06.19 05:33:47											
+12	12	4	Expediere OK	2018.06.19 05:33:47											
+12	12	5	Odprema OK	2018.06.19 05:33:47											
+12	12	6	Otprema OK	2018.06.19 05:33:47											
+12	12	7	Penghantaran OK	2018.06.19 05:33:47											
+12	12	8	Відправлення пройшло успішно	2018.06.19 05:33:47											
+12	12	9	Lähetamine õnnestus	2018.06.19 05:33:47											
+12	12	A	الإرسال مقبول	2018.06.19 05:33:47											
+12	12	B	שיגור מוצלח	2018.06.19 05:33:47											
+12	12	C	Odesl.OK	2018.06.19 05:33:47											
+12	12	D	Versand OK	2018.06.19 05:33:47											
+12	12	E	Dispatch OK	2018.06.19 05:33:47											
+12	12	F	OK pour l'envoi de messages	2018.06.19 05:33:47											
+12	12	G	Αποστολή ΟΚ	2018.06.19 05:33:47											
+12	12	H	Kiszállítás O.K.	2018.06.19 05:33:47											
+12	12	I	Invio OK	2018.06.19 05:33:47											
+12	12	J	ディスパッチ OK	2018.06.19 05:33:47											
+12	12	K	Afsendelse OK	2018.06.19 05:33:47											
+12	12	L	Wysyłka OK	2018.06.19 05:33:47											
+12	12	M	分派 OK	2018.06.19 05:33:47											
+12	12	N	Verzending OK	2018.06.19 05:33:47											
+12	12	O	Forsendelse OK	2018.06.19 05:33:47											
+12	12	P	Transmissão OK	2018.06.19 05:33:47											
+12	12	Q	Odoslanie OK	2018.06.19 05:33:47											
+12	12	R	Отправка ОК	2018.06.19 05:33:47											
+12	12	S	Expedición OK	2018.06.19 05:33:47											
+12	12	T	Gönderme tamam	2018.06.19 05:33:47											
+12	12	U	Lähetys OK	2018.06.19 05:33:47											
+12	12	V	Sändning OK	2018.06.19 05:33:47											
+12	12	W	Изпращане OK	2018.06.19 05:33:47											
+12	12	X	Pavyko išsiųsti	2018.06.19 05:33:47											
+12	12	Y	Nosūtīšana ir izdevusies	2018.06.19 05:33:47											
+12	12	c	Expedició OK	2018.06.19 05:33:47											
+12	12	d	Otprema OK	2018.06.19 05:33:47											
+12	12	늑	TAIS TEDS2*+	2018.06.19 05:33:47											
+12	12	닱	[Ʋēŗşąŋƌ∙ŎĶ∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙]	2018.06.19 05:33:47											
+12	12	묩	प्रेषण ठीक है	2018.06.19 05:33:47											
+12	12	뱋	Жіберу дұрыс	2018.06.19 05:33:47											
+12	12	쁩	Gửi OK	2018.06.19 05:33:47											
+13	13	1	再传输 OK	2018.06.19 05:33:47											
+13	13	2	การส่งซ้ำ OK	2018.06.19 05:33:47											
+13	13	3	재전송 OK	2018.06.19 05:33:47											
+13	13	4	Retransmitere OK	2018.06.19 05:33:47											
+13	13	5	Ponovitev odpreme OK (retransmisija)	2018.06.19 05:33:47											
+13	13	6	Ponovni prijenos OK	2018.06.19 05:33:47											
+13	13	7	Penghantaran Semula OK	2018.06.19 05:33:47											
+13	13	8	Повторна передача пройшла успішно	2018.06.19 05:33:47											
+13	13	9	Taasedastamine õnnestus	2018.06.19 05:33:47											
+13	13	A	إعادة الإرسال مقبولة	2018.06.19 05:33:47											
+13	13	B	שידור מחדש מוצלח	2018.06.19 05:33:47											
+13	13	C	Opakování odeslání OK (retransmise)	2018.06.19 05:33:47											
+13	13	D	Versand wiederholen OK (Retransmission)	2018.06.19 05:33:47											
+13	13	E	Retransmission OK	2018.06.19 05:33:47											
+13	13	F	OK pour répéter l'envoi (retransmission)	2018.06.19 05:33:47											
+13	13	G	Επανάληψη μεταβίβασης ΟΚ	2018.06.19 05:33:47											
+13	13	H	Kiszállítás ismétlése O.K. (retransmission)	2018.06.19 05:33:47											
+13	13	I	Ripetere invio OK (ritrasmissione)	2018.06.19 05:33:47											
+13	13	J	再送信 OK	2018.06.19 05:33:47											
+13	13	K	Gentag afsendelse OK (retransmission)	2018.06.19 05:33:47											
+13	13	L	Powtórka wysyłki OK (retransmisja)	2018.06.19 05:33:47											
+13	13	M	重新傳送 OK	2018.06.19 05:33:47											
+13	13	N	Verzending herhalen OK (retransmission)	2018.06.19 05:33:47											
+13	13	O	Gjenta forsendelse OK (retransmission)	2018.06.19 05:33:47											
+13	13	P	Repetição da transmissão OK (retransmissão)	2018.06.19 05:33:47											
+13	13	Q	Opakovanie odosielania OK (retransmisia)	2018.06.19 05:33:47											
+13	13	R	Повтор отгрузки ОК (повторная передача)	2018.06.19 05:33:47											
+13	13	S	Retransmisión OK (Retransmisión)	2018.06.19 05:33:47											
+13	13	T	Yeniden gönderme tamam (yeniden iletim)	2018.06.19 05:33:47											
+13	13	U	Lähetyksen toisto OK (uudelleenlähetys)	2018.06.19 05:33:47											
+13	13	V	Upprepa sändning OK (sänder igen)	2018.06.19 05:33:47											
+13	13	W	Повторно предаване OK	2018.06.19 05:33:47											
+13	13	X	Pakartotinis perdavimas pavyko	2018.06.19 05:33:47											
+13	13	Y	Atkārtota pārraide ir izdevusies	2018.06.19 05:33:47											
+13	13	c	Repetició expedició OK (retransmissió)	2018.06.19 05:33:47											
+13	13	d	Ponovni prenos OK	2018.06.19 05:33:47											
+13	13	늑	TAIS TEDS2*+	2018.06.19 05:33:47											
+13	13	닱	[Ʋēŗşąŋƌ∙ŵįēƌēŗĥŏĺēŋ∙ŎĶ∙(Řēţŗąŋşɱįşşįŏŋ)∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙]	2018.06.19 05:33:47											
+13	13	묩	पुनर्संचरण ठीक है	2018.06.19 05:33:47											
+13	13	뱋	Қайта жіберу дұрыс	2018.06.19 05:33:47											
+13	13	쁩	Truyên tin lại OK	2018.06.19 05:33:47											
+14	14	1	交换确认肯定	2018.06.19 05:33:47											
+14	14	2	การตอบรับการแลกเปลี่ยนเป็นบวก	2018.06.19 05:33:47											
+14	14	3	교환 확인 포지티브	2018.06.19 05:33:47											
+14	14	4	Interchange Acknowledgment pozitiv	2018.06.19 05:33:47											
+14	14	5	Interchange Acknowledgement pozitivno	2018.06.19 05:33:47											
+14	14	6	Interchange Acknowledgment pozitivno	2018.06.19 05:33:47											
+14	14	7	Interchange acknowledgment positif	2018.06.19 05:33:47											
+14	14	8	Підтвердження обміну позитивне	2018.06.19 05:33:47											
+14	14	9	Andmeedastuse vastuvõtukinnitus on positiivne	2018.06.19 05:33:47											
+14	14	A	تأكيد التبادل إيجابي	2018.06.19 05:33:47											
+14	14	B	אישור החלפה חיובי	2018.06.19 05:33:47											
+14	14	C	Interchange Acknowledgement pozitiv.	2018.06.19 05:33:47											
+14	14	D	Interchange Acknowledgement positiv	2018.06.19 05:33:47											
+14	14	E	Interchange acknowledgment positive	2018.06.19 05:33:47											
+14	14	F	Interchange acknowledgement positif	2018.06.19 05:33:47											
+14	14	G	Θετική Εναλλαγή Αναγνώρισης	2018.06.19 05:33:47											
+14	14	H	Interchange Acknowledgement pozitív	2018.06.19 05:33:47											
+14	14	I	Interchange Acknowledgement positivo	2018.06.19 05:33:47											
+14	14	J	インタチェンジ承認ポジティブ	2018.06.19 05:33:47											
+14	14	K	Interchange acknowledgement positiv	2018.06.19 05:33:47											
+14	14	L	Potwierdzenie Wymiany pozytywne	2018.06.19 05:33:47											
+14	14	M	交換確認〈肯定〉	2018.06.19 05:33:47											
+14	14	N	Interchange Acknowledgment positief	2018.06.19 05:33:47											
+14	14	O	Interchange acknowledgement positiv	2018.06.19 05:33:47											
+14	14	P	Interchange Acknowledgement positivo	2018.06.19 05:33:47											
+14	14	Q	Interchange Acknowledgement pozitívny	2018.06.19 05:33:47											
+14	14	R	Подтверждение приема обмена - позитивно	2018.06.19 05:33:47											
+14	14	S	Interchange Acknowledgement positivo	2018.06.19 05:33:47											
+14	14	T	Değişim alındısı pozitif	2018.06.19 05:33:47											
+14	14	U	Tiedonsiirron kuittaus positiivinen	2018.06.19 05:33:47											
+14	14	V	Interchange Acknowledgement positiv	2018.06.19 05:33:47											
+14	14	W	Потвърждение на обмен е положително	2018.06.19 05:33:47											
+14	14	X	Mainų patvirtinimas teigiamas	2018.06.19 05:33:47											
+14	14	Y	Apmaiņas apstiprinājums ir pozitīvs	2018.06.19 05:33:47											
+14	14	c	Interchange Acknowledgement positiu	2018.06.19 05:33:47											
+14	14	d	Potvrda razmene pozitivna	2018.06.19 05:33:47											
+14	14	늑	TAIS TEDS2*+	2018.06.19 05:33:47											
+14	14	닱	[Ĭŋţēŗċĥąŋğē∙Āċķŋŏŵĺēƌğēɱēŋţ∙ρŏşįţįʋ∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙]	2018.06.19 05:33:47											
+14	14	묩	इंटरचेंज अभिस्वीकृति सकारात्मक	2018.06.19 05:33:47											
+14	14	뱋	Ауыстыруды растау оң	2018.06.19 05:33:47											
+14	14	쁩	Báo nhận trao đổi xác định	2018.06.19 05:33:47											
+15	15	1	交换确认否定	2018.06.19 05:33:47											
+15	15	2	การตอบรับการแลกเปลี่ยนเป็นลบ	2018.06.19 05:33:47											
+15	15	3	교환 확인 네거티브	2018.06.19 05:33:47											
+15	15	4	Interchange Acknowledgment negativ	2018.06.19 05:33:47											
+15	15	5	Interchange Acknowledgement negativno	2018.06.19 05:33:47											
+15	15	6	Interchange Acknowledgment negativno	2018.06.19 05:33:47											
+15	15	7	Interchange acknowledgment negatif	2018.06.19 05:33:47											
+15	15	8	Підтвердження обміну негативне	2018.06.19 05:33:47											
+15	15	9	Andmeedastuse vastuvõtukinnitus on negatiivne	2018.06.19 05:33:47											
+15	15	A	تأكيد التبادل سلبي	2018.06.19 05:33:47											
+15	15	B	אישור החלפה שלילי	2018.06.19 05:33:47											
+15	15	C	Interchange Acknowledgement negativ.	2018.06.19 05:33:47											
+15	15	D	Interchange Acknowledgement negativ	2018.06.19 05:33:47											
+15	15	E	Interchange acknowledgment negative	2018.06.19 05:33:47											
+15	15	F	Interchange acknowledgement négatif	2018.06.19 05:33:47											
+15	15	G	Αρνητική Εναλλαγή Αναγνώρισης	2018.06.19 05:33:47											
+15	15	H	Interchange Acknowledgement negatív	2018.06.19 05:33:47											
+15	15	I	Interchange Acknowledgement negativo	2018.06.19 05:33:47											
+15	15	J	インターチェンジ承認ネガティブ	2018.06.19 05:33:47											
+15	15	K	Interchange acknowledgement negativ	2018.06.19 05:33:47											
+15	15	L	Potwierdzenie Wymiany ujemne	2018.06.19 05:33:47											
+15	15	M	交換確認〈否定〉	2018.06.19 05:33:47											
+15	15	N	Interchange Acknowledgement negatief	2018.06.19 05:33:47											
+15	15	O	Interchange acknowledgement negativ	2018.06.19 05:33:47											
+15	15	P	Interchange Acknowledgement negativo	2018.06.19 05:33:47											
+15	15	Q	Interchange Acknowledgement negatívne	2018.06.19 05:33:47											
+15	15	R	Подтверждение приема обмена - негативно	2018.06.19 05:33:47											
+15	15	S	Interchange Acknowledgement negativo	2018.06.19 05:33:47											
+15	15	T	Değişim alındısı negatif	2018.06.19 05:33:47											
+15	15	U	Tiedonsiirron kuittaus negatiivinen	2018.06.19 05:33:47											
+15	15	V	Interchange Acknowledgement negativ	2018.06.19 05:33:47											
+15	15	W	Потвърждение на обмен е отрицателно	2018.06.19 05:33:47											
+15	15	X	Mainų patvirtinimas neigiamas	2018.06.19 05:33:47											
+15	15	Y	Apmaiņas apstiprinājums ir negatīvs	2018.06.19 05:33:47											
+15	15	c	Interchange Acknowledgement negatiu	2018.06.19 05:33:47											
+15	15	d	Potvrda razmene negativna	2018.06.19 05:33:47											
+15	15	늑	TAIS TEDS2*+	2018.06.19 05:33:47											
+15	15	닱	[Ĭŋţēŗċĥąŋğē∙Āċķŋŏŵĺēƌğēɱēŋţ∙ŋēğąţįʋ∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙]	2018.06.19 05:33:47											
+15	15	묩	इंटरचेंज अभिस्वीकृति नकारात्मक	2018.06.19 05:33:47											
+15	15	뱋	Ауыстыруды растау теріс	2018.06.19 05:33:47											
+15	15	쁩	Báo nhận trao đổi không xác định	2018.06.19 05:33:47											
+16	16	1	功能确认肯定	2018.06.19 05:33:47											
+16	16	2	การตอบรับฟังก์ชันเป็นบวก	2018.06.19 05:33:47											
+16	16	3	전송 확인 포지티브	2018.06.19 05:33:47											
+16	16	4	Confirmare funcţională pozitivă	2018.06.19 05:33:47											
+16	16	5	Functional Acknowledgement pozitivno	2018.06.19 05:33:47											
+16	16	6	Functional Acknowledgment pozitivno	2018.06.19 05:33:47											
+16	16	7	Functional acknowledgment positif	2018.06.19 05:33:47											
+16	16	8	Функціональне підтвердження позитивне	2018.06.19 05:33:47											
+16	16	9	Funktsioonikinnitus on positiivne	2018.06.19 05:33:47											
+16	16	A	التأكيد الوظيفي إيجابي	2018.06.19 05:33:47											
+16	16	B	אישור פונקציונאלי חיובי	2018.06.19 05:33:47											
+16	16	C	Functional Acknowledgement pozitiv.	2018.06.19 05:33:47											
+16	16	D	Functional Acknowledgement positiv	2018.06.19 05:33:47											
+16	16	E	Functional acknowledgment positive	2018.06.19 05:33:47											
+16	16	F	Functional acknowledgement positif	2018.06.19 05:33:47											
+16	16	G	Θετική Λειτουργική Αναγνώριση	2018.06.19 05:33:47											
+16	16	H	Functional Acknowledgement pozitív	2018.06.19 05:33:47											
+16	16	I	Functional Acknowledgement positivo	2018.06.19 05:33:47											
+16	16	J	着信確認応答ポジティブ	2018.06.19 05:33:47											
+16	16	K	Functional acknowledgement positiv	2018.06.19 05:33:47											
+16	16	L	Potwierdzanie Funkcjonalne pozytywne	2018.06.19 05:33:47											
+16	16	M	功能確認〈肯定〉	2018.06.19 05:33:47											
+16	16	N	Functional Acknowledgement positief	2018.06.19 05:33:47											
+16	16	O	Functional acknowledgement positiv	2018.06.19 05:33:47											
+16	16	P	Functional Acknowledgement positivo	2018.06.19 05:33:47											
+16	16	Q	Functional Acknowledgement pozitívne	2018.06.19 05:33:47											
+16	16	R	Функциональное подтверждение приема - позитивно	2018.06.19 05:33:47											
+16	16	S	Functional Acknowledgement positivo	2018.06.19 05:33:47											
+16	16	T	İşlevsel alındı pozitif	2018.06.19 05:33:47											
+16	16	U	Toiminnallinen kuittaus positiivinen	2018.06.19 05:33:47											
+16	16	V	Functional Acknowledgement positiv	2018.06.19 05:33:47											
+16	16	W	Функционално потвърждение е положително	2018.06.19 05:33:47											
+16	16	X	Funkcinis patvirtinimas teigiamas	2018.06.19 05:33:47											
+16	16	Y	Funkcionālais apstiprinājums ir pozitīvs	2018.06.19 05:33:47											
+16	16	c	Functional Acknowledgement positiu	2018.06.19 05:33:47											
+16	16	d	Funkcionalna potvrda pozitivna	2018.06.19 05:33:47											
+16	16	늑	TAIS TEDS2*+	2018.06.19 05:33:47											
+16	16	닱	[Ƒűŋċţįŏŋąĺ∙Āċķŋŏŵĺēƌğēɱēŋţ∙ρŏşįţįʋ∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙]	2018.06.19 05:33:47											
+16	16	묩	कार्यात्मक अभिस्वीकृति सकारात्मक	2018.06.19 05:33:47											
+16	16	뱋	Функциялық растау оң	2018.06.19 05:33:47											
+16	16	쁩	Báo nhận chức năng xác định	2018.06.19 05:33:47											
+17	17	1	功能确认否定	2018.06.19 05:33:47											
+17	17	2	การตอบรับฟังก์ชันเป็นลบ	2018.06.19 05:33:47											
+17	17	3	전송 확인 네거티브	2018.06.19 05:33:47											
+17	17	4	Confirmare funcţională negativă	2018.06.19 05:33:47											
+17	17	5	Functional Acknowledgement negativno	2018.06.19 05:33:47											
+17	17	6	Functional Acknowledgment negativno	2018.06.19 05:33:47											
+17	17	7	Functional acknowledgment negatif	2018.06.19 05:33:47											
+17	17	8	Функціональне підтвердження негативне	2018.06.19 05:33:47											
+17	17	9	Funktsioonikinnitus on negatiivne	2018.06.19 05:33:47											
+17	17	A	التأكيد الوظيفي سلبي	2018.06.19 05:33:47											
+17	17	B	אישור פונקציונאלי שלילי	2018.06.19 05:33:47											
+17	17	C	Functional Acknowledgement negativ.	2018.06.19 05:33:47											
+17	17	D	Functional Acknowledgement negativ	2018.06.19 05:33:47											
+17	17	E	Functional acknowledgment negative	2018.06.19 05:33:47											
+17	17	F	Functional acknowledgement négatif	2018.06.19 05:33:47											
+17	17	G	Αρνητική Λειτουργική Αναγνώριση	2018.06.19 05:33:47											
+17	17	H	Functional Acknowledgement negatív	2018.06.19 05:33:47											
+17	17	I	Functional Acknowledgement negativo	2018.06.19 05:33:47											
+17	17	J	着信確認応答ネガティブ	2018.06.19 05:33:47											
+17	17	K	Functional acknowledgement negativ	2018.06.19 05:33:47											
+17	17	L	Potwierdzanie Funkcjonalne ujemne	2018.06.19 05:33:47											
+17	17	M	功能確認〈否定〉	2018.06.19 05:33:47											
+17	17	N	Functional Acknowledgement negatief	2018.06.19 05:33:47											
+17	17	O	Functional acknowledgement negativ	2018.06.19 05:33:47											
+17	17	P	Functional Acknowledgement negativo	2018.06.19 05:33:47											
+17	17	Q	Functional Acknowledgement negatívne	2018.06.19 05:33:47											
+17	17	R	Функциональное подтверждение приема - негативно	2018.06.19 05:33:47											
+17	17	S	Functional Acknowledgement negativo	2018.06.19 05:33:47											
+17	17	T	İşlevsel alındı negatif	2018.06.19 05:33:47											
+17	17	U	Toiminnallinen kuittaus negatiivinen	2018.06.19 05:33:47											
+17	17	V	Functional Acknowledgement negativ	2018.06.19 05:33:47											
+17	17	W	Функционално потвърждение е отрицателно	2018.06.19 05:33:47											
+17	17	X	Funkcinis patvirtinimas neigiamas	2018.06.19 05:33:47											
+17	17	Y	Funkcionālais apstiprinājums ir negatīvs	2018.06.19 05:33:47											
+17	17	c	Functional Acknowledgement negatiu	2018.06.19 05:33:47											
+17	17	d	Funkcionalna potvrda negativna	2018.06.19 05:33:47											
+17	17	늑	TAIS TEDS2*+	2018.06.19 05:33:47											
+17	17	닱	[Ƒűŋċţįŏŋąĺ∙Āċķŋŏŵĺēƌğēɱēŋţ∙ŋēğąţįʋ∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙]	2018.06.19 05:33:47											
+17	17	묩	कार्यात्मक अभिस्वीकृति नकारात्मक	2018.06.19 05:33:47											
+17	17	뱋	Функциялық растау теріс	2018.06.19 05:33:47											
+17	17	쁩	Báo nhận chức năng không xác định	2018.06.19 05:33:47											
+18	18	1	切换 EDI 子系统 OK	2018.06.19 05:33:47											
+18	18	2	การทริกเกอร์ระบบย่อย EDI OK	2018.06.19 05:33:47											
+18	18	3	EDI 하위 시스템 트리거링 OK	2018.06.19 05:33:47											
+18	18	4	Declanşare subsistem EDI OK	2018.06.19 05:33:47											
+18	18	5	Sproženje EDI-podsistema OK	2018.06.19 05:33:47											
+18	18	6	Pokretanje EDI podsustava OK	2018.06.19 05:33:47											
+18	18	7	Subsistem EDI pemicuan OK	2018.06.19 05:33:47											
+18	18	8	Ініціювання підсистеми EDI пройшло успішно	2018.06.19 05:33:47											
+18	18	9	EDI alamsüsteem on käivitatud	2018.06.19 05:33:47											
+18	18	A	تشغيل النظام الفرعي EDI جيد	2018.06.19 05:33:47											
+18	18	B	הפעלת תת-מערכת EDI מוצלחת	2018.06.19 05:33:47											
+18	18	C	Spouštění subsystému EDI OK	2018.06.19 05:33:47											
+18	18	D	Anstoß des EDI-Subsystems OK	2018.06.19 05:33:47											
+18	18	E	Triggering EDI subsystem OK	2018.06.19 05:33:47											
+18	18	F	OK pour le lancement du sous-système EDI	2018.06.19 05:33:47											
+18	18	G	Εναρξη υποσυστήματος EDI OK	2018.06.19 05:33:47											
+18	18	H	EDI-alrendszer indítása O.K.	2018.06.19 05:33:47											
+18	18	I	Avvio del sottosistema EDI OK	2018.06.19 05:33:47											
+18	18	J	EDI サブシステム起動 OK	2018.06.19 05:33:47											
+18	18	K	Start af EDI-subsystem OK	2018.06.19 05:33:47											
+18	18	L	Inicjalizacja systemu podrzędnego EDI OK	2018.06.19 05:33:47											
+18	18	M	驅動 EDI子系統　OK	2018.06.19 05:33:47											
+18	18	N	Start van EDI-subsysteem OK	2018.06.19 05:33:47											
+18	18	O	Start av EDI-subsystemet OK	2018.06.19 05:33:47											
+18	18	P	Acionamento do subsistema EDI OK	2018.06.19 05:33:47											
+18	18	Q	Spustenie subsystému EDI OK	2018.06.19 05:33:47											
+18	18	R	Инициация EDI-подсистемы ОК	2018.06.19 05:33:47											
+18	18	S	Lanzamiento del subsistema EDI OK	2018.06.19 05:33:47											
+18	18	T	EDI alt sistem başlatımı tamam	2018.06.19 05:33:47											
+18	18	U	EDI-alijärjestelmän käynnistys OK	2018.06.19 05:33:47											
+18	18	V	Initiering av EDI-subsystem OK	2018.06.19 05:33:47											
+18	18	W	Стартиране на EDI подсистема OK	2018.06.19 05:33:47											
+18	18	X	Pavyko inicijuoti EDI posistemę	2018.06.19 05:33:47											
+18	18	Y	EDI apakšsistēmas izraisīšana ir izdevusies	2018.06.19 05:33:47											
+18	18	c	Llançament del subsistema EDI OK	2018.06.19 05:33:47											
+18	18	d	Pokretanje EDI podsistema OK	2018.06.19 05:33:47											
+18	18	늑	TAIS TEDS2*+	2018.06.19 05:33:47											
+18	18	닱	[Āŋşţŏß∙ƌēş∙ĔĎĬ-Ŝűƃşŷşţēɱş∙ŎĶ∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙]	2018.06.19 05:33:47											
+18	18	묩	ट्रिगरिंग EDI सबसिस्टम ठीक है	2018.06.19 05:33:47											
+18	18	뱋	EDI ішкі жүйесін бастау дұрыс	2018.06.19 05:33:47											
+18	18	쁩	Kích hoạt hệ thống phụ OK	2018.06.19 05:33:47											
+19	19	1	数据已传递到端口用于测试	2018.06.19 05:33:47											
+19	19	2	ส่งผ่านข้อมูลไปยังพอร์ตเพื่อการทดสอบ	2018.06.19 05:33:47											
+19	19	3	테스트를 위해 포트에 데이터 전송됨	2018.06.19 05:33:47											
+19	19	4	Date transmise la port pt.test	2018.06.19 05:33:47											
+19	19	5	Prenos podatkov vratom za test OK	2018.06.19 05:33:47											
+19	19	6	Podaci proslijeđeni na port za test	2018.06.19 05:33:47											
+19	19	7	Data dipindahkan ke port untuk ujian	2018.06.19 05:33:47											
+19	19	8	Дані передані до порту для тесту	2018.06.19 05:33:47											
+19	19	9	Andmed on testimiseks edastatud porti	2018.06.19 05:33:47											
+19	19	A	تم تمرير البيانات إلى المنفذ للاختبار	2018.06.19 05:33:47											
+19	19	B	הנתונים הועברו ליציאה לבדיקה	2018.06.19 05:33:47											
+19	19	C	Předání dat na port pro test OK	2018.06.19 05:33:47											
+19	19	D	Datenübergabe an Port für Test OK	2018.06.19 05:33:47											
+19	19	E	Data passed to port for test	2018.06.19 05:33:47											
+19	19	F	OK pour le transfert de données à titre de test	2018.06.19 05:33:47											
+19	19	G	Μεταφορά δεδομένων σε θύρα για έλεγχο	2018.06.19 05:33:47											
+19	19	H	Adatátvitel port felé, teszt O.K.	2018.06.19 05:33:47											
+19	19	I	Trasf. dati alla porta per test OK	2018.06.19 05:33:47											
+19	19	J	テスト用にデータをポートに転送済	2018.06.19 05:33:47											
+19	19	K	Dataoverførsel til port for test OK	2018.06.19 05:33:47											
+19	19	L	Transfer danych do portu (test) OK	2018.06.19 05:33:47											
+19	19	M	已將資料移轉至連接埠以進行測試	2018.06.19 05:33:47											
+19	19	N	Gegevensdoorgifte aan poort voor test OK	2018.06.19 05:33:47											
+19	19	O	Dataoverføring til port for test OK	2018.06.19 05:33:47											
+19	19	P	Transferência de dados para a porta (para teste) OK	2018.06.19 05:33:47											
+19	19	Q	Odovzdanie dát na port pre test OK	2018.06.19 05:33:47											
+19	19	R	Перенос данных в порт для теста ОК	2018.06.19 05:33:47											
+19	19	S	Transferencia de datos a puerta para test OK	2018.06.19 05:33:47											
+19	19	T	Deneme için port'a veri aktarımı tamam	2018.06.19 05:33:47											
+19	19	U	Tiedonsiirto porttiin testiä varten OK	2018.06.19 05:33:47											
+19	19	V	Dataöverföring till port för test - OK	2018.06.19 05:33:47											
+19	19	W	Данни са предадени към порт за тест	2018.06.19 05:33:47											
+19	19	X	Testo duomenų perkėlimas prievadui	2018.06.19 05:33:47											
+19	19	Y	Dati ir nodoti portam testēšanai	2018.06.19 05:33:47											
+19	19	c	Tansferència de dades a la porta per a prova OK	2018.06.19 05:33:47											
+19	19	d	Podaci prosleđeni u port za test	2018.06.19 05:33:47											
+19	19	늑	TAIS TEDS2*+	2018.06.19 05:33:47											
+19	19	닱	[Ďąţēŋüƃēŗğąƃē∙ąŋ∙Ƥŏŗţ∙ƒüŗ∙Ţēşţ∙ŎĶ∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙]	2018.06.19 05:33:47											
+19	19	묩	परीक्षण के लिए डेटा पोर्ट पर पास किया गया	2018.06.19 05:33:47											
+19	19	뱋	Сынақ үшін дерек тасымалы дұрыс	2018.06.19 05:33:47											
+19	19	쁩	Truyền dữ liệu cho cổng kiểm tra	2018.06.19 05:33:47											
+20	20	1	触发 EDI 子系统错误	2018.06.19 05:33:47											
+20	20	2	ข้อผิดพลาดขณะทริกเกอร์ระบบย่อยของ EDI	2018.06.19 05:33:47											
+20	20	3	EDI 하위 시스템 트리거 중 오류 발생	2018.06.19 05:33:47											
+20	20	4	Eroare declanşare subsistem EDI	2018.06.19 05:33:47											
+20	20	5	Napaka pri zagonu EDI-podsistema	2018.06.19 05:33:47											
+20	20	6	Greška u pokretanju EDI podsustava	2018.06.19 05:33:47											
+20	20	7	Subsistem EDI pemicuan ralat	2018.06.19 05:33:47											
+20	20	8	Помилка ініціювання підсистеми EDI	2018.06.19 05:33:47											
+20	20	9	Tõrge EDI alamsüsteemi käivitamisel	2018.06.19 05:33:47											
+20	20	A	خطأ تشغيل النظام الفرعي EDI	2018.06.19 05:33:47											
+20	20	B	שגיאה בהפעלת תת-מערכת EDI	2018.06.19 05:33:47											
+20	20	C	Chyba při spouštění subsystému EDI	2018.06.19 05:33:47											
+20	20	D	Fehler beim Anstoß des EDI-Subsystems	2018.06.19 05:33:47											
+20	20	E	Error triggering EDI subsystem	2018.06.19 05:33:47											
+20	20	F	Erreur lors du lancement du sous-système EDI	2018.06.19 05:33:47											
+20	20	G	Λάθος στην έναρξη υποσυστήματος EDI	2018.06.19 05:33:47											
+20	20	H	Hiba az EDI-alrendszer indításánál	2018.06.19 05:33:47											
+20	20	I	Errore di avvio del sottosistema EDI	2018.06.19 05:33:47											
+20	20	J	EDI サブシステム起動エラー	2018.06.19 05:33:47											
+20	20	K	Fejl ved start af EDI-subsystem	2018.06.19 05:33:47											
+20	20	L	Błąd podczas inicjalizacji systemu podrzędnego EDI	2018.06.19 05:33:47											
+20	20	M	驅動 EDI子系統時發生錯誤	2018.06.19 05:33:47											
+20	20	N	Fout bij starten EDI-subsysteem	2018.06.19 05:33:47											
+20	20	O	Feil ved start av EDI-subsystemet	2018.06.19 05:33:47											
+20	20	P	Erro no acionamento do subsistema EDI	2018.06.19 05:33:47											
+20	20	Q	Chyba pri spustení subsystému EDI	2018.06.19 05:33:47											
+20	20	R	Ошибка при инициации EDI-подсистемы	2018.06.19 05:33:47											
+20	20	S	Error al lanzar subsistema EDI	2018.06.19 05:33:47											
+20	20	T	EDI alt sistem başlatımı sırasında hata	2018.06.19 05:33:47											
+20	20	U	Virhe EDI-alijärjestelmän käynnistyksessä	2018.06.19 05:33:47											
+20	20	V	Fel vid start av EDI-subsystemet	2018.06.19 05:33:47											
+20	20	W	Грешка при стартиране на EDI подсистема	2018.06.19 05:33:47											
+20	20	X	EDI posistemės inicijavimo klaida	2018.06.19 05:33:47											
+20	20	Y	Kļūda, izraisot EDI apakšsistēmu	2018.06.19 05:33:47											
+20	20	c	Error en el llançament del subsistema EDI	2018.06.19 05:33:47											
+20	20	d	Greška pri pokretanju EDI podsistema	2018.06.19 05:33:47											
+20	20	늑	TAIS TEDS2*+	2018.06.19 05:33:47											
+20	20	닱	[Ƒēĥĺēŗ∙ƃēįɱ∙Āŋşţŏß∙ƌēş∙ĔĎĬ-Ŝűƃşŷşţēɱş∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙]	2018.06.19 05:33:47											
+20	20	묩	EDI सबसिस्ट को ट्रिगर करने में त्रुटि	2018.06.19 05:33:47											
+20	20	뱋	EDI ішкі жүйесін бастау қатесі	2018.06.19 05:33:47											
+20	20	쁩	Lỗi kích hoạt hệ thống phụ EDI	2018.06.19 05:33:47											
+21	21	1	传送测试数据错误	2018.06.19 05:33:47											
+21	21	2	ข้อผิดพลาดขณะส่งข้อมูลเพื่อทดสอบ	2018.06.19 05:33:47											
+21	21	3	테스트를 위한 데이타 전달 중 오류 발생	2018.06.19 05:33:47											
+21	21	4	Eroare la trecere date pt.test	2018.06.19 05:33:47											
+21	21	5	Napaka pri prenosu podatkov na vrata za test	2018.06.19 05:33:47											
+21	21	6	Greška kod prijenosa podataka za probu	2018.06.19 05:33:47											
+21	21	7	Data penghantaran ralat untuk ujian	2018.06.19 05:33:47											
+21	21	8	Помилка підчас перенесення даних для перевірки	2018.06.19 05:33:47											
+21	21	9	Tõrge andmete testimiseks edastamisel	2018.06.19 05:33:47											
+21	21	A	خطأ أثناء تمرير البيانات للاختبار	2018.06.19 05:33:47											
+21	21	B	שגיאה בהעברת נתונים לבדיקה	2018.06.19 05:33:47											
+21	21	C	Chyba při předání dat na port pro test	2018.06.19 05:33:47											
+21	21	D	Fehler bei Datenübergabe an Port für Test	2018.06.19 05:33:47											
+21	21	E	Error passing data for test	2018.06.19 05:33:47											
+21	21	F	Erreur lors du transfert de données à titre de test	2018.06.19 05:33:47											
+21	21	G	Λάθος διάβαση δεδομένων για έλεγχο	2018.06.19 05:33:47											
+21	21	H	Hiba a teszt-adatátvitelnél port felé	2018.06.19 05:33:47											
+21	21	I	Errore nel trasf. dati alla porta per test	2018.06.19 05:33:47											
+21	21	J	テスト用データ受渡しエラー	2018.06.19 05:33:47											
+21	21	K	Fejl ved dataoverførsel til port for test	2018.06.19 05:33:47											
+21	21	L	Bład podczas transferu danych do portu (test)	2018.06.19 05:33:47											
+21	21	M	傳送測試資料時發生錯誤	2018.06.19 05:33:47											
+21	21	N	Fout bij gegevensdoorgifte aan poort voor test	2018.06.19 05:33:47											
+21	21	O	Feil ved dataoverføring til port for test	2018.06.19 05:33:47											
+21	21	P	Erro na transferência de dados para a porta (para teste)	2018.06.19 05:33:47											
+21	21	Q	Chyba pri odovzdaní dát na port pre test	2018.06.19 05:33:47											
+21	21	R	Ошибка при переносе данных в порт для теста	2018.06.19 05:33:47											
+21	21	S	Error al transferir datos a puerta para test	2018.06.19 05:33:47											
+21	21	T	Deneme için port'a veri aktarımı sırasında hata	2018.06.19 05:33:47											
+21	21	U	Virhe tiedonsiirrossa porttiin testiä varten	2018.06.19 05:33:47											
+21	21	V	Fel vid dataöverföring till port för test	2018.06.19 05:33:47											
+21	21	W	Грешка при подаване на данни за тест	2018.06.19 05:33:47											
+21	21	X	Testo duomenų perdavimo klaida	2018.06.19 05:33:47											
+21	21	Y	Kļūda, pārsūtot datus testam	2018.06.19 05:33:47											
+21	21	c	Error en la transferència de dades a la porta per a prova	2018.06.19 05:33:47											
+21	21	d	Greška pri predaji podataka za test	2018.06.19 05:33:47											
+21	21	늑	TAIS TEDS2*+	2018.06.19 05:33:47											
+21	21	닱	[Ƒēĥĺēŗ∙ƃēį∙Ďąţēŋüƃēŗğąƃē∙ąŋ∙Ƥŏŗţ∙ƒüŗ∙Ţēşţ∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙]	2018.06.19 05:33:47											
+21	21	묩	परीक्षण के लिए डेटा पास करने में त्रुटि	2018.06.19 05:33:47											
+21	21	뱋	Сынақ үшін деректерді жіберу қатесі	2018.06.19 05:33:47											
+21	21	쁩	Lỗi khi truyền dữ liệu để kiểm tra	2018.06.19 05:33:47											
+22	22	1	发送正常，但确认仍然到期	2018.06.19 05:33:47											
+22	22	2	การนำส่งถูกต้อง ยังคงรอการตอบรับ	2018.06.19 05:33:47											
+22	22	3	디스패치 완료, 아직 확인되지 않음	2018.06.19 05:33:47											
+22	22	4	Expediere OK, confirmare încă restantă	2018.06.19 05:33:47											
+22	22	5	Odprema OK, manjka Acknowledgement	2018.06.19 05:33:47											
+22	22	6	Otprema OK, Acknowledgment za dospijeće	2018.06.19 05:33:47											
+22	22	7	Penghantaran OK, perakuan masih tamat tempoh	2018.06.19 05:33:47											
+22	22	8	Відправлення OK, підтвердження ще немає	2018.06.19 05:33:47											
+22	22	9	Lähetamine õnnestus, kuid kinnitust pole veel saadud	2018.06.19 05:33:47											
+22	22	A	التوزيع صحيح, التأكيد لا يزال معلقًا	2018.06.19 05:33:47											
+22	22	B	שיגור OK, אישור עדיין נדרש	2018.06.19 05:33:47											
+22	22	C	Odeslání OK, Acknowledgement vázne	2018.06.19 05:33:47											
+22	22	D	Versand OK, Acknowledgement steht aus	2018.06.19 05:33:47											
+22	22	E	Dispatch OK, acknowledgment still due	2018.06.19 05:33:47											
+22	22	F	Envoi OK, acknowledgement non reçu	2018.06.19 05:33:47											
+22	22	G	Αποστολή OK, αναγνώριση ακόμη εκκρεμεί	2018.06.19 05:33:47											
+22	22	H	Kiszállítás OK, acknowledgement hátravan	2018.06.19 05:33:47											
+22	22	I	Invio OK, riconoscimento non ricevuto	2018.06.19 05:33:47											
+22	22	J	ディスパッチ正常終了、要承認	2018.06.19 05:33:47											
+22	22	K	Afsendelse OK, acknowledgement mangler	2018.06.19 05:33:47											
+22	22	L	Wysyłka OK, brak potwierdzenia	2018.06.19 05:33:47											
+22	22	M	發派 OK，確認仍到期	2018.06.19 05:33:47											
+22	22	N	Verzending OK, acknowledgement nog niet plaatsgevonden	2018.06.19 05:33:47											
+22	22	O	Forsendelse OK, acknowledgement mangler	2018.06.19 05:33:47											
+22	22	P	Transmissão OK, Acknowledgement pendente	2018.06.19 05:33:47											
+22	22	Q	Odoslanie OK, Acknowledgement viazne	2018.06.19 05:33:47											
+22	22	R	Отправка ОК, подтверждения пока нет	2018.06.19 05:33:47											
+22	22	S	Expedición OK, Acknowledgement pendiente	2018.06.19 05:33:47											
+22	22	T	Gönderim tamam, alındı henüz gönderilmedi	2018.06.19 05:33:47											
+22	22	U	Lähetys OK, kuittaus puuttuu	2018.06.19 05:33:47											
+22	22	V	Distribution OK, acknowledgement fattas	2018.06.19 05:33:47											
+22	22	W	Изпращане OK, все още липсва потвърждение	2018.06.19 05:33:47											
+22	22	X	Pavyko išsiųsti, patvirtinimo dar nėra	2018.06.19 05:33:47											
+22	22	Y	Nosūtīšana ir izdevusies, apstiprinājums vēl nav saņemts	2018.06.19 05:33:47											
+22	22	c	Expedició OK, Acknowledgement pendent	2018.06.19 05:33:47											
+22	22	d	Otprema OK, potvrda tek dospeva	2018.06.19 05:33:47											
+22	22	늑	TAIS TEDS2*+	2018.06.19 05:33:47											
+22	22	닱	[Ʋēŗşąŋƌ∙ŎĶ,∙Āċķŋŏŵĺēƌğēɱēŋţ∙şţēĥţ∙ąűş∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙]	2018.06.19 05:33:47											
+22	22	묩	प्रेषण ठीक है, अभिस्वीकृति अभी भी नियत है	2018.06.19 05:33:47											
+22	22	뱋	Жіберу дұрыс, растау әлі жоқ	2018.06.19 05:33:47											
+22	22	쁩	Gửi đi OK, báo nhận vẫn đến hạn	2018.06.19 05:33:47											
+23	23	1	重新传输时出错	2018.06.19 05:33:47											
+23	23	2	ข้อผิดพลาดขณะส่งซ้ำอีกครั้ง	2018.06.19 05:33:47											
+23	23	3	다시 전송하는 동안 오류 발생	2018.06.19 05:33:47											
+23	23	4	Eroare la retransmitere	2018.06.19 05:33:47											
+23	23	5	Napaka pri ponovni odpremi (retransmisija)	2018.06.19 05:33:47											
+23	23	6	Greška tokom ponovnog prijenosa	2018.06.19 05:33:47											
+23	23	7	Ralat semasa penghantaran semula	2018.06.19 05:33:47											
+23	23	8	Помилка підчас повторної передачі	2018.06.19 05:33:47											
+23	23	9	Tõrge taasedastamisel	2018.06.19 05:33:47											
+23	23	A	خطأ أثناء إعادة النقل	2018.06.19 05:33:47											
+23	23	B	שגיאה במהלך שידור מחדש	2018.06.19 05:33:47											
+23	23	C	Chyba při opakovaném odeslání (retransmise)	2018.06.19 05:33:47											
+23	23	D	Fehler beim Versand wiederholen (Retransmission)	2018.06.19 05:33:47											
+23	23	E	Error during retransmission	2018.06.19 05:33:47											
+23	23	F	Erreur en répétant l'envoi (retransmission)	2018.06.19 05:33:47											
+23	23	G	Λάθος κατά τη διάρκεια επανάληψης μεταβίβασης	2018.06.19 05:33:47											
+23	23	H	Hiba a kiszállítás ismétlésénél (retransmission)	2018.06.19 05:33:47											
+23	23	I	Errore durante ritrasmissione	2018.06.19 05:33:47											
+23	23	J	再送信中のエラー	2018.06.19 05:33:47											
+23	23	K	Gentag fejl ved afsendelse (retransmission)	2018.06.19 05:33:47											
+23	23	L	Powtórzenie błędu przy wysyłce (retransmisja)	2018.06.19 05:33:47											
+23	23	M	重新傳送期間發生錯誤	2018.06.19 05:33:47											
+23	23	N	Fout bij herhalen verzending (retransmission)	2018.06.19 05:33:47											
+23	23	O	Gjenta feil ved forsendelse (retransmission)	2018.06.19 05:33:47											
+23	23	P	Erro ao repetir a transmissão (retransmissão)	2018.06.19 05:33:47											
+23	23	Q	Chyba pri opakovanom odoslaní (retransmisia)	2018.06.19 05:33:47											
+23	23	R	Повтор ошибки при отгрузке (повторная передача)	2018.06.19 05:33:47											
+23	23	S	Error durante retransmisión	2018.06.19 05:33:47											
+23	23	T	Yeniden gönderim sırasında hata (yeniden iletim)	2018.06.19 05:33:47											
+23	23	U	Virhe lähetyksen toistossa (uudelleenlähetys)	2018.06.19 05:33:47											
+23	23	V	Fel vid upprepning av sändning (återsändning)	2018.06.19 05:33:47											
+23	23	W	Грешка при повторно предаване	2018.06.19 05:33:47											
+23	23	X	Pakartotinio perdavimo klaida	2018.06.19 05:33:47											
+23	23	Y	Atkārtotās pārraides laikā radās kļūda	2018.06.19 05:33:47											
+23	23	c	Error en la repetició de l'expedició (retransmissió)	2018.06.19 05:33:47											
+23	23	d	Greška pri ponovnom prenosu	2018.06.19 05:33:47											
+23	23	늑	TAIS TEDS2*+	2018.06.19 05:33:47											
+23	23	닱	[Ƒēĥĺēŗ∙ƃēįɱ∙Ʋēŗşąŋƌ∙ŵįēƌēŗĥŏĺēŋ∙(Řēţŗąŋşɱįşşįŏŋ)∙∙∙∙∙∙∙∙∙∙]	2018.06.19 05:33:47											
+23	23	묩	 पुनर्संचरण के दौरान त्रुटि	2018.06.19 05:33:47											
+23	23	뱋	Қайта жіберу кезіндегі қате	2018.06.19 05:33:47											
+23	23	쁩	Lỗi khi truyền lại	2018.06.19 05:33:47											
+24	24	1	EDI 子系统控制信息 OK	2018.06.19 05:33:47											
+24	24	2	การควบคุมข้อมูลของระบบย่อยใน EDI OK	2018.06.19 05:33:47											
+24	24	3	EDI 하위 시스템의 제어 정보 OK	2018.06.19 05:33:47											
+24	24	4	Informaţii control ale subsistem EDI OK	2018.06.19 05:33:47											
+24	24	5	Kontrolne informacije EDI-podsistema OK	2018.06.19 05:33:47											
+24	24	6	Kontrolne informacije EDI podsustava OK	2018.06.19 05:33:47											
+24	24	7	Maklumat kawalan subsistem EDI OK	2018.06.19 05:33:47											
+24	24	8	Інформація керування підсистеми EDI OK	2018.06.19 05:33:47											
+24	24	9	EDI alamsüsteemi juhtteave on OK.	2018.06.19 05:33:47											
+24	24	A	معلومات التحكم بالنظام الفرعي EDI جيدة	2018.06.19 05:33:47											
+24	24	B	מידע בקרה של תת מערכת OK EDI	2018.06.19 05:33:47											
+24	24	C	Řídicí informace subsystému EDI OK	2018.06.19 05:33:47											
+24	24	D	Steuerinformationen des EDI-Subsystems OK	2018.06.19 05:33:47											
+24	24	E	Control information of EDI subsystem OK	2018.06.19 05:33:47											
+24	24	F	Informations de commande du sous-système EDI OK	2018.06.19 05:33:47											
+24	24	G	Πληροφορία ελέγχου υποσυστήματος EDI OK	2018.06.19 05:33:47											
+24	24	H	EDI-alrendszer vezérlési információi O.K.	2018.06.19 05:33:47											
+24	24	I	Info di controllo del sottositema EDI OK	2018.06.19 05:33:47											
+24	24	J	EDI サブシステム正常起動の制御情報	2018.06.19 05:33:47											
+24	24	K	Styreinformationer for EDI-subsystem OK	2018.06.19 05:33:47											
+24	24	L	Informacje sterujące systemu podrzędnego EDI OK	2018.06.19 05:33:47											
+24	24	M	EDI 子系統的控制資訊 OK	2018.06.19 05:33:47											
+24	24	N	Besturingsgegevens van EDI-subsysteem OK	2018.06.19 05:33:47											
+24	24	O	Styringsinformasjon for EDI-subsystemet OK	2018.06.19 05:33:47											
+24	24	P	Informações de controle do subsistema EDI OK	2018.06.19 05:33:47											
+24	24	Q	Riadiace informácie subsystému EDI OK	2018.06.19 05:33:47											
+24	24	R	Информация управления EDI-подсистемы ОК	2018.06.19 05:33:47											
+24	24	S	Informaciones de control del subsistema EDI OK	2018.06.19 05:33:47											
+24	24	T	EDI alt sistem denetim bilgileri tamam	2018.06.19 05:33:47											
+24	24	U	EDI-alijärjestelmän ohjaustiedot OK	2018.06.19 05:33:47											
+24	24	V	Styrinformation för EDI-subsystem OK	2018.06.19 05:33:47											
+24	24	W	Контролна информация на EDI подсистема OK	2018.06.19 05:33:47											
+24	24	X	EDI posistemės valdymo informacija: gerai	2018.06.19 05:33:47											
+24	24	Y	EDI apakšsistēmas vadības informācija - OK	2018.06.19 05:33:47											
+24	24	c	Inoformació fiscal del subsistema EDI OK	2018.06.19 05:33:47											
+24	24	d	Kontrolne informacije EDI podsistema OK	2018.06.19 05:33:47											
+24	24	늑	TAIS TEDS2*+	2018.06.19 05:33:47											
+24	24	닱	[Ŝţēűēŗįŋƒŏŗɱąţįŏŋēŋ∙ƌēş∙ĔĎĬ-Ŝűƃşŷşţēɱş∙ŎĶ∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙]	2018.06.19 05:33:47											
+24	24	묩	EDI सबसिस्टम की नियंत्रण जानकारी ठीक है	2018.06.19 05:33:47											
+24	24	뱋	EDI ішкі жүйесінің басқару ақпараты дұрыс	2018.06.19 05:33:47											
+24	24	쁩	Kiểm soát thông tin của hệ thống phụ EDI OK	2018.06.19 05:33:47											
+25	25	1	尽管有语法错误仍处理 (外向)	2018.06.19 05:33:47											
+25	25	2	ประมวลผลแม้ว่ามีข้อผิดพลาดทางไวยากรณ์ (ขาออก)	2018.06.19 05:33:47											
+25	25	3	구문 오류에도 불구하고 처리(아웃바운드)	2018.06.19 05:33:47											
+25	25	4	Prelucrare în ciuda erorii de sintaxă (ieşire)	2018.06.19 05:33:47											
+25	25	5	Nadaljna obdelava kljub napaki sintakse (izhod)	2018.06.19 05:33:47											
+25	25	6	Obrada unatoč sintaktičke greške (izlazna)	2018.06.19 05:33:47											
+25	25	7	Memproses walaupun ralat sintaks (keluar)	2018.06.19 05:33:47											
+25	25	8	Обробка незважаючи на синтаксичну помилку (вихід)	2018.06.19 05:33:47											
+25	25	9	Töötlemine sõltumata süntaksiveast (väljaminevad)	2018.06.19 05:33:47											
+25	25	A	المعالجة على الرغم من خطأ بناء الجملة (للخارج)	2018.06.19 05:33:47											
+25	25	B	עיבוד למרות שגיאת תחביר - יוצא	2018.06.19 05:33:47											
+25	25	C	Další zpracování přes chybu syntaxe (výstup)	2018.06.19 05:33:47											
+25	25	D	Weiterverarbeitung trotz Syntaxfehler (Ausgang)	2018.06.19 05:33:47											
+25	25	E	Processing despite syntax error (outbound)	2018.06.19 05:33:47											
+25	25	F	Poursuite du traitemt malgré des err. de syntaxe (émission)	2018.06.19 05:33:47											
+25	25	G	Επεξεργασία παρά το συντακτικό λάθος (outbound)	2018.06.19 05:33:47											
+25	25	H	További feldolgozás szintaktikai hiba ellenére (kimenő dok.)	2018.06.19 05:33:47											
+25	25	I	Continua l'elab. nonost. err. di sint. (uscita)	2018.06.19 05:33:47											
+25	25	J	構文エラーがある場合も処理 (送信)	2018.06.19 05:33:47											
+25	25	K	Viderebehandling trods syntaksfejl (udgang)	2018.06.19 05:33:47											
+25	25	L	Ponowne przetwarzanie mimo błędów składni (wyjście)	2018.06.19 05:33:47											
+25	25	M	不管語法錯誤，仍照常處理(外傳)	2018.06.19 05:33:47											
+25	25	N	Verdere verwerking ondanks syntaxerror (uitgang)	2018.06.19 05:33:47											
+25	25	O	Fortsett behandling på tross av syntaksfeil (utgang)	2018.06.19 05:33:47											
+25	25	P	Contin.procmto.apesar erro sintaxe (saída)	2018.06.19 05:33:47											
+25	25	Q	Ďalšie spracovanie napriek chybe syntaxe(výstup)	2018.06.19 05:33:47											
+25	25	R	Дальнейшая обработка несмотря на СинтаксОшибку (выход)	2018.06.19 05:33:47											
+25	25	S	Continúa procesamiento a pesar de error sintaxis (salida)	2018.06.19 05:33:47											
+25	25	T	Sözdizim hatasına rağmen işlemeye devam (çıkış)	2018.06.19 05:33:47											
+25	25	U	Jatkokäsittely syntaksivirheestä huolimatta (lähtevät)	2018.06.19 05:33:47											
+25	25	V	Ytterligare bearbetning trots syntaxfel (utgång)	2018.06.19 05:33:47											
+25	25	W	Обработка въпреки синтактична грешка (изходящ)	2018.06.19 05:33:47											
+25	25	X	Apdorojimas nepaisant sintaksės klaidos (siuntimas)	2018.06.19 05:33:47											
+25	25	Y	Apstrādes turpināš., neskatoties uz sint. kļūdu (izejošā)	2018.06.19 05:33:47											
+25	25	c	Continuar el process.malgrat l'error de sintaxi (sortida)	2018.06.19 05:33:47											
+25	25	d	Obrada uprkos sintaksičke greški (izlaz)	2018.06.19 05:33:47											
+25	25	늑	TAIS TEDS2*+	2018.06.19 05:33:47											
+25	25	닱	[Ŵēįţēŗʋēŗąŗƃēįţűŋğ∙ţŗŏţž∙Ŝŷŋţąχƒēĥĺēŗ∙(Āűşğąŋğ)∙∙∙∙∙∙∙∙∙∙∙]	2018.06.19 05:33:47											
+25	25	묩	सिंटैक्स त्रुटि के बावजूद प्रोसेसिंग (आउटबाउंड)	2018.06.19 05:33:47											
+25	25	뱋	Синтаксистік қатеге қарамай өңдеу (шығыс)	2018.06.19 05:33:47											
+25	25	쁩	Xử lý bất chấp lỗi cú pháp (xuất)	2018.06.19 05:33:47											
+26	26	1	IDoc（外向）语法检查出错	2018.06.19 05:33:47											
+26	26	2	ข้อผิดพลาดขณะตรวจสอบไวยากรณ์ของ IDoc (ขาออก)	2018.06.19 05:33:47											
+26	26	3	IDoc 구문 점검 중 오류 발생(아웃바운드)	2018.06.19 05:33:47											
+26	26	4	Eroare la verificare sintaxă a IDoc (ieşire)	2018.06.19 05:33:47											
+26	26	5	Napaka sintakse IDoc (Izhod)	2018.06.19 05:33:47											
+26	26	6	Greška tokom provjere sintakse IDoc-a (izlazna)	2018.06.19 05:33:47											
+26	26	7	Ralat senasa semakan sintaks IDoc (keluar)	2018.06.19 05:33:47											
+26	26	8	Помилка підчас перевірки синтаксису IDoc (вихід)	2018.06.19 05:33:47											
+26	26	9	Tõrge IDoci süntaksi kontrollimisel (väljaminevad)	2018.06.19 05:33:47											
+26	26	A	خطأ أثناء فحص بناء الجملة للمستند الوسيط (للخارج)	2018.06.19 05:33:47											
+26	26	B	שגיאה במהלך בדיקת תחביר של מס.ביניים -יוצא	2018.06.19 05:33:47											
+26	26	C	Chyba syntaxe v IDOC  (výstup)	2018.06.19 05:33:47											
+26	26	D	Syntaxfehler im IDoc (Ausgang)	2018.06.19 05:33:47											
+26	26	E	Error during syntax check of IDoc (outbound)	2018.06.19 05:33:47											
+26	26	F	Erreur de syntaxe dans l'IDOC (émission)	2018.06.19 05:33:47											
+26	26	G	Λάθος κατά τον συντακτικό έλεγχο IDoc (outbound)	2018.06.19 05:33:47											
+26	26	H	Szintaktikai hiba az IDoc-ban (kimenő dok.)	2018.06.19 05:33:47											
+26	26	I	Errore di sintassi in IDoc (uscita)	2018.06.19 05:33:47											
+26	26	J	IDOC 構文チェック時のエラー (送信)	2018.06.19 05:33:47											
+26	26	K	Syntaksfejl i IDoc (udgang)	2018.06.19 05:33:47											
+26	26	L	Błąd składni w IDoc (wyjście)	2018.06.19 05:33:47											
+26	26	M	IDoc 語法檢查期間發生錯誤 <外傳>	2018.06.19 05:33:47											
+26	26	N	Syntaxerror in IDoc (uitgang)	2018.06.19 05:33:47											
+26	26	O	Syntaksfeil i IDOC (utgang)	2018.06.19 05:33:47											
+26	26	P	Erro de sintaxe no IDoc (saída)	2018.06.19 05:33:47											
+26	26	Q	Chyba syntaxe v IDOC  (výstup)	2018.06.19 05:33:47											
+26	26	R	Синтаксическая ошибка в IDoc (ваыход)	2018.06.19 05:33:47											
+26	26	S	Error de sintaxis en IDOC (salida)	2018.06.19 05:33:47											
+26	26	T	IDoc'ta sözdizim hatası (çıkış)	2018.06.19 05:33:47											
+26	26	U	IDOCissa syntaksivirhe (lähtevät)	2018.06.19 05:33:47											
+26	26	V	Syntaxfel i IDOC (utgång)	2018.06.19 05:33:47											
+26	26	W	Грешка при синтактична проверка на IDoc (изходящ)	2018.06.19 05:33:47											
+26	26	X	IDOC sintaksės patikros klaida (siuntimas)	2018.06.19 05:33:47											
+26	26	Y	IDoc sintakses pārbaudes laikā radās kļūda (izejošā)	2018.06.19 05:33:47											
+26	26	c	Error de sintaxi a l'IDoc (sortida)	2018.06.19 05:33:47											
+26	26	d	Greška pri proveri sintakse IDoc (izlaz)	2018.06.19 05:33:47											
+26	26	늑	TAIS TEDS2*+	2018.06.19 05:33:47											
+26	26	닱	[Ŝŷŋţąχƒēĥĺēŗ∙įɱ∙ĬĎŏċ∙(Āűşğąŋğ)∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙]	2018.06.19 05:33:47											
+26	26	묩	IDOC के सिंटैक्स जांच के दौरान त्रुटि (आउटबाउंड)	2018.06.19 05:33:47											
+26	26	뱋	IDoc синтаксистік тексеру кезіндегі қате (шығыс)	2018.06.19 05:33:47											
+26	26	쁩	Lỗi khi kiểm tra cú pháp của IDoc (đầu vào)	2018.06.19 05:33:47											
+27	27	1	分派级错误 (ALE 服务)	2018.06.19 05:33:47											
+27	27	2	ข้อผิดพลาดในระดับการนำส่ง (การบริการ ALE)	2018.06.19 05:33:47											
+27	27	3	디스패치 레벨에서 오류 발생(ALE 서비스)	2018.06.19 05:33:47											
+27	27	4	Eroare la nivel expediere (serviciu ALA)	2018.06.19 05:33:47											
+27	27	5	Napaka na stopnji odpreme (ALE-storitev)	2018.06.19 05:33:47											
+27	27	6	Greška na razini otpreme (ALE usluga)	2018.06.19 05:33:47											
+27	27	7	Ralat dalam aras penghantaran (perkhidmatan ALE)	2018.06.19 05:33:47											
+27	27	8	Помилка на рівні відправлення (функція ALE)	2018.06.19 05:33:47											
+27	27	9	Tõrge lähetustasemel (ALE teenus)	2018.06.19 05:33:47											
+27	27	A	خطأ في مستوى الإرسال (خدمة ALE)	2018.06.19 05:33:47											
+27	27	B	שגיאה ברמת שיגור - שירות ALE	2018.06.19 05:33:47											
+27	27	C	Chyba v expediční vrstvě (služba ALE)	2018.06.19 05:33:47											
+27	27	D	Fehler in der Versandschicht (ALE-Dienst)	2018.06.19 05:33:47											
+27	27	E	Error in dispatch level (ALE service)	2018.06.19 05:33:47											
+27	27	F	Erreur dans la couche envoi (service ALE)	2018.06.19 05:33:47											
+27	27	G	Λάθος σε επίπεδο αποστολής (υπηρεσία ALE)	2018.06.19 05:33:47											
+27	27	H	Hiba a kiszállítási szinten (ALE-szolgálat)	2018.06.19 05:33:47											
+27	27	I	Errore a livello di invio (servizio ALE)	2018.06.19 05:33:47											
+27	27	J	ディスパッチレベルのエラー (ALE サービス)	2018.06.19 05:33:47											
+27	27	K	Fejl i afsendelseslag (ALE-funktionalitet)	2018.06.19 05:33:47											
+27	27	L	Błąd w warstwie wysyłki (obsługa ELE)	2018.06.19 05:33:47											
+27	27	M	分送層次中的錯誤 <ALE 服務>	2018.06.19 05:33:47											
+27	27	N	Fout in verzendlaag (ALE-service)	2018.06.19 05:33:47											
+27	27	O	Feil i overføringsnivå (ALE-tjeneste)	2018.06.19 05:33:47											
+27	27	P	Erro no nível de transmissão (seriço ALE)	2018.06.19 05:33:47											
+27	27	Q	Chyba v úrovni odoslania (služba ALE)	2018.06.19 05:33:47											
+27	27	R	Ошибка в уровне отправки (ALE-служба)	2018.06.19 05:33:47											
+27	27	S	Error en nivel de expedición (servicio ALE)	2018.06.19 05:33:47											
+27	27	T	Gönderme düzeyinde hata (ALE hizmeti)	2018.06.19 05:33:47											
+27	27	U	Virhe lähetyskerroksessa (ALE-palvelu)	2018.06.19 05:33:47											
+27	27	V	Fel i sändnivå (ALE-tjänst)	2018.06.19 05:33:47											
+27	27	W	Грешка на ниво изпращане (ALE услуга)	2018.06.19 05:33:47											
+27	27	X	Siuntimo lygmens klaida (ALE paslauga)	2018.06.19 05:33:47											
+27	27	Y	Kļūda nosūtīšanas līmenī (ALE pakalpojums)	2018.06.19 05:33:47											
+27	27	c	Error en l'estrat d'expedició (servei ALE)	2018.06.19 05:33:47											
+27	27	d	Greška u nivou otpreme (ALE usluga)	2018.06.19 05:33:47											
+27	27	늑	TAIS TEDS2*+	2018.06.19 05:33:47											
+27	27	닱	[Ƒēĥĺēŗ∙įŋ∙ƌēŗ∙Ʋēŗşąŋƌşċĥįċĥţ∙(ĀĻĔ-Ďįēŋşţ)∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙]	2018.06.19 05:33:47											
+27	27	묩	प्रेषण स्तर में त्रुटि (ALE सेवा)	2018.06.19 05:33:47											
+27	27	뱋	Жібері деңгейіндегі қате (ALE қызметі)	2018.06.19 05:33:47											
+27	27	쁩	Lỗi trong mức gửi ( dịch vụ ALE)	2018.06.19 05:33:47											
+28	28	1	回溯发送到 ALE 分发单位的 IDoc	2018.06.19 05:33:47											
+28	28	2	ส่ง IDoc ไปยังหน่วยการกระจาย ALE แล้วโดยมีผลย้อนหลัง	2018.06.19 05:33:47											
+28	28	3	IDoc를 ALE 분배 단위로 소급하여 발신	2018.06.19 05:33:47											
+28	28	4	IDoc expediat la unitate distribuţie ALE retroactiv	2018.06.19 05:33:47											
+28	28	5	IDoc naknadno poslan v ALE distribucijsko enoto	2018.06.19 05:33:47											
+28	28	6	IDoc retroaktivno poslan ALE jedinici distribucije	2018.06.19 05:33:47											
+28	28	7	IDoc dihantar ke unit pengagihan ALE secara retroaktif	2018.06.19 05:33:47											
+28	28	8	IDoc відправлений до модуля розподілу ALE заднім числом	2018.06.19 05:33:47											
+28	28	9	IDoc on ALE-jaotusüksusse saadetud tagasiulatuvalt	2018.06.19 05:33:47											
+28	28	A	IDoc sent to ALE distribution unit retroactively	2018.06.19 05:33:47											
+28	28	B	IDoc נשלח ליחידת הפצת ALE רטרואקטיבית	2018.06.19 05:33:47											
+28	28	C	IDoc dodatečně odeslán do distribuční jednotky ALE	2018.06.19 05:33:47											
+28	28	D	IDoc nachträglich in ALE-Verteileinheit verschickt	2018.06.19 05:33:47											
+28	28	E	IDoc sent to ALE distribution unit retroactively	2018.06.19 05:33:47											
+28	28	F	IDoc envoyé ensuite dans unité de répartition ALE	2018.06.19 05:33:47											
+28	28	G	IDoc απεστάλει στη μονάδα κατανομής ALE αναδρομικά	2018.06.19 05:33:47											
+28	28	H	IDoc utólagosan elküldve ALE-elosztási egységbe	2018.06.19 05:33:47											
+28	28	I	IDoc succ. inviato nell'unità di distr. ALE	2018.06.19 05:33:47											
+28	28	J	遡及して ALE 配信単位へと送信された IDoc	2018.06.19 05:33:47											
+28	28	K	IDoc efterfølgende sendt til ALE-distributionsenhed	2018.06.19 05:33:47											
+28	28	L	IDoc rozesłany dodatkowo w jednostce rozdziału ALE	2018.06.19 05:33:47											
+28	28	M	逆動地 IDoc 傳送至 ALE 分配單元	2018.06.19 05:33:47											
+28	28	N	IDoc achteraf naar ALE-verdelingseenheid verzonden	2018.06.19 05:33:47											
+28	28	O	IDOC er sendt til ALE-distribusjonsenhet i etterkant	2018.06.19 05:33:47											
+28	28	P	IDoc enviado posteriormente p/unidade distribuição ALE	2018.06.19 05:33:47											
+28	28	Q	IDoc dodatočne odoslané do distrib.jednotky ALE	2018.06.19 05:33:47											
+28	28	R	IDoc отправлен задним числом в модуль распределения ALE	2018.06.19 05:33:47											
+28	28	S	IDOC enviado posteriormente a unidad distribución ALE	2018.06.19 05:33:47											
+28	28	T	IDod ALE dağıtım birimine sonradan gönderildi	2018.06.19 05:33:47											
+28	28	U	IDOCit lähetetty jälkikäteen ALE-jakoyksikköön	2018.06.19 05:33:47											
+28	28	V	IDOC har sänts till ALE-distributionsenhet i efterhand	2018.06.19 05:33:47											
+28	28	W	IDoc е изпратен на единица ALE разпределение ретроактивно	2018.06.19 05:33:47											
+28	28	X	IDOC nusiųstas į ALE paskirstymo vienetą atgaline data	2018.06.19 05:33:47											
+28	28	Y	IDoc nosūtīts uz ALE sadales vienību retrospektīvi	2018.06.19 05:33:47											
+28	28	c	IDOC enviat després a unitat distribució ALE	2018.06.19 05:33:47											
+28	28	d	IDoc poslat u ALE distribucijsku jedinicu retroaktivno	2018.06.19 05:33:47											
+28	28	늑	TAIS TEDS2*+	2018.06.19 05:33:47											
+28	28	닱	[ĬĎŏċ∙ŋąċĥţŗäğĺįċĥ∙įŋ∙ĀĻĔ-Ʋēŗţēįĺēįŋĥēįţ∙ʋēŗşċĥįċķţ∙∙∙∙∙∙∙∙]	2018.06.19 05:33:47											
+28	28	묩	IDoc पूर्व प्रभावी रूप से ALE वितरण इकाई को भेजा गया	2018.06.19 05:33:47											
+28	28	뱋	IDoc кері санмен ALE үлестіру бірллігіне жіберілді	2018.06.19 05:33:47											
+28	28	쁩	IDoc đã gửi tới đ.vị p.phối ALE có hiệu lực từ trc	2018.06.19 05:33:47											
+29	29	1	ALE 服务中的错误	2018.06.19 05:33:47											
+29	29	2	เกิดข้อผิดพลาดการบริการ ALE	2018.06.19 05:33:47											
+29	29	3	ALE 서비스에서 오류 발생	2018.06.19 05:33:47											
+29	29	4	Eroare în serviciu ALA	2018.06.19 05:33:47											
+29	29	5	Napaka v ALE-storitvi	2018.06.19 05:33:47											
+29	29	6	Greška u ALE usluzi	2018.06.19 05:33:47											
+29	29	7	Ralat dalam perkhidmatan ALE	2018.06.19 05:33:47											
+29	29	8	Помилка у фукції ALE	2018.06.19 05:33:47											
+29	29	9	Tõrge ALE teenuses	2018.06.19 05:33:47											
+29	29	A	خطأ في خدمة ALE	2018.06.19 05:33:47											
+29	29	B	שגיאה בשירות ALE	2018.06.19 05:33:47											
+29	29	C	Chyba ve službě ALE	2018.06.19 05:33:47											
+29	29	D	Fehler im ALE-Dienst	2018.06.19 05:33:47											
+29	29	E	Error in ALE service	2018.06.19 05:33:47											
+29	29	F	Erreur dans le service ALE	2018.06.19 05:33:47											
+29	29	G	Λάθος σε υπηρεσία ALE	2018.06.19 05:33:47											
+29	29	H	Hiba az ALE-szolgálatban	2018.06.19 05:33:47											
+29	29	I	Errore nel servizio ALE	2018.06.19 05:33:47											
+29	29	J	ALE サービスのエラー	2018.06.19 05:33:47											
+29	29	K	Fejl i ALE-funktionalitet	2018.06.19 05:33:47											
+29	29	L	Błąd w obsłudze ALE	2018.06.19 05:33:47											
+29	29	M	ALE 服務中的錯誤	2018.06.19 05:33:47											
+29	29	N	Fout in ALE-service	2018.06.19 05:33:47											
+29	29	O	Feil i ALE-tjeneste	2018.06.19 05:33:47											
+29	29	P	Erro no serviço ALE	2018.06.19 05:33:47											
+29	29	Q	Chyba v službe ALE	2018.06.19 05:33:47											
+29	29	R	Ошибка в ALE-службе	2018.06.19 05:33:47											
+29	29	S	Error en servicio ALE	2018.06.19 05:33:47											
+29	29	T	ALE hizmetinde hata	2018.06.19 05:33:47											
+29	29	U	Virhe ALE-palvelussa	2018.06.19 05:33:47											
+29	29	V	Fel i ALE-tjänst	2018.06.19 05:33:47											
+29	29	W	Грешка при ALE услуга	2018.06.19 05:33:47											
+29	29	X	ALE paslaugos klaida	2018.06.19 05:33:47											
+29	29	Y	Kļūda ALE pakalpojumā	2018.06.19 05:33:47											
+29	29	c	Error en el servei ALE	2018.06.19 05:33:47											
+29	29	d	Greška u ALE usluzi	2018.06.19 05:33:47											
+29	29	늑	TAIS TEDS2*+	2018.06.19 05:33:47											
+29	29	닱	[Ƒēĥĺēŗ∙įɱ∙ĀĻĔ-Ďįēŋşţ∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙]	2018.06.19 05:33:47											
+29	29	묩	ALE सेवा में त्रुटि	2018.06.19 05:33:47											
+29	29	뱋	ALE қызметіндегі қате	2018.06.19 05:33:47											
+29	29	쁩	Lỗi trong dịch vụ ALE	2018.06.19 05:33:47											
+30	30	1	IDoc 准备好发送  (ALE 服务)	2018.06.19 05:33:47											
+30	30	2	IDoc พร้อมสำหรับนำส่ง (การบริการ ALE)	2018.06.19 05:33:47											
+30	30	3	디스패치할 IDoc 준비(ALE 서비스)	2018.06.19 05:33:47											
+30	30	4	IDoc gata pt.expediere (serviciu ALA)	2018.06.19 05:33:47											
+30	30	5	IDoc je pripravljen za odpremo (ALE-storitev)	2018.06.19 05:33:47											
+30	30	6	IDoc spreman za otpremu (ALE usluga)	2018.06.19 05:33:47											
+30	30	7	IDoc sedia untuk dihantar (perkhidmatan ALE)	2018.06.19 05:33:47											
+30	30	8	IDoc готовий до відправлення (функція ALE)	2018.06.19 05:33:47											
+30	30	9	IDoc on lähetamiseks valmis (ALE teenus)	2018.06.19 05:33:47											
+30	30	A	المستند الوسيط جاهز للإرسال (خدمة ALE)	2018.06.19 05:33:47											
+30	30	B	מסמך ביניים מוכן לשיגור -שירות ALE	2018.06.19 05:33:47											
+30	30	C	IDOC je schopen expedice (služba ALE)	2018.06.19 05:33:47											
+30	30	D	IDoc ist versandfertig (ALE-Dienst)	2018.06.19 05:33:47											
+30	30	E	IDoc ready for dispatch (ALE service)	2018.06.19 05:33:47											
+30	30	F	IDoc est prêt à l'envoi (service ALE)	2018.06.19 05:33:47											
+30	30	G	IDoc έτοιμο προς αποστολή (υπηρεσία ALE)	2018.06.19 05:33:47											
+30	30	H	IDoc kiszállításra kész (ALE-szolgálat)	2018.06.19 05:33:47											
+30	30	I	IDoc pronto per invio (servizio ALE)	2018.06.19 05:33:47											
+30	30	J	ディスパッチ用 IDOC 準備完了 (ALE サービス)	2018.06.19 05:33:47											
+30	30	K	IDoc er klar til afsendelse (ALE-funktionalitet)	2018.06.19 05:33:47											
+30	30	L	IDoc jest gotowy do wysyłki (obsługa ALE)	2018.06.19 05:33:47											
+30	30	M	IDoc 就緒待分派 <ALE 服務>	2018.06.19 05:33:47											
+30	30	N	IDoc gereed voor verzending (ALE-service)	2018.06.19 05:33:47											
+30	30	O	IDOC er klart for forsendelse (ALE-tjeneste)	2018.06.19 05:33:47											
+30	30	P	Idoc pronto para transmissão (serviço ALE)	2018.06.19 05:33:47											
+30	30	Q	IDOC je schopný odoslania (služba ALE)	2018.06.19 05:33:47											
+30	30	R	IDoc готов к отправке (ALE-служба)	2018.06.19 05:33:47											
+30	30	S	IDoc listo para envío (servicio ALE)	2018.06.19 05:33:47											
+30	30	T	IDoc gönderime hazır (ALE hizmeti)	2018.06.19 05:33:47											
+30	30	U	IDOC on valmis lähetettäväksi (ALE-palvelu)	2018.06.19 05:33:47											
+30	30	V	IDOC är klart att sända (ALE-tjänst)	2018.06.19 05:33:47											
+30	30	W	IDoc готов за изпращане (ALE услуга)	2018.06.19 05:33:47											
+30	30	X	IDOC paruoštas siųsti (ALE paslauga)	2018.06.19 05:33:47											
+30	30	Y	IDoc gatavs nosūtīšanai (ALE pakalpojums)	2018.06.19 05:33:47											
+30	30	c	IDoc llest per enviar (servei ALE)	2018.06.19 05:33:47											
+30	30	d	IDoc spreman za otpremu (ALE usluga)	2018.06.19 05:33:47											
+30	30	늑	TAIS TEDS2*+	2018.06.19 05:33:47											
+30	30	닱	[ĬĎŏċ∙įşţ∙ʋēŗşąŋƌƒēŗţįğ∙(ĀĻĔ-Ďįēŋşţ)∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙]	2018.06.19 05:33:47											
+30	30	묩	IDOC प्रेषण के लिए तैयार है (ALE सेवा )	2018.06.19 05:33:47											
+30	30	뱋	IDoc жіберуге дайын (ALE қызметі)	2018.06.19 05:33:47											
+30	30	쁩	IDoc sẵn sàng để gửi (dịch vụ ALE)	2018.06.19 05:33:47											
+31	31	1	错误 - 未进一步处理	2018.06.19 05:33:47											
+31	31	2	ผิดพลาด - ไม่มีการประมวลผลต่อ	2018.06.19 05:33:47											
+31	31	3	오류 - 추가 처리하지 않음	2018.06.19 05:33:47											
+31	31	4	Eroare - nici o prelucrare următoare	2018.06.19 05:33:47											
+31	31	5	Napaka, ni nadaljnje obdelave	2018.06.19 05:33:47											
+31	31	6	Greška - nema daljnje obrade	2018.06.19 05:33:47											
+31	31	7	Ralat - tiada pemprosesan lanjutan	2018.06.19 05:33:47											
+31	31	8	Помилка - без подальшого оброблення	2018.06.19 05:33:47											
+31	31	9	Tõrge – edasi ei saa töödelda	2018.06.19 05:33:47											
+31	31	A	خطأ - لا معالجة إضافية	2018.06.19 05:33:47											
+31	31	B	שגיאה - אין עיבוד נוסף	2018.06.19 05:33:47											
+31	31	C	Chyba, bez dalšího zpracování	2018.06.19 05:33:47											
+31	31	D	Fehler, keine weitere Bearbeitung	2018.06.19 05:33:47											
+31	31	E	Error - no further processing	2018.06.19 05:33:47											
+31	31	F	Erreur, impossible de poursuivre le traitement	2018.06.19 05:33:47											
+31	31	G	Λάθος - καμία ακόλουθη επεξεργασία	2018.06.19 05:33:47											
+31	31	H	Hiba, nincs további feldolgozás	2018.06.19 05:33:47											
+31	31	I	Errore, ulteriore elab. impossibile	2018.06.19 05:33:47											
+31	31	J	エラー - 以降の処理中止	2018.06.19 05:33:47											
+31	31	K	Fejl, ingen yderligere behandling	2018.06.19 05:33:47											
+31	31	L	Błąd, bez dalszej edycji	2018.06.19 05:33:47											
+31	31	M	錯誤 - 無進一步處理	2018.06.19 05:33:47											
+31	31	N	Fout, geen verdere bewerking	2018.06.19 05:33:47											
+31	31	O	Feil - ingen videre behandling	2018.06.19 05:33:47											
+31	31	P	Erro, sem processamento	2018.06.19 05:33:47											
+31	31	Q	Chyba, bez ďalšieho spracovania	2018.06.19 05:33:47											
+31	31	R	Ошибка, обработка прерывается.	2018.06.19 05:33:47											
+31	31	S	Error, sin tratamiento posterior	2018.06.19 05:33:47											
+31	31	T	Hata, ek işleme yok	2018.06.19 05:33:47											
+31	31	U	Virhe, ei jatkokäsittelyä	2018.06.19 05:33:47											
+31	31	V	Fel, ingen ytterligare bearbetning	2018.06.19 05:33:47											
+31	31	W	Грешка - прекратяване на обработката	2018.06.19 05:33:47											
+31	31	X	Klaida – apdorojimas nebus tęsiamas	2018.06.19 05:33:47											
+31	31	Y	Kļūda - turpmāka apstrāde atcelta	2018.06.19 05:33:47											
+31	31	c	Error, cap més tractament	2018.06.19 05:33:47											
+31	31	d	Greška - nema dalje obrade	2018.06.19 05:33:47											
+31	31	늑	TAIS TEDS2*+	2018.06.19 05:33:47											
+31	31	닱	[Ƒēĥĺēŗ,∙ķēįŋē∙ŵēįţēŗē∙Ɓēąŗƃēįţűŋğ∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙]	2018.06.19 05:33:47											
+31	31	묩	त्रुटि - अधिक प्रोसेसिंग नहीं हो रहा है	2018.06.19 05:33:47											
+31	31	뱋	Қате - алдағы өңдеусіз	2018.06.19 05:33:47											
+31	31	쁩	Lỗi - không xử lý tiếp	2018.06.19 05:33:47											
+32	32	1	IDoc 已编辑	2018.06.19 05:33:47											
+32	32	2	IDoc ได้รับการแก้ไข	2018.06.19 05:33:47											
+32	32	3	IDoc를 편집했습니다.	2018.06.19 05:33:47											
+32	32	4	IDoc a fost editat	2018.06.19 05:33:47											
+32	32	5	IDoc je bil urejen	2018.06.19 05:33:47											
+32	32	6	IDoc uređen	2018.06.19 05:33:47											
+32	32	7	IDoc telah diedit	2018.06.19 05:33:47											
+32	32	8	IDoc було редаговано	2018.06.19 05:33:47											
+32	32	9	IDoci on redigeeritud	2018.06.19 05:33:47											
+32	32	A	تم تحرير المستند الوسيط	2018.06.19 05:33:47											
+32	32	B	מסמך ביניים נערך	2018.06.19 05:33:47											
+32	32	C	IDOC byl editován	2018.06.19 05:33:47											
+32	32	D	IDoc wurde editiert	2018.06.19 05:33:47											
+32	32	E	IDoc was edited	2018.06.19 05:33:47											
+32	32	F	IDOC a été édité	2018.06.19 05:33:47											
+32	32	G	IDoc επεξεργάστηκε	2018.06.19 05:33:47											
+32	32	H	IDoc editálva	2018.06.19 05:33:47											
+32	32	I	IDoc elaborato	2018.06.19 05:33:47											
+32	32	J	IDOC 編集済	2018.06.19 05:33:47											
+32	32	K	IDoc redigeret	2018.06.19 05:33:47											
+32	32	L	IDoc został wyedytowany	2018.06.19 05:33:47											
+32	32	M	已編輯 IDoc	2018.06.19 05:33:47											
+32	32	N	IDoc is bewerkt	2018.06.19 05:33:47											
+32	32	O	IDOC ble redigert	2018.06.19 05:33:47											
+32	32	P	IDoc foi editado	2018.06.19 05:33:47											
+32	32	Q	IDOC bol editovaný	2018.06.19 05:33:47											
+32	32	R	IDoc отредактирован.	2018.06.19 05:33:47											
+32	32	S	El IDOC se ha tratado	2018.06.19 05:33:47											
+32	32	T	IDoc düzenlendi	2018.06.19 05:33:47											
+32	32	U	IDOCia muokattu	2018.06.19 05:33:47											
+32	32	V	IDOC editerades	2018.06.19 05:33:47											
+32	32	W	IDoc е редактиран	2018.06.19 05:33:47											
+32	32	X	IDOC suredaguotas	2018.06.19 05:33:47											
+32	32	Y	IDoc ir rediģēts	2018.06.19 05:33:47											
+32	32	c	S'ha tractat l'IDoc	2018.06.19 05:33:47											
+32	32	d	IDoc je uređen	2018.06.19 05:33:47											
+32	32	늑	TAIS TEDS2*+	2018.06.19 05:33:47											
+32	32	닱	[ĬĎŏċ∙ŵűŗƌē∙ēƌįţįēŗţ∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙]	2018.06.19 05:33:47											
+32	32	묩	IDOC संपादित किया गया	2018.06.19 05:33:47											
+32	32	뱋	IDoc өңделді	2018.06.19 05:33:47											
+32	32	쁩	IDoc được biên tập	2018.06.19 05:33:47											
+33	33	1	被编辑的凭证原件	2018.06.19 05:33:47											
+33	33	2	ต้นฉบับของ IDoc ที่ได้รับการแก้ไข	2018.06.19 05:33:47											
+33	33	3	IDoc 원본을 편집했습니다.	2018.06.19 05:33:47											
+33	33	4	Original IDoc care a fost editat	2018.06.19 05:33:47											
+33	33	5	Original enega IDOc, ki je bil urejen	2018.06.19 05:33:47											
+33	33	6	Original IDoc-a koji je uređen	2018.06.19 05:33:47											
+33	33	7	Asal IDoc yang telah diedit	2018.06.19 05:33:47											
+33	33	8	Оригінал IDoc, який було редаговано	2018.06.19 05:33:47											
+33	33	9	Redigeeritud IDoci originaal	2018.06.19 05:33:47											
+33	33	A	الأصل من مستند وسيط تم تحريره	2018.06.19 05:33:47											
+33	33	B	מקור של מסמך ביניים שנערך	2018.06.19 05:33:47											
+33	33	C	Originál IDOC, který byl editován	2018.06.19 05:33:47											
+33	33	D	Original eines IDocs, welches editiert wurde	2018.06.19 05:33:47											
+33	33	E	Original of an IDoc which was edited	2018.06.19 05:33:47											
+33	33	F	Original d'un IDOC qui a été édité	2018.06.19 05:33:47											
+33	33	G	Πρότυπο του IDoc που επεξεργάστηκε	2018.06.19 05:33:47											
+33	33	H	Editált IDoc eredetije	2018.06.19 05:33:47											
+33	33	I	Originale di un IDoc elaborato	2018.06.19 05:33:47											
+33	33	J	編集済 IDOC のオリジナル	2018.06.19 05:33:47											
+33	33	K	Original for et redigeret IDoc	2018.06.19 05:33:47											
+33	33	L	Oryginał IDoc, który został wyedytowany	2018.06.19 05:33:47											
+33	33	M	已編輯 IDoc 的原始文件	2018.06.19 05:33:47											
+33	33	N	Origineel van een bewerkt IDoc	2018.06.19 05:33:47											
+33	33	O	IDOC-original som ble redigert	2018.06.19 05:33:47											
+33	33	P	Original de um IDoc que foi editado	2018.06.19 05:33:47											
+33	33	Q	Originál IDOC, ktorý bol editovaný	2018.06.19 05:33:47											
+33	33	R	Оригинал ПромежДокумента, который был отредактирован.	2018.06.19 05:33:47											
+33	33	S	Original de un IDOC que se ha tratado	2018.06.19 05:33:47											
+33	33	T	Düzenlenen IDoc'un aslı	2018.06.19 05:33:47											
+33	33	U	Muokatun IDOCin alkuperäisversio	2018.06.19 05:33:47											
+33	33	V	Original för ett IDOC som editerades	2018.06.19 05:33:47											
+33	33	W	Оригиналът на IDoc, който е редактиран	2018.06.19 05:33:47											
+33	33	X	Suredaguoto IDOC originalas	2018.06.19 05:33:47											
+33	33	Y	Rediģētā IDoc oriģināls	2018.06.19 05:33:47											
+33	33	c	Original d'un IDoc tractat	2018.06.19 05:33:47											
+33	33	d	Original IDoc koji je uređen	2018.06.19 05:33:47											
+33	33	늑	TAIS TEDS2*+	2018.06.19 05:33:47											
+33	33	닱	[Ŏŗįğįŋąĺ∙ēįŋēş∙ĬĎŏċş,∙ŵēĺċĥēş∙ēƌįţįēŗţ∙ŵűŗƌē∙∙∙∙∙∙∙∙∙∙∙∙∙∙]	2018.06.19 05:33:47											
+33	33	묩	IDOC का मूल जो संपादित किया गया था	2018.06.19 05:33:47											
+33	33	뱋	Өңделген IDoc түпнұсқасы	2018.06.19 05:33:47											
+33	33	쁩	Bản gốc của IDoc được biên tập	2018.06.19 05:33:47											
+34	34	1	文件号控制记录错误	2018.06.19 05:33:47											
+34	34	2	ข้อผิดพลาดในเรคคอร์ดควบคุมของ IDoc	2018.06.19 05:33:47											
+34	34	3	IDoc의 제어 레코드에서 오류가 발생했습니다.	2018.06.19 05:33:47											
+34	34	4	Eroare la înreg.control a IDoc	2018.06.19 05:33:47											
+34	34	5	Napaka v kontrolnem zapisu	2018.06.19 05:33:47											
+34	34	6	Greška u kontrolnom slogu IDoc-a	2018.06.19 05:33:47											
+34	34	7	Ralat dalam rekod kawalan IDoc	2018.06.19 05:33:47											
+34	34	8	Помилка у контрольному запису IDoc	2018.06.19 05:33:47											
+34	34	9	Viga IDoci juhtkirjes	2018.06.19 05:33:47											
+34	34	A	خطأ في سجل التحكم للمستند الوسيط	2018.06.19 05:33:47											
+34	34	B	שגיאה ברשומת בקרה של מסמך ביניים	2018.06.19 05:33:47											
+34	34	C	Chyba v řídicím záznamu IDOC	2018.06.19 05:33:47											
+34	34	D	Fehler im Kontrollsatz des IDocs	2018.06.19 05:33:47											
+34	34	E	Error in control record of IDoc	2018.06.19 05:33:47											
+34	34	F	Erreur dans l'enregistrement de contrôle de l'IDOC	2018.06.19 05:33:47											
+34	34	G	Λάθος σε εγγραφή ελέγχου IDoc	2018.06.19 05:33:47											
+34	34	H	Hiba az IDoc kontrollrekordjában	2018.06.19 05:33:47											
+34	34	I	Errore nel rec. di contr. dell'IDoc	2018.06.19 05:33:47											
+34	34	J	IDOC 制御レコードのエラー	2018.06.19 05:33:47											
+34	34	K	Fejl i kontrolrecord for IDoc	2018.06.19 05:33:47											
+34	34	L	Błąd w rekordzie kontrolnym IDoc	2018.06.19 05:33:47											
+34	34	M	IDoc 控制記錄中的錯誤	2018.06.19 05:33:47											
+34	34	N	Fout in controlerecord van IDoc	2018.06.19 05:33:47											
+34	34	O	Feil i kontrollposten for IDOC	2018.06.19 05:33:47											
+34	34	P	Erro no registro de controle do IDoc	2018.06.19 05:33:47											
+34	34	Q	Chyba v kontrolnom zázname IDOC	2018.06.19 05:33:47											
+34	34	R	Ошибка в контрольной записи ПромежДокумента	2018.06.19 05:33:47											
+34	34	S	Error en registro de control del IDOC	2018.06.19 05:33:47											
+34	34	T	IDoc kontrol kaydında hata	2018.06.19 05:33:47											
+34	34	U	Virhe IDOCin ohjaustietueessa	2018.06.19 05:33:47											
+34	34	V	Fel i kontrollpost för IDOC	2018.06.19 05:33:47											
+34	34	W	Грешка в контролен запис на IDoc	2018.06.19 05:33:47											
+34	34	X	IDOC kontrolinio įrašo klaida	2018.06.19 05:33:47											
+34	34	Y	Kļūda IDoc vadības ierakstā	2018.06.19 05:33:47											
+34	34	c	Error en el registre de control de l'IDoc	2018.06.19 05:33:47											
+34	34	d	Greška u kontrolnom zapisu IDoc	2018.06.19 05:33:47											
+34	34	늑	TAIS TEDS2*+	2018.06.19 05:33:47											
+34	34	닱	[Ƒēĥĺēŗ∙įɱ∙Ķŏŋţŗŏĺĺşąţž∙ƌēş∙ĬĎŏċş∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙]	2018.06.19 05:33:47											
+34	34	묩	IDOC के नियंत्रण रिकॉर्ड में त्रुटि	2018.06.19 05:33:47											
+34	34	뱋	IDoc басқару жазбасындағы қате	2018.06.19 05:33:47											
+34	34	쁩	Lỗi trong bản ghi điều khiển của IDoc	2018.06.19 05:33:47											
+35	35	1	文档 IDoc 重载	2018.06.19 05:33:47											
+35	35	2	IDoc ถูกโหลดใหม่เพื่อจัดเก็บ	2018.06.19 05:33:47											
+35	35	3	아카이브에서 IDoc를 다시 로드했습니다.	2018.06.19 05:33:47											
+35	35	4	IDoc reîncărcat din arhivă	2018.06.19 05:33:47											
+35	35	5	Ponovno nalaganje IDoca iz arhiva	2018.06.19 05:33:47											
+35	35	6	IDoc ponovno učitan iz arhive	2018.06.19 05:33:47											
+35	35	7	IDic dimuat semula dari arkib	2018.06.19 05:33:47											
+35	35	8	IDoc перезавантажений з архіву	2018.06.19 05:33:47											
+35	35	9	IDoc on arhiivist uuesti laaditud	2018.06.19 05:33:47											
+35	35	A	إعادة تحميل المستند الوسيط من الأرشيف	2018.06.19 05:33:47											
+35	35	B	מסמך ביניים נטען מחדש מתיוק	2018.06.19 05:33:47											
+35	35	C	IDOC zpět.natažen z archivu	2018.06.19 05:33:47											
+35	35	D	IDoc aus Archiv zurückgeladen	2018.06.19 05:33:47											
+35	35	E	IDoc reloaded from archive	2018.06.19 05:33:47											
+35	35	F	IDOC rechargé à partir des archives	2018.06.19 05:33:47											
+35	35	G	Επανάληψη φόρτωσης IDoc απο αρχειοθέτηση	2018.06.19 05:33:47											
+35	35	H	IDoc visszatöltése az archívumból	2018.06.19 05:33:47											
+35	35	I	Ricaricare IDoc dall'archivio	2018.06.19 05:33:47											
+35	35	J	IDOC ストレージから再ロード済	2018.06.19 05:33:47											
+35	35	K	Reload IDoc fra arkiv	2018.06.19 05:33:47											
+35	35	L	Ponowne załadowanie IDoc z archiwum	2018.06.19 05:33:47											
+35	35	M	自歸檔重新載入的 IDoc	2018.06.19 05:33:47											
+35	35	N	IDoc uit archief teruggeladen	2018.06.19 05:33:47											
+35	35	O	IDOC lastet tilbake fra arkiv	2018.06.19 05:33:47											
+35	35	P	IDoc de arquivo recarregado	2018.06.19 05:33:47											
+35	35	Q	IDOC spät.natiahnutý z archívu	2018.06.19 05:33:47											
+35	35	R	IDoc перезагружен из архива	2018.06.19 05:33:47											
+35	35	S	IDOC cargado nuevamente de archivo	2018.06.19 05:33:47											
+35	35	T	IDoc arşivden geri yüklendi	2018.06.19 05:33:47											
+35	35	U	IDOC ladattu uudelleen arkistosta	2018.06.19 05:33:47											
+35	35	V	IDOC återlagrat från arkiv	2018.06.19 05:33:47											
+35	35	W	IDoc повторно зареден от архива	2018.06.19 05:33:47											
+35	35	X	IDOC iš naujo įkeltas iš archyvo	2018.06.19 05:33:47											
+35	35	Y	IDoc atpakaļielādēts no arhīva	2018.06.19 05:33:47											
+35	35	c	IDoc carregat de nou des de l'arxiu	2018.06.19 05:33:47											
+35	35	d	IDoc ponovo učitan iz arhive	2018.06.19 05:33:47											
+35	35	늑	TAIS TEDS2*+	2018.06.19 05:33:47											
+35	35	닱	[ĬĎŏċ∙ąűş∙Āŗċĥįʋ∙žűŗüċķğēĺąƌēŋ∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙]	2018.06.19 05:33:47											
+35	35	묩	IDOC संग्रहण से रीलोड किया गया	2018.06.19 05:33:47											
+35	35	뱋	IDoc мұрағаттан қайта жүктелді	2018.06.19 05:33:47											
+35	35	쁩	IDoc tải lại từ lưu trữ	2018.06.19 05:33:47											
+36	36	1	未执行电子签名（超时）	2018.06.19 05:33:47											
+36	36	2	สัญญาณทางอิเลคโทรนิกส์ไม่ทำงาน (หมดเวลา)	2018.06.19 05:33:47											
+36	36	3	전자 서명을 하지 않았습니다(타임아웃).	2018.06.19 05:33:47											
+36	36	4	Semnătură electronică nerealizată (depăşire timp)	2018.06.19 05:33:47											
+36	36	5	Elektronski podpis ni izvršen (čas se je iztekel)	2018.06.19 05:33:47											
+36	36	6	Elektronski potpis nije izvršen (istek.vrem.)	2018.06.19 05:33:47											
+36	36	7	Tandatangan elektronik tidak dilaksanakan (tamat masa)	2018.06.19 05:33:47											
+36	36	8	Електронний підпис не виконаний (перевищення часу)	2018.06.19 05:33:47											
+36	36	9	Elektroonilist allkirja ei saanud anda (ajalõpp)	2018.06.19 05:33:47											
+36	36	A	لم يتم إنجاز التوقيع الإلكتروني (إنتهاء الوقت)	2018.06.19 05:33:47											
+36	36	B	חתימה אלקטרונית לא בוצעה - פסק זמן	2018.06.19 05:33:47											
+36	36	C	Elektronický podpis neproveden (timeout)	2018.06.19 05:33:47											
+36	36	D	Elektronische Unterschrift nicht geleistet (Timeout)	2018.06.19 05:33:47											
+36	36	E	Electronic signature not performed (timeout)	2018.06.19 05:33:47											
+36	36	F	Signature électronique non apposée (timeout)	2018.06.19 05:33:47											
+36	36	G	Ηλεκτρονική υπογραφή μη πραγματοποιημένη (λήξη χρόνου)	2018.06.19 05:33:47											
+36	36	H	Nincs elektronikus aláírás (timeout)	2018.06.19 05:33:47											
+36	36	I	Firma elettronica non registrata (timeout)	2018.06.19 05:33:47											
+36	36	J	電子署名の実行なし (タイムアウト)	2018.06.19 05:33:47											
+36	36	K	Digital signatur ikke udført (timeout)	2018.06.19 05:33:47											
+36	36	L	Elektroniczny podpis nie wykonany (Timeout)	2018.06.19 05:33:47											
+36	36	M	未執行電子簽名 <逾時>	2018.06.19 05:33:47											
+36	36	N	Elektronisch onderschrift niet uitgevoerd (timeout)	2018.06.19 05:33:47											
+36	36	O	Elektronisk underskrift ikke utført (timeout)	2018.06.19 05:33:47											
+36	36	P	Assinatura eletrônica não efetuada (Time out)	2018.06.19 05:33:47											
+36	36	Q	Elektronický podpis nevykonaný (timeout)	2018.06.19 05:33:47											
+36	36	R	Электронная подпись не выполнена (тайм-аут)	2018.06.19 05:33:47											
+36	36	S	Falta firma electrónica (Timeout)	2018.06.19 05:33:47											
+36	36	T	Elektronik imza okunamadı (timeout)	2018.06.19 05:33:47											
+36	36	U	Digitaalista allekirjoitusta ei saatu (timeout)	2018.06.19 05:33:47											
+36	36	V	Ingen elektronisk signatur (timeout)	2018.06.19 05:33:47											
+36	36	W	Електронния подпис не е поставен (таймаут)	2018.06.19 05:33:47											
+36	36	X	Elektroninis parašas neatliktas (skirtojo laiko pabaiga)	2018.06.19 05:33:47											
+36	36	Y	Elektroniskais paraksts nav veikts (taimauts)	2018.06.19 05:33:47											
+36	36	c	Firma digital no efectuada (timeout)	2018.06.19 05:33:47											
+36	36	d	Elektronski potpis nije izvršen (istek vremena)	2018.06.19 05:33:47											
+36	36	늑	TAIS TEDS2*+	2018.06.19 05:33:47											
+36	36	닱	[Ĕĺēķţŗŏŋįşċĥē∙Ůŋţēŗşċĥŗįƒţ∙ŋįċĥţ∙ğēĺēįşţēţ∙(Ţįɱēŏűţ)∙∙∙∙∙∙]	2018.06.19 05:33:47											
+36	36	묩	इलेक्ट्रॉनिक हस्ताक्षर नहीं किया गया (टाइमआउट)	2018.06.19 05:33:47											
+36	36	뱋	Электронды қолтаңба орындалмады (үзіліс)	2018.06.19 05:33:47											
+36	36	쁩	Chữ ký điện tử không được thực hiện (hết giờ)	2018.06.19 05:33:47											
+37	37	1	添加 IDoc 时出错	2018.06.19 05:33:47											
+37	37	2	ข้อผิดพลาดขณะเพิ่ม IDoc	2018.06.19 05:33:47											
+37	37	3	IDoc 추가 중 오류 발생	2018.06.19 05:33:47											
+37	37	4	Eroare la adăugare IDoc	2018.06.19 05:33:47											
+37	37	5	IDoc dodan napačno	2018.06.19 05:33:47											
+37	37	6	Greška tijekom dodavanja IDoca	2018.06.19 05:33:47											
+37	37	7	Ralat apabila menambah IDoc	2018.06.19 05:33:47											
+37	37	8	Помилка при додаванні IDoc	2018.06.19 05:33:47											
+37	37	9	IDoc on valesti lisatud	2018.06.19 05:33:47											
+37	37	A	حدث خطأ عند إضافة IDoc	2018.06.19 05:33:47											
+37	37	B	שגיאה בעת הוספת IDoc	2018.06.19 05:33:47											
+37	37	C	IDOC chybně založen	2018.06.19 05:33:47											
+37	37	D	IDoc fehlerhaft hinzugefügt	2018.06.19 05:33:47											
+37	37	E	Error when adding IDoc	2018.06.19 05:33:47											
+37	37	F	Création d'IDOC erronée	2018.06.19 05:33:47											
+37	37	G	Λάθος κατά την προσθήκη IDoc	2018.06.19 05:33:47											
+37	37	H	IDoc hibásan létrehozva	2018.06.19 05:33:47											
+37	37	I	IDoc creato in modo errato	2018.06.19 05:33:47											
+37	37	J	IDoc 追加時のエラー	2018.06.19 05:33:47											
+37	37	K	IDoc oprettet med fejl	2018.06.19 05:33:47											
+37	37	L	IDoc błędnie dołączony	2018.06.19 05:33:47											
+37	37	M	新增 IDoc 時發生錯誤	2018.06.19 05:33:47											
+37	37	N	IDoc foutief toegevoegd	2018.06.19 05:33:47											
+37	37	O	IDOC tilføyd ukorrekt	2018.06.19 05:33:47											
+37	37	P	IDoc criado incorretamente	2018.06.19 05:33:47											
+37	37	Q	IDOC chybne založený	2018.06.19 05:33:47											
+37	37	R	IDoc добавлен с ошибками.	2018.06.19 05:33:47											
+37	37	S	IDOC añadido erróneamente	2018.06.19 05:33:47											
+37	37	T	IDoc hatalı olarak araya sokuldu	2018.06.19 05:33:47											
+37	37	U	IDOC lisätty virheellisesti	2018.06.19 05:33:47											
+37	37	V	IDOC felaktigt infogat	2018.06.19 05:33:47											
+37	37	W	Грешка при добавяне на IDoc	2018.06.19 05:33:47											
+37	37	X	Klaida pridedant „IDOC“	2018.06.19 05:33:47											
+37	37	Y	Pievienojot IDoc, radās kļūda	2018.06.19 05:33:47											
+37	37	c	IDoc afegit amb errors	2018.06.19 05:33:47											
+37	37	d	Greška pri dodavanju IDoc-a	2018.06.19 05:33:47											
+37	37	늑	TAIS TEDS2*+	2018.06.19 05:33:47											
+37	37	닱	[ĬĎŏċ∙ƒēĥĺēŗĥąƒţ∙ĥįŋžűğēƒüğţ∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙]	2018.06.19 05:33:47											
+37	37	묩	IDOC जोड़ते समय त्रुटि	2018.06.19 05:33:47											
+37	37	뱋	IDoc қосудағы қате	2018.06.19 05:33:47											
+37	37	쁩	Lỗi khi thêm IDoc	2018.06.19 05:33:47											
+38	38	1	IDoc 已存档	2018.06.19 05:33:47											
+38	38	2	แยกเก็บ IDoc แล้ว	2018.06.19 05:33:47											
+38	38	3	IDoc를 아카이브했습니다.	2018.06.19 05:33:47											
+38	38	4	IDoc arhivat	2018.06.19 05:33:47											
+38	38	5	IDoc arhiviran	2018.06.19 05:33:47											
+38	38	6	IDoc arhiviran	2018.06.19 05:33:47											
+38	38	7	IDoc diarkib	2018.06.19 05:33:47											
+38	38	8	IDoc заархівований	2018.06.19 05:33:47											
+38	38	9	IDoc on arhiivitud	2018.06.19 05:33:47											
+38	38	A	تمت أرشفة المستند الوسيط	2018.06.19 05:33:47											
+38	38	B	תיוק מסמך ביניים	2018.06.19 05:33:47											
+38	38	C	IDOC archivován	2018.06.19 05:33:47											
+38	38	D	IDoc archiviert	2018.06.19 05:33:47											
+38	38	E	IDoc archived	2018.06.19 05:33:47											
+38	38	F	IDOC archivé	2018.06.19 05:33:47											
+38	38	G	IDoc αρχειοθετημένο	2018.06.19 05:33:47											
+38	38	H	IDoc archiválva	2018.06.19 05:33:47											
+38	38	I	IDoc archiviato	2018.06.19 05:33:47											
+38	38	J	IDOC アーカイブ済	2018.06.19 05:33:47											
+38	38	K	IDoc arkiveret	2018.06.19 05:33:47											
+38	38	L	IDoc zarchiwizowany	2018.06.19 05:33:47											
+38	38	M	IDoc 已歸檔	2018.06.19 05:33:47											
+38	38	N	IDoc gearchiveerd	2018.06.19 05:33:47											
+38	38	O	IDOC arkivert	2018.06.19 05:33:47											
+38	38	P	IDoc arquivado	2018.06.19 05:33:47											
+38	38	Q	IDOC archivovaný	2018.06.19 05:33:47											
+38	38	R	IDoc архивирован.	2018.06.19 05:33:47											
+38	38	S	IDOC archivado	2018.06.19 05:33:47											
+38	38	T	IDoc arşivlendi	2018.06.19 05:33:47											
+38	38	U	IDOC arkistoitu	2018.06.19 05:33:47											
+38	38	V	IDOC arkiverat	2018.06.19 05:33:47											
+38	38	W	IDoc архивиран	2018.06.19 05:33:47											
+38	38	X	IDOC suarchyvuotas	2018.06.19 05:33:47											
+38	38	Y	IDoc ir arhivēts	2018.06.19 05:33:47											
+38	38	c	IDoc arxivat	2018.06.19 05:33:47											
+38	38	d	IDoc arhiviran	2018.06.19 05:33:47											
+38	38	늑	TAIS TEDS2*+	2018.06.19 05:33:47											
+38	38	닱	[ĬĎŏċ∙ąŗċĥįʋįēŗţ∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙]	2018.06.19 05:33:47											
+38	38	묩	IDoc संग्रहित किया गया	2018.06.19 05:33:47											
+38	38	뱋	IDoc мұрағатталды	2018.06.19 05:33:47											
+38	38	쁩	IDoc được lưu trữ	2018.06.19 05:33:47											
+39	39	1	IDoc 在目标系统中 (ALE 服务)	2018.06.19 05:33:47											
+39	39	2	IDoc อยู่ในระบบเป้าหมาย (การบริการ ALE)	2018.06.19 05:33:47											
+39	39	3	IDoc가 대상 시스템에 있습니다(ALE 서비스).	2018.06.19 05:33:47											
+39	39	4	IDoc este în sistem ţintă (serviciu ALA)	2018.06.19 05:33:47											
+39	39	5	IDoc v ciljnem sistemu (ALE-služba)	2018.06.19 05:33:47											
+39	39	6	IDoc je u ciljnom sustavu (ALE usluga)	2018.06.19 05:33:47											
+39	39	7	IDoc dalam sistem sasaran (perkhidmatan ALE)	2018.06.19 05:33:47											
+39	39	8	IDoc у цільовій системі (сервіс ALE)	2018.06.19 05:33:47											
+39	39	9	IDoc on sihtsüsteemis (ALE teenus)	2018.06.19 05:33:47											
+39	39	A	المستند الوسيط في النظام الهدف (خدمة ALE)	2018.06.19 05:33:47											
+39	39	B	IDoc במערכת היעד - שירות ALE	2018.06.19 05:33:47											
+39	39	C	IDOC v cílovém systému (služba ALE)	2018.06.19 05:33:47											
+39	39	D	IDoc im Zielsystem (ALE-Dienst)	2018.06.19 05:33:47											
+39	39	E	IDoc is in the target system (ALE service)	2018.06.19 05:33:47											
+39	39	F	IDoc dans système cible (service ALE)	2018.06.19 05:33:47											
+39	39	G	IDoc βρίσκεται σε σύστημα στόχο (υπηρεσία ALE)	2018.06.19 05:33:47											
+39	39	H	IDoc a célrendszerben (ALE-szolgálat)	2018.06.19 05:33:47											
+39	39	I	Confermata ricezione del sistema di dest. (servizio ALE)	2018.06.19 05:33:47											
+39	39	J	IDOC は対象システムにあります (ALE サービス)	2018.06.19 05:33:47											
+39	39	K	IDoc i målsystem (ALE-funktionalitet)	2018.06.19 05:33:47											
+39	39	L	IDoc w systemie docelowym (obsługa ALE)	2018.06.19 05:33:47											
+39	39	M	IDoc 位於目標系統﹝ALE 服務﹞	2018.06.19 05:33:47											
+39	39	N	IDoc in doelsysteem (ALE-service)	2018.06.19 05:33:47											
+39	39	O	IDOC i målsystemet (ALE-tjeneste)	2018.06.19 05:33:47											
+39	39	P	IDoc no sistema de destino (serviço ALE)	2018.06.19 05:33:47											
+39	39	Q	IDoc v cieľovom systéme (služba ALE)	2018.06.19 05:33:47											
+39	39	R	Прием целевой системой подтвержден (ALE-служба)	2018.06.19 05:33:47											
+39	39	S	IDOC en sistema destino (servicio ALE)	2018.06.19 05:33:47											
+39	39	T	Hedef sistemde IDoc (ALE hizmeti)	2018.06.19 05:33:47											
+39	39	U	IDOC kohdejärjestelmässä (ALE-palvelu)	2018.06.19 05:33:47											
+39	39	V	IDOC i målsystem (ALE-tjänst)	2018.06.19 05:33:47											
+39	39	W	IDoc е в целевата система (ALE услуга)	2018.06.19 05:33:47											
+39	39	X	IDOC yra tikslinėje sistemoje (ALE paslauga)	2018.06.19 05:33:47											
+39	39	Y	IDoc atrodas mērķa sistēmā (ALE pakalpojums)	2018.06.19 05:33:47											
+39	39	c	IDoc al sistema destí (servei ALE)	2018.06.19 05:33:47											
+39	39	d	IDoc je u ciljnom sistemu (ALE usluga)	2018.06.19 05:33:47											
+39	39	늑	TAIS TEDS2*+	2018.06.19 05:33:47											
+39	39	닱	[ĬĎŏċ∙įɱ∙Żįēĺşŷşţēɱ∙(ĀĻĔ-Ďįēŋşţ)∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙]	2018.06.19 05:33:47											
+39	39	묩	IDOC लक्ष्य सिस्टम मैं है (ALE सेवा )	2018.06.19 05:33:47											
+39	39	뱋	IDoc мақсатты жүйеде емес (ALE қызметі)	2018.06.19 05:33:47											
+39	39	쁩	IDoc trong hệ thống đích (dịch vụ ALE)	2018.06.19 05:33:47											
+40	40	1	目标系统中未创建申请文件	2018.06.19 05:33:47											
+40	40	2	เอกสารระบบงานไม่ได้สร้างในระบบเป้าหมาย	2018.06.19 05:33:47											
+40	40	3	대상 시스템에서 어플리케이션 문서를 생성하지 않았습니다.	2018.06.19 05:33:47											
+40	40	4	Document aplicaţie necreat în sistem ţintă	2018.06.19 05:33:47											
+40	40	5	Ni kreiran dokument aplikacije v ciljnem sistemu	2018.06.19 05:33:47											
+40	40	6	Dokument aplikacije nije kreiran u ciljnom sustavu	2018.06.19 05:33:47											
+40	40	7	Dokumen aplikasi tidak dicipta dalam sistem sasaran	2018.06.19 05:33:47											
+40	40	8	Документ застосунку не створений у цільовій системі	2018.06.19 05:33:47											
+40	40	9	Rakendusedokumenti ei loodud sihtsüsteemis	2018.06.19 05:33:47											
+40	40	A	لم يتم إنشاء مستند التطبيق في النظام الهدف	2018.06.19 05:33:47											
+40	40	B	מסמך יישום לא נוצר במערכת יעד	2018.06.19 05:33:47											
+40	40	C	Aplikační doklad nebyl v cílovém systému vygenerován	2018.06.19 05:33:47											
+40	40	D	Anwendungsbeleg im Zielsystem nicht erzeugt	2018.06.19 05:33:47											
+40	40	E	Application document not created in target system	2018.06.19 05:33:47											
+40	40	F	Document d'application non généré dans le système cible	2018.06.19 05:33:47											
+40	40	G	Εγγραφή εφαρμογής δε δημιουργήθηκε σε σύστημα στόχο	2018.06.19 05:33:47											
+40	40	H	Alkalmazási bizonylat a célrendszerben nincs létrehozva	2018.06.19 05:33:47											
+40	40	I	Doc. applicazione non creato nel sistema di destinazione	2018.06.19 05:33:47											
+40	40	J	対象システムで登録されないアプリケーション文書	2018.06.19 05:33:47											
+40	40	K	Applikationsbilag ikke genereret i målsystem	2018.06.19 05:33:47											
+40	40	L	Dokument aplikacji w systemie docelowym nie wygenerowany	2018.06.19 05:33:47											
+40	40	M	目標系統未建立應用程式文件	2018.06.19 05:33:47											
+40	40	N	Applicatiedocument in doelsyseem niet gegenereerd	2018.06.19 05:33:47											
+40	40	O	Applikasjonsdokument ikke generert i målsystemet	2018.06.19 05:33:47											
+40	40	P	Documento de aplicação não foi gerado no sistema de destino	2018.06.19 05:33:47											
+40	40	Q	Aplikačný doklad v cieľom systéme nevygenerovaný	2018.06.19 05:33:47											
+40	40	R	Документ приложения не создан в целевой системе	2018.06.19 05:33:47											
+40	40	S	Documento de aplicación no creado en sistema destino	2018.06.19 05:33:47											
+40	40	T	Hedef sistemde uygulama belgesi yaratılmadı	2018.06.19 05:33:47											
+40	40	U	Sovellustositetta ei ole luotu kohdejärjestelmässä	2018.06.19 05:33:47											
+40	40	V	Applikationsdokument ej genererat i målsystemet	2018.06.19 05:33:47											
+40	40	W	Документ на приложението не е създаден в целевата система	2018.06.19 05:33:47											
+40	40	X	Taikomosios programos dokumentas nesukurtas tikslinėje sist.	2018.06.19 05:33:47											
+40	40	Y	Lietojumprogrammas dokuments mērķa sistēmā nav izveidots	2018.06.19 05:33:47											
+40	40	c	Document d'aplicació al sistema destí no creat	2018.06.19 05:33:47											
+40	40	d	Aplikacijski dokument nije kreiran u ciljnom sistemu	2018.06.19 05:33:47											
+40	40	늑	TAIS TEDS2*+	2018.06.19 05:33:47											
+40	40	닱	[Āŋŵēŋƌűŋğşƃēĺēğ∙įɱ∙Żįēĺşŷşţēɱ∙ŋįċĥţ∙ēŗžēűğţ∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙]	2018.06.19 05:33:47											
+40	40	묩	एप्लिकेशन दस्तावेज़ लक्ष्य सिस्टम में नहीं बनाया गया	2018.06.19 05:33:47											
+40	40	뱋	Қолданба құжаты мақсатты жүйеде жасалмады	2018.06.19 05:33:47											
+40	40	쁩	Tài liệu ứng dụng không được tạo ở hệ thống đích	2018.06.19 05:33:47											
+41	41	1	目标系统中已创建申请文件	2018.06.19 05:33:47											
+41	41	2	เอกสารระบบงานถูกสร้างในระบบเป้าหมาย	2018.06.19 05:33:47											
+41	41	3	대상 시스템에서 어플리케이션 문서를 생성했습니다.	2018.06.19 05:33:47											
+41	41	4	Document aplicaţie creat în sistem ţintă	2018.06.19 05:33:47											
+41	41	5	Kreiran dokument aplikacije v ciljnem sistemu	2018.06.19 05:33:47											
+41	41	6	Dokument aplikacije kreiran u ciljnom sustavu	2018.06.19 05:33:47											
+41	41	7	Dokumen aplikasi dicipta dalam sistem sasaran	2018.06.19 05:33:47											
+41	41	8	Документ застосунку створений у цільовій системі	2018.06.19 05:33:47											
+41	41	9	Rakendusedokument on sihtsüsteemis loodud	2018.06.19 05:33:47											
+41	41	A	تم إنشاء مستند التطبيق في النظام الهدف	2018.06.19 05:33:47											
+41	41	B	מסמך יישום נוצר במערכת יעד	2018.06.19 05:33:47											
+41	41	C	Aplikační doklad byl v cílovém systému vygenerován	2018.06.19 05:33:47											
+41	41	D	Anwendungsbeleg im Zielsystem erzeugt	2018.06.19 05:33:47											
+41	41	E	Application document created in target system	2018.06.19 05:33:47											
+41	41	F	Document d'application généré dans le système cible	2018.06.19 05:33:47											
+41	41	G	Εγγραφή εφαρμογής δημιουργήθηκε στο σύστημα στόχος	2018.06.19 05:33:47											
+41	41	H	Alkalmazási bizonylat a célrendszerben létrehozva	2018.06.19 05:33:47											
+41	41	I	Doc. applicazione creato nel sistema di destinazione	2018.06.19 05:33:47											
+41	41	J	対象システムで登録されたアプリケーション文書	2018.06.19 05:33:47											
+41	41	K	Applikationsbilag genereret i målsystem	2018.06.19 05:33:47											
+41	41	L	Dokument aplikacji w systemie docelowym wygenerowany	2018.06.19 05:33:47											
+41	41	M	目標系統已建立應用程式文件	2018.06.19 05:33:47											
+41	41	N	Applicatiedocument in doelsysteem gegenereerd	2018.06.19 05:33:47											
+41	41	O	Applikasjonsdokument generert i målsystemet	2018.06.19 05:33:47											
+41	41	P	Documento aplicação gerado no sistema destino	2018.06.19 05:33:47											
+41	41	Q	Aplikačný doklad v cieľovom systéme vygenerovaný	2018.06.19 05:33:47											
+41	41	R	Документ приложения создан в целевой системе	2018.06.19 05:33:47											
+41	41	S	Documento de aplicación creado en sistema destino	2018.06.19 05:33:47											
+41	41	T	Hedef sistemde uygulama belgesi yaratıldı	2018.06.19 05:33:47											
+41	41	U	Sovellustosite luotu kohdejärjestelmässä	2018.06.19 05:33:47											
+41	41	V	Applikationsdokument genererat i målsystemet	2018.06.19 05:33:47											
+41	41	W	Документ на приложението е създаден в целевата система	2018.06.19 05:33:47											
+41	41	X	Taikomosios programos dokumentas sukurtas tikslinėje sist.	2018.06.19 05:33:47											
+41	41	Y	Lietojumprogrammas dokuments mērķa sistēmā ir izveidots	2018.06.19 05:33:47											
+41	41	c	Document d'aplicació al sistema destí creat	2018.06.19 05:33:47											
+41	41	d	Aplikacijski dokument kreiran u ciljnom sistemu	2018.06.19 05:33:47											
+41	41	늑	TAIS TEDS2*+	2018.06.19 05:33:47											
+41	41	닱	[Āŋŵēŋƌűŋğşƃēĺēğ∙įɱ∙Żįēĺşŷşţēɱ∙ēŗžēűğţ∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙]	2018.06.19 05:33:47											
+41	41	묩	एप्लिकेशन दस्तावेज़ लक्ष्य सिस्टम में बनाया गया	2018.06.19 05:33:47											
+41	41	뱋	Қолданба құжаты мақсатты жүйеде жасалды	2018.06.19 05:33:47											
+41	41	쁩	Tài liệu ứng dụng được tạo ở hệ thống đích	2018.06.19 05:33:47											
+42	42	1	IDoc 由测试事务创建	2018.06.19 05:33:47											
+42	42	2	IDoc ถูกสร้างโดยรายการทดสอบ	2018.06.19 05:33:47											
+42	42	3	테스트 트랜잭션에서 IDoc를 생성했습니다.	2018.06.19 05:33:47											
+42	42	4	IDoc a fost creat prin tranzacţie test	2018.06.19 05:33:47											
+42	42	5	IDoc generiran iz testne transakcije	2018.06.19 05:33:47											
+42	42	6	IDoc kreiran iz transakcije probe	2018.06.19 05:33:47											
+42	42	7	IDoc telah dicipta oleh transaksi ujian	2018.06.19 05:33:47											
+42	42	8	IDoc було створено транзакцією перевірки	2018.06.19 05:33:47											
+42	42	9	IDoc on loodud testtoimingu kaudu	2018.06.19 05:33:47											
+42	42	A	تم إنشاء المستند الوسيط بواسطة معاملة الاختبار	2018.06.19 05:33:47											
+42	42	B	IDoc נוצר ע"י פעולת מבחן	2018.06.19 05:33:47											
+42	42	C	IDoc byl vytvořen testovací transakcí	2018.06.19 05:33:47											
+42	42	D	IDoc aus Testtransaktion erzeugt	2018.06.19 05:33:47											
+42	42	E	IDoc was created by test transaction	2018.06.19 05:33:47											
+42	42	F	IDoc créé à partir d'une transaction test	2018.06.19 05:33:47											
+42	42	G	IDoc δημιουργήθηκε απο κίνηση δοκιμής	2018.06.19 05:33:47											
+42	42	H	IDoc teszttranzakcióból létrehozva	2018.06.19 05:33:47											
+42	42	I	IDoc creato dalla transazione test	2018.06.19 05:33:47											
+42	42	J	IDOC はテストトランザクションにより登録済	2018.06.19 05:33:47											
+42	42	K	IDoc oprettet fra testtransaktion	2018.06.19 05:33:47											
+42	42	L	Tworzenie IDoc z transakcji testowej	2018.06.19 05:33:47											
+42	42	M	IDoc 已由測試交易建立	2018.06.19 05:33:47											
+42	42	N	IDoc uit testtransactie gegenereerd	2018.06.19 05:33:47											
+42	42	O	IDoc opprettet fra testtransaksjon	2018.06.19 05:33:47											
+42	42	P	IDoc gerado da transação de teste	2018.06.19 05:33:47											
+42	42	Q	Idoc bol vytvorený testovacou transakciou	2018.06.19 05:33:47											
+42	42	R	IDoc создан из тестовой транзакции	2018.06.19 05:33:47											
+42	42	S	IDOC creado a partir de transacción de test	2018.06.19 05:33:47											
+42	42	T	IDoc deneme işleminden yaratıldı	2018.06.19 05:33:47											
+42	42	U	IDOC luotu testitapahtumasta	2018.06.19 05:33:47											
+42	42	V	IDOC genererat från testtranskation	2018.06.19 05:33:47											
+42	42	W	IDoc е създаден чрез тестова транзакция	2018.06.19 05:33:47											
+42	42	X	IDOC sukurtas naudojant testinę operaciją	2018.06.19 05:33:47											
+42	42	Y	IDoc ir izveidots testa transakcijā	2018.06.19 05:33:47											
+42	42	c	IDoc creat des de transacció prova	2018.06.19 05:33:47											
+42	42	d	IDoc je kreiran probnom transakcijom	2018.06.19 05:33:47											
+42	42	늑	TAIS TEDS2*+	2018.06.19 05:33:47											
+42	42	닱	[ĬĎŏċ∙ąűş∙Ţēşţţŗąŋşąķţįŏŋ∙ēŗžēűğţ∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙]	2018.06.19 05:33:47											
+42	42	묩	IDOC परीक्षण ट्रांज़ेक्शन द्वारा बनाया गया	2018.06.19 05:33:47											
+42	42	뱋	IDoc сынақ транзакциясы арқылы жасалды	2018.06.19 05:33:47											
+42	42	쁩	IDoc được tạo bởi giao dịch kiểm tra	2018.06.19 05:33:47											
+50	50	1	IDoc 已添加	2018.06.19 05:33:47											
+50	50	2	เพิ่ม IDoc	2018.06.19 05:33:47											
+50	50	3	IDoc를 추가했습니다.	2018.06.19 05:33:47											
+50	50	4	IDoc adăugat	2018.06.19 05:33:47											
+50	50	5	IDoc dodan	2018.06.19 05:33:47											
+50	50	6	IDoc dodan	2018.06.19 05:33:47											
+50	50	7	IDoc ditambah	2018.06.19 05:33:47											
+50	50	8	IDoc доданий	2018.06.19 05:33:47											
+50	50	9	IDoc on lisatud	2018.06.19 05:33:47											
+50	50	A	تم إضافة المستند الوسيط	2018.06.19 05:33:47											
+50	50	B	IDoc הוסף	2018.06.19 05:33:47											
+50	50	C	Mezipoložka založena	2018.06.19 05:33:47											
+50	50	D	IDoc hinzugefügt	2018.06.19 05:33:47											
+50	50	E	IDoc added	2018.06.19 05:33:47											
+50	50	F	IDOC créé	2018.06.19 05:33:47											
+50	50	G	IDoc έχει προστεθεί	2018.06.19 05:33:47											
+50	50	H	IDoc létrehozva	2018.06.19 05:33:47											
+50	50	I	IDoc creato	2018.06.19 05:33:47											
+50	50	J	IDOC 追加済	2018.06.19 05:33:47											
+50	50	K	IDoc oprettet	2018.06.19 05:33:47											
+50	50	L	IDoc dodany	2018.06.19 05:33:47											
+50	50	M	新增 IDoc	2018.06.19 05:33:47											
+50	50	N	IDoc toegevoegd	2018.06.19 05:33:47											
+50	50	O	IDOC tilføyd	2018.06.19 05:33:47											
+50	50	P	Idoc criado	2018.06.19 05:33:47											
+50	50	Q	IDoc založený	2018.06.19 05:33:47											
+50	50	R	IDoc добавлен.	2018.06.19 05:33:47											
+50	50	S	IDOC añadido	2018.06.19 05:33:47											
+50	50	T	IDoc araya sokuldu	2018.06.19 05:33:47											
+50	50	U	IDOC lisätty	2018.06.19 05:33:47											
+50	50	V	IDOC skapat	2018.06.19 05:33:47											
+50	50	W	IDoc добавен	2018.06.19 05:33:47											
+50	50	X	IDOC pridėtas	2018.06.19 05:33:47											
+50	50	Y	IDoc ir pievienots	2018.06.19 05:33:47											
+50	50	c	IDoc afegit	2018.06.19 05:33:47											
+50	50	d	IDoc dodan	2018.06.19 05:33:47											
+50	50	늑	TAIS TEDS2*+	2018.06.19 05:33:47											
+50	50	닱	[ĬĎŏċ∙ĥįŋžűğēƒüğţ∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙]	2018.06.19 05:33:47											
+50	50	묩	IDOC जोड़ा गया	2018.06.19 05:33:47											
+50	50	뱋	IDoc қосылды	2018.06.19 05:33:47											
+50	50	쁩	IDoc được thêm	2018.06.19 05:33:47											
+51	51	1	申请文件未过帐	2018.06.19 05:33:47											
+51	51	2	ไม่ได้ผ่านรายการเอกสารของแอพพลิเคชัน	2018.06.19 05:33:47											
+51	51	3	어플리케이션 문서를 전기하지 않았습니다.	2018.06.19 05:33:47											
+51	51	4	Document aplicaţie neînregistrat	2018.06.19 05:33:47											
+51	51	5	Dokument aplikacije ni knjižen	2018.06.19 05:33:47											
+51	51	6	Dokument aplikacije nije knjižen	2018.06.19 05:33:47											
+51	51	7	Dokumen aplikasi tidak dipos	2018.06.19 05:33:47											
+51	51	8	Документ застосунку не проведений	2018.06.19 05:33:47											
+51	51	9	Rakendusedokumenti pole kirjendatud	2018.06.19 05:33:47											
+51	51	A	لم يتم ترحيل مستند التطبيق	2018.06.19 05:33:47											
+51	51	B	מסמך יישום לא נרשם	2018.06.19 05:33:47											
+51	51	C	Aplikační doklad nezaúčtován	2018.06.19 05:33:47											
+51	51	D	Anwendungsbeleg nicht gebucht	2018.06.19 05:33:47											
+51	51	E	Application document not posted	2018.06.19 05:33:47											
+51	51	F	Document application n'a pas été enregistré	2018.06.19 05:33:47											
+51	51	G	Εγγραφή εφαρμογής δεν καταχωρίστηκαν	2018.06.19 05:33:47											
+51	51	H	Alkamazási bizonylat nincs könyvelve	2018.06.19 05:33:47											
+51	51	I	Documento appl. non registrato	2018.06.19 05:33:47											
+51	51	J	アプリケーション文書が転記されていません	2018.06.19 05:33:47											
+51	51	K	Applikationsbilag ikke bogført	2018.06.19 05:33:47											
+51	51	L	Dokument aplikacji nie zaksięgowany	2018.06.19 05:33:47											
+51	51	M	未登錄應用程式文件	2018.06.19 05:33:47											
+51	51	N	Applicatiedocument niet geboekt	2018.06.19 05:33:47											
+51	51	O	Applikasjonsdokument ikke kontert	2018.06.19 05:33:47											
+51	51	P	Documento de aplicação não gravado	2018.06.19 05:33:47											
+51	51	Q	Doklad o aplikácii nezapísaný	2018.06.19 05:33:47											
+51	51	R	Документ приложения не проведен.	2018.06.19 05:33:47											
+51	51	S	No se ha contabilizado documento de aplicación	2018.06.19 05:33:47											
+51	51	T	Uygulma belgesi kaydedilmedi	2018.06.19 05:33:47											
+51	51	U	Sovellustositetta ei ole kirjattu	2018.06.19 05:33:47											
+51	51	V	Applikationsdokument ej bokat	2018.06.19 05:33:47											
+51	51	W	Документът от приложението не е осчетоводен	2018.06.19 05:33:47											
+51	51	X	Taikomosios programos dokumentas neužregistruotas	2018.06.19 05:33:47											
+51	51	Y	Lietojumprogrammas dokuments nav grāmatots	2018.06.19 05:33:47											
+51	51	c	Document d'aplicació no comptabilitzat	2018.06.19 05:33:47											
+51	51	d	Aplikacijski dokument nije knjižen	2018.06.19 05:33:47											
+51	51	늑	TAIS TEDS2*+	2018.06.19 05:33:47											
+51	51	닱	[Āŋŵēŋƌűŋğşƃēĺēğ∙ŋįċĥţ∙ğēƃűċĥţ∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙]	2018.06.19 05:33:47											
+51	51	묩	एप्लिकेशन दस्तावेज़ पोस्ट नहीं किया गया	2018.06.19 05:33:47											
+51	51	뱋	Қолданба құжаты жіберілмеді	2018.06.19 05:33:47											
+51	51	쁩	Tài liệu ứng dụng không được thông báo	2018.06.19 05:33:47											
+52	52	1	应用凭证未全部过帐	2018.06.19 05:33:47											
+52	52	2	ไม่ได้ส่งเอกสารระบบงานทั้งหมด	2018.06.19 05:33:47											
+52	52	3	어플리케이션 문서를 완전히 전기하지 않았습니다.	2018.06.19 05:33:47											
+52	52	4	Document aplicaţie neînregistrat complet	2018.06.19 05:33:47											
+52	52	5	Dokument aplikacije knjižen nepopolno	2018.06.19 05:33:47											
+52	52	6	Dokument aplikacije nije u potpunosti knjižen	2018.06.19 05:33:47											
+52	52	7	Tidak semua dokumen aplikasi dipos	2018.06.19 05:33:47											
+52	52	8	Документ застосунку не проведений повністю	2018.06.19 05:33:47											
+52	52	9	Rakendusedokument pole täielikult kirjendatud	2018.06.19 05:33:47											
+52	52	A	لم يتم ترحيل مستند التطبيق بشكل كامل	2018.06.19 05:33:47											
+52	52	B	מסמך יישום לא נרשם במלואו	2018.06.19 05:33:47											
+52	52	C	Aplikační dokl.zaúčtován nekompletně	2018.06.19 05:33:47											
+52	52	D	Anwendungsbeleg unvollständig gebucht	2018.06.19 05:33:47											
+52	52	E	Application document not fully posted	2018.06.19 05:33:47											
+52	52	F	Document application partiellement enregistré	2018.06.19 05:33:47											
+52	52	G	Μη ολοκληρωμένη καταχώριση εγγραφής εφαρμογής	2018.06.19 05:33:47											
+52	52	H	Alkalmazási bizonylat hiányosan könyvelve	2018.06.19 05:33:47											
+52	52	I	Documento appl. registrato parzialmente	2018.06.19 05:33:47											
+52	52	J	アプリケーション文書の転記未完了	2018.06.19 05:33:47											
+52	52	K	Applikationsbilag bogført ufuldstændigt	2018.06.19 05:33:47											
+52	52	L	Dokument aplikacji niekopletnie zaksięgowany	2018.06.19 05:33:47											
+52	52	M	應用程式文件未全部過帳	2018.06.19 05:33:47											
+52	52	N	Applicatiedocument onvolledig geboekt	2018.06.19 05:33:47											
+52	52	O	Applikasjonsdokument ufullstendig kontert	2018.06.19 05:33:47											
+52	52	P	Documento de aplicação gravado de forma incompleta	2018.06.19 05:33:47											
+52	52	Q	Doklad o aplikácii zapísaný nekompletne	2018.06.19 05:33:47											
+52	52	R	Документ приложения проведен не полностью.	2018.06.19 05:33:47											
+52	52	S	Documento de aplicación contabilizado de forma incompleta	2018.06.19 05:33:47											
+52	52	T	Uygulama belgesi tam olarak kaydedilmedi	2018.06.19 05:33:47											
+52	52	U	Sovellustosite kirjattu puutteellisesti	2018.06.19 05:33:47											
+52	52	V	Applikationsdokument ofullständigt bokat	2018.06.19 05:33:47											
+52	52	W	Документ от приложение не е напълно осчетоводен	2018.06.19 05:33:47											
+52	52	X	Taikomosios programos dokumentas nevisiškai užregistruotas	2018.06.19 05:33:47											
+52	52	Y	Lietojumprogrammas dokuments grāmatots nepilnīgi	2018.06.19 05:33:47											
+52	52	c	Document d'aplicació comptabilitzat de forma incompleta	2018.06.19 05:33:47											
+52	52	d	Aplikacijski dokument nije potpuno knjižen	2018.06.19 05:33:47											
+52	52	늑	TAIS TEDS2*+	2018.06.19 05:33:47											
+52	52	닱	[Āŋŵēŋƌűŋğşƃēĺēğ∙űŋʋŏĺĺşţäŋƌįğ∙ğēƃűċĥţ∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙]	2018.06.19 05:33:47											
+52	52	묩	एप्लिकेशन दस्तावेज़ पूर्ण रूप से पोस्ट नहीं किया गया	2018.06.19 05:33:47											
+52	52	뱋	Қолданба құжаты толығымен жіберілмеді	2018.06.19 05:33:47											
+52	52	쁩	Tài liệu ứng dụng không được thông báo đầy đủ	2018.06.19 05:33:47											
+53	53	1	应用凭证已过帐	2018.06.19 05:33:47											
+53	53	2	ผ่านรายการเอกสารของแอพพลิเคชันแล้ว	2018.06.19 05:33:47											
+53	53	3	어플리케이션 문서를 전기했습니다.	2018.06.19 05:33:47											
+53	53	4	Document aplicaţie înregistrat	2018.06.19 05:33:47											
+53	53	5	Dokument aplikacije knjižen	2018.06.19 05:33:47											
+53	53	6	Dokument aplikacije knjižen	2018.06.19 05:33:47											
+53	53	7	Dokumen aplikasi dipos	2018.06.19 05:33:47											
+53	53	8	Документ застосунку проведений	2018.06.19 05:33:47											
+53	53	9	Rakendusedokument on kirjendatud	2018.06.19 05:33:47											
+53	53	A	تم ترحيل مستند التطبيق	2018.06.19 05:33:47											
+53	53	B	מסמך יישום נרשם	2018.06.19 05:33:47											
+53	53	C	Aplikační dokl.zaúčtován	2018.06.19 05:33:47											
+53	53	D	Anwendungsbeleg gebucht	2018.06.19 05:33:47											
+53	53	E	Application document posted	2018.06.19 05:33:47											
+53	53	F	Document application enregistré	2018.06.19 05:33:47											
+53	53	G	Μη καταχωρημένη εγγραφή εφαρμογής	2018.06.19 05:33:47											
+53	53	H	Alkalmazási bizonylat könyvelve	2018.06.19 05:33:47											
+53	53	I	Documento appl. registrato	2018.06.19 05:33:47											
+53	53	J	アプリケーション文書転記済	2018.06.19 05:33:47											
+53	53	K	Applikationsbilag bogført	2018.06.19 05:33:47											
+53	53	L	Dokument aplikacji zaksięgowany	2018.06.19 05:33:47											
+53	53	M	應用程式文件已過帳	2018.06.19 05:33:47											
+53	53	N	Applicatiedocument geboekt	2018.06.19 05:33:47											
+53	53	O	Applikasjonsdokument kontert	2018.06.19 05:33:47											
+53	53	P	Documento de aplicação gravado	2018.06.19 05:33:47											
+53	53	Q	Doklad o aplikácii zapísaný	2018.06.19 05:33:47											
+53	53	R	Документ приложения проведен.	2018.06.19 05:33:47											
+53	53	S	Documento de aplicación contabilizado	2018.06.19 05:33:47											
+53	53	T	Uygulama belgesi kaydedildi	2018.06.19 05:33:47											
+53	53	U	Sovellustosite kirjattu	2018.06.19 05:33:47											
+53	53	V	Applikationsdokument bokat	2018.06.19 05:33:47											
+53	53	W	Документ от приложение осчетоводен	2018.06.19 05:33:47											
+53	53	X	Taikomosios programos dokumentas užregistruotas	2018.06.19 05:33:47											
+53	53	Y	Lietojumprogrammas dokuments ir grāmatots	2018.06.19 05:33:47											
+53	53	c	Document d'aplicació comptabilitzat	2018.06.19 05:33:47											
+53	53	d	Aplikacijski dokument knjižen	2018.06.19 05:33:47											
+53	53	늑	TAIS TEDS2*+	2018.06.19 05:33:47											
+53	53	닱	[Āŋŵēŋƌűŋğşƃēĺēğ∙ğēƃűċĥţ∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙]	2018.06.19 05:33:47											
+53	53	묩	एप्लिकेशन दस्तावेज़ पोस्ट किया गया	2018.06.19 05:33:47											
+53	53	뱋	Қолданба құжаты жіберілді	2018.06.19 05:33:47											
+53	53	쁩	Tài liệu ứng dụng được thông báo	2018.06.19 05:33:47											
+54	54	1	正式应用程序检查时出错	2018.06.19 05:33:47											
+54	54	2	ข้อผิดพลาดขณะตรวจสอบระบบงานที่เป็นทางการ	2018.06.19 05:33:47											
+54	54	3	서식 어플리케이션을 점검하는 동안 오류가 발생했습니다.	2018.06.19 05:33:47											
+54	54	4	Eroare la verificare formală aplicaţie	2018.06.19 05:33:47											
+54	54	5	Napaka pri formalni kontroli aplikacije	2018.06.19 05:33:47											
+54	54	6	Greška tokom formalne provjere aplikacije	2018.06.19 05:33:47											
+54	54	7	Ralat semasa semakan aplikasi formal	2018.06.19 05:33:47											
+54	54	8	Помилка під час формальної перевірки застосунку	2018.06.19 05:33:47											
+54	54	9	Tõrge formaalse rakendusekontrolli käigus	2018.06.19 05:33:47											
+54	54	A	خطأ أثناء فحص التطبيق الرسمي	2018.06.19 05:33:47											
+54	54	B	שגיאה בבדיקת יישום פורמלי	2018.06.19 05:33:47											
+54	54	C	Chyba při formální kontrole aplikace	2018.06.19 05:33:47											
+54	54	D	Fehler bei der formalen Anwendungsprüfung	2018.06.19 05:33:47											
+54	54	E	Error during formal application check	2018.06.19 05:33:47											
+54	54	F	Erreur lors du contrôle formel de l'application	2018.06.19 05:33:47											
+54	54	G	Λάθος κατά τον συμβατικό έλεγχο εφαρμογής	2018.06.19 05:33:47											
+54	54	H	Hiba a formai alkalmazás-ellenőrzésnél	2018.06.19 05:33:47											
+54	54	I	Errore durante contr. formale dell'appl.	2018.06.19 05:33:47											
+54	54	J	仮アプリケーションチェック中のエラー	2018.06.19 05:33:47											
+54	54	K	Fejl ved formel applikationskontrol	2018.06.19 05:33:47											
+54	54	L	Błąd przy formalnej kontroli aplikacji	2018.06.19 05:33:47											
+54	54	M	正式應用程式檢查期間發生錯誤	2018.06.19 05:33:47											
+54	54	N	Fout bij formele applicatiecontrole	2018.06.19 05:33:47											
+54	54	O	Feil ved formell applikasjonskontroll	2018.06.19 05:33:47											
+54	54	P	Erro na verificação formal da aplicação	2018.06.19 05:33:47											
+54	54	Q	Chyba pri formálnej kontrole aplikácie	2018.06.19 05:33:47											
+54	54	R	Ошибка при формальной проверке приложения.	2018.06.19 05:33:47											
+54	54	S	Error durante verificación formal de aplicación	2018.06.19 05:33:47											
+54	54	T	Biçimsel uygulama kontrolünde hata	2018.06.19 05:33:47											
+54	54	U	Virhe muodollisessa sovellustarkistuksessa	2018.06.19 05:33:47											
+54	54	V	Fel vid formell applikationskontroll	2018.06.19 05:33:47											
+54	54	W	Грешка при формална проверка на приложение	2018.06.19 05:33:47											
+54	54	X	Formalios taikomosios programos patikros klaida	2018.06.19 05:33:47											
+54	54	Y	Lietojumprogrammas formālās pārbaudes laikā radās kļūda	2018.06.19 05:33:47											
+54	54	c	Error en la verificació formal d'aplicació	2018.06.19 05:33:47											
+54	54	d	Greška pri formalnoj proveri aplikacije	2018.06.19 05:33:47											
+54	54	늑	TAIS TEDS2*+	2018.06.19 05:33:47											
+54	54	닱	[Ƒēĥĺēŗ∙ƃēį∙ƌēŗ∙ƒŏŗɱąĺēŋ∙Āŋŵēŋƌűŋğşρŗüƒűŋğ∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙]	2018.06.19 05:33:47											
+54	54	묩	औपचारिक एप्लिकेशन जांच के दौरान त्रुटि	2018.06.19 05:33:47											
+54	54	뱋	Формальды қолданба тексеруі кезіндегі қате	2018.06.19 05:33:47											
+54	54	쁩	Lỗi trong khi chính thức kiểm tra ứng dụng	2018.06.19 05:33:47											
+55	55	1	正式应用程序检查 OK	2018.06.19 05:33:47											
+55	55	2	ตรวจสอบระบบงานที่เป็นทางการ OK	2018.06.19 05:33:47											
+55	55	3	서식 어플리케이션 점검 OK	2018.06.19 05:33:47											
+55	55	4	Verificare formală aplicaţie OK	2018.06.19 05:33:47											
+55	55	5	Formalna kontrolna aplikacija OK	2018.06.19 05:33:47											
+55	55	6	Formalna provjera aplikacije OK	2018.06.19 05:33:47											
+55	55	7	Semakan aplikasi formal OK	2018.06.19 05:33:47											
+55	55	8	Формальна перевірка застосунку ОК	2018.06.19 05:33:47											
+55	55	9	Formaalne rakendusekontroll on OK	2018.06.19 05:33:47											
+55	55	A	فحص التطبيق الرسمي جيد	2018.06.19 05:33:47											
+55	55	B	בדיקת יישום פורמלי מוצלחת	2018.06.19 05:33:47											
+55	55	C	Formální kontr.aplikace OK	2018.06.19 05:33:47											
+55	55	D	Formale Anwendungsprüfung OK	2018.06.19 05:33:47											
+55	55	E	Formal application check OK	2018.06.19 05:33:47											
+55	55	F	OK pour le contrôle formel de l'application	2018.06.19 05:33:47											
+55	55	G	Τυπικός έλεγχος εφαρμογής OK	2018.06.19 05:33:47											
+55	55	H	Formai alkalmazás-ellenőrzés O.K.	2018.06.19 05:33:47											
+55	55	I	Contr. formale dell'appl. OK	2018.06.19 05:33:47											
+55	55	J	仮アプリケーションチェック OK	2018.06.19 05:33:47											
+55	55	K	Formel applikationskontrol OK	2018.06.19 05:33:47											
+55	55	L	Formalna kontrola aplikacji OK	2018.06.19 05:33:47											
+55	55	M	正式應用程式檢查 OK	2018.06.19 05:33:47											
+55	55	N	Formele applicatiecontrole OK	2018.06.19 05:33:47											
+55	55	O	Formell applikasjonskontroll OK	2018.06.19 05:33:47											
+55	55	P	Verificação formal da aplicação OK	2018.06.19 05:33:47											
+55	55	Q	Formálna kontrola aplikacie OK	2018.06.19 05:33:47											
+55	55	R	Формальная проверка приложения ОК	2018.06.19 05:33:47											
+55	55	S	Verificación formal de aplicación OK	2018.06.19 05:33:47											
+55	55	T	Biçimsel uygulama kontrolü tamam	2018.06.19 05:33:47											
+55	55	U	Muodollinen sovellustarkistus OK	2018.06.19 05:33:47											
+55	55	V	Formell applikationskontroll OK	2018.06.19 05:33:47											
+55	55	W	Формална проверка на приложение OK	2018.06.19 05:33:47											
+55	55	X	Formali taikomosios programos patikra pavyko	2018.06.19 05:33:47											
+55	55	Y	Lietojumprogrammas formālā pārbaude ir izdevusies	2018.06.19 05:33:47											
+55	55	c	Verificació formal d'aplicació OK	2018.06.19 05:33:47											
+55	55	d	Formalna provera aplikacije OK	2018.06.19 05:33:47											
+55	55	늑	TAIS TEDS2*+	2018.06.19 05:33:47											
+55	55	닱	[Ƒŏŗɱąĺē∙Āŋŵēŋƌűŋğşρŗüƒűŋğ∙ŎĶ∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙]	2018.06.19 05:33:47											
+55	55	묩	औपचारिक एप्लिकेशन जांच ठीक है	2018.06.19 05:33:47											
+55	55	뱋	Формальды қолданба тексеруі дұрыс	2018.06.19 05:33:47											
+55	55	쁩	Chính thức kiểm tra ứng dụng OK	2018.06.19 05:33:47											
+56	56	1	IDoc 添加错误	2018.06.19 05:33:47											
+56	56	2	เพิ่ม IDoc ที่มีข้อผิดพลาด	2018.06.19 05:33:47											
+56	56	3	오류가 있는 IDoc를 추가했습니다.	2018.06.19 05:33:47											
+56	56	4	IDoc cu erori adăugat	2018.06.19 05:33:47											
+56	56	5	Dodan pomanjkljiv IDoc	2018.06.19 05:33:47											
+56	56	6	Dodan IDoc s greškama	2018.06.19 05:33:47											
+56	56	7	IDoc dengan ralat ditambah	2018.06.19 05:33:47											
+56	56	8	IDoc із помилками доданий	2018.06.19 05:33:47											
+56	56	9	IDoc on lisatud vigadega	2018.06.19 05:33:47											
+56	56	A	مستند وسيط مع إضافة أخطاء	2018.06.19 05:33:47											
+56	56	B	נוסף מסמך ביניים עם שגיאות	2018.06.19 05:33:47											
+56	56	C	Založen chybný IDOC	2018.06.19 05:33:47											
+56	56	D	Fehlerhaftes IDoc hinzugefügt	2018.06.19 05:33:47											
+56	56	E	IDoc with errors added	2018.06.19 05:33:47											
+56	56	F	Création d'IDOC erroné	2018.06.19 05:33:47											
+56	56	G	IDoc με λάθη έχει προστεθεί	2018.06.19 05:33:47											
+56	56	H	Hibás IDoc létrehozva	2018.06.19 05:33:47											
+56	56	I	Creato IDoc errato	2018.06.19 05:33:47											
+56	56	J	エラーのある IDOC が追加されました	2018.06.19 05:33:47											
+56	56	K	Ukorrekt IDoc oprettet	2018.06.19 05:33:47											
+56	56	L	Błędny IDoc dodany	2018.06.19 05:33:47											
+56	56	M	新增含錯誤的 IDoc	2018.06.19 05:33:47											
+56	56	N	Foutief IDoc toegevoegd	2018.06.19 05:33:47											
+56	56	O	IDOC med feil tilføyd	2018.06.19 05:33:47											
+56	56	P	Foi criado Idoc incorreto	2018.06.19 05:33:47											
+56	56	Q	Chybný IDoc založený	2018.06.19 05:33:47											
+56	56	R	Добавлен неправильный IDoc.	2018.06.19 05:33:47											
+56	56	S	Creado documento intermedio erróneo	2018.06.19 05:33:47											
+56	56	T	Hatalı IDoc araya sokuldu	2018.06.19 05:33:47											
+56	56	U	Virheellinen IDOC lisätty	2018.06.19 05:33:47											
+56	56	V	Felaktigt IDOC skapat	2018.06.19 05:33:47											
+56	56	W	IDoc с грешки добавен	2018.06.19 05:33:47											
+56	56	X	IDOC su klaidomis pridėtas	2018.06.19 05:33:47											
+56	56	Y	Pievienots kļūdains IDoc	2018.06.19 05:33:47											
+56	56	c	IDoc erroni afegit	2018.06.19 05:33:47											
+56	56	d	Dodan IDoc s greškama	2018.06.19 05:33:47											
+56	56	늑	TAIS TEDS2*+	2018.06.19 05:33:47											
+56	56	닱	[Ƒēĥĺēŗĥąƒţēş∙ĬĎŏċ∙ĥįŋžűğēƒüğţ∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙]	2018.06.19 05:33:47											
+56	56	묩	IDOC त्रुटियों के साथ जोड़ा गया	2018.06.19 05:33:47											
+56	56	뱋	Қателері бар IDoc қосылды	2018.06.19 05:33:47											
+56	56	쁩	IDoc với các lỗi được thêm	2018.06.19 05:33:47											
+57	57	1	测试 IDoc：应用检查期间错误	2018.06.19 05:33:47											
+57	57	2	ทดสอบ IDoc: ข้อผิดพลาดขณะตรวจสอบระบบงาน	2018.06.19 05:33:47											
+57	57	3	테스트 IDoc: 어플리케이션을 점검하는 동안 오류 발생	2018.06.19 05:33:47											
+57	57	4	Test IDoc: Eroare la verificare aplicaţie	2018.06.19 05:33:47											
+57	57	5	Test-IDoc: Napaka pri kontroli aplikacije	2018.06.19 05:33:47											
+57	57	6	Probni IDoc: Greška tokom provjere aplikacije	2018.06.19 05:33:47											
+57	57	7	Ujian IDoc: Ralat semasa semakan aplikasi	2018.06.19 05:33:47											
+57	57	8	Перевірка IDoc: помилка під час перевірки застосунку	2018.06.19 05:33:47											
+57	57	9	Test-IDoc: tõrge rakendusekontrolli käigus	2018.06.19 05:33:47											
+57	57	A	اختبار المستند الوسيط: خطأ أثناء فحص التطبيق	2018.06.19 05:33:47											
+57	57	B	בדיקת מסמך ביניים: שגיאה במהלך בדיקת יישום	2018.06.19 05:33:47											
+57	57	C	Testovací IDOC: Chyba při kontrole aplikace	2018.06.19 05:33:47											
+57	57	D	Test-IDoc: Fehler bei der Anwendungsprüfung	2018.06.19 05:33:47											
+57	57	E	Test IDoc: Error during application check	2018.06.19 05:33:47											
+57	57	F	IDOC test : erreur lors du contrôle de l'application	2018.06.19 05:33:47											
+57	57	G	IDoc Δοκιμή: Λάθος κατά τον έλεγχο εφαρμογής	2018.06.19 05:33:47											
+57	57	H	Teszt-IDoc: hiba az alkalmazásellenőrzésnél	2018.06.19 05:33:47											
+57	57	I	Test IDoc: errore durante controllo dell'appl.	2018.06.19 05:33:47											
+57	57	J	テスト IDOC: アプリケーションチェック中のエラー	2018.06.19 05:33:47											
+57	57	K	Test-IDoc: Fejl ved applikationskontrol	2018.06.19 05:33:47											
+57	57	L	IDoc testowy: Błąd podczas kontroli aplikacji	2018.06.19 05:33:47											
+57	57	M	測試 IDoc：應用程式檢查期間發生錯誤	2018.06.19 05:33:47											
+57	57	N	Test-IDoc: fout bij applicatiecontrole	2018.06.19 05:33:47											
+57	57	O	Test-IDOC: Feil ved applikasjonskontrollen	2018.06.19 05:33:47											
+57	57	P	IDoc teste: erro na verificação da aplicação	2018.06.19 05:33:47											
+57	57	Q	Testovací IDoc: Chyba pri kontrole aplikácie	2018.06.19 05:33:47											
+57	57	R	Тестовый IDoc: ошибка при проверке приложения	2018.06.19 05:33:47											
+57	57	S	IDOC test: Error en verificación de aplicación	2018.06.19 05:33:47											
+57	57	T	Deneme IDoc'u: Uygulama kontrolünde hata	2018.06.19 05:33:47											
+57	57	U	Testi-IDOC: virhe sovellustarkistuksessa	2018.06.19 05:33:47											
+57	57	V	Test-IDOC: Fel vid applikationskontroll	2018.06.19 05:33:47											
+57	57	W	Тестване IDoc: Грешка при проверка на приложение	2018.06.19 05:33:47											
+57	57	X	Testinis IDOC: taikomosios programos patikros klaida	2018.06.19 05:33:47											
+57	57	Y	Testa IDoc: lietojumprogrammas pārbaudes laikā radās kļūda	2018.06.19 05:33:47											
+57	57	c	IDoc prova: Error en la verificació d'aplicació	2018.06.19 05:33:47											
+57	57	d	Test IDoc: Greška pri proveri aplikacije	2018.06.19 05:33:47											
+57	57	늑	TAIS TEDS2*+	2018.06.19 05:33:47											
+57	57	닱	[Ţēşţ-ĬĎŏċ:∙Ƒēĥĺēŗ∙ƃēį∙ƌēŗ∙Āŋŵēŋƌűŋğşρŗüƒűŋğ∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙]	2018.06.19 05:33:47											
+57	57	묩	IDOC परीक्षण: एप्लिकेशन जांच के दौरान त्रुटि	2018.06.19 05:33:47											
+57	57	뱋	IDoc сынағы: қолданба тексеруі кезіндегі қате	2018.06.19 05:33:47											
+57	57	쁩	Kiểm tra IDoc: Lỗi khi kiểm tra ứng dụng	2018.06.19 05:33:47											
+58	58	1	来自 R/2 连接的 IDoc 复制	2018.06.19 05:33:47											
+58	58	2	การคัดลอก IDoc จากการเชื่อมต่อ R/2	2018.06.19 05:33:47											
+58	58	3	R/2 연결에서 IDoc 복사	2018.06.19 05:33:47											
+58	58	4	Copie IDoc din conexiune R/2	2018.06.19 05:33:47											
+58	58	5	IDoc-dvojnik iz R/2-povezave	2018.06.19 05:33:47											
+58	58	6	Kopija IDoc-a iz R/2 veze	2018.06.19 05:33:47											
+58	58	7	Salinan IDoc dari sambungan R/2	2018.06.19 05:33:47											
+58	58	8	Копія IDoc зі з'єднання R/2	2018.06.19 05:33:47											
+58	58	9	IDoci koopia R/2-ühendusest	2018.06.19 05:33:47											
+58	58	A	نسخ المستند الوسيط من اتصال R/2	2018.06.19 05:33:47											
+58	58	B	העתקת IDoc מחיבור R/2	2018.06.19 05:33:47											
+58	58	C	Duplikát IDoc ze spojení R/3	2018.06.19 05:33:47											
+58	58	D	IDoc-Duplikat aus R/2-Verbindung	2018.06.19 05:33:47											
+58	58	E	IDoc copy from R/2 connection	2018.06.19 05:33:47											
+58	58	F	Duplicat d'IDoc à partir d'une liaison R/2	2018.06.19 05:33:47											
+58	58	G	Αντιγραφή IDoc απο σύνδεση R/2	2018.06.19 05:33:47											
+58	58	H	IDoc-másolat R/2-kapcsolatból	2018.06.19 05:33:47											
+58	58	I	Duplicato IDoc da collegamento R/2	2018.06.19 05:33:47											
+58	58	J	R/2 接続からの IDOC コピー	2018.06.19 05:33:47											
+58	58	K	IDoc-duplikat fra R/2-forbindelse	2018.06.19 05:33:47											
+58	58	L	Duplikat IDoc z połączenia R/2	2018.06.19 05:33:47											
+58	58	M	IDoc-複製自 R/2 連接	2018.06.19 05:33:47											
+58	58	N	IDoc-duplicaat uit R/2-verbinding	2018.06.19 05:33:47											
+58	58	O	IDOC-duplikat fra R/2-forbindelse	2018.06.19 05:33:47											
+58	58	P	Duplicado IDoc de ligação R/2	2018.06.19 05:33:47											
+58	58	Q	Duplikát IDoc zo spojenia R/2	2018.06.19 05:33:47											
+58	58	R	IDOC-дубликат из R/2-соединения	2018.06.19 05:33:47											
+58	58	S	Duplicado de IDOC de enlace R/2	2018.06.19 05:33:47											
+58	58	T	R/2 bağlantısından IDoc kopyası	2018.06.19 05:33:47											
+58	58	U	IDOC-kaksoiskappale R/2-yhteydestä	2018.06.19 05:33:47											
+58	58	V	IDOC-kopia ur R/2-förbindelse	2018.06.19 05:33:47											
+58	58	W	Копие на IDoc от R/2 връзка	2018.06.19 05:33:47											
+58	58	X	IDOC kopija iš R/2 ryšio	2018.06.19 05:33:47											
+58	58	Y	IDoc kopija no R/2 savienojuma	2018.06.19 05:33:47											
+58	58	c	Duplicat d'IDoc des de connexió R/2	2018.06.19 05:33:47											
+58	58	d	Kopija IDoc iz R/2 veze	2018.06.19 05:33:47											
+58	58	늑	TAIS TEDS2*+	2018.06.19 05:33:47											
+58	58	닱	[ĬĎŏċ-Ďűρĺįķąţ∙ąűş∙Ř/2-Ʋēŗƃįŋƌűŋğ∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙]	2018.06.19 05:33:47											
+58	58	묩	R/2 कनेक्शन से IDoc प्रति	2018.06.19 05:33:47											
+58	58	뱋	R/2 байланысынан IDoc көшірмесі	2018.06.19 05:33:47											
+58	58	쁩	IDoc sap chép từ kết nối R/2	2018.06.19 05:33:47											
+59	59	1	没有使用	2018.06.19 05:33:47											
+59	59	2	ไม่มีการใช้	2018.06.19 05:33:47											
+59	59	3	사용하지 않음	2018.06.19 05:33:47											
+59	59	4	Neutilizat	2018.06.19 05:33:47											
+59	59	5	Ni uporabljeno	2018.06.19 05:33:47											
+59	59	6	Ne koristi se	2018.06.19 05:33:47											
+59	59	7	Tidak digunakan	2018.06.19 05:33:47											
+59	59	8	Не використовується	2018.06.19 05:33:47											
+59	59	9	Ei kasutata	2018.06.19 05:33:47											
+59	59	A	غير مستخدم	2018.06.19 05:33:47											
+59	59	B	לא בשימוש	2018.06.19 05:33:47											
+59	59	C	Nepoužívá se	2018.06.19 05:33:47											
+59	59	D	Nicht verwendet	2018.06.19 05:33:47											
+59	59	E	Not used	2018.06.19 05:33:47											
+59	59	F	Non utilisé	2018.06.19 05:33:47											
+59	59	G	Μη χρησιμοποιημένο	2018.06.19 05:33:47											
+59	59	H	Használaton kívül	2018.06.19 05:33:47											
+59	59	I	Non utilizzato	2018.06.19 05:33:47											
+59	59	J	不使用	2018.06.19 05:33:47											
+59	59	K	Anvendes ikke	2018.06.19 05:33:47											
+59	59	L	Nieużywane	2018.06.19 05:33:47											
+59	59	M	未使用	2018.06.19 05:33:47											
+59	59	N	Niet gebruikt	2018.06.19 05:33:47											
+59	59	O	Ikke brukt	2018.06.19 05:33:47											
+59	59	P	Não utilizado	2018.06.19 05:33:47											
+59	59	Q	Nepoužíva sa	2018.06.19 05:33:47											
+59	59	R	Не используется	2018.06.19 05:33:47											
+59	59	S	No utilizado	2018.06.19 05:33:47											
+59	59	T	Kullanılmıyor	2018.06.19 05:33:47											
+59	59	U	Ei käytetty	2018.06.19 05:33:47											
+59	59	V	Används inte	2018.06.19 05:33:47											
+59	59	W	Неизползван	2018.06.19 05:33:47											
+59	59	X	Nenaudojama	2018.06.19 05:33:47											
+59	59	Y	Nav izmantots	2018.06.19 05:33:47											
+59	59	c	No utilitzat	2018.06.19 05:33:47											
+59	59	d	Nije u upotrebi	2018.06.19 05:33:47											
+59	59	늑	TAIS TEDS2*+	2018.06.19 05:33:47											
+59	59	닱	[Ńįċĥţ∙ʋēŗŵēŋƌēţ∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙]	2018.06.19 05:33:47											
+59	59	묩	अप्रयुक्त	2018.06.19 05:33:47											
+59	59	뱋	Пайдаланылмайды	2018.06.19 05:33:47											
+59	59	쁩	Ko sử dụng	2018.06.19 05:33:47											
+60	60	1	IDoc（内向）语法检查出错	2018.06.19 05:33:47											
+60	60	2	ข้อผิดพลาดขณะตรวจสอบไวยากรณ์ของ IDoc (ที่เข้ามา)	2018.06.19 05:33:47											
+60	60	3	IDoc 구문을 점검하는 동안 오류 발생(인바운드)	2018.06.19 05:33:47											
+60	60	4	Eroare la verificare sintaxă IDoc (intrare)	2018.06.19 05:33:47											
+60	60	5	Napaka sintakse v IDoc (vhod)	2018.06.19 05:33:47											
+60	60	6	Greška tokom provjere sintakse IDoc-a (ulazna)	2018.06.19 05:33:47											
+60	60	7	Ralat semasa semakan sintaks IDoc (masuk)	2018.06.19 05:33:47											
+60	60	8	Помилка підчас перевірки синтаксису IDoc (вхід)	2018.06.19 05:33:47											
+60	60	9	Tõrge IDoci süntaksi kontrollimisel (sissetulevad)	2018.06.19 05:33:47											
+60	60	A	خطأ أثناء فحص بناء الجملة للمستند الوسيط (للداخل)	2018.06.19 05:33:47											
+60	60	B	שגיאה במהלך בד.תחביר של מסמך ביניים -יוצא	2018.06.19 05:33:47											
+60	60	C	Chyba syntaxe v IDOC (vstup)	2018.06.19 05:33:47											
+60	60	D	Syntaxfehler im IDoc (Eingang)	2018.06.19 05:33:47											
+60	60	E	Error during syntax check of IDoc (inbound)	2018.06.19 05:33:47											
+60	60	F	Erreur lors de la vérification syntaxique d'IDOC (réception)	2018.06.19 05:33:47											
+60	60	G	Λάθος κατά τον συντακτικό έλεγχο IDoc (inbound)	2018.06.19 05:33:47											
+60	60	H	Szintaktikai hiba az IDoc-ban (Érk.dok.)	2018.06.19 05:33:47											
+60	60	I	Errore di sint. in IDoc (entrata)	2018.06.19 05:33:47											
+60	60	J	IDOC 構文チェック中のエラー (受信)	2018.06.19 05:33:47											
+60	60	K	Syntaksfejl i IDoc (indgang)	2018.06.19 05:33:47											
+60	60	L	Błąd składni w IDoc (wejście)	2018.06.19 05:33:47											
+60	60	M	IDoc 語法檢查期間發生錯誤(內傳)	2018.06.19 05:33:47											
+60	60	N	Syntaxerror in IDoc (ingang)	2018.06.19 05:33:47											
+60	60	O	Syntaksfeil i IDOC (inngang)	2018.06.19 05:33:47											
+60	60	P	Erro se sintaxe no IDoc (entrada)	2018.06.19 05:33:47											
+60	60	Q	Chyba syntaxe v IDOC (vstup)	2018.06.19 05:33:47											
+60	60	R	Синтаксическая ошибка в IDoc (вход)	2018.06.19 05:33:47											
+60	60	S	Error de sintaxis en IDOC (entrada)	2018.06.19 05:33:47											
+60	60	T	IDoc'ta sözdizim hatası (giriş)	2018.06.19 05:33:47											
+60	60	U	IDOCissa syntaksivirhe (saapuvat)	2018.06.19 05:33:47											
+60	60	V	Syntaxfel i IDOC (ingång)	2018.06.19 05:33:47											
+60	60	W	Грешка при синтактична проверка на IDoc (входящ)	2018.06.19 05:33:47											
+60	60	X	IDOC sintaksės patikros klaida (gavimas)	2018.06.19 05:33:47											
+60	60	Y	IDoc sintakses pārbaudes laikā radās kļūda (ienākošā)	2018.06.19 05:33:47											
+60	60	c	Error de sintaxi a l'IDoc (entrada)	2018.06.19 05:33:47											
+60	60	d	Greška pri proveri sintakse IDoc (ulaz)	2018.06.19 05:33:47											
+60	60	늑	TAIS TEDS2*+	2018.06.19 05:33:47											
+60	60	닱	[Ŝŷŋţąχƒēĥĺēŗ∙įɱ∙ĬĎŏċ∙(Ĕįŋğąŋğ)∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙]	2018.06.19 05:33:47											
+60	60	묩	IDOC के सिंटैक्स जांच के दौरान त्रुटि (इनबाउंड)	2018.06.19 05:33:47											
+60	60	뱋	IDoc синтаксистік тексеруі кезіндегі қате (кіріс)	2018.06.19 05:33:47											
+60	60	쁩	Lỗi khi kiểm tra cú pháp của IDoc (đầu vào)	2018.06.19 05:33:47											
+61	61	1	尽管有语法错误仍处理 (内向)	2018.06.19 05:33:47											
+61	61	2	ประมวลผลแม้ว่าจะมีข้อผิดพลาดทางไวยากรณ์ (ที่เข้ามา)	2018.06.19 05:33:47											
+61	61	3	구문 오류에도 불구하고 처리(인바운드)	2018.06.19 05:33:47											
+61	61	4	Prelucrare în ciuda erorii de sintaxă (intrare)	2018.06.19 05:33:47											
+61	61	5	Nadaljna obdelava kljub napaki sintakse (vhod)	2018.06.19 05:33:47											
+61	61	6	Obrada unatoč sintaktičke greške (ulazna)	2018.06.19 05:33:47											
+61	61	7	Memproses walaupun ralat sintaks (masuk)	2018.06.19 05:33:47											
+61	61	8	Обробка незважаючи на синтаксичні помилки (вхідна)	2018.06.19 05:33:47											
+61	61	9	Töötlemine sõltumata süntaksiveast (sissetulevad)	2018.06.19 05:33:47											
+61	61	A	معالجة بالرغم من خطأ بناء الجملة (للداخل)	2018.06.19 05:33:47											
+61	61	B	עיבוד למרות שגיאת תחביר - נכנס	2018.06.19 05:33:47											
+61	61	C	Další zpracování i přes chybu syntaxe (vstup)	2018.06.19 05:33:47											
+61	61	D	Weiterverarbeitung trotz Syntaxfehler (Eingang)	2018.06.19 05:33:47											
+61	61	E	Processing despite syntax error (inbound)	2018.06.19 05:33:47											
+61	61	F	Poursuite du traitement malgré err. de syntaxe (réception)	2018.06.19 05:33:47											
+61	61	G	Επεξεργασία παρά το συντακτικό λάθος (inbound)	2018.06.19 05:33:47											
+61	61	H	Továbbfeldolgozás a szintaktikai hiba ellenére (érk.dok.)	2018.06.19 05:33:47											
+61	61	I	Continua l'elab. nonost. err. di sint. (entrata)	2018.06.19 05:33:47											
+61	61	J	構文エラーがある場合も処理 (受信)	2018.06.19 05:33:47											
+61	61	K	Viderebehandling trods syntaksfejl (indgang)	2018.06.19 05:33:47											
+61	61	L	Dalsze przetwarzanie pomimo błędów składni (wejście)	2018.06.19 05:33:47											
+61	61	M	不管語法錯誤，仍照常處理(內傳)	2018.06.19 05:33:47											
+61	61	N	Verdere verwerking ondanks syntaxerror (ingang)	2018.06.19 05:33:47											
+61	61	O	Fortsett behandling på tross av syntaksfeil (inngang)	2018.06.19 05:33:47											
+61	61	P	Contin.procmto.apesar erro sintaxe (entrada)	2018.06.19 05:33:47											
+61	61	Q	Ďalšie spracovanie napriek chybe syntaxe(vstup)	2018.06.19 05:33:47											
+61	61	R	Дальнейшая обработка несмотря на синтакс. ошибку (вход)	2018.06.19 05:33:47											
+61	61	S	Continuar el proceso a pesar de error de sintaxis (entrada)	2018.06.19 05:33:47											
+61	61	T	Sözdizim hatasına rağmen işlemeye devam (giriş)	2018.06.19 05:33:47											
+61	61	U	Jatkokäsittely syntaksivirheestä huolimatta (saapuvat)	2018.06.19 05:33:47											
+61	61	V	Fortsatt bearbetning trots syntaxfel (ingång)	2018.06.19 05:33:47											
+61	61	W	Обработка въпреки синтактична грешка (входящ)	2018.06.19 05:33:47											
+61	61	X	Apdorojimas nepaisant sintaksės klaidos (gavimas)	2018.06.19 05:33:47											
+61	61	Y	Apstrāde tiek turpināta, neskat. uz sintakses kļūdu (ienāk.)	2018.06.19 05:33:47											
+61	61	c	Continuar el process.malgrat l'error de sintaxi (entrada)	2018.06.19 05:33:47											
+61	61	d	Obrada uprkos sintaksičke greške (ulaz)	2018.06.19 05:33:47											
+61	61	늑	TAIS TEDS2*+	2018.06.19 05:33:47											
+61	61	닱	[Ŵēįţēŗʋēŗąŗƃēįţűŋğ∙ţŗŏţž∙Ŝŷŋţąχƒēĥĺēŗ∙(Ĕįŋğąŋğ)∙∙∙∙∙∙∙∙∙∙∙]	2018.06.19 05:33:47											
+61	61	묩	सिंटैक्स त्रुटि के बावजूद प्रोसेसिंग (इनबाउंड)	2018.06.19 05:33:47											
+61	61	뱋	Синтаксистік қатеге қарамай өңдеу (кіріс)	2018.06.19 05:33:47											
+61	61	쁩	Xử lý bất chấp lỗi cú pháp (đầu vào)	2018.06.19 05:33:47											
+62	62	1	发送到应用程序的 IDoc	2018.06.19 05:33:47											
+62	62	2	ส่งผ่าน IDoc ไปยังระบบงาน	2018.06.19 05:33:47											
+62	62	3	어플리케이션으로 IDoc 전달	2018.06.19 05:33:47											
+62	62	4	IDoc trecut la aplicaţie	2018.06.19 05:33:47											
+62	62	5	Prenos IDoca v aplikacijo	2018.06.19 05:33:47											
+62	62	6	PDok proslijeđen u aplikaciju	2018.06.19 05:33:47											
+62	62	7	IDoc dihantar ke aplikasi	2018.06.19 05:33:47											
+62	62	8	IDoc перенесений до застосунку	2018.06.19 05:33:47											
+62	62	9	IDoc on rakendusse edastatud	2018.06.19 05:33:47											
+62	62	A	IDoc الممررة للتطبيق	2018.06.19 05:33:47											
+62	62	B	IDoc הועבר ליישום	2018.06.19 05:33:47											
+62	62	C	Předání IDOC aplikaci	2018.06.19 05:33:47											
+62	62	D	IDoc an Anwendung übergeben	2018.06.19 05:33:47											
+62	62	E	IDoc passed to application	2018.06.19 05:33:47											
+62	62	F	IDOC transmis à l'application	2018.06.19 05:33:47											
+62	62	G	IDoc περασμ.σε εφαρμογή	2018.06.19 05:33:47											
+62	62	H	IDoc átadása az alkalmazásnak	2018.06.19 05:33:47											
+62	62	I	Trasferire IDoc a applicazione	2018.06.19 05:33:47											
+62	62	J	IDOC へのアプリケーション受渡し完了	2018.06.19 05:33:47											
+62	62	K	Overfør IDoc til applikation	2018.06.19 05:33:47											
+62	62	L	Transfer IDoc do aplikacji	2018.06.19 05:33:47											
+62	62	M	IDoc 傳送到應用程式	2018.06.19 05:33:47											
+62	62	N	IDoc aan applicatie doorgegeven	2018.06.19 05:33:47											
+62	62	O	IDOC overført til applikasjonen	2018.06.19 05:33:47											
+62	62	P	Transferir IDoc para a aplicação	2018.06.19 05:33:47											
+62	62	Q	Odovzdanie IDOC do aplikácie	2018.06.19 05:33:47											
+62	62	R	Перенести IDoc в приложение	2018.06.19 05:33:47											
+62	62	S	Traspasar IDOC a aplicación	2018.06.19 05:33:47											
+62	62	T	Uygulamaya IDoc kopyala	2018.06.19 05:33:47											
+62	62	U	Siirrä IDOC sovellukseen	2018.06.19 05:33:47											
+62	62	V	IDOC överfört till applikation	2018.06.19 05:33:47											
+62	62	W	IDoc прехвърлен към приложение	2018.06.19 05:33:47											
+62	62	X	„IDoc“ perduotas taikomajai programai	2018.06.19 05:33:47											
+62	62	Y	IDoc nodots lietojumprogrammai	2018.06.19 05:33:47											
+62	62	c	Transferir IDoc a aplicació	2018.06.19 05:33:47											
+62	62	d	IDoc prosleđen u aplikaciju	2018.06.19 05:33:47											
+62	62	늑	TAIS TEDS2*+	2018.06.19 05:33:47											
+62	62	닱	[ĬĎŏċ∙ąŋ∙Āŋŵēŋƌűŋğ∙üƃēŗğēƃēŋ∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙]	2018.06.19 05:33:47											
+62	62	묩	IDoc एप्लिकेशन को पास किया गया	2018.06.19 05:33:47											
+62	62	뱋	IDoc қолданбаға жіберілді	2018.06.19 05:33:47											
+62	62	쁩	IDoc đã qua ứng dụng	2018.06.19 05:33:47											
+63	63	1	传送 IDoc 给应用程序时错误	2018.06.19 05:33:47											
+63	63	2	เกิดข้อผิดพลาดขณะส่ง IDoc ไปยังระบบงาน	2018.06.19 05:33:47											
+63	63	3	어플리케이션으로 IDoc를 전달하는 동안 오류 발생	2018.06.19 05:33:47											
+63	63	4	Eroare la trecere IDoc la aplicaţie	2018.06.19 05:33:47											
+63	63	5	Napaka pri prenosu IDoca v aplikacijo	2018.06.19 05:33:47											
+63	63	6	Greška kod proslijeđivanja IDoc-a na aplikaciju	2018.06.19 05:33:47											
+63	63	7	Ralat menghantar IDoc ke aplikasi	2018.06.19 05:33:47											
+63	63	8	Помилка під час перенесення IDoc до застосунку	2018.06.19 05:33:47											
+63	63	9	Tõrge IDoci edastamisel rakendusse	2018.06.19 05:33:47											
+63	63	A	خطأ عند نقل المستند الوسيط إلى التطبيق	2018.06.19 05:33:47											
+63	63	B	שגיאה בהעברת מסמך ביניים ליישום	2018.06.19 05:33:47											
+63	63	C	Chyba při předání IDOC aplikaci	2018.06.19 05:33:47											
+63	63	D	Fehler bei IDoc-Übergabe an die Anwendung	2018.06.19 05:33:47											
+63	63	E	Error passing IDoc to application	2018.06.19 05:33:47											
+63	63	F	Erreur lors de transfert IDOC à l'application	2018.06.19 05:33:47											
+63	63	G	Λάθος μεταβίβαση IDoc σε εφαρμογή	2018.06.19 05:33:47											
+63	63	H	Hiba az IDoc átadásánál az alkalmazásnak	2018.06.19 05:33:47											
+63	63	I	Errore durante trasf. IDoc a applicazione	2018.06.19 05:33:47											
+63	63	J	アプリケーションへの IDOC 受渡し時のエラー	2018.06.19 05:33:47											
+63	63	K	Fejl ved IDoc-overførsel til applikation	2018.06.19 05:33:47											
+63	63	L	Błąd podczas transferu IDoc do aplikacji	2018.06.19 05:33:47											
+63	63	M	傳輸 IDoc 至應用程式時發生錯誤	2018.06.19 05:33:47											
+63	63	N	Fout bij IDoc-doorgifte aan applicatie	2018.06.19 05:33:47											
+63	63	O	Feil ved IDOC-overføring til applikasjonen	2018.06.19 05:33:47											
+63	63	P	Erro na transferência de IDoc para a aplicação	2018.06.19 05:33:47											
+63	63	Q	Chyba pri odovzdaní IDOC do aplikácie	2018.06.19 05:33:47											
+63	63	R	Ошибка при переносе IDoc в приложение	2018.06.19 05:33:47											
+63	63	S	Error al traspasar IDOC a la aplicación	2018.06.19 05:33:47											
+63	63	T	Uygulamaya IDoc aktarımı sırasında hata	2018.06.19 05:33:47											
+63	63	U	Virhe IDOCin siirrossa sovellukseen	2018.06.19 05:33:47											
+63	63	V	Fel vid IDOC-överföring till applikation	2018.06.19 05:33:47											
+63	63	W	Грешка при прехвърляне на IDoc към приложение	2018.06.19 05:33:47											
+63	63	X	IDOC perdavimo į taikomąją programą klaida	2018.06.19 05:33:47											
+63	63	Y	IDoc pārsūtot uz lietojumprogrammu, radās kļūda	2018.06.19 05:33:47											
+63	63	c	Error en la transferència d'IDoc a l'aplicació	2018.06.19 05:33:47											
+63	63	d	Greška pri predaji IDoc aplikaciji	2018.06.19 05:33:47											
+63	63	늑	TAIS TEDS2*+	2018.06.19 05:33:47											
+63	63	닱	[Ƒēĥĺēŗ∙ƃēį∙ĬĎŏċ-Üƃēŗğąƃē∙ąŋ∙ƌįē∙Āŋŵēŋƌűŋğ∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙]	2018.06.19 05:33:47											
+63	63	묩	एप्लिकेशन पर IDoc पास करने में त्रुटि	2018.06.19 05:33:47											
+63	63	뱋	IDoc қолданбаға жіберу кезіндегі қате	2018.06.19 05:33:47											
+63	63	쁩	Lỗi truyền IDoc tới ứng dụng	2018.06.19 05:33:47											
+64	64	1	IDoc 准备传递到应用程序	2018.06.19 05:33:47											
+64	64	2	IDoc พร้อมที่ส่งผ่านไปยังแอพพลิเคชัน	2018.06.19 05:33:47											
+64	64	3	IDoc을 어플리케이션에 전달할 준비 완료	2018.06.19 05:33:47											
+64	64	4	IDoc gata de a fi transmis la aplicaţie	2018.06.19 05:33:47											
+64	64	5	IDoc je pripravljen za prenos v aplikacijo	2018.06.19 05:33:47											
+64	64	6	IDoc spreman za prijenos u aplikaciju	2018.06.19 05:33:47											
+64	64	7	IDoc sedia untuk dipindahkan ke aplikasi	2018.06.19 05:33:47											
+64	64	8	IDoc готовий до передачі до застосунку	2018.06.19 05:33:47											
+64	64	9	IDoc on rakendusse edastamiseks valmis	2018.06.19 05:33:47											
+64	64	A	IDoc جاهز للتمرير إلى التطبيق	2018.06.19 05:33:47											
+64	64	B	IDoc מוכן להעברה ליישום	2018.06.19 05:33:47											
+64	64	C	IDOC je připraven k předání aplikaci	2018.06.19 05:33:47											
+64	64	D	IDoc ist übergabebereit an die Anwendung	2018.06.19 05:33:47											
+64	64	E	IDoc ready to be passed to application	2018.06.19 05:33:47											
+64	64	F	IDOC est prêt à être transmis à l'application	2018.06.19 05:33:47											
+64	64	G	IDoc έτοιμο προς μεταφορά σε εφαρμογή	2018.06.19 05:33:47											
+64	64	H	Az IDoc kész az alkalmazásba történő átadásra	2018.06.19 05:33:47											
+64	64	I	IDoc trasferito a applicazione	2018.06.19 05:33:47											
+64	64	J	アプリケーションへの IDoc 転送準備完了	2018.06.19 05:33:47											
+64	64	K	IDoc er klar til at blive overført til applikation	2018.06.19 05:33:47											
+64	64	L	IDoc jest gotowy do transferu do aplikacji	2018.06.19 05:33:47											
+64	64	M	IDoc 已準備好移轉至應用程式	2018.06.19 05:33:47											
+64	64	N	IDoc kan aan applicatie worden doorgegeven	2018.06.19 05:33:47											
+64	64	O	IDOC er klar for overføring til applikasjonen	2018.06.19 05:33:47											
+64	64	P	IDoc pronto para transferência para aplicação	2018.06.19 05:33:47											
+64	64	Q	IDOC je prepracovaný na aplikáciu	2018.06.19 05:33:47											
+64	64	R	IDoc отредактирован в приложение.	2018.06.19 05:33:47											
+64	64	S	IDOC listo para traspaso a la aplicación	2018.06.19 05:33:47											
+64	64	T	IDoc uygulamaya aktarıldı	2018.06.19 05:33:47											
+64	64	U	IDOC on valmiina siirrettäväksi sovellukseen	2018.06.19 05:33:47											
+64	64	V	IDOC kan överföras till applikation	2018.06.19 05:33:47											
+64	64	W	IDoc е готов за предаване към приложение	2018.06.19 05:33:47											
+64	64	X	IDOC paruoštas perkelti į taikomąją programą	2018.06.19 05:33:47											
+64	64	Y	IDoc ir gatavs nodošanai lietojumprogrammai	2018.06.19 05:33:47											
+64	64	c	L'IDoc està llest per ser transferit a l'aplicació	2018.06.19 05:33:47											
+64	64	d	IDoc spreman za prosleđivanje u aplikaciju	2018.06.19 05:33:47											
+64	64	늑	TAIS TEDS2*+	2018.06.19 05:33:47											
+64	64	닱	[ĬĎŏċ∙įşţ∙üƃēŗğąƃēƃēŗēįţ∙ąŋ∙ƌįē∙Āŋŵēŋƌűŋğ∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙]	2018.06.19 05:33:47											
+64	64	묩	एप्लिकेशन पर पास करने के लिए IDOC तैयार है	2018.06.19 05:33:47											
+64	64	뱋	IDoc қолданбаға тасымалдауға дайын	2018.06.19 05:33:47											
+64	64	쁩	IDoc sẵn sàng được chuyển cho ứng dụng	2018.06.19 05:33:47											
+65	65	1	ALE 服务中的错误	2018.06.19 05:33:47											
+65	65	2	เกิดข้อผิดพลาดการบริการ ALE	2018.06.19 05:33:47											
+65	65	3	ALE 서비스에서 오류 발생	2018.06.19 05:33:47											
+65	65	4	Eroare în serviciu ALA	2018.06.19 05:33:47											
+65	65	5	Napaka v ALE-storitvi	2018.06.19 05:33:47											
+65	65	6	Greška u ALE usluzi	2018.06.19 05:33:47											
+65	65	7	Ralat dalam perkhidmatan ALE	2018.06.19 05:33:47											
+65	65	8	Помилка у фукції ALE	2018.06.19 05:33:47											
+65	65	9	Tõrge ALE teenuses	2018.06.19 05:33:47											
+65	65	A	خطأ في خدمة ALE	2018.06.19 05:33:47											
+65	65	B	שגיאה בשירות ALE	2018.06.19 05:33:47											
+65	65	C	Chyba ve službě ALE	2018.06.19 05:33:47											
+65	65	D	Fehler im ALE-Dienst	2018.06.19 05:33:47											
+65	65	E	Error in ALE service	2018.06.19 05:33:47											
+65	65	F	Erreur dans le service ALE	2018.06.19 05:33:47											
+65	65	G	Λάθος σε υπηρεσία ALE	2018.06.19 05:33:47											
+65	65	H	Hiba az ALE-szolgálatban	2018.06.19 05:33:47											
+65	65	I	Errore nel servizio ALE	2018.06.19 05:33:47											
+65	65	J	ALE サービスのエラー	2018.06.19 05:33:47											
+65	65	K	Fejl i ALE-funktionalitet	2018.06.19 05:33:47											
+65	65	L	Błąd w obsłudze ALE	2018.06.19 05:33:47											
+65	65	M	ALE 服務中的錯誤	2018.06.19 05:33:47											
+65	65	N	Fout in ALE-service	2018.06.19 05:33:47											
+65	65	O	Feil i ALE-tjeneste	2018.06.19 05:33:47											
+65	65	P	Erro no serviço ALE	2018.06.19 05:33:47											
+65	65	Q	Chyba v službe ALE	2018.06.19 05:33:47											
+65	65	R	Ошибка в ALE-службе	2018.06.19 05:33:47											
+65	65	S	Error en servicio ALE	2018.06.19 05:33:47											
+65	65	T	ALE hizmetinde hata	2018.06.19 05:33:47											
+65	65	U	Virhe ALE-palvelussa	2018.06.19 05:33:47											
+65	65	V	Fel i ALE-tjänst	2018.06.19 05:33:47											
+65	65	W	Грешка при ALE услуга	2018.06.19 05:33:47											
+65	65	X	ALE paslaugos klaida	2018.06.19 05:33:47											
+65	65	Y	Kļūda ALE pakalpojumā	2018.06.19 05:33:47											
+65	65	c	Error en el servei ALE	2018.06.19 05:33:47											
+65	65	d	Greška u ALE usluzi	2018.06.19 05:33:47											
+65	65	늑	TAIS TEDS2*+	2018.06.19 05:33:47											
+65	65	닱	[Ƒēĥĺēŗ∙įɱ∙ĀĻĔ-Ďįēŋşţ∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙]	2018.06.19 05:33:47											
+65	65	묩	ALE सेवा में त्रुटि	2018.06.19 05:33:47											
+65	65	뱋	ALE қызметіндегі қате	2018.06.19 05:33:47											
+65	65	쁩	Lỗi trong dịch vụ ALE	2018.06.19 05:33:47											
+66	66	1	IDoc 正在等待前一 IDoc (序列化)	2018.06.19 05:33:47											
+66	66	2	IDoc กำลังรอ IDoc ก่อนหน้า (การให้ลำดับ)	2018.06.19 05:33:47											
+66	66	3	선행 IDoc에 대해 대기중인 IDoc(일련 번호 지정)	2018.06.19 05:33:47											
+66	66	4	IDoc aşteaptă IDoc precedent (serializare)	2018.06.19 05:33:47											
+66	66	5	IDoc čaka na IDoc-predhodnika (serializacija)	2018.06.19 05:33:47											
+66	66	6	IDoc čeka prethodni IDoc (serijalizacija)	2018.06.19 05:33:47											
+66	66	7	IDoc menunggu untuk pendahulu IDoc (penyirian)	2018.06.19 05:33:47											
+66	66	8	IDoc очікує на попередника IDoc (серіалізація)	2018.06.19 05:33:47											
+66	66	9	IDoc ootab eelnevat IDoci (serialiseerimine)	2018.06.19 05:33:47											
+66	66	A	IDoc ينتظر IDoc السابق (التسلسل)	2018.06.19 05:33:47											
+66	66	B	IDOC ממתין ל- IDOC קודם - סדרתיות	2018.06.19 05:33:47											
+66	66	C	IDoc čeká na předch.IDoc (serializace)	2018.06.19 05:33:47											
+66	66	D	IDoc wartet auf Vorgänger-IDoc (Serialisierung)	2018.06.19 05:33:47											
+66	66	E	IDoc is waiting for predecessor IDoc (serialization)	2018.06.19 05:33:47											
+66	66	F	IDoc attend l'IDoc prédécesseur (sérialisation)	2018.06.19 05:33:47											
+66	66	G	IDoc σε αναμονή για IDoc προκάτοχου (σειριοποίηση)	2018.06.19 05:33:47											
+66	66	H	Az IDoc a megelőző IDoc-ra vár (sorozatosítás)	2018.06.19 05:33:47											
+66	66	I	IDoc attende IDoc precedente (serializzazione)	2018.06.19 05:33:47											
+66	66	J	IDOC は先行 IDOC を待機中 (整流化)	2018.06.19 05:33:47											
+66	66	K	IDoc venter på foregående IDoc (serienummerering)	2018.06.19 05:33:47											
+66	66	L	IDoc oczekuje na poprzednika (szeregowanie)	2018.06.19 05:33:47											
+66	66	M	IDoc 在等待先前請求 IDoc ﹝序列化﹞	2018.06.19 05:33:47											
+66	66	N	IDoc wacht op voorganger-IDoc (serialisering)	2018.06.19 05:33:47											
+66	66	O	IDOC venter på foregående IDOC (serienummerering)	2018.06.19 05:33:47											
+66	66	P	IDoc espera por IDoc antecedente (serialização)	2018.06.19 05:33:47											
+66	66	Q	IDoc čaká na predch.IDoc (serializácia)	2018.06.19 05:33:47											
+66	66	R	IDOC ожидает предшествующего IDOC (сериализация)	2018.06.19 05:33:47											
+66	66	S	IDOC en espera del IDOC predecesor (serialización)	2018.06.19 05:33:47											
+66	66	T	IDoc önceki IDoc'u bekliyor (serileştirme)	2018.06.19 05:33:47											
+66	66	U	IDOC odottaa edeltävää IDOCia (sarjanumerointi)	2018.06.19 05:33:47											
+66	66	V	IDOC väntar på föreg.-IDOC (serienumrering)	2018.06.19 05:33:47											
+66	66	W	IDoc чака за предшестващ IDoc (сериализация)	2018.06.19 05:33:47											
+66	66	X	IDOC laukia pirmtako IDOC (keitimas į nuosekliąją formą)	2018.06.19 05:33:47											
+66	66	Y	IDoc gaida IDoc priekšteci (serializēšana)	2018.06.19 05:33:47											
+66	66	c	L'IDoc espera l'IDoc predecessor (serialització)	2018.06.19 05:33:47											
+66	66	d	IDoc čeka IDoc prethodnika (serijalizacija)	2018.06.19 05:33:47											
+66	66	늑	TAIS TEDS2*+	2018.06.19 05:33:47											
+66	66	닱	[ĬĎŏċ∙ŵąŗţēţ∙ąűƒ∙Ʋŏŗğäŋğēŗ-ĬĎŏċ∙(Ŝēŗįąĺįşįēŗűŋğ)∙∙∙∙∙∙∙∙∙∙∙]	2018.06.19 05:33:47											
+66	66	묩	IDoc पूर्ववर्ती IDoc के लिए प्रतीक्षा कर रहा है (क्रमांकन)	2018.06.19 05:33:47											
+66	66	뱋	IDoc - алдыңғы IDoc әрекетін күтуде (сериялау)	2018.06.19 05:33:47											
+66	66	쁩	Idoc đang đợi IDoc trước (Sự nối tiếp)	2018.06.19 05:33:47											
+67	67	1	没有使用	2018.06.19 05:33:47											
+67	67	2	ไม่มีการใช้	2018.06.19 05:33:47											
+67	67	3	사용하지 않음	2018.06.19 05:33:47											
+67	67	4	Neutilizat	2018.06.19 05:33:47											
+67	67	5	Ni uporabljeno	2018.06.19 05:33:47											
+67	67	6	Ne koristi se	2018.06.19 05:33:47											
+67	67	7	Tidak digunakan	2018.06.19 05:33:47											
+67	67	8	Не використовується	2018.06.19 05:33:47											
+67	67	9	Ei kasutata	2018.06.19 05:33:47											
+67	67	A	غير مستخدم	2018.06.19 05:33:47											
+67	67	B	לא בשימוש	2018.06.19 05:33:47											
+67	67	C	Nepoužívá se	2018.06.19 05:33:47											
+67	67	D	Nicht verwendet	2018.06.19 05:33:47											
+67	67	E	Not used	2018.06.19 05:33:47											
+67	67	F	Non utilisé	2018.06.19 05:33:47											
+67	67	G	Μη χρησιμοποιημένο	2018.06.19 05:33:47											
+67	67	H	Használaton kívül	2018.06.19 05:33:47											
+67	67	I	Non utilizzato	2018.06.19 05:33:47											
+67	67	J	不使用	2018.06.19 05:33:47											
+67	67	K	Anvendes ikke	2018.06.19 05:33:47											
+67	67	L	Nieużywane	2018.06.19 05:33:47											
+67	67	M	未使用	2018.06.19 05:33:47											
+67	67	N	Niet gebruikt	2018.06.19 05:33:47											
+67	67	O	Ikke brukt	2018.06.19 05:33:47											
+67	67	P	Não utilizado	2018.06.19 05:33:47											
+67	67	Q	Nepoužíva sa	2018.06.19 05:33:47											
+67	67	R	Не используется	2018.06.19 05:33:47											
+67	67	S	No utilizado	2018.06.19 05:33:47											
+67	67	T	Kullanılmıyor	2018.06.19 05:33:47											
+67	67	U	Ei käytetty	2018.06.19 05:33:47											
+67	67	V	Används inte	2018.06.19 05:33:47											
+67	67	W	Неизползван	2018.06.19 05:33:47											
+67	67	X	Nenaudojama	2018.06.19 05:33:47											
+67	67	Y	Nav izmantots	2018.06.19 05:33:47											
+67	67	c	No utilitzat	2018.06.19 05:33:47											
+67	67	d	Nije u upotrebi	2018.06.19 05:33:47											
+67	67	늑	TAIS TEDS2*+	2018.06.19 05:33:47											
+67	67	닱	[Ńįċĥţ∙ʋēŗŵēŋƌēţ∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙]	2018.06.19 05:33:47											
+67	67	묩	अप्रयुक्त	2018.06.19 05:33:47											
+67	67	뱋	Пайдаланылмайды	2018.06.19 05:33:47											
+67	67	쁩	Ko sử dụng	2018.06.19 05:33:47											
+68	68	1	错误 - 未进一步处理	2018.06.19 05:33:47											
+68	68	2	ผิดพลาด - ไม่มีการประมวลผลต่อ	2018.06.19 05:33:47											
+68	68	3	오류 - 추가 처리하지 않음	2018.06.19 05:33:47											
+68	68	4	Eroare - nici o prelucrare următoare	2018.06.19 05:33:47											
+68	68	5	Napaka, ni nadaljnje obdelave	2018.06.19 05:33:47											
+68	68	6	Greška - nema daljnje obrade	2018.06.19 05:33:47											
+68	68	7	Ralat - tiada pemprosesan lanjutan	2018.06.19 05:33:47											
+68	68	8	Помилка - без подальшого оброблення	2018.06.19 05:33:47											
+68	68	9	Tõrge – edasi ei saa töödelda	2018.06.19 05:33:47											
+68	68	A	خطأ - لا معالجة إضافية	2018.06.19 05:33:47											
+68	68	B	שגיאה - אין עיבוד נוסף	2018.06.19 05:33:47											
+68	68	C	Chyba, bez dalšího zpracování	2018.06.19 05:33:47											
+68	68	D	Fehler, keine weitere Bearbeitung	2018.06.19 05:33:47											
+68	68	E	Error - no further processing	2018.06.19 05:33:47											
+68	68	F	Erreur, impossible de poursuivre le traitement	2018.06.19 05:33:47											
+68	68	G	Λάθος - καμία ακόλουθη επεξεργασία	2018.06.19 05:33:47											
+68	68	H	Hiba, nincs további feldolgozás	2018.06.19 05:33:47											
+68	68	I	Errore, ulteriore elab. impossibile	2018.06.19 05:33:47											
+68	68	J	エラー - 以降の処理中止	2018.06.19 05:33:47											
+68	68	K	Fejl, ingen yderligere behandling	2018.06.19 05:33:47											
+68	68	L	Błąd, bez dalszej edycji	2018.06.19 05:33:47											
+68	68	M	錯誤 - 無進一步處理	2018.06.19 05:33:47											
+68	68	N	Fout, geen verdere bewerking	2018.06.19 05:33:47											
+68	68	O	Feil - ingen videre behandling	2018.06.19 05:33:47											
+68	68	P	Erro, sem processamento	2018.06.19 05:33:47											
+68	68	Q	Chyba, bez ďalšieho spracovania	2018.06.19 05:33:47											
+68	68	R	Ошибка, обработка прерывается.	2018.06.19 05:33:47											
+68	68	S	Error, sin tratamiento posterior	2018.06.19 05:33:47											
+68	68	T	Hata, ek işleme yok	2018.06.19 05:33:47											
+68	68	U	Virhe, ei jatkokäsittelyä	2018.06.19 05:33:47											
+68	68	V	Fel, ingen ytterligare bearbetning	2018.06.19 05:33:47											
+68	68	W	Грешка - прекратяване на обработката	2018.06.19 05:33:47											
+68	68	X	Klaida – apdorojimas nebus tęsiamas	2018.06.19 05:33:47											
+68	68	Y	Kļūda - turpmāka apstrāde atcelta	2018.06.19 05:33:47											
+68	68	c	Error, cap més tractament	2018.06.19 05:33:47											
+68	68	d	Greška - nema dalje obrade	2018.06.19 05:33:47											
+68	68	늑	TAIS TEDS2*+	2018.06.19 05:33:47											
+68	68	닱	[Ƒēĥĺēŗ,∙ķēįŋē∙ŵēįţēŗē∙Ɓēąŗƃēįţűŋğ∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙]	2018.06.19 05:33:47											
+68	68	묩	त्रुटि - अधिक प्रोसेसिंग नहीं हो रहा है	2018.06.19 05:33:47											
+68	68	뱋	Қате - алдағы өңдеусіз	2018.06.19 05:33:47											
+68	68	쁩	Lỗi - không xử lý tiếp	2018.06.19 05:33:47											
+69	69	1	IDoc 已编辑	2018.06.19 05:33:47											
+69	69	2	IDoc ได้รับการแก้ไข	2018.06.19 05:33:47											
+69	69	3	IDoc를 편집했습니다.	2018.06.19 05:33:47											
+69	69	4	IDoc a fost editat	2018.06.19 05:33:47											
+69	69	5	IDoc je bil urejen	2018.06.19 05:33:47											
+69	69	6	IDoc uređen	2018.06.19 05:33:47											
+69	69	7	IDoc telah diedit	2018.06.19 05:33:47											
+69	69	8	IDoc було редаговано	2018.06.19 05:33:47											
+69	69	9	IDoci on redigeeritud	2018.06.19 05:33:47											
+69	69	A	تم تحرير المستند الوسيط	2018.06.19 05:33:47											
+69	69	B	מסמך ביניים נערך	2018.06.19 05:33:47											
+69	69	C	IDOC byl editován	2018.06.19 05:33:47											
+69	69	D	IDoc wurde editiert	2018.06.19 05:33:47											
+69	69	E	IDoc was edited	2018.06.19 05:33:47											
+69	69	F	IDOC a été édité	2018.06.19 05:33:47											
+69	69	G	IDoc επεξεργάστηκε	2018.06.19 05:33:47											
+69	69	H	IDoc editálva	2018.06.19 05:33:47											
+69	69	I	IDoc elaborato	2018.06.19 05:33:47											
+69	69	J	IDOC 編集済	2018.06.19 05:33:47											
+69	69	K	IDoc redigeret	2018.06.19 05:33:47											
+69	69	L	IDoc został wyedytowany	2018.06.19 05:33:47											
+69	69	M	已編輯 IDoc	2018.06.19 05:33:47											
+69	69	N	IDoc is bewerkt	2018.06.19 05:33:47											
+69	69	O	IDOC ble redigert	2018.06.19 05:33:47											
+69	69	P	IDoc foi editado	2018.06.19 05:33:47											
+69	69	Q	IDOC bol editovaný	2018.06.19 05:33:47											
+69	69	R	IDoc отредактирован.	2018.06.19 05:33:47											
+69	69	S	El IDOC se ha tratado	2018.06.19 05:33:47											
+69	69	T	IDoc düzenlendi	2018.06.19 05:33:47											
+69	69	U	IDOCia muokattu	2018.06.19 05:33:47											
+69	69	V	IDOC editerades	2018.06.19 05:33:47											
+69	69	W	IDoc е редактиран	2018.06.19 05:33:47											
+69	69	X	IDOC suredaguotas	2018.06.19 05:33:47											
+69	69	Y	IDoc ir rediģēts	2018.06.19 05:33:47											
+69	69	c	S'ha tractat l'IDoc	2018.06.19 05:33:47											
+69	69	d	IDoc je uređen	2018.06.19 05:33:47											
+69	69	늑	TAIS TEDS2*+	2018.06.19 05:33:47											
+69	69	닱	[ĬĎŏċ∙ŵűŗƌē∙ēƌįţįēŗţ∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙]	2018.06.19 05:33:47											
+69	69	묩	IDOC संपादित किया गया	2018.06.19 05:33:47											
+69	69	뱋	IDoc өңделді	2018.06.19 05:33:47											
+69	69	쁩	IDoc được biên tập	2018.06.19 05:33:47											
+70	70	1	被编辑的凭证原件	2018.06.19 05:33:47											
+70	70	2	ต้นฉบับของ IDoc ที่ได้รับการแก้ไข	2018.06.19 05:33:47											
+70	70	3	IDoc 원본을 편집했습니다.	2018.06.19 05:33:47											
+70	70	4	Original IDoc care a fost editat	2018.06.19 05:33:47											
+70	70	5	Original enega IDOc, ki je bil urejen	2018.06.19 05:33:47											
+70	70	6	Original IDoc-a koji je uređen	2018.06.19 05:33:47											
+70	70	7	Asal IDoc yang telah diedit	2018.06.19 05:33:47											
+70	70	8	Оригінал IDoc, який було редаговано	2018.06.19 05:33:47											
+70	70	9	Redigeeritud IDoci originaal	2018.06.19 05:33:47											
+70	70	A	الأصل من مستند وسيط تم تحريره	2018.06.19 05:33:47											
+70	70	B	מקור של מסמך ביניים שנערך	2018.06.19 05:33:47											
+70	70	C	Originál IDOC, který byl editován	2018.06.19 05:33:47											
+70	70	D	Original eines IDocs, welches editiert wurde	2018.06.19 05:33:47											
+70	70	E	Original of an IDoc which was edited	2018.06.19 05:33:47											
+70	70	F	Original d'un IDOC qui a été édité	2018.06.19 05:33:47											
+70	70	G	Πρότυπο του IDoc που επεξεργάστηκε	2018.06.19 05:33:47											
+70	70	H	Editált IDoc eredetije	2018.06.19 05:33:47											
+70	70	I	Originale di un IDoc elaborato	2018.06.19 05:33:47											
+70	70	J	編集済 IDOC のオリジナル	2018.06.19 05:33:47											
+70	70	K	Original for et redigeret IDoc	2018.06.19 05:33:47											
+70	70	L	Oryginał IDoc, który został wyedytowany	2018.06.19 05:33:47											
+70	70	M	已編輯 IDoc 的原始文件	2018.06.19 05:33:47											
+70	70	N	Origineel van een bewerkt IDoc	2018.06.19 05:33:47											
+70	70	O	IDOC-original som ble redigert	2018.06.19 05:33:47											
+70	70	P	Original de um IDoc que foi editado	2018.06.19 05:33:47											
+70	70	Q	Originál IDOC, ktorý bol editovaný	2018.06.19 05:33:47											
+70	70	R	Оригинал ПромежДокумента, который был отредактирован.	2018.06.19 05:33:47											
+70	70	S	Original de un IDOC que se ha tratado	2018.06.19 05:33:47											
+70	70	T	Düzenlenen IDoc'un aslı	2018.06.19 05:33:47											
+70	70	U	Muokatun IDOCin alkuperäisversio	2018.06.19 05:33:47											
+70	70	V	Original för ett IDOC som editerades	2018.06.19 05:33:47											
+70	70	W	Оригиналът на IDoc, който е редактиран	2018.06.19 05:33:47											
+70	70	X	Suredaguoto IDOC originalas	2018.06.19 05:33:47											
+70	70	Y	Rediģētā IDoc oriģināls	2018.06.19 05:33:47											
+70	70	c	Original d'un IDoc tractat	2018.06.19 05:33:47											
+70	70	d	Original IDoc koji je uređen	2018.06.19 05:33:47											
+70	70	늑	TAIS TEDS2*+	2018.06.19 05:33:47											
+70	70	닱	[Ŏŗįğįŋąĺ∙ēįŋēş∙ĬĎŏċş,∙ŵēĺċĥēş∙ēƌįţįēŗţ∙ŵűŗƌē∙∙∙∙∙∙∙∙∙∙∙∙∙∙]	2018.06.19 05:33:47											
+70	70	묩	IDOC का मूल जो संपादित किया गया था	2018.06.19 05:33:47											
+70	70	뱋	Өңделген IDoc түпнұсқасы	2018.06.19 05:33:47											
+70	70	쁩	Bản gốc của IDoc được biên tập	2018.06.19 05:33:47											
+71	71	1	文档 IDoc 重载	2018.06.19 05:33:47											
+71	71	2	IDoc ถูกโหลดใหม่เพื่อจัดเก็บ	2018.06.19 05:33:47											
+71	71	3	아카이브에서 IDoc를 다시 로드했습니다.	2018.06.19 05:33:47											
+71	71	4	IDoc reîncărcat din arhivă	2018.06.19 05:33:47											
+71	71	5	Ponovno nalaganje IDoca iz arhiva	2018.06.19 05:33:47											
+71	71	6	IDoc ponovno učitan iz arhive	2018.06.19 05:33:47											
+71	71	7	IDic dimuat semula dari arkib	2018.06.19 05:33:47											
+71	71	8	IDoc перезавантажений з архіву	2018.06.19 05:33:47											
+71	71	9	IDoc on arhiivist uuesti laaditud	2018.06.19 05:33:47											
+71	71	A	إعادة تحميل المستند الوسيط من الأرشيف	2018.06.19 05:33:47											
+71	71	B	מסמך ביניים נטען מחדש מתיוק	2018.06.19 05:33:47											
+71	71	C	IDOC zpět.natažen z archivu	2018.06.19 05:33:47											
+71	71	D	IDoc aus Archiv zurückgeladen	2018.06.19 05:33:47											
+71	71	E	IDoc reloaded from archive	2018.06.19 05:33:47											
+71	71	F	IDOC rechargé à partir des archives	2018.06.19 05:33:47											
+71	71	G	Επανάληψη φόρτωσης IDoc απο αρχειοθέτηση	2018.06.19 05:33:47											
+71	71	H	IDoc visszatöltése az archívumból	2018.06.19 05:33:47											
+71	71	I	Ricaricare IDoc dall'archivio	2018.06.19 05:33:47											
+71	71	J	IDOC ストレージから再ロード済	2018.06.19 05:33:47											
+71	71	K	Reload IDoc fra arkiv	2018.06.19 05:33:47											
+71	71	L	Ponowne załadowanie IDoc z archiwum	2018.06.19 05:33:47											
+71	71	M	自歸檔重新載入的 IDoc	2018.06.19 05:33:47											
+71	71	N	IDoc uit archief teruggeladen	2018.06.19 05:33:47											
+71	71	O	IDOC lastet tilbake fra arkiv	2018.06.19 05:33:47											
+71	71	P	IDoc de arquivo recarregado	2018.06.19 05:33:47											
+71	71	Q	IDOC spät.natiahnutý z archívu	2018.06.19 05:33:47											
+71	71	R	IDoc перезагружен из архива	2018.06.19 05:33:47											
+71	71	S	IDOC cargado nuevamente de archivo	2018.06.19 05:33:47											
+71	71	T	IDoc arşivden geri yüklendi	2018.06.19 05:33:47											
+71	71	U	IDOC ladattu uudelleen arkistosta	2018.06.19 05:33:47											
+71	71	V	IDOC återlagrat från arkiv	2018.06.19 05:33:47											
+71	71	W	IDoc повторно зареден от архива	2018.06.19 05:33:47											
+71	71	X	IDOC iš naujo įkeltas iš archyvo	2018.06.19 05:33:47											
+71	71	Y	IDoc atpakaļielādēts no arhīva	2018.06.19 05:33:47											
+71	71	c	IDoc carregat de nou des de l'arxiu	2018.06.19 05:33:47											
+71	71	d	IDoc ponovo učitan iz arhive	2018.06.19 05:33:47											
+71	71	늑	TAIS TEDS2*+	2018.06.19 05:33:47											
+71	71	닱	[ĬĎŏċ∙ąűş∙Āŗċĥįʋ∙žűŗüċķğēĺąƌēŋ∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙]	2018.06.19 05:33:47											
+71	71	묩	IDOC संग्रहण से रीलोड किया गया	2018.06.19 05:33:47											
+71	71	뱋	IDoc мұрағаттан қайта жүктелді	2018.06.19 05:33:47											
+71	71	쁩	IDoc tải lại từ lưu trữ	2018.06.19 05:33:47											
+72	72	1	未使用, 仅 R/2	2018.06.19 05:33:47											
+72	72	2	ไม่ใช้, เฉพาะ R/2	2018.06.19 05:33:47											
+72	72	3	사용하지 않음, R/2 전용	2018.06.19 05:33:47											
+72	72	4	Neutilizat, numai în R/2	2018.06.19 05:33:47											
+72	72	5	Neuporabljeno, samo R/2	2018.06.19 05:33:47											
+72	72	6	Nije u upotrebi, samo R/2	2018.06.19 05:33:47											
+72	72	7	Tidak digunakan, hanya R/2	2018.06.19 05:33:47											
+72	72	8	Не використовується, лише R/2	2018.06.19 05:33:47											
+72	72	9	Pole kasutusel, ainult R/2	2018.06.19 05:33:47											
+72	72	A	غير مستخدم، R/2 فقط	2018.06.19 05:33:47											
+72	72	B	לא בשימוש, R/2 בלבד	2018.06.19 05:33:47											
+72	72	C	Nepoužívá se, jen R/2	2018.06.19 05:33:47											
+72	72	D	Nicht verwendet, nur R/2	2018.06.19 05:33:47											
+72	72	E	Not used, only R/2	2018.06.19 05:33:47											
+72	72	F	Non utilisé, uniquement R/2	2018.06.19 05:33:47											
+72	72	G	Μη χρησιμοποιημένο, μόνο R/2	2018.06.19 05:33:47											
+72	72	H	Nem használják, csak R/2-ben	2018.06.19 05:33:47											
+72	72	I	Non utilizzato, solo in R/2	2018.06.19 05:33:47											
+72	72	J	不使用、R/2 のみ	2018.06.19 05:33:47											
+72	72	K	Anvendes ikke, kun R/2	2018.06.19 05:33:47											
+72	72	L	Nie stosowany, tylko R/2	2018.06.19 05:33:47											
+72	72	M	未使用，僅 R/2	2018.06.19 05:33:47											
+72	72	N	Niet gebruikt, alleen R/2	2018.06.19 05:33:47											
+72	72	O	Ikke brukt, bare R/2	2018.06.19 05:33:47											
+72	72	P	Não utilizar, apenas R/2	2018.06.19 05:33:47											
+72	72	Q	Nepoužíva sa, len R/2	2018.06.19 05:33:47											
+72	72	R	Не использовн., только R/2	2018.06.19 05:33:47											
+72	72	S	No utilizado, sólo R/2	2018.06.19 05:33:47											
+72	72	T	Kullanılmıyor,yalnızca R/2	2018.06.19 05:33:47											
+72	72	U	Ei käytössä, vain R/2	2018.06.19 05:33:47											
+72	72	V	Används ej, endast R/2	2018.06.19 05:33:47											
+72	72	W	Не се използва, само R/2	2018.06.19 05:33:47											
+72	72	X	Nenaudojama, tik R/2	2018.06.19 05:33:47											
+72	72	Y	Netiek izmantots, tikai R/2	2018.06.19 05:33:47											
+72	72	c	No utilitzat, només R/2	2018.06.19 05:33:47											
+72	72	d	Nije korišteno, samo R/2	2018.06.19 05:33:47											
+72	72	늑	TAIS TEDS2*+	2018.06.19 05:33:47											
+72	72	닱	[Ńįċĥţ∙ʋēŗŵēŋƌēţ,∙ŋűŗ∙Ř/2∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙]	2018.06.19 05:33:47											
+72	72	묩	उपयोग नहीं हुआ है, केवल R/2	2018.06.19 05:33:47											
+72	72	뱋	Пайдаланылмайды, тек R/2	2018.06.19 05:33:47											
+72	72	쁩	Không sử dụng, chỉ R/2	2018.06.19 05:33:47											
+73	73	1	IDoc 已存档	2018.06.19 05:33:47											
+73	73	2	แยกเก็บ IDoc แล้ว	2018.06.19 05:33:47											
+73	73	3	IDoc를 아카이브했습니다.	2018.06.19 05:33:47											
+73	73	4	IDoc arhivat	2018.06.19 05:33:47											
+73	73	5	IDoc arhiviran	2018.06.19 05:33:47											
+73	73	6	IDoc arhiviran	2018.06.19 05:33:47											
+73	73	7	IDoc diarkib	2018.06.19 05:33:47											
+73	73	8	IDoc заархівований	2018.06.19 05:33:47											
+73	73	9	IDoc on arhiivitud	2018.06.19 05:33:47											
+73	73	A	تمت أرشفة المستند الوسيط	2018.06.19 05:33:47											
+73	73	B	תיוק מסמך ביניים	2018.06.19 05:33:47											
+73	73	C	IDOC archivován	2018.06.19 05:33:47											
+73	73	D	IDoc archiviert	2018.06.19 05:33:47											
+73	73	E	IDoc archived	2018.06.19 05:33:47											
+73	73	F	IDOC archivé	2018.06.19 05:33:47											
+73	73	G	IDoc αρχειοθετημένο	2018.06.19 05:33:47											
+73	73	H	IDoc archiválva	2018.06.19 05:33:47											
+73	73	I	IDoc archiviato	2018.06.19 05:33:47											
+73	73	J	IDOC アーカイブ済	2018.06.19 05:33:47											
+73	73	K	IDoc arkiveret	2018.06.19 05:33:47											
+73	73	L	IDoc zarchiwizowany	2018.06.19 05:33:47											
+73	73	M	IDoc 已歸檔	2018.06.19 05:33:47											
+73	73	N	IDoc gearchiveerd	2018.06.19 05:33:47											
+73	73	O	IDOC arkivert	2018.06.19 05:33:47											
+73	73	P	IDoc arquivado	2018.06.19 05:33:47											
+73	73	Q	IDOC archivovaný	2018.06.19 05:33:47											
+73	73	R	IDoc архивирован.	2018.06.19 05:33:47											
+73	73	S	IDOC archivado	2018.06.19 05:33:47											
+73	73	T	IDoc arşivlendi	2018.06.19 05:33:47											
+73	73	U	IDOC arkistoitu	2018.06.19 05:33:47											
+73	73	V	IDOC arkiverat	2018.06.19 05:33:47											
+73	73	W	IDoc архивиран	2018.06.19 05:33:47											
+73	73	X	IDOC suarchyvuotas	2018.06.19 05:33:47											
+73	73	Y	IDoc ir arhivēts	2018.06.19 05:33:47											
+73	73	c	IDoc arxivat	2018.06.19 05:33:47											
+73	73	d	IDoc arhiviran	2018.06.19 05:33:47											
+73	73	늑	TAIS TEDS2*+	2018.06.19 05:33:47											
+73	73	닱	[ĬĎŏċ∙ąŗċĥįʋįēŗţ∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙]	2018.06.19 05:33:47											
+73	73	묩	IDoc संग्रहित किया गया	2018.06.19 05:33:47											
+73	73	뱋	IDoc мұрағатталды	2018.06.19 05:33:47											
+73	73	쁩	IDoc được lưu trữ	2018.06.19 05:33:47											
+74	74	1	IDoc 由测试事务创建	2018.06.19 05:33:47											
+74	74	2	IDoc ถูกสร้างโดยรายการทดสอบ	2018.06.19 05:33:47											
+74	74	3	테스트 트랜잭션에서 IDoc를 생성했습니다.	2018.06.19 05:33:47											
+74	74	4	IDoc a fost creat prin tranzacţie test	2018.06.19 05:33:47											
+74	74	5	IDoc generiran iz testne transakcije	2018.06.19 05:33:47											
+74	74	6	IDoc kreiran iz transakcije probe	2018.06.19 05:33:47											
+74	74	7	IDoc telah dicipta oleh transaksi ujian	2018.06.19 05:33:47											
+74	74	8	IDoc було створено транзакцією перевірки	2018.06.19 05:33:47											
+74	74	9	IDoc on loodud testtoimingu kaudu	2018.06.19 05:33:47											
+74	74	A	تم إنشاء المستند الوسيط بواسطة معاملة الاختبار	2018.06.19 05:33:47											
+74	74	B	IDoc נוצר ע"י פעולת מבחן	2018.06.19 05:33:47											
+74	74	C	IDoc byl vytvořen testovací transakcí	2018.06.19 05:33:47											
+74	74	D	IDoc aus Testtransaktion erzeugt	2018.06.19 05:33:47											
+74	74	E	IDoc was created by test transaction	2018.06.19 05:33:47											
+74	74	F	IDoc créé à partir d'une transaction test	2018.06.19 05:33:47											
+74	74	G	IDoc δημιουργήθηκε απο κίνηση δοκιμής	2018.06.19 05:33:47											
+74	74	H	IDoc teszttranzakcióból létrehozva	2018.06.19 05:33:47											
+74	74	I	IDoc creato dalla transazione test	2018.06.19 05:33:47											
+74	74	J	IDOC はテストトランザクションにより登録済	2018.06.19 05:33:47											
+74	74	K	IDoc oprettet fra testtransaktion	2018.06.19 05:33:47											
+74	74	L	Tworzenie IDoc z transakcji testowej	2018.06.19 05:33:47											
+74	74	M	IDoc 已由測試交易建立	2018.06.19 05:33:47											
+74	74	N	IDoc uit testtransactie gegenereerd	2018.06.19 05:33:47											
+74	74	O	IDoc opprettet fra testtransaksjon	2018.06.19 05:33:47											
+74	74	P	IDoc gerado da transação de teste	2018.06.19 05:33:47											
+74	74	Q	Idoc bol vytvorený testovacou transakciou	2018.06.19 05:33:47											
+74	74	R	IDoc создан из тестовой транзакции	2018.06.19 05:33:47											
+74	74	S	IDOC creado a partir de transacción de test	2018.06.19 05:33:47											
+74	74	T	IDoc deneme işleminden yaratıldı	2018.06.19 05:33:47											
+74	74	U	IDOC luotu testitapahtumasta	2018.06.19 05:33:47											
+74	74	V	IDOC genererat från testtranskation	2018.06.19 05:33:47											
+74	74	W	IDoc е създаден чрез тестова транзакция	2018.06.19 05:33:47											
+74	74	X	IDOC sukurtas naudojant testinę operaciją	2018.06.19 05:33:47											
+74	74	Y	IDoc ir izveidots testa transakcijā	2018.06.19 05:33:47											
+74	74	c	IDoc creat des de transacció prova	2018.06.19 05:33:47											
+74	74	d	IDoc je kreiran probnom transakcijom	2018.06.19 05:33:47											
+74	74	늑	TAIS TEDS2*+	2018.06.19 05:33:47											
+74	74	닱	[ĬĎŏċ∙ąűş∙Ţēşţţŗąŋşąķţįŏŋ∙ēŗžēűğţ∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙]	2018.06.19 05:33:47											
+74	74	묩	IDOC परीक्षण ट्रांज़ेक्शन द्वारा बनाया गया	2018.06.19 05:33:47											
+74	74	뱋	IDoc сынақ транзакциясы арқылы жасалды	2018.06.19 05:33:47											
+74	74	쁩	IDoc được tạo bởi giao dịch kiểm tra	2018.06.19 05:33:47											
+75	75	1	IDoc 处于内向队列中	2018.06.19 05:33:47											
+75	75	2	IDoc อยู่ในคิวขาเข้า	2018.06.19 05:33:47											
+75	75	3	IDoc가 인바운드 큐에 있습니다.	2018.06.19 05:33:47											
+75	75	4	IDoc se află în coada de aşt.intrare	2018.06.19 05:33:47											
+75	75	5	IDoc je v vhodni vrsti	2018.06.19 05:33:47											
+75	75	6	IDoc je u ulaznom redu	2018.06.19 05:33:47											
+75	75	7	IDoc dalam giliran masuk	2018.06.19 05:33:47											
+75	75	8	IDoc у вхідній черзі	2018.06.19 05:33:47											
+75	75	9	IDoc on sissetulevate järjekorras	2018.06.19 05:33:47											
+75	75	A	المستند الوسيط في صف انتظار وارد	2018.06.19 05:33:47											
+75	75	B	IDoc בתור נכנס	2018.06.19 05:33:47											
+75	75	C	IDoc je ve vstupní frontě	2018.06.19 05:33:47											
+75	75	D	IDoc ist in Eingangsqueue	2018.06.19 05:33:47											
+75	75	E	IDoc is in inbound queue	2018.06.19 05:33:47											
+75	75	F	L'IDoc se trouve dans la file d'attente entrante	2018.06.19 05:33:47											
+75	75	G	IDoc είναι σε εισερχόμενη σειρά	2018.06.19 05:33:47											
+75	75	H	Az IDoc a bemeneti queue-ban van	2018.06.19 05:33:47											
+75	75	I	IDoc nella coda in entrata	2018.06.19 05:33:47											
+75	75	J	受信キュー内の IDOC	2018.06.19 05:33:47											
+75	75	K	IDoc er i indgående kø	2018.06.19 05:33:47											
+75	75	L	IDoc w kolejce wejściowej	2018.06.19 05:33:47											
+75	75	M	IDoc 在內傳佇列中	2018.06.19 05:33:47											
+75	75	N	IDoc bevindt zich in ingangswachtrij	2018.06.19 05:33:47											
+75	75	O	IDOC er i inngangskø	2018.06.19 05:33:47											
+75	75	P	IDoc é uma fila de entrada	2018.06.19 05:33:47											
+75	75	Q	IDoc je vo vstupnej fronte	2018.06.19 05:33:47											
+75	75	R	IDoc во входящей очереди	2018.06.19 05:33:47											
+75	75	S	IDoc está en la cola de entrada	2018.06.19 05:33:47											
+75	75	T	IDoc giriş kuyruğunda	2018.06.19 05:33:47											
+75	75	U	IDOC on saapuvien jonossa	2018.06.19 05:33:47											
+75	75	V	IDOC är i ingångskö	2018.06.19 05:33:47											
+75	75	W	IDoc е входящ ред на изчакване	2018.06.19 05:33:47											
+75	75	X	IDOC yra gavimo eilėje	2018.06.19 05:33:47											
+75	75	Y	IDoc atrodas ienākošajā rindā	2018.06.19 05:33:47											
+75	75	c	IDOC es troba a la cua d'entrada	2018.06.19 05:33:47											
+75	75	d	IDoc je u ulaznom redu	2018.06.19 05:33:47											
+75	75	늑	TAIS TEDS2*+	2018.06.19 05:33:47											
+75	75	닱	[ĬĎŏċ∙įşţ∙įŋ∙Ĕįŋğąŋğşƣűēűē∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙]	2018.06.19 05:33:47											
+75	75	묩	IDoc इनबाउंड कतार में है	2018.06.19 05:33:47											
+75	75	뱋	IDoc кіріс кезегінде	2018.06.19 05:33:47											
+75	75	쁩	IDoc trong hàng đợi đầu vào	2018.06.19 05:33:47											

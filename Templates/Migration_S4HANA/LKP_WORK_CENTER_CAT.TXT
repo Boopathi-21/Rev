@@ -1,0 +1,10 @@
+LEGACY_WORK_CENTER_CAT	WORK_CENTER_CAT	APPL_TASK_LIST	WORK_CENTER_CAT_TXT_GBL	WORK_CENTER_CAT_TXT_LCL	DI_TIMESTAMP										
+0001	0001	I	Machine	Maschine	2017.07.06 08:56:49										
+0001	0001	P	Machine	Maschine	2017.07.06 08:56:49										
+0001	0001	Q	Machine	Maschine	2017.07.06 08:56:49										
+0005	0005	I	Plant Maintenance	Instandhaltung	2017.07.06 08:56:49										
+0005	0005	P	Plant Maintenance	Instandhaltung	2017.07.06 08:56:49										
+0005	0005	R	Plant Maintenance	Instandhaltung	2017.07.06 08:56:49										
+0007	0007	P	Production line	Fertigungslinie	2017.07.06 08:56:49										
+0007	0007	R	Production line	Fertigungslinie	2017.07.06 08:56:49										
+0008	0008	C	Processing unit	Prozesseinheit	2017.07.06 08:56:49										

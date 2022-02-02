@@ -1,0 +1,13 @@
+LEGACY_RECONCILIATION_ACCT	RECONCILIATION_ACCT	RECONCILIATION_ACCT_TXT_GBL	RECONCILIATION_ACCT_TXT_LCL	DI_TIMESTAMP											
+0012110000	0012110000	Other Down Payments Made Current Assets	Sonstige geleistete Anzahlungen auf Umlaufvermögen	2018.06.19 05:33:47											
+0012112000	0012112000	Down Payments made for Inventory	Geleistete Anzahlungen für Vorräte	2018.06.19 05:33:47											
+0012119000	0012119000	Down Payment Requests Vendors	Anzahlungsanforderungen Kreditoren	2018.06.19 05:33:47											
+0016010000	0016010000	Down Payments made on Tangible Assets w/o FI-AA	Geleistete Anzahlungen auf Sachanlagen	2018.06.19 05:33:47											
+0021100000	0021100000	Payables Domestic	Verbindlichkeiten Inland	2018.06.19 05:33:47											
+0021100100	0021100100	Payables Domestic - One Time Accounts	Verbindlichkeiten Inland - CpD-Konten	2018.06.19 05:33:47											
+0021105000	0021105000	Travel Expenses Payable	Auszuzahlende Reisekosten-Erstattungen	2018.06.19 05:33:47											
+0021200000	0021200000	Payables Foreign	Verbindlichkeiten Ausland	2018.06.19 05:33:47											
+0021200100	0021200100	Payables Foreign - One Time Accounts	Verbindlichkeiten Ausland - CpD-Konten	2018.06.19 05:33:47											
+0021300000	0021300000	Payables affiliated Companies	Verbindlichkeiten verbundene Unternehmen	2018.06.19 05:33:47											
+0021710000	0021710000	Amortization - Prepayments	Vorleistungen Amortisation	2018.06.19 05:33:47											
+0021720100	0021720100	Guarantees received from Vendors	Erhaltene Bürgschaften Kreditoren	2018.06.19 05:33:47											

@@ -1,0 +1,14 @@
+LEGACY_ITEM_CATEGORY	ITEM_CATEGORY	ITEM_CATEGORY_TXT_GBL	ITEM_CATEGORY_TXT_LCL	DI_TIMESTAMP											
+0	0	Standard	Standard	2017.07.06 08:56:49											
+1	1	Limit	Limit	2017.07.06 08:56:49											
+2	2	Consignment	Konsignation	2017.07.06 08:56:49											
+3	3	Subcontracting	Lohnbearbeitung	2017.07.06 08:56:49											
+4	4	Material unknown	Material unbekannt	2017.07.06 08:56:49											
+5	5	Third-party	Strecke	2017.07.06 08:56:49											
+6	6	Text	Text	2017.07.06 08:56:49											
+7	7	Stock transfer	Umlagerung	2017.07.06 08:56:49											
+8	8	Material group	Warengruppe	2017.07.06 08:56:49											
+9	9	Service	Dienstleistung	2017.07.06 08:56:49											
+A	A	Enhanced Limits	Erweitertes Limit	2017.07.06 08:56:49											
+C	C	Stock prov.by cust.	Kundenbeistellbest.	2017.07.06 08:56:49											
+P	P	Return.trans.pack.	Mehrwegtransp.-Verp.	2017.07.06 08:56:49											

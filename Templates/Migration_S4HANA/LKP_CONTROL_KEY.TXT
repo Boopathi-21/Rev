@@ -1,0 +1,11 @@
+LEGACY_CONTROL_KEY	CONTROL_KEY	APPLICATION_TASK_LIST	CONTROL_KEY_TXT_GBL	CONTROL_KEY_TXT_LCL	DI_TIMESTAMP										
+QM01	QM01	*	Insp. operation: Characteristics	Prüfvorgang: Merkmale	2017.07.06 08:56:49										
+YB99	YB99	*	Dummy operation for Phantoms - No Costs	Referenzvorgang für Dummies - kei. Kost.	2017.07.06 08:56:49										
+YBM1	YBM1	*	Plant maintenance - internal	Instandhaltung - eigen	2017.07.06 08:56:49										
+YBP1	YBP1	*	No Auto GR , Cost , Sched , Print , Conf	Ke. auto. WE, Kalk., Termin., Druck, Rü.	2017.07.06 08:56:49										
+YBP2	YBP2	*	No Gr , Cost, Print , Ext Proc, Can Conf	Ke. WE, Kalk., Druck, Fremdb., Rückm. m.	2017.07.06 08:56:49										
+YBP3	YBP3	*	Auto Gr,Cost,Print,Sched,Conf	Autom. WE, Kalk., Druck, Termin., Rückm.	2017.07.06 08:56:49										
+YBP4	YBP4	*	Process manufacturing milestone	Meilenstein der Prozessfertigung	2017.07.06 08:56:49										
+YBQ1	YBQ1	*	No GR, Cost, Print, Insp., Confirm	Kein WA, Kosten, Druck, Prüf., Bestätig.	2017.07.06 08:56:49										
+YBRW	YBRW	*	No Auto GR,Cost,Sched,Print ,Conf,Rew	Ke. aut. WE,Kalk.,Term.,Dru.,Rüc.,NaArb.	2017.07.06 08:56:49										
+YPI1	YPI1	*	Process manufacturing	Prozessfertigung	2017.07.06 08:56:49										

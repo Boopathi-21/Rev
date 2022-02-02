@@ -1,0 +1,19 @@
+LEGACY_VALUATION_CLASS	VALUATION_CLASS	VALUATION_CLASS_TXT_GBL	VALUATION_CLASS_TXT_LCL	DI_TIMESTAMP											
+3000	3000	Raw Materials	Rohstoffe	2017.07.06 08:56:49											
+3040	3040	Spare Parts	Ersatzteile	2017.07.06 08:56:49											
+3050	3050	Returnable Packaging	Leihgut	2017.07.06 08:56:49											
+3100	3100	Trading goods	Handelsware	2017.07.06 08:56:49											
+3110	3110	Hardware	Hardware	2017.07.06 08:56:49											
+3120	3120	Licenses	Lizenzen	2017.07.06 08:56:49											
+3200	3200	Purchased Services	Bezogene Dienstleistungen	2017.07.06 08:56:49											
+3300	3300	General Services	Allgemeine Dienstleist.	2017.07.06 08:56:49											
+3410	3410	Accommodation	Unterbringung	2017.07.06 08:56:49											
+3420	3420	Airfare	Flugkosten	2017.07.06 08:56:49											
+3430	3430	Ground Transportation	Fahrtkosten	2017.07.06 08:56:49											
+3440	3440	Travel Expenses Misc	Sonstige Reisekosten	2017.07.06 08:56:49											
+3500	3500	Nonvaluated Materials	Unbewertete Materialien	2017.07.06 08:56:49											
+7900	7900	Semifinished Goods	Halbfabrikate	2017.07.06 08:56:49											
+7920	7920	Finished Goods	Fertigwaren	2017.07.06 08:56:49											
+YB00	YB00	Non-Stock Mat. without ID	Nichtlagermat. ohne ID	2017.07.06 08:56:49											
+YB01	YB01	Non-Stock Mat. with ID	Nichtlagermat. mit ID	2017.07.06 08:56:49											
+YB30	YB30	Subcontracting	Lohnbearbeitung	2017.07.06 08:56:49											

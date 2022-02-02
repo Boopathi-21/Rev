@@ -1,0 +1,19 @@
+LEGACY_DOCUMENT_TYPE	DOCUMENT_TYPE	DOC_CATEGORY	DOCUMENT_TYPE_TXT_GBL	DOCUMENT_TYPE_TXT_LCL	DI_TIMESTAMP										
+CMK	CMK	K	Qty Contract-PSE	Mengenkontrakt	2017.07.06 08:56:49										
+CWK	CWK	K	Value Contract-PSE	Wertkontrakt	2017.07.06 08:56:49										
+LP	LP	L	Scheduling Agreement	Lieferplan	2017.07.06 08:56:49										
+LPA	LPA	L	SA With Release doc.	LiefPlan mit Abrufb.	2017.07.06 08:56:49										
+MK	MK	K	Quantity Contract	Mengenkontrakt	2017.07.06 08:56:49										
+NB	NB	B	Standard PO	Normalbestellung	2017.07.06 08:56:49										
+NB	NB	F	Standard PO	Normalbestellung	2017.07.06 08:56:49										
+NBS	NBS	B	Purchase Req. NBS	Bestellanford. NBS	2017.07.06 08:56:49										
+RE	RE	O	Ext. Sourcing Req.	Ext. BezugsquAnfrage	2017.07.06 08:56:49										
+RE	RE	R	Ext. Sourcing Req.	Ext. BezugsquAnfrage	2017.07.06 08:56:49										
+RQ	RQ	O	Int. Sourcing Req.	Lieferantenanfrage	2017.07.06 08:56:49										
+RQ	RQ	R	Int. Sourcing Req.	Lieferantenanfrage	2017.07.06 08:56:49										
+RSI	RSI	O	Ext. Price Request	Externe Preisanfrage	2017.07.06 08:56:49										
+RSI	RSI	R	Ext. Price Request	Externe Preisanfrage	2017.07.06 08:56:49										
+RV	RV	B	Outl. Agmt Requisn	Rahmenvertragsanf.	2017.07.06 08:56:49										
+UB	UB	F	Stock Transp. Order	Umlagerungsbestell.	2017.07.06 08:56:49										
+UD	UD	F	StockTranspOrderDel	UmlagBestellEinteil.	2017.07.06 08:56:49										
+WK	WK	K	Value Contract	Wertkontrakt	2017.07.06 08:56:49										

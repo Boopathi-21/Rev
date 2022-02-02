@@ -1,0 +1,21 @@
+LEGACY_CATALOG	CATALOG	CATALOG_TXT_GBL	CATALOG_TXT_LCL	DI_TIMESTAMP											
+0	0	Action Reasons	Begründungscodes für Aktionen	2017.07.06 08:56:49											
+1	1	Characteristic attributes	Merkmalsausprägungen	2017.07.06 08:56:49											
+2	2	Tasks	Maßnahmen	2017.07.06 08:56:49											
+3	3	Usage decisions	Verwendungsentscheide	2017.07.06 08:56:49											
+4	4	Events	Ereignisse	2017.07.06 08:56:49											
+5	5	Causes	Ursachen	2017.07.06 08:56:49											
+6	6	Results of defects	Fehlerfolgen	2017.07.06 08:56:49											
+7	7	Hold Codes	Begründungscodes für Zurückstellung	2017.07.06 08:56:49											
+8	8	Activities (QM)	Aktionen	2017.07.06 08:56:49											
+9	9	Defect types	Fehlerarten	2017.07.06 08:56:49											
+A	A	Activities (PM)	Tätigkeiten	2017.07.06 08:56:49											
+B	B	Object parts	Objektteile	2017.07.06 08:56:49											
+C	C	Overview of damage	Schadensbilder	2017.07.06 08:56:49											
+D	D	Coding	Codierungen	2017.07.06 08:56:49											
+E	E	Defect Locations	Fehlerorte	2017.07.06 08:56:49											
+F	F	Decision - SPM Returns	Entscheid SPM Retouren	2017.07.06 08:56:49											
+G	G	Defect - SPM Returns	Defekt SPM Retouren	2017.07.06 08:56:49											
+H	H	Effort - SPM Returns	Aufwand SPM Retouren	2017.07.06 08:56:49											
+I	I	Follow-Up Activity - SPM Returns	Folgeaktivität SPM Retouren	2017.07.06 08:56:49											
+J	J	Functions	Funktionen	2017.07.06 08:56:49											

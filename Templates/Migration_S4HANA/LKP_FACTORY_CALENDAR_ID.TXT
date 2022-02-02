@@ -1,0 +1,92 @@
+LEGACY_FACTORY_CALENDAR_ID	FACTORY_CALENDAR_ID	FACTORY_CALENDAR_ID_TXT_GBL	FACTORY_CALENDAR_ID_TXT_LCL	DI_TIMESTAMP											
+01	01	Germany (Standard)	Deutschland (Standard)	2018.06.19 05:33:47											
+02	02	Germany (Schleswig-Holstein)	Deutschland (Schleswig-Holstein)	2018.06.19 05:33:47											
+03	03	Germany (Hamburg)	Deutschland (Hamburg)	2018.06.19 05:33:47											
+04	04	Germany (Lower Saxony)	Deutschland (Niedersachsen)	2018.06.19 05:33:47											
+05	05	Germany (Bremen)	Deutschland (Bremen)	2018.06.19 05:33:47											
+06	06	Germany (North Rhine-Westphalia)	Deutschland (Nordrhein Westfalen)	2018.06.19 05:33:47											
+07	07	Germany (Hesse)	Deutschland (Hessen)	2018.06.19 05:33:47											
+08	08	Germany (Rhineland-Palatinate)	Deutschland (Rheinland-Pfalz)	2018.06.19 05:33:47											
+09	09	Germany (Bavaria)	Deutschland (Bayern)	2018.06.19 05:33:47											
+10	10	Germany (Saarland)	Deutschland (Saarland)	2018.06.19 05:33:47											
+11	11	Germany (Berlin)	Deutschland (Berlin)	2018.06.19 05:33:47											
+12	12	Germany (Brandenburg)	Deutschland (Brandenburg)	2018.06.19 05:33:47											
+13	13	Germany (Saxony-Anhalt)	Deutschland (Sachsen Anhalt)	2018.06.19 05:33:47											
+14	14	Germany (Thuringia)	Deutschland (Thüringen)	2018.06.19 05:33:47											
+15	15	Germany (Mecklenburg)	Deutschland (Mecklenburg)	2018.06.19 05:33:47											
+16	16	Germany (Saxony)	Deutschland (Sachsen)	2018.06.19 05:33:47											
+99	99	International	International	2018.06.19 05:33:47											
+AE	AE	United Arab Emirates	Vereinigte Arabische Emirate	2018.06.19 05:33:47											
+AJ	AJ	Annual arrangement	Absprachen jährlich	2018.06.19 05:33:47											
+AK	AK	Annual arrangement at the start of the year	Absprachen jährlich zum Ersten	2018.06.19 05:33:47											
+AM	AM	Monthly settlement	Abrechnung monatlich	2018.06.19 05:33:47											
+AN	AN	Monthly arrangement at the start of the month	Absprachen monatlich zum Ersten	2018.06.19 05:33:47											
+AO	AO	Arrangement Mondays and Fridays	Absprachen Montags und Freitags	2018.06.19 05:33:47											
+AR	AR	Argentina	Argentinien	2018.06.19 05:33:47											
+AT	AT	Austria	Österreich	2018.06.19 05:33:47											
+AU	AU	Australia	Australien	2018.06.19 05:33:47											
+BE	BE	Belgium	Belgien	2018.06.19 05:33:47											
+BG	BG	Bulgaria	Bulgarien	2018.06.19 05:33:47											
+BR	BR	Brazil	Brasilien	2018.06.19 05:33:47											
+CA	CA	Canada	Kanada	2018.06.19 05:33:47											
+CH	CH	Switzerland	Schweiz	2018.06.19 05:33:47											
+CL	CL	Chile	Chile	2018.06.19 05:33:47											
+CN	CN	China	China	2018.06.19 05:33:47											
+CO	CO	Colombia	Kolumbien	2018.06.19 05:33:47											
+CZ	CZ	Czech Republic	Tschechische Republik	2018.06.19 05:33:47											
+DK	DK	Denmark	Dänemark	2018.06.19 05:33:47											
+E1	E1	Spain (Madrid)	Spanien (Madrid)	2018.06.19 05:33:47											
+E2	E2	Spain (Catalonia)	Spanien (Catalunya)	2018.06.19 05:33:47											
+EE	EE	Estonia	Estland	2018.06.19 05:33:47											
+EL	EL	France (Alsace)	Frankreich (Elsass)	2018.06.19 05:33:47											
+ES	ES	Spain (Standard)	Spanien (Standard)	2018.06.19 05:33:47											
+EU	EU	European Currency Union (ECU)	Europäische Währungsunion (EWU)	2018.06.19 05:33:47											
+FI	FI	Finland	Finnland	2018.06.19 05:33:47											
+FR	FR	France	Frankreich	2018.06.19 05:33:47											
+GB	GB	Great Britain (England and Wales)	Großbritannien (England und Wales)	2018.06.19 05:33:47											
+GN	GN	Northern Ireland	Nordirland	2018.06.19 05:33:47											
+GR	GR	Greece	Griechenland	2018.06.19 05:33:47											
+GS	GS	Great Britain (Scotland)	Großbritannien (Schottland)	2018.06.19 05:33:47											
+HK	HK	China (Hong Kong)	China (Hong Kong)	2018.06.19 05:33:47											
+HR	HR	Croatia	Kroatien	2018.06.19 05:33:47											
+HU	HU	Hungary	Ungarn	2018.06.19 05:33:47											
+ID	ID	Indonesia	Indonesien	2018.06.19 05:33:47											
+IE	IE	Ireland	Irland	2018.06.19 05:33:47											
+IL	IL	Israel	Israel	2018.06.19 05:33:47											
+IN	IN	India	Indien	2018.06.19 05:33:47											
+IT	IT	Italy	Italien	2018.06.19 05:33:47											
+JP	JP	Japan	Japan	2018.06.19 05:33:47											
+KR	KR	South Korea	Südkorea	2018.06.19 05:33:47											
+KZ	KZ	Kazakhstan	Kazahkstan	2018.06.19 05:33:47											
+LT	LT	Lithuania	Litauen	2018.06.19 05:33:47											
+LU	LU	Luxembourg	Luxemburg	2018.06.19 05:33:47											
+LV	LV	Latvia	Lettland	2018.06.19 05:33:47											
+MX	MX	Mexico	Mexiko	2018.06.19 05:33:47											
+MY	MY	Malaysia	Malaysia	2018.06.19 05:33:47											
+NG	NG	Nigeria	Nigeria	2018.06.19 05:33:47											
+NL	NL	Netherlands	Niederlande	2018.06.19 05:33:47											
+NO	NO	Norway	Norwegen	2018.06.19 05:33:47											
+NZ	NZ	New Zealand	Neuseeland	2018.06.19 05:33:47											
+PE	PE	Peru	Peru	2018.06.19 05:33:47											
+PH	PH	Philippines	Philippinen	2018.06.19 05:33:47											
+PL	PL	Poland	Polen	2018.06.19 05:33:47											
+PT	PT	Portugal	Portugal	2018.06.19 05:33:47											
+RO	RO	Romania	Rumänien	2018.06.19 05:33:47											
+RU	RU	Russian Federation	Russische Foederation	2018.06.19 05:33:47											
+SA	SA	Saudi Arabia	Saudi Arabien	2018.06.19 05:33:47											
+SE	SE	Sweden	Schweden	2018.06.19 05:33:47											
+SG	SG	Singapore	Singapur	2018.06.19 05:33:47											
+SK	SK	Slovak Republic	Slowakische Republik	2018.06.19 05:33:47											
+SL	SL		Slowenien	2018.06.19 05:33:47											
+TH	TH	Thailand	Thailand	2018.06.19 05:33:47											
+TR	TR	Turkey	Türkei	2018.06.19 05:33:47											
+TW	TW	Taiwan	Taiwan	2018.06.19 05:33:47											
+UA	UA	Ukraine	Ukraine	2018.06.19 05:33:47											
+US	US	USA	USA	2018.06.19 05:33:47											
+VE	VE	Venezuela	Venezuela	2018.06.19 05:33:47											
+W6	W6	Germany (Baden-Württemberg) with 6 workdays (Mo-Sa)	Deutschland (Baden-Württ) mit 6 Arbeitstagen (Mo-Sa)	2018.06.19 05:33:47											
+W7	W7	Germany (Baden-Württemberg) with 7 workdays (Mo-Su)	Deutschland (Baden-Württ) mit 7 Arbeitstagen (Mo-So)	2018.06.19 05:33:47											
+W8	W8	Germany - All days are workdays	Deutschland - Alle Tage sind Arbeitstage	2018.06.19 05:33:47											
+WL	WL	Weekly Settlement		2018.06.19 05:33:47											
+ZA	ZA	South Africa	Südafrika	2018.06.19 05:33:47											
+ZR	ZR	10-day payment	Regulierung dekadisch	2018.06.19 05:33:47											

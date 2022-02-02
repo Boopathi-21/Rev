@@ -1,0 +1,263 @@
+LEGACY_COUNTRY	COUNTRY_KEY	COUNTRY	COUNTRY_TXT_GBL	COUNTRY_TXT_LCL	DI_TIMESTAMP										
+AA	US	AA	Aruba	Aruba	2017.07.06 08:56:49										
+AC	US	AC	Antigua&Barbuda	Antigua und Barbuda	2017.07.06 08:56:49										
+AE	US	AE	Utd.Arab Emir.	Vereinigte Arabische Emirate	2017.07.06 08:56:49										
+AF	US	AF	Afghanistan	Afghanistan	2017.07.06 08:56:49										
+AG	US	AG	Algeria	Algerien	2017.07.06 08:56:49										
+AJ	US	AJ	Azerbaijan	Aserbaidschan	2017.07.06 08:56:49										
+AL	US	AL	Albania	Albanien	2017.07.06 08:56:49										
+AM	US	AM	Armenia	Armenien	2017.07.06 08:56:49										
+AN	US	AN	Andorra	Andorra	2017.07.06 08:56:49										
+AO	US	AO	Angola	Angola	2017.07.06 08:56:49										
+AR	US	AR	Argentina	Argentinien	2017.07.06 08:56:49										
+AS	US	AS	Australia	Australien	2017.07.06 08:56:49										
+AT	US	AT	Ashm.Cartier Is.	Ashmore- und Cartierinseln	2017.07.06 08:56:49										
+AU	US	AU	Austria	Österreich	2017.07.06 08:56:49										
+AV	US	AV	Anguilla	Anguilla	2017.07.06 08:56:49										
+AX	US	AX	Akrotiri	Akrotiri	2017.07.06 08:56:49										
+AY	US	AY	Antarctica	Antarktis	2017.07.06 08:56:49										
+BA	US	BA	Bahrain	Bahrain	2017.07.06 08:56:49										
+BB	US	BB	Barbados	Barbados	2017.07.06 08:56:49										
+BC	US	BC	Botswana	Botswana	2017.07.06 08:56:49										
+BD	US	BD	Bermuda	Bermuda	2017.07.06 08:56:49										
+BE	US	BE	Belgium	Belgien	2017.07.06 08:56:49										
+BF	US	BF	Bahamas	Bahamas	2017.07.06 08:56:49										
+BG	US	BG	Bangladesh	Bangladesch	2017.07.06 08:56:49										
+BH	US	BH	Belize	Belize	2017.07.06 08:56:49										
+BK	US	BK	Bosnia-Herzegov.	Bosnien-Herzegowina	2017.07.06 08:56:49										
+BL	US	BL	Bolivia	Bolivien	2017.07.06 08:56:49										
+BM	US	BM	Burma	Myanmar	2017.07.06 08:56:49										
+BN	US	BN	Benin	Benin	2017.07.06 08:56:49										
+BO	US	BO	Belarus	Weißrussland	2017.07.06 08:56:49										
+BP	US	BP	Solomon Islands	Salomonen	2017.07.06 08:56:49										
+BQ	US	BQ	Navassa Island	Navassa	2017.07.06 08:56:49										
+BR	US	BR	Brazil	Brasilien	2017.07.06 08:56:49										
+BT	US	BT	Bhutan	Bhutan	2017.07.06 08:56:49										
+BU	US	BU	Bulgaria	Bulgarien	2017.07.06 08:56:49										
+BV	US	BV	Bouvet Island	Bouvetinsel	2017.07.06 08:56:49										
+BX	US	BX	Brunei	Brunei	2017.07.06 08:56:49										
+BY	US	BY	Burundi	Burundi	2017.07.06 08:56:49										
+CA	US	CA	Canada	Kanada	2017.07.06 08:56:49										
+CB	US	CB	Cambodia	Kambodscha	2017.07.06 08:56:49										
+CD	US	CD	Chad	Tschad	2017.07.06 08:56:49										
+CE	US	CE	Srr Lanka	Sri Lanka	2017.07.06 08:56:49										
+CF	US	CF	Congo(Brazzaville)	Kongo(-Brazzaville)	2017.07.06 08:56:49										
+CG	US	CG	Rep.of Congo	Republik Kongo	2017.07.06 08:56:49										
+CH	US	CH	China	China	2017.07.06 08:56:49										
+CI	US	CI	Chili	Chile	2017.07.06 08:56:49										
+CJ	US	CJ	Cayman Islands	Kaimaninseln	2017.07.06 08:56:49										
+CK	US	CK	C(Keeling)Islands	Kokosinseln (Keelinginseln)	2017.07.06 08:56:49										
+CM	US	CM	Cameroon	Kamerun	2017.07.06 08:56:49										
+CN	US	CN	Comoros	Komoren	2017.07.06 08:56:49										
+CO	US	CO	Colombia	Kolumbien	2017.07.06 08:56:49										
+CQ	US	CQ	N.Mariana Islands	Nördliche Marianen	2017.07.06 08:56:49										
+CR	US	CR	Coral Sea Isl.	Korallenmeerinseln	2017.07.06 08:56:49										
+CS	US	CS	Costa Rica	Costa Rica	2017.07.06 08:56:49										
+CT	US	CT	Central African Rep.	Zentralafrikanische Republik	2017.07.06 08:56:49										
+CU	US	CU	Cuba	Kuba	2017.07.06 08:56:49										
+CV	US	CV	Cape Verde	Kap Verde	2017.07.06 08:56:49										
+CW	US	CW	Cook Islands	Cookinseln	2017.07.06 08:56:49										
+CY	US	CY	Cyprus	Zypern	2017.07.06 08:56:49										
+DA	US	DA	Denmark	Dänemark	2017.07.06 08:56:49										
+DJ	US	DJ	Djibouti	Dschibuti	2017.07.06 08:56:49										
+DO	US	DO	Dominica	Dominica	2017.07.06 08:56:49										
+DQ	US	DQ	Jarvis Island	Jarvisinsel	2017.07.06 08:56:49										
+DR	US	DR	Dominican Rep.	Dominikanische Republik	2017.07.06 08:56:49										
+DX	US	DX	Dhekelia	Dekelia	2017.07.06 08:56:49										
+EC	US	EC	Ecuador	Ecuador	2017.07.06 08:56:49										
+EG	US	EG	Egypt	Ägypten	2017.07.06 08:56:49										
+EH	US	EH	West Sahara	Westsahara	2017.07.06 08:56:49										
+EI	US	EI	Ireland	Irland	2017.07.06 08:56:49										
+EK	US	EK	Equat.Guinea	Äquatorialguinea	2017.07.06 08:56:49										
+EN	US	EN	Estonia	Estland	2017.07.06 08:56:49										
+ER	US	ER	Eritrea	Eritrea	2017.07.06 08:56:49										
+ES	US	ES	El Salvador	El Salvador	2017.07.06 08:56:49										
+ET	US	ET	Ethiopia	Äthiopien	2017.07.06 08:56:49										
+EZ	US	EZ	Czech Republic	Tschechische Republik	2017.07.06 08:56:49										
+FG	US	FG	French Guiana	Französisch-Guayana	2017.07.06 08:56:49										
+FI	US	FI	Finland	Finnland	2017.07.06 08:56:49										
+FJ	US	FJ	Fiji	Fidschi	2017.07.06 08:56:49										
+FK	US	FK	Falkland Islnds	Falklandinseln	2017.07.06 08:56:49										
+FM	US	FM	Micronesia	Mikronesien	2017.07.06 08:56:49										
+FO	US	FO	Faroe Islands	Färöer	2017.07.06 08:56:49										
+FP	US	FP	French Polynesia	Französisch-Polynesien	2017.07.06 08:56:49										
+FQ	US	FQ	Bair Island	Bair Island	2017.07.06 08:56:49										
+FR	US	FR	France	Frankreich	2017.07.06 08:56:49										
+FS	US	FS	French South.Antarc	Frz. Süd- und Antarktisgebiete	2017.07.06 08:56:49										
+GA	US	GA	Gambia, the	Gambia	2017.07.06 08:56:49										
+GB	US	GB	Gabon	Gabun	2017.07.06 08:56:49										
+GF	US	GF	French Guayana	Französisch-Guayana	2017.07.06 08:56:49										
+GG	US	GG	Georgia	Georgien	2017.07.06 08:56:49										
+GH	US	GH	Ghana	Ghana	2017.07.06 08:56:49										
+GI	US	GI	Gibraltar	Gibraltar	2017.07.06 08:56:49										
+GJ	US	GJ	Grenada	Grenada	2017.07.06 08:56:49										
+GK	US	GK	Guernsey	Guernsey	2017.07.06 08:56:49										
+GL	US	GL	Greenland	Grönland	2017.07.06 08:56:49										
+GM	US	GM	Germany	Deutschland	2017.07.06 08:56:49										
+GP	US	GP	Guadeloupe	Guadeloupe	2017.07.06 08:56:49										
+GQ	US	GQ	Guam	Guam	2017.07.06 08:56:49										
+GR	US	GR	Greece	Griechenland	2017.07.06 08:56:49										
+GT	US	GT	Guatemala	Guatemala	2017.07.06 08:56:49										
+GU	US	GU	Guam	Guam	2017.07.06 08:56:49										
+GV	US	GV	Guinea	Guinea	2017.07.06 08:56:49										
+GW	US	GW	Guinea-Bissau	Guinea-Bissau	2017.07.06 08:56:49										
+GY	US	GY	Guyana	Guyana	2017.07.06 08:56:49										
+HA	US	HA	Haiti	Haiti	2017.07.06 08:56:49										
+HK	US	HK	Hong Kong	Hongkong	2017.07.06 08:56:49										
+HM	US	HM	Heard/McDon.Isl	Heard und McDonaldinseln	2017.07.06 08:56:49										
+HO	US	HO	Honduras	Honduras	2017.07.06 08:56:49										
+HQ	US	HQ	Howland Island	Howlandinsel	2017.07.06 08:56:49										
+HR	US	HR	Croatia	Kroatien	2017.07.06 08:56:49										
+HU	US	HU	Hungary	Ungarn	2017.07.06 08:56:49										
+IC	US	IC	Iceland	Island	2017.07.06 08:56:49										
+ID	US	ID	Indonesia	Indonesien	2017.07.06 08:56:49										
+IM	US	IM	Isle of Man	Isle of Man	2017.07.06 08:56:49										
+IN	US	IN	India	Indien	2017.07.06 08:56:49										
+IO	US	IO	Brit.Ind.Oc.Terr	Brit. Terr. im Indischen Ozean	2017.07.06 08:56:49										
+IP	US	IP	Clipperton Island	Clipperton-Insel	2017.07.06 08:56:49										
+IR	US	IR	Iran	Iran	2017.07.06 08:56:49										
+IS	US	IS	Israel	Israel	2017.07.06 08:56:49										
+IT	US	IT	Italy	Italien	2017.07.06 08:56:49										
+IV	US	IV	Cote D'Ivoire	Elfenbeinküste	2017.07.06 08:56:49										
+IZ	US	IZ	Iraq	Irak	2017.07.06 08:56:49										
+JA	US	JA	Japan	Japan	2017.07.06 08:56:49										
+JE	US	JE	Jersey	Jersey	2017.07.06 08:56:49										
+JM	US	JM	Jamaica	Jamaika	2017.07.06 08:56:49										
+JN	US	JN	Jan Mayen	Jan Mayen	2017.07.06 08:56:49										
+JO	US	JO	Jordan	Jordanien	2017.07.06 08:56:49										
+JQ	US	JQ	Johnston Atoll	Johnston-Atoll	2017.07.06 08:56:49										
+KE	US	KE	Kenya	Kenia	2017.07.06 08:56:49										
+KG	US	KG	Kyrgyzstan	Kirgisistan	2017.07.06 08:56:49										
+KN	US	KN	Korea, North	Nordkorea	2017.07.06 08:56:49										
+KQ	US	KQ	Kingman Reef	Kingmanriff	2017.07.06 08:56:49										
+KR	US	KR	Kiribati	Kiribati	2017.07.06 08:56:49										
+KS	US	KS	Korea, South	Südkorea	2017.07.06 08:56:49										
+KT	US	KT	Christmas Island	Weihnachtsinsel	2017.07.06 08:56:49										
+KU	US	KU	Kuwait	Kuwait	2017.07.06 08:56:49										
+KV	US	KV	Kosovo	Kosovo	2017.07.06 08:56:49										
+KY	US	KY	Cayman Islands	Kaimaninseln	2017.07.06 08:56:49										
+KZ	US	KZ	Kazakhstan	Kasachstan	2017.07.06 08:56:49										
+LA	US	LA	Laos	Laos	2017.07.06 08:56:49										
+LE	US	LE	Lebanon	Libanon	2017.07.06 08:56:49										
+LG	US	LG	Latvia	Lettland	2017.07.06 08:56:49										
+LH	US	LH	Lithuania	Litauen	2017.07.06 08:56:49										
+LI	US	LI	Liberia	Liberia	2017.07.06 08:56:49										
+LO	US	LO	Slovak Republic	Slowakische Republik	2017.07.06 08:56:49										
+LQ	US	LQ	Palmyra Atoli	Palmyra-Atoll	2017.07.06 08:56:49										
+LS	US	LS	Liechtenstein	Liechtenstein	2017.07.06 08:56:49										
+LT	US	LT	Lesotho	Lesotho	2017.07.06 08:56:49										
+LU	US	LU	Luxembourg	Luxemburg	2017.07.06 08:56:49										
+LY	US	LY	Libya	Libyen	2017.07.06 08:56:49										
+MA	US	MA	Madagascar Rep	Republik Madagaskar	2017.07.06 08:56:49										
+MB	US	MB	Martinique	Martinique	2017.07.06 08:56:49										
+MC	US	MC	Macau	Macau	2017.07.06 08:56:49										
+MD	US	MD	Moldova	Moldawien	2017.07.06 08:56:49										
+MF	US	MF	Mayotte	Mayotte	2017.07.06 08:56:49										
+MG	US	MG	Mongolia	Mongolei	2017.07.06 08:56:49										
+MH	US	MH	Montserrat	Montserrat	2017.07.06 08:56:49										
+MI	US	MI	Malawi	Malawi	2017.07.06 08:56:49										
+MJ	US	MJ	Montenegro	Montenegro	2017.07.06 08:56:49										
+MK	US	MK	Macedonia	Mazedonien	2017.07.06 08:56:49										
+ML	US	ML	Mali	Mali	2017.07.06 08:56:49										
+MN	US	MN	Monaco	Monaco	2017.07.06 08:56:49										
+MO	US	MO	Morocco	Marokko	2017.07.06 08:56:49										
+MP	US	MP	Mauritius	Mauritius	2017.07.06 08:56:49										
+MQ	US	MQ	Midway Islands	Midwayinseln	2017.07.06 08:56:49										
+MR	US	MR	Mauritania	Mauretanien	2017.07.06 08:56:49										
+MT	US	MT	Malta	Malta	2017.07.06 08:56:49										
+MU	US	MU	Oman	Oman	2017.07.06 08:56:49										
+MX	US	MX	Mexico	Mexiko	2017.07.06 08:56:49										
+MY	US	MY	Malaysia	Malaysia	2017.07.06 08:56:49										
+MZ	US	MZ	Mozambique	Mosambik	2017.07.06 08:56:49										
+NC	US	NC	New Caledonia	Neukaledonien	2017.07.06 08:56:49										
+NE	US	NE	Niue	Niue	2017.07.06 08:56:49										
+NF	US	NF	Norfolk Island	Norfolkinsel	2017.07.06 08:56:49										
+NG	US	NG	Niger	Niger	2017.07.06 08:56:49										
+NH	US	NH	Vanuatu	Vanuatu	2017.07.06 08:56:49										
+NI	US	NI	Nigeria	Nigeria	2017.07.06 08:56:49										
+NL	US	NL	Netherlands	Niederlande	2017.07.06 08:56:49										
+NO	US	NO	Norway	Norwegen	2017.07.06 08:56:49										
+NP	US	NP	Nepal	Nepal	2017.07.06 08:56:49										
+NR	US	NR	Nauru	Nauru	2017.07.06 08:56:49										
+NS	US	NS	Surinama	Suriname	2017.07.06 08:56:49										
+NT	US	NT	Netherlands Ant.	Niederländische Antillen	2017.07.06 08:56:49										
+NU	US	NU	Nicaragua	Nicaragua	2017.07.06 08:56:49										
+NZ	US	NZ	New Zealand	Neuseeland	2017.07.06 08:56:49										
+OC	US	OC	Other Country	Anderes Land	2017.07.06 08:56:49										
+PA	US	PA	Paraguay	Paraguay	2017.07.06 08:56:49										
+PC	US	PC	Pitcalm Island	Pitcalm Island	2017.07.06 08:56:49										
+PE	US	PE	Peru	Peru	2017.07.06 08:56:49										
+PF	US	PF	Paracel Islands	Paracel-Inseln	2017.07.06 08:56:49										
+PG	US	PG	Spratly Islands	Spratly-Inseln	2017.07.06 08:56:49										
+PK	US	PK	Pakistan	Pakistan	2017.07.06 08:56:49										
+PL	US	PL	Poland	Polen	2017.07.06 08:56:49										
+PM	US	PM	Panama	Panama	2017.07.06 08:56:49										
+PO	US	PO	Portugal	Portugal	2017.07.06 08:56:49										
+PP	US	PP	Pap.New Guinea	Papua-Neuguinea	2017.07.06 08:56:49										
+PU	US	PU	Guinea-Bissau	Guinea-Bissau	2017.07.06 08:56:49										
+QA	US	QA	Qatar	Katar	2017.07.06 08:56:49										
+RB	US	RB	Serbia	Serbien	2017.07.06 08:56:49										
+RE	US	RE	Reunion	Réunion	2017.07.06 08:56:49										
+RM	US	RM	Marshall Islands	Marshallinseln	2017.07.06 08:56:49										
+RN	US	RN	St. Martin	St. Martin	2017.07.06 08:56:49										
+RO	US	RO	Romania	Rumänien	2017.07.06 08:56:49										
+RP	US	RP	Philippines	Philippinen	2017.07.06 08:56:49										
+RQ	US	RQ	Puerto Rico	Puerto Rico	2017.07.06 08:56:49										
+RS	US	RS	Russia	Russland	2017.07.06 08:56:49										
+RW	US	RW	Rwanda	Ruanda	2017.07.06 08:56:49										
+SA	US	SA	Saudi Arabia	Saudi-Arabien	2017.07.06 08:56:49										
+SB	US	SB	St.Pierre-Miquelon	Saint-Pierre und Miquelon	2017.07.06 08:56:49										
+SC	US	SC	St. Kitts	St. Kitts	2017.07.06 08:56:49										
+SE	US	SE	Seychelles	Seychellen	2017.07.06 08:56:49										
+SF	US	SF	South Africa	Südafrika	2017.07.06 08:56:49										
+SG	US	SG	Senegal	Senegal	2017.07.06 08:56:49										
+SH	US	SH	St. Helena	St. Helena	2017.07.06 08:56:49										
+SI	US	SI	Slovenia	Slowenien	2017.07.06 08:56:49										
+SL	US	SL	Sierra Leone	Sierra Leone	2017.07.06 08:56:49										
+SM	US	SM	San Marino	San Marino	2017.07.06 08:56:49										
+SN	US	SN	Singapore	Singapur	2017.07.06 08:56:49										
+SO	US	SO	Somalia	Somalia	2017.07.06 08:56:49										
+SP	US	SP	Spain	Spanien	2017.07.06 08:56:49										
+ST	US	ST	St. Lucia	St. Lucia	2017.07.06 08:56:49										
+SU	US	SU	Sudan	Sudan	2017.07.06 08:56:49										
+SV	US	SV	Svalbard	Spitzbergen	2017.07.06 08:56:49										
+SW	US	SW	Sweden	Schweden	2017.07.06 08:56:49										
+SX	US	SX	South Georgia Sandw.	Südgeorgien u. Südl. Sandwich.	2017.07.06 08:56:49										
+SY	US	SY	Syria	Syrien	2017.07.06 08:56:49										
+SZ	US	SZ	Switzerland	Schweiz	2017.07.06 08:56:49										
+TB	US	TB	St.Barthelemy	Saint-Barthélemy	2017.07.06 08:56:49										
+TD	US	TD	Trinidad Tobago	Trinidad und Tobago	2017.07.06 08:56:49										
+TH	US	TH	Thailand	Thailand	2017.07.06 08:56:49										
+TI	US	TI	Tajikistan	Tadschikistan	2017.07.06 08:56:49										
+TK	US	TK	Turks and Caicos	Turks- und Caicosinseln	2017.07.06 08:56:49										
+TL	US	TL	Tokelau	Tokelau	2017.07.06 08:56:49										
+TN	US	TN	Tonga	Tonga	2017.07.06 08:56:49										
+TP	US	TP	S.Tome,Principe	São Tomé und Príncipe	2017.07.06 08:56:49										
+TS	US	TS	Tunisia	Tunesien	2017.07.06 08:56:49										
+TT	US	TT	Timor-Leste	Timor-Leste	2017.07.06 08:56:49										
+TU	US	TU	Turkey	Türkei	2017.07.06 08:56:49										
+TV	US	TV	Tuvalu	Tuvalu	2017.07.06 08:56:49										
+TW	US	TW	Taiwan	Taiwan	2017.07.06 08:56:49										
+TX	US	TX	Turkmenistan	Turkmenistan	2017.07.06 08:56:49										
+TZ	US	TZ	Tanzania	Tansania	2017.07.06 08:56:49										
+UC	US	UC	Unknown Country	Unbekanntes Land	2017.07.06 08:56:49										
+UG	US	UG	Uganda	Uganda	2017.07.06 08:56:49										
+UK	US	UK	United Kingdom	Vereinigtes Königreich	2017.07.06 08:56:49										
+UP	US	UP	Ukraine	Ukraine	2017.07.06 08:56:49										
+UV	US	UV	Burkina Faso	Burkina Faso	2017.07.06 08:56:49										
+UY	US	UY	Uruguay	Uruguay	2017.07.06 08:56:49										
+UZ	US	UZ	Uzbekistan	Usbekistan	2017.07.06 08:56:49										
+VC	US	VC	St. Vincent	St. Vincent	2017.07.06 08:56:49										
+VE	US	VE	Venezuela	Venezuela	2017.07.06 08:56:49										
+VI	US	VI	Brit.Virgin Is.	Britische Jungferninseln	2017.07.06 08:56:49										
+VM	US	VM	Vietnam	Vietnam	2017.07.06 08:56:49										
+VQ	US	VQ	Virgin Islands US	Amerikanische Jungferninseln	2017.07.06 08:56:49										
+VT	US	VT	Holy See	Heiliger Stuhl	2017.07.06 08:56:49										
+WF	US	WF	Wallis and Futuna	Wallis und Futuna	2017.07.06 08:56:49										
+WI	US	WI	Western Sahara	Westsahara	2017.07.06 08:56:49										
+WQ	US	WQ	Wake Island	Wake (Insel)	2017.07.06 08:56:49										
+WS	US	WS	Samoa	Samoa	2017.07.06 08:56:49										
+WZ	US	WZ	Swaziland	Swasiland	2017.07.06 08:56:49										
+YM	US	YM	Yemen	Jemen	2017.07.06 08:56:49										
+ZA	US	ZA	Zambia	Sambia	2017.07.06 08:56:49										
+ZI	US	ZI	Zimbabwe	Simbabwe	2017.07.06 08:56:49										

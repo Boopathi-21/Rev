@@ -1,0 +1,27 @@
+LEGACY_COMPANY_CODE	COMPANY_CODE	COMPANY_COUNTRY_KEY	COMPANY_CODE_TXT_GBL	COMPANY_CODE_TXT_LCL	DI_TIMESTAMP										
+1010	1010	DE	Company Code 1010	Company Code 1010	2018.06.19 05:33:47										
+1310	1310	DE	Company Code 1310	Company Code 1310	2018.06.19 05:33:47										
+1410	1410	DE	Company Code 1410	Company Code 1410	2018.06.19 05:33:47										
+1510	1510	DE	Company Code 1510	Company Code 1510	2018.06.19 05:33:47										
+1710	1710	US	Company Code 1710	Company Code 1710	2018.06.19 05:33:47										
+1720	1720	US	Company Code 1720	Company Code 1720	2018.06.19 05:33:47										
+1730	1730	US	Company Code 1730	Company Code 1730	2018.06.19 05:33:47										
+1740	1740	US	Company Code 1740	Company Code 1740	2018.06.19 05:33:47										
+1750	1750	US	Company Code 1750	Company Code 1750	2018.06.19 05:33:47										
+1760	1760	US	Company Code 1760	Company Code 1760	2018.06.19 05:33:47										
+1770	1770	US	Company Code 1770	Company Code 1770	2018.06.19 05:33:47										
+1780	1780	US	Company Code 1780	Company Code 1780	2018.06.19 05:33:47										
+1790	1790	US	Company Code 1790	Company Code 1790	2018.06.19 05:33:47										
+1800	1800	US	Company Code 1800	Company Code 1800	2018.06.19 05:33:47										
+1810	1810	US	Company Code 1810	Company Code 1810	2018.06.19 05:33:47										
+2110	2110	DE	Company Code 2110	Company Code 2110	2018.06.19 05:33:47										
+2210	2210	DE	Company Code 2210	Company Code 2210	2018.06.19 05:33:47										
+2310	2310	DE	Company Code 2310	Company Code 2310	2018.06.19 05:33:47										
+2910	2910	DE	Company Code 2910	Company Code 2910	2018.06.19 05:33:47										
+3010	3010	DE	Company Code 3010	Company Code 3010	2018.06.19 05:33:47										
+3310	3310	DE	Company Code 3310	Company Code 3310	2018.06.19 05:33:47										
+6110	6110	DE	Company Code 6110	Company Code 6110	2018.06.19 05:33:47										
+6210	6210	DE	Company Code 6210	Company Code 6210	2018.06.19 05:33:47										
+6310	6310	DE	Company Code 6310	Company Code 6310	2018.06.19 05:33:47										
+6410	6410	DE	Company Code 6410	Company Code 6410	2018.06.19 05:33:47										
+6910	6910	DE	Company Code 6910	Company Code 6910	2018.06.19 05:33:47										

@@ -1,0 +1,6 @@
+LEGACY_STRATEGY_GROUP	STRATEGY_GROUP	STRATEGY_GROUP_TXT_GBL	STRATEGY_GROUP_TXT_LCL	DI_TIMESTAMP											
+10	10	Make-to-stock production	Anonyme Lagerfertigung	2017.07.06 08:56:49											
+25	25	Make-to-order for configurable material		2017.07.06 08:56:49											
+40	40	Planning with final assembly	Planung mit Endmontage	2017.07.06 08:56:49											
+70	70	Planning at assembly level	Vorplanung auf Baugruppenebene	2017.07.06 08:56:49											
+B6	B6	Planning w/o final assy-MTO@STD w/o RA	Planung ohne Endmontage-KDE@STD ohne RA	2017.07.06 08:56:49											

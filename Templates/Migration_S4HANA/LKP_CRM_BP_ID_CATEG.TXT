@@ -1,0 +1,50 @@
+LEGACY_ID_CATEG	ID_CATEG	ID_CATEG_TXT_GBL	ID_CATEG_TXT_LCL	DI_TIMESTAMP											
+BKK100	BKK100	Creditor Identification Number	Gläubiger-Identifikationsnummer	2018.06.19 05:33:47											
+BSN001	BSN001	BSN Number		2018.06.19 05:33:47											
+BUP001	BUP001	Dun & Bradstreet Number	Dun & Bradstreet Nummer	2018.06.19 05:33:47											
+BUP002	BUP002	Commercial Register Number	Handelsregisternummer	2018.06.19 05:33:47											
+BUP003	BUP003	Register of Associations Number	Vereinsregisternummer	2018.06.19 05:33:47											
+BUP004	BUP004	Public Register of Cooperatives Number	Genossenschaftsregisternummer	2018.06.19 05:33:47											
+BUP005	BUP005	Global Location Number	Globale Lokationsnummer	2018.06.19 05:33:47											
+BUP006	BUP006	Standard Carrier Alpha Code	Standard Carrier Alpha Code	2018.06.19 05:33:47											
+BUP007	BUP007	Ariba Network Identification (ANID)	Ariba Network Identification (ANID)	2018.06.19 05:33:47											
+BUWMNR	BUWMNR	Securities Message Number	Wertpapier-Mitteilungsnummer	2018.06.19 05:33:47											
+CERV	CERV	Cerved	Cerved	2018.06.19 05:33:47											
+COFA	COFA	Coface	Coface	2018.06.19 05:33:47											
+CPID01	CPID01	Counterparty number	Kontrahenten-Nummer	2018.06.19 05:33:47											
+CRCH	CRCH	Credit Reform Switzerland	CreditReform Schweiz	2018.06.19 05:33:47											
+CREDS	CREDS	Creditsafe	Creditsafe	2018.06.19 05:33:47											
+CRM002	CRM002	R/3 Customer Number	R/3-Kundennummer	2018.06.19 05:33:47											
+CRM004	CRM004	R/3 Vendor Number	R/3-Lieferantennummer	2018.06.19 05:33:47											
+CRM010	CRM010	R/3 Sales Organization	R/3-Verkaufsorganisation	2018.06.19 05:33:47											
+CRM011	CRM011	R/3 Plant Number	R/3-Werknummer	2018.06.19 05:33:47											
+CRM012	CRM012	R/3 MRP Area	R/3 Dispobereich	2018.06.19 05:33:47											
+CRRF	CRRF	Creditreform	Creditreform	2018.06.19 05:33:47											
+ELLI	ELLI	Ellisphere	Ellisphere	2018.06.19 05:33:47											
+EULH	EULH	Euler Hermes	Euler Hermes	2018.06.19 05:33:47											
+FS0001	FS0001	Identity Card	Personalausweis	2018.06.19 05:33:47											
+FS0002	FS0002	Passport	Reisepass	2018.06.19 05:33:47											
+FS0006	FS0006	SWIFT-BIC (Business Identifier Code)	SWIFT-BIC (Business Identifier Code)	2018.06.19 05:33:47											
+FS0007	FS0007	Legal Entity Identifier (LEI)	Legal Entity Identifier (LEI)	2018.06.19 05:33:47											
+HCM001	HCM001	Personnel number	Personalnummer	2018.06.19 05:33:47											
+HCM028	HCM028	Internal Personnel Number	Interne Personalnummer	2018.06.19 05:33:47											
+HCM030	HCM030	Personnel Number (Service Provider)	Personalnummer (Leistungserbringer)	2018.06.19 05:33:47											
+HCM031	HCM031	Personnel Number (Freelance)	Personalnummer (Freier Mitarbeiter)	2018.06.19 05:33:47											
+IBS001	IBS001	Social Security Number	Sozialversicherungsnummer	2018.06.19 05:33:47											
+IBS002	IBS002	Driver's license number	Führerscheinnummer	2018.06.19 05:33:47											
+IBS003	IBS003	Registered Charity Number	Wohlfahrtsnummer	2018.06.19 05:33:47											
+INFM	INFM	Informa	Informa	2018.06.19 05:33:47											
+ISU001	ISU001			2018.06.19 05:33:47											
+KSV	KSV	KSV Credit Protection Association	KSV Kreditschutzverband	2018.06.19 05:33:47											
+LBN001	LBN001	LBN Identification	LBN Identifikation	2018.06.19 05:33:47											
+PSGBPN	PSGBPN			2018.06.19 05:33:47											
+SLLCID	SLLCID	Customs Office Number	Zolldienststellennummer	2018.06.19 05:33:47											
+SLLEOR	SLLEOR	EORI Number	EORI Nummer	2018.06.19 05:33:47											
+SLLUSF	SLLUSF	US: Filer Code	US: Filer Code	2018.06.19 05:33:47											
+TECH1	TECH1			2018.06.19 05:33:47											
+TM0001	TM0001	Airline Code	Airline Code	2018.06.19 05:33:47											
+TM0002	TM0002	IATA SITA/ARINC Scheme	IATA SITA/ARINC Scheme	2018.06.19 05:33:47											
+TM0003	TM0003	IATA PIMA Scheme	IATA PIMA Scheme	2018.06.19 05:33:47											
+TM0004	TM0004	FIRMS Code	FIRMS-Code	2018.06.19 05:33:47											
+TM0005	TM0005	Participant Identification	Teilnehmeridentifikation	2018.06.19 05:33:47											
+VATRU	VATRU	VAT Registration number		2018.06.19 05:33:47											

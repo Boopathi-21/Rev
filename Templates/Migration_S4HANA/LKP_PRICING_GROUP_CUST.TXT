@@ -1,0 +1,3 @@
+LEGACY_PRICING_GROUP_CUST	PRICING_GROUP_CUST	PRICING_GROUP_CUST_TXT_GBL	PRICING_GROUP_CUST_TXT_LCL	DI_TIMESTAMP											
+C1	C1	Regular buyer	Regelmäßiger Käufer	2018.06.19 05:33:47											
+C2	C2	Occasional buyer	Gelegentl. Käufer	2018.06.19 05:33:47											

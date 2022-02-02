@@ -1,0 +1,6 @@
+LEGACY_LOWER_VALUE	LOWER_VALUE	LOWER_VALUE_TXT_GBL	LOWER_VALUE_TXT_LCL	DI_TIMESTAMP											
+0	0	Standard	Normal	2017.07.06 08:56:49											
+1	1	Chargeable	Chargeable	2017.07.06 08:56:49											
+2	2	Consignment	Konsignation	2017.07.06 08:56:49											
+3	3	Subcontracting	Lohnbearbeitung	2017.07.06 08:56:49											
+P	P	Pipeline	Pipeline	2017.07.06 08:56:49											

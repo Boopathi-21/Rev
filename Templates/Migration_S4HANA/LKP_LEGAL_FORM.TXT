@@ -1,0 +1,9 @@
+LEGACY_LEGAL_FORM	LEGAL_FORM	LEGAL_FORM_TXT_GBL	LEGAL_FORM_TXT_LCL	DI_TIMESTAMP											
+01	01	Corporation	Gesellschaft	2018.06.19 05:33:47											
+02	02	P.l.c.	Aktiengesellschaft	2018.06.19 05:33:47											
+03	03	Commercial Partnership Limited by Shares	Kommanditgesellschaft auf Aktien	2018.06.19 05:33:47											
+04	04	Commercial Partnership Limited by Shares	Kommanditgesellschaft auf Aktien	2018.06.19 05:33:47											
+05	05	P.l.c.& Co LP	Aktiengesellschaft & Kommanditgesell.	2018.06.19 05:33:47											
+06	06	Gen.Partnership	Offene Handelsgesellschaft	2018.06.19 05:33:47											
+07	07	Private Company	Privatunternehmen	2018.06.19 05:33:47											
+08	08	Co., Ltd.	Ges., Gesell. mit beschränkter Haftung	2018.06.19 05:33:47											

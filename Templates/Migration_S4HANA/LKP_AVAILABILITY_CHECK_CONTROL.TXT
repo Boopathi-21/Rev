@@ -1,0 +1,5 @@
+LEGACY_AVAIL_CHECK	AVAIL_CHECK	AVAIL_CHECK_TXT_GBL	AVAIL_CHECK_TXT_LCL	DI_TIMESTAMP											
+NC	NC	No ATP Check	Keine ProdVerfPrüf.	2017.07.06 08:56:49											
+SP	SP	Stock and Plan. Rec.	Bstnd u. gepl. Zgnge	2017.07.06 08:56:49											
+SR	SR	Stock and Rel. Rec.	Bstnd u. sich. Zgnge	2017.07.06 08:56:49											
+ST	ST	Consider Only Stock	Nur Bestand berücks.	2017.07.06 08:56:49											

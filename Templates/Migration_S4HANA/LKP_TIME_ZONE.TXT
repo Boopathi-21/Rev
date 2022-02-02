@@ -1,0 +1,130 @@
+LEGACY_TIME_ZONE	TIME_ZONE	TIME_ZONE_TXT_GBL	TIME_ZONE_TXT_LCL	DI_TIMESTAMP											
+AFGHAN	AFGHAN	Afghanistan	Afghanistan	2018.06.19 05:33:47											
+ALA	ALA	Alaska (Anchorage)	Alaska (Anchorage)	2018.06.19 05:33:47											
+ALAW	ALAW	Alaska (Aleutian)	Alaska (Aleuten)	2018.06.19 05:33:47											
+ART	ART	Argentina	Argentinien	2018.06.19 05:33:47											
+AST	AST	Atlantic Time (Halifax)	Atlantic Time (Halifax)	2018.06.19 05:33:47											
+AUSACT	AUSACT	Australia Capital Territories	Australien Capital Territories	2018.06.19 05:33:47											
+AUSLHI	AUSLHI	Australia Lord Howe Island	Australien Lord Howe Island	2018.06.19 05:33:47											
+AUSNSW	AUSNSW	Australia New South Wales	Australien New South Wales	2018.06.19 05:33:47											
+AUSNT	AUSNT	Australia Northern Territories	Australien North. Territories	2018.06.19 05:33:47											
+AUSQLD	AUSQLD	Australia Queensland	Australien Queensland	2018.06.19 05:33:47											
+AUSSA	AUSSA	Australia South Australia	Australien South Australia	2018.06.19 05:33:47											
+AUSTAS	AUSTAS	Australia Tasmania	Australien Tasmania	2018.06.19 05:33:47											
+AUSVIC	AUSVIC	Australia Victoria	Australien Victoria	2018.06.19 05:33:47											
+AUSWA	AUSWA	Australia Western Australia	Australien Western Australia	2018.06.19 05:33:47											
+AZOREN	AZOREN	Europe Azores	Europa Azoren	2018.06.19 05:33:47											
+AZT	AZT	Azerbaijan	Aserbaidschan	2018.06.19 05:33:47											
+BDT	BDT	Bangladesh	Bangladesch	2018.06.19 05:33:47											
+BRAZIL	BRAZIL	Brazil	Brasilien	2018.06.19 05:33:47											
+BRZLAN	BRZLAN	Brazil Andes	Brasilien Anden	2018.06.19 05:33:47											
+BRZLEA	BRZLEA	Brazil East	Brasilien Osten	2018.06.19 05:33:47											
+BRZLWE	BRZLWE	Brazil West	Brasilien Westen	2018.06.19 05:33:47											
+CAT	CAT	Central Africa	Zentralafrika	2018.06.19 05:33:47											
+CET	CET	Central Europe	Mitteleuropa	2018.06.19 05:33:47											
+CHILE	CHILE	Chile	Chile	2018.06.19 05:33:47											
+CHILEE	CHILEE	Chile Easter Island	Chile Osterinsel	2018.06.19 05:33:47											
+CST	CST	Central Time (Dallas)	Central Time (Dallas)	2018.06.19 05:33:47											
+CSTNO	CSTNO	Central Time No DST	Central Time No DST	2018.06.19 05:33:47											
+CST_NA	CST_NA	Central Time North America	Central Time Nordamerika	2018.06.19 05:33:47											
+CYPRUS	CYPRUS	Cyprus	Zypern	2018.06.19 05:33:47											
+EET	EET	Eastern Europe	Osteuropa	2018.06.19 05:33:47											
+EGYPT	EGYPT	Egypt	Ägypten	2018.06.19 05:33:47											
+EST	EST	Eastern Time (New York)	Eastern Time (New York)	2018.06.19 05:33:47											
+ESTNO	ESTNO	Eastern Time (Indianapolis)	Eastern Time (Indianapoliis)	2018.06.19 05:33:47											
+EST_	EST_	Eastern Time (Montréal)	Eastern Time (Montréal)	2018.06.19 05:33:47											
+EST_NA	EST_NA	Eastern Time North America	Eastern Time Nordamerika	2018.06.19 05:33:47											
+FLKLND	FLKLND	Falkland Islands	Falkland Inseln	2018.06.19 05:33:47											
+GMTUK	GMTUK	Greenwich UK with DST	Greenwich UK mit Sommerzeit	2018.06.19 05:33:47											
+GST	GST	Greenland	Grönland	2018.06.19 05:33:47											
+GSTE	GSTE	Eastern Greenland	Ostgrönland	2018.06.19 05:33:47											
+GSTW	GSTW	Western Greenland	Westgrönland	2018.06.19 05:33:47											
+HAW	HAW	Hawaii	Hawaii	2018.06.19 05:33:47											
+INDIA	INDIA	India	Indien	2018.06.19 05:33:47											
+IRAN	IRAN	Iran	Iran	2018.06.19 05:33:47											
+IRAQ	IRAQ	Iraq	Irak	2018.06.19 05:33:47											
+ISRAEL	ISRAEL	Israel	Israel	2018.06.19 05:33:47											
+JAPAN	JAPAN	Japan	Japan	2018.06.19 05:33:47											
+JORDAN	JORDAN	Jordan	Jordanien	2018.06.19 05:33:47											
+LBANON	LBANON	Lebanon	Libanon	2018.06.19 05:33:47											
+MAU	MAU	Mauritius	Mauritius	2018.06.19 05:33:47											
+MOROCC	MOROCC	Morocco	Marokko	2018.06.19 05:33:47											
+MST	MST	Mountain Time (Denver)	Mountain Time (Denver)	2018.06.19 05:33:47											
+MSTNO	MSTNO	Mountain Time (Phoenix)	Mountain Time (Phoenix)	2018.06.19 05:33:47											
+MST_NA	MST_NA	Mountain Time North America	Mountain Time Nordamerika	2018.06.19 05:33:47											
+NAT	NAT	Namibia	Namibia	2018.06.19 05:33:47											
+NEPAL	NEPAL	Nepal	Nepal	2018.06.19 05:33:47											
+NFDL	NFDL	Newfoundland	Neufundland	2018.06.19 05:33:47											
+NORFLK	NORFLK	Norfolk Islands	Norfolk Islands	2018.06.19 05:33:47											
+NST	NST	Newfoundland	Neufundland	2018.06.19 05:33:47											
+NZCHA	NZCHA	New Zealand Chatham Islands	Neuseeland Chatham Islands	2018.06.19 05:33:47											
+NZST	NZST	New Zealand	Neuseeland	2018.06.19 05:33:47											
+PARAGY	PARAGY	Paraguay	Paraguay	2018.06.19 05:33:47											
+PIERRE	PIERRE	St Pierre and Miquelon	St Pierre und Miquelon	2018.06.19 05:33:47											
+PKT	PKT	Pakistan	Pakistan	2018.06.19 05:33:47											
+PST	PST	Pacific Time (Los Angeles)	Pacific Time (Los Angeles)	2018.06.19 05:33:47											
+PST_NA	PST_NA	Pacific Time North America	Pacific Time Nordamerika	2018.06.19 05:33:47											
+QAZ_05	QAZ_05	UTC+05	UTC+05	2018.06.19 05:33:47											
+QAZ_06	QAZ_06	UTC+06	UTC+06	2018.06.19 05:33:47											
+RUS02	RUS02	Russia MSK-01	Russland MSK-01	2018.06.19 05:33:47											
+RUS03	RUS03	Russia (Moscow) (UTC+03)	Russland Moskau (UTC+03)	2018.06.19 05:33:47											
+RUS04	RUS04	Russia (UTC+04)	Russland (UTC+04)	2018.06.19 05:33:47											
+RUS05	RUS05	Russia (UTC+05)	Russland (UTC+05)	2018.06.19 05:33:47											
+RUS06	RUS06	Russia (UTC+06)	Russland (UTC+06)	2018.06.19 05:33:47											
+RUS07	RUS07	Russia (UTC+07)	Russland (UTC+07)	2018.06.19 05:33:47											
+RUS08	RUS08	Russia (UTC+08)	Russland (UTC+08)	2018.06.19 05:33:47											
+RUS09	RUS09	Russia (UTC+09)	Russland (UTC+09)	2018.06.19 05:33:47											
+RUS10	RUS10	Russia (UTC+10)	Russland (UTC+10)	2018.06.19 05:33:47											
+RUS11	RUS11	Russia (UTC+11)	Russland (UTC+11)	2018.06.19 05:33:47											
+RUS12	RUS12	Russia (UTC+12)	Russland (UTC+12)	2018.06.19 05:33:47											
+RUS13	RUS13	Russia (UTC+13)	Russland (UTC+13)	2018.06.19 05:33:47											
+RUS14	RUS14	Russia (UTC+14)	Russland (UTC+14)	2018.06.19 05:33:47											
+SYRIA	SYRIA	Syria	Syrien	2018.06.19 05:33:47											
+TURKEY	TURKEY	Turkey	Türkei	2018.06.19 05:33:47											
+UK	UK	England, Ireland, Scotland	England, Irland, Schottland	2018.06.19 05:33:47											
+URUGUA	URUGUA	Uruguay	Uruguay	2018.06.19 05:33:47											
+UT+103	UT+103	UTC+10:30	UTC+10:30	2018.06.19 05:33:47											
+UT+113	UT+113	UTC+11:30	UTC+11:30	2018.06.19 05:33:47											
+UT+123	UT+123	UTC+12:30	UTC+12:30	2018.06.19 05:33:47											
+UT-103	UT-103	UTC-10:30	UTC-10:30	2018.06.19 05:33:47											
+UT-113	UT-113	UTC-11:30	UTC-11:30	2018.06.19 05:33:47											
+UT-123	UT-123	UTC-12:30	UTC-12:30	2018.06.19 05:33:47											
+UTC	UTC	UTC+0	UTC+0	2018.06.19 05:33:47											
+UTC+1	UTC+1	UTC+01	UTC+01	2018.06.19 05:33:47											
+UTC+10	UTC+10	UTC+10	UTC+10	2018.06.19 05:33:47											
+UTC+11	UTC+11	UTC+11	UTC+11	2018.06.19 05:33:47											
+UTC+12	UTC+12	UTC+12	UTC+12	2018.06.19 05:33:47											
+UTC+13	UTC+13	UTC+13	UTC+13	2018.06.19 05:33:47											
+UTC+14	UTC+14	UTC+14	UTC+14	2018.06.19 05:33:47											
+UTC+2	UTC+2	UTC+02	UTC+02	2018.06.19 05:33:47											
+UTC+3	UTC+3	UTC+03	UTC+03	2018.06.19 05:33:47											
+UTC+33	UTC+33	UTC+03:30	UTC+03:30	2018.06.19 05:33:47											
+UTC+4	UTC+4	UTC+04	UTC+04	2018.06.19 05:33:47											
+UTC+43	UTC+43	UTC+04:30	UTC+04:30	2018.06.19 05:33:47											
+UTC+5	UTC+5	UTC+05	UTC+05	2018.06.19 05:33:47											
+UTC+53	UTC+53	UTC+05:30	UTC+05:30	2018.06.19 05:33:47											
+UTC+6	UTC+6	UTC+06	UTC+06	2018.06.19 05:33:47											
+UTC+63	UTC+63	UTC+06:30	UTC+06:30	2018.06.19 05:33:47											
+UTC+7	UTC+7	UTC+07	UTC+07	2018.06.19 05:33:47											
+UTC+8	UTC+8	UTC+08	UTC+08	2018.06.19 05:33:47											
+UTC+9	UTC+9	UTC+09	UTC+09	2018.06.19 05:33:47											
+UTC+93	UTC+93	UTC+09:30	UTC+09:30	2018.06.19 05:33:47											
+UTC-1	UTC-1	UTC-01	UTC-01	2018.06.19 05:33:47											
+UTC-10	UTC-10	UTC-10	UTC-10	2018.06.19 05:33:47											
+UTC-11	UTC-11	UTC-11	UTC-11	2018.06.19 05:33:47											
+UTC-12	UTC-12	UTC-12	UTC-12	2018.06.19 05:33:47											
+UTC-2	UTC-2	UTC-02	UTC-02	2018.06.19 05:33:47											
+UTC-3	UTC-3	UTC-03	UTC-03	2018.06.19 05:33:47											
+UTC-33	UTC-33	UTC-03:30	UTC-03:30	2018.06.19 05:33:47											
+UTC-4	UTC-4	UTC-04	UTC-04	2018.06.19 05:33:47											
+UTC-43	UTC-43	UTC-04:30	UTC-04:30	2018.06.19 05:33:47											
+UTC-5	UTC-5	UTC-05	UTC-05	2018.06.19 05:33:47											
+UTC-6	UTC-6	UTC-06	UTC-06	2018.06.19 05:33:47											
+UTC-7	UTC-7	UTC-07	UTC-07	2018.06.19 05:33:47											
+UTC-8	UTC-8	UTC-08	UTC-08	2018.06.19 05:33:47											
+UTC-83	UTC-83	UTC-8:30	UTC-08:30	2018.06.19 05:33:47											
+UTC-9	UTC-9	UTC-09	UTC-09	2018.06.19 05:33:47											
+UTC-93	UTC-93	UTC-09:30	UTC-09:30	2018.06.19 05:33:47											
+WAT	WAT	Western Africa	Westafrika	2018.06.19 05:33:47											
+WDFT	WDFT	Walldorf Time	Walldorfzeit	2018.06.19 05:33:47											
+WET	WET	Western Europe	Westeuropa	2018.06.19 05:33:47											

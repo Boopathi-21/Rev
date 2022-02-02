@@ -1,0 +1,243 @@
+LEGACY_MOVEMENT_TYPE	MOVEMENT_TYPE	MOVEMENT_TYPE_TXT_GBL	MOVEMENT_TYPE_TXT_LCL	DI_TIMESTAMP											
+101	101	GR for acct assgmnt	WE zum KundAuftrBest	2017.07.06 08:56:49											
+102	102	GR for sales or. rev	WE zum ProjektBes St	2017.07.06 08:56:49											
+103	103	GR SC vend.to blockd	WE KundAuftr in Sper	2017.07.06 08:56:49											
+104	104	GR proj.to blkd rev.	WE Projekt in Sper S	2017.07.06 08:56:49											
+105	105	GR SC vend.fm blockd	WE Projekt aus Sperr	2017.07.06 08:56:49											
+106	106	GR SC vend.fm bl.rev	WE LB-Lief aus Spe S	2017.07.06 08:56:49											
+107	107	GR Asset Val. Blckd	WE Anlage bew Sperr	2017.07.06 08:56:49											
+108	108	GR to ValBlSt SO Rev	WE in bew Sp Storno	2017.07.06 08:56:49											
+109	109	GR fr Val.BlStk Proj	WE aus bew Sp Proj	2017.07.06 08:56:49											
+110	110	GR Asset fr. VBl. R.	WE aus bewSp KdA St	2017.07.06 08:56:49											
+121	121	GR subseq. adjustm.	WE Nachverrechnung	2017.07.06 08:56:49											
+122	122	RE return to vendor	WE Rückl. an Liefer	2017.07.06 08:56:49											
+123	123	Rtrn stckInTrans rev	WR Rückl. Liefer St.	2017.07.06 08:56:49											
+124	124	GR rtrn blocked stck	WE Rückl. Sperrb.	2017.07.06 08:56:49											
+125	125	GR rtn blkd stck rev	WE Rückl. Sperrb. St	2017.07.06 08:56:49											
+131	131	GR for sales ord.st.	Wareneingang	2017.07.06 08:56:49											
+132	132	GR for asset	WE zum KundAuftrBest	2017.07.06 08:56:49											
+141	141	GR G subseq. adjustm	WE W-Nachverrechnung	2017.07.06 08:56:49											
+142	142	GR G subseq. adjustm	WE W-Nachverrechnung	2017.07.06 08:56:49											
+161	161	GR rtrns RTP stock	WE Retoure KonsiBest	2017.07.06 08:56:49											
+162	162	GR rtns SaOrdStk rev	WE Ret KdAufBest Sto	2017.07.06 08:56:49											
+201	201	GI for cost center	WA für Kostenstelle	2017.07.06 08:56:49											
+202	202	RE for cost center	WR für Kostenstelle	2017.07.06 08:56:49											
+221	221	GI project for proj.	WA Proj für Projekt	2017.07.06 08:56:49											
+222	222	RE project for proj.	WR Proj für Projekt	2017.07.06 08:56:49											
+231	231	GI for sales order	WA für Kundenauftrag	2017.07.06 08:56:49											
+232	232	RE sls or.fm sls or.	WR KdAuftr aus KdAuf	2017.07.06 08:56:49											
+241	241	GI for asset	WA für Anlage	2017.07.06 08:56:49											
+242	242	RE asset from consgt	WR Anlage aus Konsi	2017.07.06 08:56:49											
+251	251	GI for sales	WA für Verkauf	2017.07.06 08:56:49											
+252	252	RE sales from consgt	WR Verkauf aus Konsi	2017.07.06 08:56:49											
+261	261	GI order from RTP	WA für Auftrag	2017.07.06 08:56:49											
+262	262	RE order frm sls or.	WR Auftrag aus Proj	2017.07.06 08:56:49											
+281	281	GI netw. frm sls or.	WA Netzpln aus Proj	2017.07.06 08:56:49											
+282	282	RE netw. frm project	WR Netzpln aus KdAuf	2017.07.06 08:56:49											
+291	291	GI acc.ass.fm sls or	WA Kont. aus KdAuf	2017.07.06 08:56:49											
+292	292	RE ac.ass.fm sls or.	WR Kont. aus Proj	2017.07.06 08:56:49											
+301	301	TF trfr plnt to plnt	UL Umlagern WK an WK	2017.07.06 08:56:49											
+302	302	TF trfr plnt to plnt	UR Umlagern WK an WK	2017.07.06 08:56:49											
+303	303	TF rem.fm stor.to pl	UL Auslagern an Werk	2017.07.06 08:56:49											
+304	304	TR rem.fm stor.to pl	UR Auslagern an Werk	2017.07.06 08:56:49											
+305	305	TF pl.in stor.in pl.	UL Einlagern im Werk	2017.07.06 08:56:49											
+306	306	TR pl.in stor.in pl.	UR Einlagern im Werk	2017.07.06 08:56:49											
+309	309	TF tfr ps.mat.to mat	UL Umbuch Mat an Mat	2017.07.06 08:56:49											
+310	310	TR tfr ps.mat.to mat	UR Umbuch Mat an Mat	2017.07.06 08:56:49											
+311	311	TF RTP in plant	UL Umlagern im Werk	2017.07.06 08:56:49											
+312	312	TR project in plant	UR Umlagern im Werk	2017.07.06 08:56:49											
+313	313	TF rem.fm str.to Loc	UL Auslagern an LOrt	2017.07.06 08:56:49											
+314	314	TR rem.fm str.toSLoc	UR Auslagern an Lort	2017.07.06 08:56:49											
+315	315	TF pl.in stor.inSLoc	UL Einlagern im LOrt	2017.07.06 08:56:49											
+316	316	TR pl.in stor.in Loc	UR Einlagern im Lort	2017.07.06 08:56:49											
+317	317	Create struct. mat.	Zusführng Strukt Mat	2017.07.06 08:56:49											
+318	318	RE create struc. mat	WR Zusfüh Strukt Mat	2017.07.06 08:56:49											
+319	319	Split structured mat	Zerlegung Strukt Mat	2017.07.06 08:56:49											
+320	320	RE split struct.mat.	WR Zerleg Strukt Mat	2017.07.06 08:56:49											
+321	321	TF SC ord. QI to unr	UL Qualität an Frei	2017.07.06 08:56:49											
+322	322	TR proj.: QI to unr.	UR Q-Prüfung an Frei	2017.07.06 08:56:49											
+323	323	TF QI sls ord.in plt	UL KdAuf Qua im Werk	2017.07.06 08:56:49											
+324	324	TR cons:QI in plant	UR Konsi Qua im Werk	2017.07.06 08:56:49											
+325	325	TF blocked in plant	UL Gesperrt im Werk	2017.07.06 08:56:49											
+326	326	TR blkd sls or.in pl	UR Konsi Ges im Werk	2017.07.06 08:56:49											
+331	331	GI sampl.: proj. QI	WA an Stichprobe Q.	2017.07.06 08:56:49											
+332	332	RE sampl.:cu.cons.QI	WR Stichpr. Leerg Q.	2017.07.06 08:56:49											
+333	333	GI sampl. pro. unr.	WA Stichpr. Konsi F.	2017.07.06 08:56:49											
+334	334	RE sampl. proj. unr.	WR an Stichprobe F.	2017.07.06 08:56:49											
+335	335	GI sampl.sls or.blkd	WA Stpr. KdAuf gesp.	2017.07.06 08:56:49											
+336	336	RE sampl. proj. blkd	WR Stpr. Proj gesp.	2017.07.06 08:56:49											
+340	340	TF batch revaluation	UL Umbewertung Charg	2017.07.06 08:56:49											
+341	341	TF unres. to restr.	UL KKo Frei an NFrei	2017.07.06 08:56:49											
+342	342	TF CS rstr.to unres.	UL NFrei an Frei	2017.07.06 08:56:49											
+343	343	TF proj.blkd to unr.	UL Gesperrt an Frei	2017.07.06 08:56:49											
+344	344	TR proj. blkd to unr	UR KBB: gsp. an frei	2017.07.06 08:56:49											
+349	349	TF sls or.blkd to QI	UL KdAuf Ges an Qua	2017.07.06 08:56:49											
+350	350	TR blocked to QI	UR KdAuf Ges an Qua	2017.07.06 08:56:49											
+351	351	TF plant plant proj.	UL An Transitbestand	2017.07.06 08:56:49											
+352	352	TR plant plant slsOr	UR Werk Werk Projekt	2017.07.06 08:56:49											
+411	411	TP special to own	UL Lgort an Lgort	2017.07.06 08:56:49											
+412	412	TR consgnmt to own	UR TrB an Eigen	2017.07.06 08:56:49											
+413	413	TF slsOrd. to slsOrd	UL Projekt an KdAuf	2017.07.06 08:56:49											
+414	414	TR proj. to slsOrder	UR TrB an KdAuf	2017.07.06 08:56:49											
+415	415	TF proj. to proj.	UL Lgort an Projekt	2017.07.06 08:56:49											
+416	416	TR csgmt to proj.	UR Projekt an Proj.	2017.07.06 08:56:49											
+419	419	TP special to own	UL Lgort an Lgort	2017.07.06 08:56:49											
+420	420	TR special to own	UR KdA an Eig gesp.	2017.07.06 08:56:49											
+421	421	TP SO QI to Own QI	UL Lgort an Lgort	2017.07.06 08:56:49											
+422	422	TR SLoc to SLoc	UR SondBst an Eigen	2017.07.06 08:56:49											
+423	423	TP special to own	UL Lgort an Lgort	2017.07.06 08:56:49											
+424	424	TR SO  Bl.to Own Bl.	UR KdA gesp. an Eig	2017.07.06 08:56:49											
+425	425	TP special to own	UB KdA Quali. an Eig	2017.07.06 08:56:49											
+426	426	TR SLoc to SLoc	UR SondBst an Eigen	2017.07.06 08:56:49											
+427	427	TP Bl. to SO	UL Lgort an Lgort	2017.07.06 08:56:49											
+428	428	TR Bl. to SO	URgesp. an KdA	2017.07.06 08:56:49											
+429	429	TP Spec.Stk to QI	UL Lgort an Lgort	2017.07.06 08:56:49											
+430	430	TR Spec.Stk to QI	UR SondBst an Quali.	2017.07.06 08:56:49											
+441	441	TP unrstr.to tiedEmp	UB Frei an geb.Leerg	2017.07.06 08:56:49											
+442	442	TP tiedEmp.to unrstr	UB geb.Leerg an frei	2017.07.06 08:56:49											
+451	451	GI returns	WA Retouren	2017.07.06 08:56:49											
+452	452	RE returns reversal	WS Retouren Storno	2017.07.06 08:56:49											
+453	453	TP returns to own	UB Retouren in Eigen	2017.07.06 08:56:49											
+454	454	TP own to returns	UB Eigen in Retouren	2017.07.06 08:56:49											
+455	455	TF st. trfr returns	UL Umlagern Retouren	2017.07.06 08:56:49											
+456	456	TR st. trfr returns	UR Umlagern Retouren	2017.07.06 08:56:49											
+457	457	TP Returns to own QI	UB Ret in Eigen QuP	2017.07.06 08:56:49											
+458	458	TP Own QI to returns	UB Eigen QuP in Ret	2017.07.06 08:56:49											
+459	459	TP Ret. to own blckd	UB Ret in Eigen Gesp	2017.07.06 08:56:49											
+460	460	TP Own blckd to ret.	UB Eigen Gesp in Ret	2017.07.06 08:56:49											
+501	501	Rcpt to sls or. stck	Eingang KdAufBest	2017.07.06 08:56:49											
+502	502	RE rcpt to sls or.st	WR Eingang KdAufBest	2017.07.06 08:56:49											
+503	503	Rcpt to sls ord. QI	Eingang KdAuf QuP	2017.07.06 08:56:49											
+504	504	RE rcpt to sls or.QI	WR Eingang KdAuf QuP	2017.07.06 08:56:49											
+505	505	Rcpt to sls or.blkd	Eingang KdAuf SpB	2017.07.06 08:56:49											
+506	506	RE rcpt to sls or.bl	WR Eingang Gesperrt	2017.07.06 08:56:49											
+511	511	GI deliv.w/o ch. RTP	WA kostlo. Lief. MTV	2017.07.06 08:56:49											
+512	512	RE deliv.w/o ch. RTP	WR Kostenlose Lief.	2017.07.06 08:56:49											
+521	521	Receipt w/o order	WE Lieferung KdAuf	2017.07.06 08:56:49											
+522	522	RE for Delivery	WR zur Lieferung	2017.07.06 08:56:49											
+523	523	Rcpt QI proj.w/o prO	Zugang Qua ohne FAuf	2017.07.06 08:56:49											
+524	524	RE QI proj.w/o prOrd	WR Qua Proj o. FAuf	2017.07.06 08:56:49											
+525	525	Rcpt blkd w/o pr.ord	Zugang Ges ohne FAuf	2017.07.06 08:56:49											
+526	526	RE bl.sls or.w/o PrO	WR Ges ohne FAufFAuf	2017.07.06 08:56:49											
+531	531	Rcpt slsOrd.by-prod.	Zug Proj. Nebenprod.	2017.07.06 08:56:49											
+532	532	RE sls ord. by-prod.	WR KdAuf Nebenprod.	2017.07.06 08:56:49											
+541	541	GI whse to subc.stck	WA Lager an LB-Lief	2017.07.06 08:56:49											
+542	542	RE subctrStck toWhse	WR LB-Best an Lager	2017.07.06 08:56:49											
+543	543	GI subcon cust ord	WA Abgang KdAuf Bstd	2017.07.06 08:56:49											
+544	544	GI receipt subc.stck	WA Zugang KdAuf Bstd	2017.07.06 08:56:49											
+545	545	Rcpt SC by-product	Zugang LB KBB	2017.07.06 08:56:49											
+546	546	GI issue SC by-prod.	WA LB-Nebenprodukt	2017.07.06 08:56:49											
+551	551	GI scrapp SC project	WA Verschrtt. LB MTV	2017.07.06 08:56:49											
+552	552	GR scrapp cst stk	WR Verschrott LBBstd	2017.07.06 08:56:49											
+553	553	GI scrp. SC QI C.Ord	WA Vrschr. LB QP KdA	2017.07.06 08:56:49											
+554	554	GR scrp. SC QI C.Stk	WR Versch. KdKons Q.	2017.07.06 08:56:49											
+555	555	GI scrapping blocked	WA Versch. Konsi S.	2017.07.06 08:56:49											
+556	556	RE Scrapping I.V.SiT	WR Versch. KdAuf S.	2017.07.06 08:56:49											
+557	557	GI adjust. transit	WA Korr. Tra. KdAuf	2017.07.06 08:56:49											
+558	558	GI adj.trans.sls ord	WA Korr. Transit	2017.07.06 08:56:49											
+561	561	In.ent.st.bal:slsOrd	LB-KBB	2017.07.06 08:56:49											
+562	562	R SC RTP	WR Bestandsauf KdAuf	2017.07.06 08:56:49											
+563	563	Subcontr. consgt QI	BestAufn. LB-Best Q	2017.07.06 08:56:49											
+564	564	RE entStBals:cstStQI	WR BestAuf Konsi Q.	2017.07.06 08:56:49											
+565	565	In.entStBal:slsO.blk	BestAufn. Proj  G.	2017.07.06 08:56:49											
+566	566	RE entStBal:slsO.blk	WR BestAufnahme Ges	2017.07.06 08:56:49											
+571	571	Receipt assembly	Eing Mont Projekt	2017.07.06 08:56:49											
+572	572	RE rcpt assmbly slsO	WR Eing Mont KdAuftr	2017.07.06 08:56:49											
+573	573	Rcpt assmb. slsO. QI	Eing. Montage KdA QP	2017.07.06 08:56:49											
+574	574	RE rcpt assb.cons.QI	WR Eing Mont KdA QP	2017.07.06 08:56:49											
+575	575	Rcpt blckd assmbly	Eing Montage KdA Sp	2017.07.06 08:56:49											
+576	576	RE rcpt assb.cons.bl	WR Eing Mont Kons Sp	2017.07.06 08:56:49											
+581	581	Rcpt by-prod network	Eingang NebPr Netzpl	2017.07.06 08:56:49											
+582	582	RE by-prod. network	WR KdAuf NebPr Netzp	2017.07.06 08:56:49											
+601	601	GD goods issue:delvy	WL WarenausLieferung	2017.07.06 08:56:49											
+602	602	GD Goods deliv. rev.	WL WarenausLiefer St	2017.07.06 08:56:49											
+603	603	TF replenishment del	UL Auslagern an Werk	2017.07.06 08:56:49											
+604	604	TR rem.fm stor.to pl	UR Auslagern an Werk	2017.07.06 08:56:49											
+605	605	TF pl.in stor.in pl.		2017.07.06 08:56:49											
+606	606	TR pl.in stor.in pl.	UR Einlagern im Werk	2017.07.06 08:56:49											
+617	617	Cre. Str. Mat. Cons.	Zusfüh Str Mat Konsi	2017.07.06 08:56:49											
+618	618	RE Cr. Str. Mat. Con	WR Zusfü Str Mat Kon	2017.07.06 08:56:49											
+619	619	Rem. Str. Mat. Cons.	Zerleg Str Mat Konsi	2017.07.06 08:56:49											
+620	620	RE Rem. Str Mat Cons	WR Zerl Str Mat Kons	2017.07.06 08:56:49											
+621	621	GI ret.pack.:lending	WL Leergut Ausleihe	2017.07.06 08:56:49											
+622	622	GD ret.pack:ret.del.	WL Leergut Rücklief	2017.07.06 08:56:49											
+623	623	GI iss:cust.ret.pack	WA Abgang Leergut Ku	2017.07.06 08:56:49											
+624	624	GI rcpt:cust.re.pack	WA Zugang Leergut Ku	2017.07.06 08:56:49											
+631	631	GD consgmt: lending	UB Projekt an Konsi	2017.07.06 08:56:49											
+632	632	GI consgmt:ret.delvy	UB Konsi an KdAuf	2017.07.06 08:56:49											
+633	633	GI iss: cust.consgmt	WA Abgang Konsi Kund	2017.07.06 08:56:49											
+634	634	GI rcpt:cust.consgmt	WA Zugang Konsi Kund	2017.07.06 08:56:49											
+635	635	TF consgmt lending	UL Konsi Ausleihe	2017.07.06 08:56:49											
+636	636	TR consgmt ret. del.	UR Konsi Rücklief	2017.07.06 08:56:49											
+641	641	TF plant plant slsOr	UL Werk Werk Projekt	2017.07.06 08:56:49											
+642	642	TR to stck in trans.	UR An Transitbestand	2017.07.06 08:56:49											
+643	643	TF CC to project	UL CC an Projekt	2017.07.06 08:56:49											
+644	644	TR to cross company	UR An Cross Company	2017.07.06 08:56:49											
+645	645	TF CC to project	UL Cross Company	2017.07.06 08:56:49											
+646	646	TR CC to project	UR CC an Projekt	2017.07.06 08:56:49											
+647	647	TF plant plant proj.	UL Werk Werk Projekt	2017.07.06 08:56:49											
+648	648	TR to Consign. Stock	UR An Transitbestand	2017.07.06 08:56:49											
+651	651	GD ret.del.  returns	WL WarenRück Retoure	2017.07.06 08:56:49											
+652	652	GD ret.del. retn rev	WR WarenRück Ret Sto	2017.07.06 08:56:49											
+653	653	GD returns unrestr.	WL Retoure frei verw	2017.07.06 08:56:49											
+654	654	GD returns unr. rev.	WL Ret.f.verw.Storno	2017.07.06 08:56:49											
+655	655	GD returns QI	WL Retoure Qual	2017.07.06 08:56:49											
+656	656	GD returns QI  rev.	WL Ret. Qual Storno	2017.07.06 08:56:49											
+657	657	GD returns blocked	WL Retoure gesperrt	2017.07.06 08:56:49											
+658	658	GD returns blk. rev.	WL Ret. gesp. Storno	2017.07.06 08:56:49											
+661	661	GI ret. to vdr SaOrd	WL Ret an Lief KdAuf	2017.07.06 08:56:49											
+662	662	RE ret. to vdr revrs	WL Ret an Lief Storn	2017.07.06 08:56:49											
+671	671	TR plant plant proj.	UR Werk Werk Projekt	2017.07.06 08:56:49											
+672	672	TF to stck in trans.	UL Werk Werk KdAuf	2017.07.06 08:56:49											
+673	673	TF to cross company	UL An Cross Company	2017.07.06 08:56:49											
+674	674	TF to cross company	UL An Cross Company	2017.07.06 08:56:49											
+675	675	TR cross company	UR Cross Company	2017.07.06 08:56:49											
+676	676	TF cross company	UL Cross Company	2017.07.06 08:56:49											
+677	677	TR plant plant slsOr	UR Werk Werk KdAuf	2017.07.06 08:56:49											
+678	678	TF to Consign. Stock	UL Werk Werk KdAuf	2017.07.06 08:56:49											
+6A1	6A1	TF GI1 project	UL WA1 Proj	2017.07.06 08:56:49											
+6A2	6A2	TR GI1	UR WA1	2017.07.06 08:56:49											
+6A3	6A3	TF CC GI1 sls ordr	UL CC WA1	2017.07.06 08:56:49											
+6A4	6A4	TR CC GI1	UR CC WA1 KdAuf	2017.07.06 08:56:49											
+6A5	6A5	TF CC GI1 sls ordr	UL CC WA1 KdAuf	2017.07.06 08:56:49											
+6A6	6A6	TR CC GI1	UR CC WA1	2017.07.06 08:56:49											
+6A7	6A7	TF GI1 sales order	UL WA1 Proj	2017.07.06 08:56:49											
+6A8	6A8	TR GI1 sales order	UR WA1	2017.07.06 08:56:49											
+6B1	6B1	TF GI2 sales order	UL WA2 Proj	2017.07.06 08:56:49											
+6B2	6B2	TR GI2	UR WA2	2017.07.06 08:56:49											
+6B3	6B3	TF CC GI2	UL CC WA2 KdAuf	2017.07.06 08:56:49											
+6B4	6B4	TR CC GI2	UR CC WA2	2017.07.06 08:56:49											
+6B5	6B5	TF CC GI2	UL CC WA2 KdAuf	2017.07.06 08:56:49											
+6B6	6B6	TR CC GI2	UR CC WA2	2017.07.06 08:56:49											
+6B7	6B7	TF GI2 sales order	UL WA2 KdAuf	2017.07.06 08:56:49											
+6B8	6B8	TR GI2	UR WA2	2017.07.06 08:56:49											
+6K5	6K5	TF GI2 consi	UL WA2 Konsi	2017.07.06 08:56:49											
+6K6	6K6	TR GI2 consi	UR WA2 Konsi	2017.07.06 08:56:49											
+6W5	6W5	TF GI1 consi	UL WA1 Konsi	2017.07.06 08:56:49											
+6W6	6W6	TR GI1 consi	UR WA1 Konsi	2017.07.06 08:56:49											
+701	701	GR PhysInv.SC SlsOrd	WE Inv. Lager Konsi	2017.07.06 08:56:49											
+702	702	GI phyInv:custRePack	WA Inv. LB MTV	2017.07.06 08:56:49											
+703	703	GR PhyInv. QI SC RTP	WE Inv. Q-Prfg. KBB	2017.07.06 08:56:49											
+704	704	GI PhyInv.QI SC Cons	WA Inventur Quaprüf	2017.07.06 08:56:49											
+707	707	GR phyInv:blkd slsOr	WE Inv Ges Projekt	2017.07.06 08:56:49											
+708	708	GI phys.inv.:blocked	WA Inventur Gesperrt	2017.07.06 08:56:49											
+711	711	GI InvDiff.:wh/slsOr	WA InvDiff. L/Proj	2017.07.06 08:56:49											
+712	712	GR InvDiff:whse/cons	WE InvDiff. L/KundA	2017.07.06 08:56:49											
+713	713	GI InvDiff: QI/cons.	WA InvDiff. Q/KundA	2017.07.06 08:56:49											
+714	714	GR InvDiff: QI	WE InvDiff. Quaprü.	2017.07.06 08:56:49											
+715	715	GI InvDiff.:returns	WA InvDiff. Retoure	2017.07.06 08:56:49											
+716	716	GR InvDiff.:returns	WE InvDiff. Retoure	2017.07.06 08:56:49											
+717	717	GI InvDiff:blk/cust	WA BestDiff.:Gsp/Kd.	2017.07.06 08:56:49											
+718	718	GR InvDiff:blk/proj.	WE InvDiff. Gesperrt	2017.07.06 08:56:49											
+721	721	SlsVal.rec.n.afftMgs	VK-Wert Zug SpNeutr	2017.07.06 08:56:49											
+722	722	SlsVal.iss.n.afftMgs	VK-Wert Abg SpNeutr	2017.07.06 08:56:49											
+731	731	SlsVal.rec. afftgMgs	VK-Wert Zug SpWirks	2017.07.06 08:56:49											
+732	732	SlsVal.iss. afftgMgs	VK-Wert Abg SpWirks	2017.07.06 08:56:49											
+841	841			2017.07.06 08:56:49											
+842	842			2017.07.06 08:56:49											
+843	843			2017.07.06 08:56:49											
+844	844			2017.07.06 08:56:49											
+951	951	GI scrap.custEmpties	WA Verschrottung LBB	2017.07.06 08:56:49											
+952	952	RE scrapping to PA	WR Verschrott KdKons	2017.07.06 08:56:49											
+961	961	GI for OH order	WA für GK-Auftrag	2017.07.06 08:56:49											
+962	962	RE order frm sls or.	WR Auftrag aus Pipel	2017.07.06 08:56:49											

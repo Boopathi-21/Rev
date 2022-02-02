@@ -1,0 +1,33 @@
+LEGACY_LOGICAL_TIME	LOGICAL_TIME	LOGICAL_TIME_TXT_GBL	LOGICAL_TIME_TXT_LCL	DI_TIMESTAMP											
+IDAVAILFS	IDAVAILFS	Inbound Delivery Available for Sale	Anlieferung verfügbar für Verkauf	2017.07.06 08:56:49											
+IDDOCUMENT	IDDOCUMENT	Document Date	Belegdatum	2017.07.06 08:56:49											
+IDINTRANS	IDINTRANS	Inbound Delivery in Transit	Anlieferung in Transit	2017.07.06 08:56:49											
+IDINYARD	IDINYARD	Inbound Delivery in Plant	Anlieferung im Werk	2017.07.06 08:56:49											
+IDRECDOCK	IDRECDOCK	Received on Dock	Wareneingang am Tor	2017.07.06 08:56:49											
+IDSHIPMENT	IDSHIPMENT	Carrier Inbound Delivery	Anlieferung Transport	2017.07.06 08:56:49											
+IDVERSION	IDVERSION	Current Version of Inbound Delivery	Aktuelle Version der Anlieferung	2017.07.06 08:56:49											
+SMCALCBEG	SMCALCBEG	SM Planned start (STRMN/STRUR)	SM gewünschter Start  (STRMN/STRUR)	2017.07.06 08:56:49											
+SMCALCEND	SMCALCEND	SM Planned end (LTRMN/LTRUR)	SM gewünschtes Ende   (LTRMN/LTRUR)	2017.07.06 08:56:49											
+SMCALCLOS	SMCALCLOS	SM Completion (QMDAB/QMZAB)	SM Abschluß           (QMDAB/QMZAB)	2017.07.06 08:56:49											
+SMCALMALBE	SMCALMALBE	SM Start of malfunction (AUSVN/AUZTV)	SM Beginn der Störung (AUSVN/AUZTV)	2017.07.06 08:56:49											
+SMCALMALEN	SMCALMALEN	SM End of Malfunction   (AUSBS/AUZTB)	SM Ende der Störung   (AUSBS/AUZTB)	2017.07.06 08:56:49											
+SMCALOPEN	SMCALOPEN	SM Opening            (QMDAT/MZEIT)	SM Eröffnung          (QMDAT/MZEIT)	2017.07.06 08:56:49											
+WSARRI	WSARRI	Arrival at Customer	Zeitpunkt Ankunft beim Kunden	2017.07.06 08:56:49											
+WSCUSTOM	WSCUSTOM	Customs Inbox	Zolleingang	2017.07.06 08:56:49											
+WSHDR0001	WSHDR0001	Free Date 1	Freier Termin 1	2017.07.06 08:56:49											
+WSHDR0002	WSHDR0002	Free date 2	Freier Termin 2	2017.07.06 08:56:49											
+WSHDRCIDAT	WSHDRCIDAT	Arrival at Next Cross-Docking Warehouse	Ankunft am nächsten Cross-Docking-Lager	2017.07.06 08:56:49											
+WSHDRCRDAT	WSHDRCRDAT	Arrival at Next Cross-Docking Warehouse	Ankunft am nächsten Cross-Docking-Lager	2017.07.06 08:56:49											
+WSHDRKODAT	WSHDRKODAT	Picking time	Komissionierungs-Zeitpunkt	2017.07.06 08:56:49											
+WSHDRLDDAT	WSHDRLDDAT	Load time	Verlade-Zeitpunkt	2017.07.06 08:56:49											
+WSHDRLFDAT	WSHDRLFDAT	Delivery time	Lieferungs-Zeitpunkt	2017.07.06 08:56:49											
+WSHDRMBDAT	WSHDRMBDAT	Material availability time	Materialverfügbarkeits-Zeitpunkt	2017.07.06 08:56:49											
+WSHDRTDDAT	WSHDRTDDAT	Transportation Planning Time	Transportdispo-Zeitpunkt	2017.07.06 08:56:49											
+WSHDRTRACK	WSHDRTRACK	Tracking time	Tracking-Zeitpunkt	2017.07.06 08:56:49											
+WSHDRWADAT	WSHDRWADAT	Goods issue	Warenausgang	2017.07.06 08:56:49											
+WSLABELBEG	WSLABELBEG	Start labeling	Beginn Etikettieren	2017.07.06 08:56:49											
+WSLABELEND	WSLABELEND	End labeling	Ende Etikettieren	2017.07.06 08:56:49											
+WSLOADBEG	WSLOADBEG	Loading start	Verladen Beginn	2017.07.06 08:56:49											
+WSLOADEND	WSLOADEND	Loading end	Verladen Ende	2017.07.06 08:56:49											
+WSTRANBEG	WSTRANBEG	Shipment start	Transport Beginn	2017.07.06 08:56:49											
+WSTRANEND	WSTRANEND	Shipment end	Transport Ende	2017.07.06 08:56:49											

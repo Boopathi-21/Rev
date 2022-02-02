@@ -1,0 +1,14 @@
+LEGACY_DOCUMENT_TYPE	DOCUMENT_TYPE	DOCUMENT_TYPE_TXT_GBL	DOCUMENT_TYPE_TXT_LCL	DI_TIMESTAMP											
+AUT	AUT	Unit Testing	Funktionstest	2017.07.06 08:56:49											
+LCM	LCM	Legal Content Mgmt		2017.07.06 08:56:49											
+RMS	RMS	Recipe Documents	Rezeptdokumente	2017.07.06 08:56:49											
+SBO	SBO	Simplified BOM	Vereinfachte STL	2017.07.06 08:56:49											
+SC1	SC1	Simplified CRM	Vereinfachtes CRM	2017.07.06 08:56:49											
+SCR	SCR	Change Record	Änderungsmappe	2017.07.06 08:56:49											
+SFI	SFI	Simplified Financial	Vereinf. Finanzwesen	2017.07.06 08:56:49											
+SL1	SL1	Simplified Logistics	Vereinf. Logistik	2017.07.06 08:56:49											
+SO1	SO1	Simplified Other	Vereinf. Sonstiges	2017.07.06 08:56:49											
+SQM	SQM	Simplified QM	Vereinfacht. QM	2017.07.06 08:56:49											
+SRF	SRF	Simplify Stat.Report	Vereinf. StatBericht	2017.07.06 08:56:49											
+YBO	YBO	Office-Documents	Office-Dokumente	2017.07.06 08:56:49											
+YP1	YP1	Image of Damage	Bild des Schadens	2017.07.06 08:56:49											

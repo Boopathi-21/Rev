@@ -1,0 +1,3 @@
+LEGACY_ORDER_BLOCK	ORDER_BLOCK	ORDER_BLOCK_TXT_GBL	ORDER_BLOCK_TXT_LCL	DI_TIMESTAMP											
+Y1	Y1	Overall block	Gesamtsperre	2018.06.19 05:33:47											
+Y3	Y3	Test block	Testsperre	2018.06.19 05:33:47											

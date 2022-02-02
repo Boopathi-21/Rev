@@ -1,0 +1,18 @@
+LEGACY_ACCT_ASGNMT_GRP	ACCT_ASGNMT_GRP	ACCT_ASGNMT_GRP_TXT_GBL	ACCT_ASGNMT_GRP_TXT_LCL	DI_TIMESTAMP											
+01	01	Trading Goods	Handelsware	2017.07.06 08:56:49											
+02	02	Performances	Leistungen	2017.07.06 08:56:49											
+03	03	Finished Products	Fertigerzeugnisse	2017.07.06 08:56:49											
+X1	X1	SP-Time	SP-Zeit	2017.07.06 08:56:49											
+X2	X2	SP-External Services	SP-Externe Services	2017.07.06 08:56:49											
+X3	X3	SP-Disbursements	SP-Auszahlungen	2017.07.06 08:56:49											
+X4	X4	SP-Hardware	SP-Hardware	2017.07.06 08:56:49											
+X5	X5	SP-Licences	SP-Lizenzen	2017.07.06 08:56:49											
+X6	X6	On Account Billed	Zu faktur. Akonto	2017.07.06 08:56:49											
+X7	X7	On Account Utilized	Zu verwend. Akonto	2017.07.06 08:56:49											
+X8	X8	One Time Credit	Einmalkredit	2017.07.06 08:56:49											
+X9	X9	Periodic Service	Periodischer Service	2017.07.06 08:56:49											
+XA	XA	Revenue Cloud Sales	Erlös Cloud-Vertrieb	2017.07.06 08:56:49											
+XB	XB	Rev Service Center		2017.07.06 08:56:49											
+XC	XC	Rev Misc Services		2017.07.06 08:56:49											
+Y1	Y1	Fixed Price	Festpreis	2017.07.06 08:56:49											
+Y2	Y2	Returnable goods	Leihgut	2017.07.06 08:56:49											

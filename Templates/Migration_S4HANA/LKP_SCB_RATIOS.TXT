@@ -1,0 +1,291 @@
+LEGACY_SCB_IND	SCB_IND	REP_REC_DOC_TYPE	INDICATOR_ACC_SERV_SPEC	REASON_FOR_PAYMENT	REASON_FOR_PAYMENT_2	EDI_DOC_TYPE	DI_TIMESTAMP								
+003	003	6	003	Transithandel	 	001	2017.07.06 08:56:49								
+013	013	2	013	Personenbeförderung auf der Schiene	 	 	2017.07.06 08:56:49								
+014	014	2	014	Personenbeförderung in Flugzeugen	 	 	2017.07.06 08:56:49								
+017	017	2	017	Reiseverkehr	 	 	2017.07.06 08:56:49								
+081	081	2	081	Sonstige Seefrachten	 	 	2017.07.06 08:56:49								
+082	082	2	082	Sonstige Luftfrachten	 	 	2017.07.06 08:56:49								
+101	101	2	101	Fremdwährungs-Anleihen ausländischer öffentlicher Emittenten	 	 	2017.07.06 08:56:49								
+102	102	2	102	Fremdwährungs-Anleihen ausländischer privater Emittenten	 	 	2017.07.06 08:56:49								
+104	104	2	104	Aktien und sonstige Dividendenpapiere ausländischer Emittenten	 	 	2017.07.06 08:56:49								
+105	105	2	105	Geldmarktpapiere ausländischer Emittenten	 	 	2017.07.06 08:56:49								
+106	106	2	106	Sonstige ausländische Geldmarktfondszertifikate mit Ertragsausschüttng	(auch bei Wahlmöglichkeit zwischen Barausschüttung und Thesaurierung)	 	2017.07.06 08:56:49								
+107	107	2	107	Erwerb bzw. Veräußerung von Kapitalbeteil., Kapitaleinz., Kapitalerhöh	und Kapitalherab. bei ausländischen nicht börsennotierten Aktiengesell	 	2017.07.06 08:56:49								
+108	108	2	108	Einzahlungen i.d. Kapitalrückl. und Rückzahl. bei ausländ. Aktienges.	einschl. der Zuschüsse zum Ausgleich von bilanzierten Verlustvorträgen	 	2017.07.06 08:56:49								
+110	110	4	110	Optionsscheine ausländischer Emittenten	 	 	2017.07.06 08:56:49								
+111	111	2	111	Erwerb bzw. Veräuß. von Kapitalbeteil., Kapitaleinz., Kapitalerhöh. u.	Kapitalherab. bei ausl. Nicht-Aktienges. - Zahl. b. ausl. Betriebsstät	 	2017.07.06 08:56:49								
+112	112	2	112	Einz. i.d. Kapitalrückl. und Rückzahl. bei ausländ. Nicht-Aktienges.	einschl. der Zuschüsse zum Ausgleich von bilanzierten Verlustvorträgen	 	2017.07.06 08:56:49								
+129	129	2	129	Sonstige ausländische thessurierende Geldmarktfonds	 	 	2017.07.06 08:56:49								
+133	133	4	133	Kapital-Strips der stripbaren Bundesanleihen	 	 	2017.07.06 08:56:49								
+134	134	4	134	Zins-Strips der stripbaren Bundesanleihen	 	 	2017.07.06 08:56:49								
+139	139	2	139	Erwerb und Veräußerung von Übrigen Kapitalanlagen im Ausland durch	inländische MIF's	 	2017.07.06 08:56:49								
+123	123	2	123	Erw. u. Abtr. , Tilg. v. Schuldscheindarl., Namenschuldver., Pfandbr.	u.ä. n. börsenfäh. WP ausl. Emit., Laufz. > 12 Mon., d. inl. MFI's	 	2017.07.06 08:56:49								
+132	132	2	132	Kauf u. Verk. v. Immob. u. Grundst. im Ausland sowie Erwer und Veräuß.	v. Anteilen an geschl. Immob.fonds durch inländische MFI's	 	2017.07.06 08:56:49								
+136	136	2	136	Erwerb bzw. Veräuß. von Kapitalbeteil., Kapitaleinz., Kapitalerhöh. u.	Kapitalherab. v. Untern.anteilen, nicht in Aktien, d. inländ. MIF's	 	2017.07.06 08:56:49								
+140	140	4	140	Bundesschatzanweisungen	 	 	2017.07.06 08:56:49								
+141	141	4	141	Festverzinsliche Anleihen inländischer öffentlicher Emittenten	 	 	2017.07.06 08:56:49								
+143	143	4	143	Fremdwährungsanleihen inländischer öffentlicher Emittenten	 	 	2017.07.06 08:56:49								
+144	144	4	145	Bankaktien inländischer Emittenten	 	 	2017.07.06 08:56:49								
+145	145	4	145	Geldmarktpapiere inländischer MFIs	 	 	2017.07.06 08:56:49								
+146	146	4	146	Sonstige inländische Investmentfonds mit Ertragsausschüttung (auch bei	Wahlmöglichkeit zwischen Barausschüttung und Thesaurierung)	 	2017.07.06 08:56:49								
+147	147	4	147	Erw. bzw. Ver. Kap.bet. a. inl. n. börsenn. MFIs als AG sowie Kap.einz	, Kap.erh., Kap.herabs. in F. v. inl. Aktien. ausg. durch börsenn. MFI	 	2017.07.06 08:56:49								
+148	148	4	148	Einz. i.d. Kap.rückl. und Rückzahl. einschl. Zusch. z. Ausgl. v. bil.	Verl.vortr. bei inländischen MFIs i.d.F. der Aktiengesellschaft	 	2017.07.06 08:56:49								
+150	150	4	150	Optionsscheine inländischer Emittenten	 	 	2017.07.06 08:56:49								
+151	151	4	151	Erw. bzw. Ver. Kap.bet. a. inl. MFIs, d. nicht AG sind, sowie Kap.einz	, Kap.erh., Kap.herabs. b.d.MFIs. Zahl.b.Err.u.Aufh.,Erw.u.Ver.v.ZN.	 	2017.07.06 08:56:49								
+152	152	4	152	Einz. i.d. Kap.rückl. u.Rückzahl. bei inl. MFIs i.d.F. v. Nicht-AGs	einschl. d. Zusch. z. Ausgl. v. bil. Ver.vortr. bei d. inkl. MFIs	 	2017.07.06 08:56:49								
+155	155	4	155	Genussscheine inländischer Emittenten	 	 	2017.07.06 08:56:49								
+157	157	4	157	Sonstige inländische thesaurierende Investmentfonds	 	 	2017.07.06 08:56:49								
+163	163	4	163	Erstabs. u. off. Abtret. sowie Til. o. Rückerw. v. lgfrist. n.börsenn.	(Lz > 12M) d. Inländer: Emissionen von MFIs	 	2017.07.06 08:56:49								
+172	172	0	172	Kauf u. Verk. v. Immo. u. Grundst. im Inl. oder v. im Inl. aufge. Zert	geschl. Immo.fonds durch MFIs (Eigengeschäft)	 	2017.07.06 08:56:49								
+225	225	2	225	Luftfrachten im Zusammenhang mit den deutschen Ein- und Ausfuhren und	Verbringungen	 	2017.07.06 08:56:49								
+226	226	2	226	Rohrfernleitungstransporte im Zusammenhang mit den deutschen Ein- und	Ausfuhren und Verbringungen	 	2017.07.06 08:56:49								
+340	340	2	340	Transportnebenleistungen für den Schienenverkehr	 	 	2017.07.06 08:56:49								
+344	344	4	344	Unverzinsliche Schatzanweisungen des Bundes (Bubills)	 	 	2017.07.06 08:56:49								
+175	175	4	175	St. Abtr. u. Til. v.kfr. Inl.ford. u.n. börsennot. Wertpap. (bis 12M)	d. Inländer, untersch. n. Schuldnergr.: MFIs	 	2017.07.06 08:56:49								
+176	176	4	176	St. Abtr. u. Til. v. lgfr. Inl.ford. und nicht-börsennot. Wertpap.	(Lz > 12M) d. Inl., untersch. n. Sculdnergr.: MFIs	 	2017.07.06 08:56:49								
+178	178	4	178	Erw. u. Ver. v. Kap.bet., Kap.einz., Kap.erh. u. Kap.herabs. v. nicht	in Aktien verbr. Unt.ant. an inl. MFIs	 	2017.07.06 08:56:49								
+179	179	4	179	Erwerb und Veräußerung von übrigen Kapitalanlagen im Inland bei inländ	MFIs	 	2017.07.06 08:56:49								
+180	180	4	180	Pacht- und Mieterträge sowie –aufwendungen von inländischen MFIs	 	 	2017.07.06 08:56:49								
+182	182	4	182	Zinsen auf Wertpapiere ausländischer öffentlicher Emittenten, die von	inländischen MFIs vereinnahmt werden	 	2017.07.06 08:56:49								
+237	237	2	237	Explorationsaufwendungen im Ausland	 	 	2017.07.06 08:56:49								
+239	239	2	239	Erwerb und Veräußerung von Übrigen Kapitalanlagen im Ausland durch	inländische Unternehmen und Privatpersonen	 	2017.07.06 08:56:49								
+240	240	2	240	Straßenfrachten im Zusammenhang mit den deutschen Ein- und Ausfuhren	und Verbringungen	 	2017.07.06 08:56:49								
+245	245	4	245	Geldmarktpapiere inländischer Unternehmen	 	 	2017.07.06 08:56:49								
+183	183	4	183	Zinsen auf Wertpapiere inländischer privater Emittenten, die an Ausl.	gezahlt werden bzw. die Inl. als erste inl. St.  von ausl. Lagerst. er	 	2017.07.06 08:56:49								
+184	184	4	184	Zinseinnahmen und –ausgaben der MFIs aus Bankguthaben, Krediten etc.	 	 	2017.07.06 08:56:49								
+185	185	4	185	Erträge aus ausländischen Aktien oder Genussscheinen, die von inländi.	MFIs vereinnahmt werden	 	2017.07.06 08:56:49								
+186	186	4	186	Erträge aus Anteilen an sonstigen Kapitalgesellschaften (z.B.GmbH-Ant)	die von inl. MFIs vereinnahmt oder gezahlt werden	 	2017.07.06 08:56:49								
+187	187	4	187	Erträge aus sonstigen Geschäfts- und Kapitalanteilen (z.B.Kommand.Ant)	sowie ZN, die von inl. MFIs vereinnahmt oder gezahlt werden	 	2017.07.06 08:56:49								
+188	188	4	188	Erträge aus Anteilen an Aktiengesellschaften, die von inländischen MFI	vereinahmt oder gezahlt werden	 	2017.07.06 08:56:49								
+190	190	4	190	Ver. o. gel. Zusch. v. MFIs z. Verm. v. Verl.vortr. bzw. Jahr.fehlbetr	sowie Übern. d. neg. Betr.erg. von BS u. ZN aus Ergeb. d. gewöhnl. Gt.	 	2017.07.06 08:56:49								
+197	197	4	197	Aufwendungen und Erträge von MFIs aus sonstigen, nicht in Wertpapieren	verbr. Unternehmensbet. bei ausl. bzw. inl. Nicht-Aktiengesellschaften	 	2017.07.06 08:56:49								
+215	215	2	215	Sonstige Rohrfernleitungstransporte	 	 	2017.07.06 08:56:49								
+216	216	2	216	Binnenschiffsfrachten im Zusammenhang mit den deutschen Ein- und	Ausfuhren und Verbringungen	 	2017.07.06 08:56:49								
+217	217	2	217	Übertragung von Stromfernleitungen	 	 	2017.07.06 08:56:49								
+207	207	2	207	Erwerb bzw. Veräußerung von Kapitalbeteil., Kapitaleinz., Kapitalerhöh	und Kapitalherab. bei ausländischen nicht börsennotierten Aktiengesell	 	2017.07.06 08:56:49								
+208	208	2	208	Einzahlungen i.d. Kapitalrückl. und Rückzahl. bei ausländ. Aktienges.	einschl. der Zuschüsse zum Ausgleich von bilanzierten Verlustvorträgen	 	2017.07.06 08:56:49								
+211	211	2	211	Erwerb bzw. Veräuß. von Kapitalbeteil., Kapitaleinz., Kapitalerhöh. u.	Kapitalherab. bei ausl. Nicht-Aktienges. - Zahl. b. ausl. Betriebsstät	 	2017.07.06 08:56:49								
+212	212	2	212	Einz. i.d. Kapitalrückl. und Rückzahl. bei ausländ. Nicht-Aktienges.	einschl. der Zuschüsse zum Ausgleich von bilanzierten Verlustvorträgen	 	2017.07.06 08:56:49								
+219	219	4	219	Gew. u. Rückz. v. Kred. m. Lz. > 12M d. inl. Fin.töchter a. ausl. Unt.	, die an Ihnen unmittelbar oder mittelbar beteiligt sind	 	2017.07.06 08:56:49								
+221	221	2	221	Gewähr. u. Rückz. von Krediten an Ausl., Dot. u. Rückz. v. Guthaben	b. ausl. Banken, Abtr. Ausl.Ford > 12 Mon. durch Untern. u. Privatper.	 	2017.07.06 08:56:49								
+222	222	2	222	Gewähr. u. Rückz. von Krediten, Laufzeit > 12 Mon. d. inl. Untern. u.	Privatper. & öffentl. Haush. an ausl. beteil. Untern. u. Betriebsst.	 	2017.07.06 08:56:49								
+223	223	2	223	Erw. u. Abtr. , Tilg. v. Schuldscheindarl., Namenschuldver., Pfandbr.	u.ä. n. börsenfäh. WP ausl. Emit., Laufz. > 12 Mon., d. inl. Untern.	 	2017.07.06 08:56:49								
+228	228	4	228	Gewähr. u. Rückz. von Krediten, Laufzeit > 12 Mon. d. inl. Untern.	an ausl. Untern. mit gemeinsamen Direktinvestor	 	2017.07.06 08:56:49								
+227	227	4	227	Gew. u. Rückz. v. Kred. m. Lz. > 12M d. inl. Unt. a. ausl. Untern.,d.	bet. sind, sowie Kredite, d. inl. ZN u. BS an ihre ausl. Zentralen geb	 	2017.07.06 08:56:49								
+232	232	2	232	Kauf u. Verk. v. Immob. u. Grundst. im Ausland sowie Erwer und Veräuß.	v. Anteilen an geschl. Immob.fonds durch inländische Untern. u.Privatp	 	2017.07.06 08:56:49								
+236	236	2	236	Erwerb bzw. Veräuß. von Kapitalbeteil., Kapitaleinz., Kapitalerhöh. u.	Kapitalherab. v. Untern.anteilen, nicht in Aktien, d. inl. Untern.u.Pe	 	2017.07.06 08:56:49								
+247	247	4	247	Erw. bzw. Ver. Kap.bet. a. inl. n.börsenn. Unt. als AG sowie Kap.einz.	, Kap.erh., Kap.herabs. in F. v. inl. Aktien. ausg. d. n. börsenn. Unt	 	2017.07.06 08:56:49								
+248	248	4	248	Einz. i.d. Kap.rückl. u.Rückzahl. einschl. d. Zusch. z. Ausgl. v. bil.	Verl.vortr. i.F.v. inl. Aktien, ausgeg. d. börsennot. Unternehmen	 	2017.07.06 08:56:49								
+251	251	2	251	Erw. bzw. Ver. v. Kap.bet. a. inl. Unt., d.n. AG sind, sowie Kap.einz.	, Kap.herbs. b.d. inl. Unt. Zahl.b.Err.u.Aufh.,Erw.u.Ver.v.inl.ZN ausl	 	2017.07.06 08:56:49								
+345	345	4	345	Übrige Geldmarktpapiere inländischer öffentlicher Emittenten	 	 	2017.07.06 08:56:49								
+351	351	4	351	Gew. u. Rückzahl. v. Krediten (sowie offene Abtret. v. Inl.ford.) m.	Lz. > 12M a. inl. Öffentliche Haushalte	 	2017.07.06 08:56:49								
+360	360	2	360	Transportnebenleistungen für den Luftverkehr	 	 	2017.07.06 08:56:49								
+252	252	4	252	Einz. i.d. Kap.rückl. u. Rückz. bei inl. Unt., d.n. AG sind, einschl.	d. Zusch. von bilanzierten Verlustvorträgen b.diesen Unternehmen	 	2017.07.06 08:56:49								
+258	258	4	258	Nichtbankaktien inländischer Emittenten	 	 	2017.07.06 08:56:49								
+261	261	4	261	Gew. u. Rückzahl. v. Krediten (sowie offene Abtret. v. Inl.ford.) m.	Lz. > 12M a. inl. Finanzielle Unternehmen	 	2017.07.06 08:56:49								
+262	262	4	262	Auf. u. Rückz. v. Kred. m. Lz. > 12M d. inl. Unt. b. ausl. Untern.,d.	bet. sind, soie Kred.aufn. v. inl. ZN u. BS b. ihren ausl. Zentralen	 	2017.07.06 08:56:49								
+263	263	4	263	Erstabs. u. off. Abtret. sowie Til. o. Rückerw. v. lgfrist. n.börsenn.	(Lz > 12M) d. Inländer: Emissionen von finanziellen Unternehmen	 	2017.07.06 08:56:49								
+267	267	2	267	Aufnahme u. Rückz. von Krediten, Laufzeit > 12 Mon. d. inl. Untern. u.	Privatper. & öffentl. Haush. an ausl. beteil. Untern. u. Betriebsst.	 	2017.07.06 08:56:49								
+268	268	4	268	Aufnahme u. Rückz. von Krediten, Laufzeit > 12 Mon. d. inl. Untern.	an ausl. Untern. mit gemeinsamen Direktinvestor	 	2017.07.06 08:56:49								
+269	269	2	269	Aufnahme u. Rückz. von Krediten, Laufzeit > 12 Mon. d. inl. Untern. u.	Privatper. & öffentl. Haush. an ausl. beteil. Finanzierungstöchtern	 	2017.07.06 08:56:49								
+272	272	4	272	Kauf u. Verk. v. Immo. u. Grundst. im Inl. oder v. im Inl. aufge. Zert	geschl. Immo.fonds durch Unternehmen u. Privatpersonen	 	2017.07.06 08:56:49								
+275	275	4	275	St. Abtr. u. Til. v.kfr. Inl.ford. u.n. börsennot. Wertpap. (bis 12M)	d. Inländer, untersch. n. Schuldnergr.: Finanz. Unternehmen	 	2017.07.06 08:56:49								
+276	276	4	276	St. Abtr. u. Til. v. lgfr. Inl.ford. und nicht-börsennot. Wertpap.	(Lz > 12M) d. Inl., untersch. n. Sculdnergr.: Finanzielle Unternehmen	 	2017.07.06 08:56:49								
+278	278	4	278	Erw. u. Ver. v. Kap.bet., Kap.einz., Kap.erh. u. Kap.herabs. v. nicht	in Aktien verbr. Unt.ant. an inl. Unternehmen	 	2017.07.06 08:56:49								
+279	279	4	279	Erwerb und Veräußerung von Übrigen Kapitalanlagen im Inland bei inländ	Unternehmen und Privatpersonen	 	2017.07.06 08:56:49								
+280	280	4	280	Pacht- und Mieterträge sowie –aufwendungen von inländischen	Unternehmen und Privatpersonen	 	2017.07.06 08:56:49								
+282	282	4	282	Zinsen auf Wertpapiere ausländischer öffentlicher Emittenten, die von	inländischen Unternehmen u. Privatpersonen vereinnahmt werden	 	2017.07.06 08:56:49								
+283	283	4	283	Zinsen auf Wertpapiere ausländischer privater Emittenten, die von inl.	Unternehmen und Privatpersonen vereinahmt werden	 	2017.07.06 08:56:49								
+284	284	4	284	Zinseinnahmen und –ausgaben der Unternehmen und Privatpersonen	aus Bankguthaben, Krediten etc.	 	2017.07.06 08:56:49								
+310	310	2	310	Transportnebenleistungen für den Seeverkehr	 	 	2017.07.06 08:56:49								
+339	339	2	339	Erwerb und Veräußerung von Übrigen Kapitalanlagen im Ausland durch	inländische öffentliche Haushalte	 	2017.07.06 08:56:49								
+285	285	4	285	Erträge aus ausländischen Aktien oder Genussscheinen, die an Ausl. gez	werden bzw. die über ausl. Lagerstellen an Inländer gezahlt werden	 	2017.07.06 08:56:49								
+286	286	4	286	Erträge aus Anteilen an sonstigen Kapitalgesellschaften (z.B.GmbH-Ant)	die von inl. Untern. u. Privatpersonen vereinnahmt oder gezahlt werden	 	2017.07.06 08:56:49								
+287	287	4	287	Erträge aus sonstigen Geschäfts- und Kapitalanteilen (z.B.Kommand.Ant)	sowie ZN, die von inl. Untern. u. Privatpers. vereinnahmt oder gez. we	 	2017.07.06 08:56:49								
+288	288	4	288	Erträge aus Anteilen an Aktiengesellschaften, die von inländischen	Unternehmen und Privatpersonen vereinahmt oder gezahlt werden	 	2017.07.06 08:56:49								
+289	289	4	289	Kred.v. Dir.Invest. an Tochterunt. : Zinsen für inl. Dir.Invest. sowie	Zinsen für inl. Tochterunt. von ihren ausl. Dir.Investoren	 	2017.07.06 08:56:49								
+290	290	4	290	Ver. o. gel. Zusch. v. Unt. z. Verm. v. Verl.vortr. bzw. Jahr.fehlbetr	sowie Übern. d. neg. Betr.erg. von BS u. ZN aus Ergeb. d. gewöhnl. Gt.	 	2017.07.06 08:56:49								
+297	297	4	297	Aufw.u.Ertr.v.Unt.u.Priv.pers.sowie öffentl.Haush.a.sonst.n.i.Wertpap.	verbr. Unternehmensbet. bei ausl. bzw. inl. Nicht-Aktiengesellschaften	 	2017.07.06 08:56:49								
+321	321	2	321	Gewähr. u. Rückz. von Krediten an Ausl., Dot. u. Rückz. v. Guthaben	b. ausl. Banken, Abtr. Ausl.Ford > 12 Mon. durch öffentl. Haushalte	 	2017.07.06 08:56:49								
+323	323	2	323	Erw. u. Abtr. , Tilg. v. Schuldscheindarl., Namenschuldver., Pfandbr.	u.ä. n. börsenfäh. WP ausl. Emit., Laufz. > 12 Mon., d. öffentl. Haush	 	2017.07.06 08:56:49								
+332	332	2	332	Kauf u. Verk. v. Immob. u. Grundst. im Ausland sowie Erwer und Veräuß.	v. Anteilen an geschl. Immob.fonds durch öffentliche Haushalte	 	2017.07.06 08:56:49								
+336	336	2	336	Erwerb bzw. Veräuß. von Kapitalbeteil., Kapitaleinz., Kapitalerhöh. u.	Kapitalherab. v. Untern.anteilen, nicht in Aktien, d. öffentl. Haush.	 	2017.07.06 08:56:49								
+352	352	4	352	St. Abtr. u. Til. v. lgfr. Inl.ford. und nicht-börsennot. Wertpap.	(Lz > 12M) d. Inl., untersch. n. Sculdnergr.: Öffentliche Haushalte	 	2017.07.06 08:56:49								
+361	361	2	361	Bedarf für Transportmittel	 	 	2017.07.06 08:56:49								
+366	366	4	366	Erstabs. u. off. Abtret. sowie Til. o. Rückerw. v. lgfrist. n.börsenn.	(Lz > 12M) d. Inländer: Emissionen des Bundes	 	2017.07.06 08:56:49								
+367	367	4	367	Erstabs. u. off. Abtret. sowie Til. o. Rückerw. v. lgfrist. n.börsenn.	(Lz > 12M) d. Inländer: Emissionen der Länder	 	2017.07.06 08:56:49								
+466	466	4	466	Variabel verzinsliche Euro-Anleihen inländischer Unternehmen	 	 	2017.07.06 08:56:49								
+467	467	2	467	Ausländische Emissionszertifikate	 	 	2017.07.06 08:56:49								
+491	491	4	491	Festverzinsliche Fremdwährungsanleihen inländischer MFIs	 	 	2017.07.06 08:56:49								
+492	492	4	492	Festverzinsliche Fremdwährungsanleihen inländischer Unternehmen	 	 	2017.07.06 08:56:49								
+495	495	4	495	Variabel verzinsliche Fremdwährungsanleihen inländischer MFIs	 	 	2017.07.06 08:56:49								
+368	368	4	368	Erstabs. u. off. Abtret. sowie Til. o. Rückerw. v. lgfrist. n.börsenn.	(Lz > 12M) d. Inländer: Emissionen von Städten u. Gemeinden	 	2017.07.06 08:56:49								
+372	372	4	372	Kauf u. Verk. v. Immo. u. Grundst. im Inl. oder v. im Inl. aufge. Zert	geschl. Immo.fonds durch Öffentliche Haushalte	 	2017.07.06 08:56:49								
+373	373	4	373	St. Abtr. u. Til. v.kfr. Inl.ford. u.n. börsennot. Wertpap. (bis 12M)	d. Inländer, untersch. n. Schuldnergr.: Öffentliche Haushalte	 	2017.07.06 08:56:49								
+379	379	4	379	Erwerb und Veräußerung von Übrigen Kapitalanlagen im Inland bei inländ	Öffentlichen Haushalten	 	2017.07.06 08:56:49								
+380	380	4	380	Pacht- und Mieterträge sowie –aufwendungen von inländischen	Öffentlichen Haushalten	 	2017.07.06 08:56:49								
+382	382	4	382	Zinsen auf Wertpapiere inländischer öffentlicher Emittenten, die an	Ausl. gez. w. bzw. die Inl. als erste inl. St. v. ausl. Lagerst. erhal	 	2017.07.06 08:56:49								
+384	384	4	384	Zinseinnahmen und –ausgaben der öffentlichen Haushalte aus Bankguthabe	n, Krediten, etc	 	2017.07.06 08:56:49								
+400	400	2	400	Lebensversicherungen inländischer Versicherungsnehmer	 	 	2017.07.06 08:56:49								
+401	401	2	401	Lebensversicherungszweitmarkt	 	 	2017.07.06 08:56:49								
+410	410	2	410	Transportversicherung inländischer Versicherungsnehmer	 	 	2017.07.06 08:56:49								
+420	420	2	420	Sonstiger Versicherungsverkehr inländischer Versicherungsnehmer	 	 	2017.07.06 08:56:49								
+440	440	2	440	Lebensversicherungen inländischer Versicherungsnehmer mit Ausländern	 	 	2017.07.06 08:56:49								
+441	441	2	441	Transportversicherung inländischer Versicherungsgeber -	Versicherungsvertrag mit Ausländern	 	2017.07.06 08:56:49								
+442	442	2	442	Sonstiger Versicherungsverkehr inländischer Versicherungsnehmer -	Versicherungsvertrag mit Ausländern	 	2017.07.06 08:56:49								
+443	443	2	443	Lebensversicherungen inländischer Versicherungsgeber mit Inländern	 	 	2017.07.06 08:56:49								
+444	444	2	444	Transportversicherung inländischer Versicherungsgeber -	Versicherungsvertrag mit Inländern	 	2017.07.06 08:56:49								
+445	445	2	445	Sonstiger Versicherungsverkehr inländischer Versicherungsnehmer -	Versicherungsvertrag mit Inländern	 	2017.07.06 08:56:49								
+449	449	2	449	Gewinnbeteiligung bei Rückversicherungen	 	 	2017.07.06 08:56:49								
+450	450	2	450	Abgehendes (Retro-) Geschäft	 	 	2017.07.06 08:56:49								
+451	451	2	451	Eingehendes (Rück-) Geschäft	 	 	2017.07.06 08:56:49								
+460	460	2	460	Sonstige Einnahmen von Versicherungen	 	 	2017.07.06 08:56:49								
+461	461	4	461	Festverzinsliche Euro-Anleihen inländischer MFIs	 	 	2017.07.06 08:56:49								
+462	462	4	462	Festverzinsliche Euro-Anleihen inländischer Unternehmen	 	 	2017.07.06 08:56:49								
+465	465	4	465	Variabel verzinsliche Euro-Anleihen inländischer MFIs	 	 	2017.07.06 08:56:49								
+496	496	4	496	Variabel verzinsliche Fremdwährungsanleihen inländischer Unternehmen	 	 	2017.07.06 08:56:49								
+507	507	4	507	Inländische Emissionszertifikate	 	 	2017.07.06 08:56:49								
+517	517	2	517	Personalleasing	 	 	2017.07.06 08:56:49								
+521	521	2	521	Entgelte für nicht-selbständige Arbeit	 	 	2017.07.06 08:56:49								
+523	523	2	523	Provisionen	 	 	2017.07.06 08:56:49								
+525	525	4	525	Gehaltszahlungen an ausländische Beschäftigte bei deutschen	Botschaften und Konsulaten	 	2017.07.06 08:56:49								
+526	526	4	526	Renten	 	 	2017.07.06 08:56:49								
+527	527	4	527	Pensionen	 	 	2017.07.06 08:56:49								
+528	528	4	528	Kriegsopferversorgung	 	 	2017.07.06 08:56:49								
+529	529	4	529	Sonstige Renten	 	 	2017.07.06 08:56:49								
+533	533	2	533	Finanzdienstleistungen	 	 	2017.07.06 08:56:49								
+534	534	2	534	Entsorgungsleistungen	 	 	2017.07.06 08:56:49								
+536	536	2	536	Juristische Dienstleistungen	 	 	2017.07.06 08:56:49								
+540	540	2	540	Werbung, Marktforschung, Messekosten	 	 	2017.07.06 08:56:49								
+546	546	2	546	Wirtschaftsprüfung, Buchführung, Steuerberatung	 	 	2017.07.06 08:56:49								
+549	549	2	549	Forschung und Entwicklung	 	 	2017.07.06 08:56:49								
+551	551	2	551	Produkttests	 	 	2017.07.06 08:56:49								
+553	553	2	553	Technische Dienstleistungen	 	 	2017.07.06 08:56:49								
+554	554	2	554	Architekturdienstleistungen	 	 	2017.07.06 08:56:49								
+555	555	2	555	Ingenieur-Dienstleistungen	 	 	2017.07.06 08:56:49								
+556	556	2	556	Kaufmännische Dienstleistungen	 	 	2017.07.06 08:56:49								
+558	558	2	558	Dienstleistungen für Landwirtschaft und Bergbau	 	 	2017.07.06 08:56:49								
+561	561	2	561	Reparatur von Gebäuden und anderen nicht beweglichen Sachen	 	 	2017.07.06 08:56:49								
+564	564	2	564	Herstellung von audiovisuellen und sonstigen künstlerischen Produkten	 	 	2017.07.06 08:56:49								
+566	566	2	566	Wartung und Reparatur	 	 	2017.07.06 08:56:49								
+567	567	2	567	Lohnfertigung	 	 	2017.07.06 08:56:49								
+569	569	2	569	Einnahmen für Baustellen im Ausland, die länger als ein Jahr bestehen	Einnahmen für Baustellen im Inland, die länger als ein Jahr bestehen	 	2017.07.06 08:56:49								
+571	571	2	571	Sonstige produktbezogene oder unternehmensbezogene Dienstleistungen	 	 	2017.07.06 08:56:49								
+572	572	2	572	Nachrichten- und Informationsdienste	 	 	2017.07.06 08:56:49								
+573	573	2	573	EDV-Dienstleistungen	 	 	2017.07.06 08:56:49								
+574	574	2	574	Speicherung von Informationen sowie Bereitstellung entsprechender	Infrastruktur	 	2017.07.06 08:56:49								
+570	570	2	570	Einnahmen aus Baustellen im Ausland, die kürzer als ein Jahr bestehen	Einnahmen aus Baustellen im Inland, die kürzer als ein Jahr bestehen	 	2017.07.06 08:56:49								
+576	576	2	576	Kommunikationsdienstleistungen	 	 	2017.07.06 08:56:49								
+579	579	2	579	Ausgaben für Baustellen im Ausland, die länger als ein Jahr bestehen	Ausgaben für Baustellen im Inand, die länger als ein Jahr bestehen	 	2017.07.06 08:56:49								
+580	580	2	580	Ausgaben für Baustellen im Ausland, die kürzer als ein Jahr bestehen	Ausgaben für Baustellen im Inand, die kürzer als ein Jahr bestehen	 	2017.07.06 08:56:49								
+583	583	4	583	Zinsen auf Wertpapiere ausländischer privater Emittenten, die von inl.	MFIs vereinahmt werden	 	2017.07.06 08:56:49								
+584	584	4	584	Swapzinsen und Ausgleichszahlungen	 	 	2017.07.06 08:56:49								
+585	585	4	585	Erträge auf ausländische Investmentzertifikate, die von inländischen	MFIs vereinnahmt oder gezahlt werden	 	2017.07.06 08:56:49								
+594	594	2	594	Miete und Operationelles Leasing	 	 	2017.07.06 08:56:49								
+600	600	2	600	Zahlungen im Zusammenhang mit deutschen Ein- und Ausfuhren und	Verbringungen, die den Wert der Ware reduzieren	 	2017.07.06 08:56:49								
+601	601	2	601	Abgaben im Zusammenhang mit deutschen Ein- und Ausfuhren	 	 	2017.07.06 08:56:49								
+602	602	2	602	Zahlungen im Zusammenhang mit deutschen Ein- und Ausfuhren und	Verbringungen, die den Wert der Ware erhöhen	 	2017.07.06 08:56:49								
+606	606	2	606	Ausländische Geldmarktfondszertifikate mit Ertragsausschüttung	(auch bei Wahlmöglichkeit zwischen Barausschüttung und Thesaurierung)	 	2017.07.06 08:56:49								
+607	607	2	607	Ausländische thesaurierende Geldmarktfonds	 	 	2017.07.06 08:56:49								
+610	610	2	610	Gewährleistungen, Ersatz- und Rückzahlungen sowie Preisnachlässe im	Dienstleistungsverkehr mit dem Ausland	 	2017.07.06 08:56:49								
+613	613	2	613	Nutzung von Software	 	 	2017.07.06 08:56:49								
+614	614	2	614	Nutzungen von audiovisuellen Produkten und sonstigen künstlerischen	Urheberrechten	 	2017.07.06 08:56:49								
+615	615	2	615	Nutzung von Forschungsergebnissen, Erfindungen und Verfahren	 	 	2017.07.06 08:56:49								
+616	616	2	616	Nutzung von Marken-, Warenzeichen, Namensrechten und Franchise	 	 	2017.07.06 08:56:49								
+617	617	2	617	Nutzung von sonstigen Rechten	 	 	2017.07.06 08:56:49								
+619	619	2	619	Amtliche Gebühren	 	 	2017.07.06 08:56:49								
+623	623	2	623	Reproduktion und Vertrieb von Computersoftware	 	 	2017.07.06 08:56:49								
+624	624	2	624	Reproduktion, Vertrieb und Übertragung von audiovisuellen Produkten	und sonstigen künstlerischen Urheberrechten	 	2017.07.06 08:56:49								
+627	627	2	627	Sonstige Vertriebsrechte	 	 	2017.07.06 08:56:49								
+629	629	2	629	Weltraumtransporte	 	 	2017.07.06 08:56:49								
+633	633	2	633	Kauf/Verkauf von Software	 	 	2017.07.06 08:56:49								
+634	634	2	634	Kauf/Verkauf von audiovisuellen Produkten und sonstigen künstlerischen	Urheberrechten	 	2017.07.06 08:56:49								
+635	635	2	635	Kauf/Verkauf von Forschungsergebnissen	 	 	2017.07.06 08:56:49								
+636	636	2	636	Kauf/Verkauf von Markenrechten und Warenzeichen	 	 	2017.07.06 08:56:49								
+637	637	2	637	Kauf/Verkauf von sonstigen Rechten	 	 	2017.07.06 08:56:49								
+638	638	2	638	Ausländische Pensionskassen und Vorsorgewerke	 	 	2017.07.06 08:56:49								
+639	639	2	639	Inlländische Pensionskassen und Vorsorgewerke	 	 	2017.07.06 08:56:49								
+641	641	4	641	Variabel verzinsliche Anleihen inländischer öffentlicher Emittenten	 	 	2017.07.06 08:56:49								
+643	643	2	643	Freizeit- und Kulturdienstleistungen	 	 	2017.07.06 08:56:49								
+646	646	4	646	Inländische Geldmarktfonds mit Ertragsauschüttung (auch bei Wahl-	möglichkeit zwischen Barausschüttung und Thesaurierung	 	2017.07.06 08:56:49								
+647	647	4	647	Inländische thesaurierende Geldmarktfonds	 	 	2017.07.06 08:56:49								
+654	654	2	654	Personenbeförderung auf See	 	 	2017.07.06 08:56:49								
+657	657	2	657	Versicherungsnebenleistungen	 	 	2017.07.06 08:56:49								
+658	658	2	658	Gesundheitsleistungen	 	 	2017.07.06 08:56:49								
+659	659	2	659	Bildungsdienstleistungen	 	 	2017.07.06 08:56:49								
+661	661	2	661	Sonstige Binnenschiffsfrachten	 	 	2017.07.06 08:56:49								
+664	664	2	664	Personenbeförderung auf Binnenschiffen	 	 	2017.07.06 08:56:49								
+669	669	2	669	Seefrachten im Zusammenhang mit den deutschen Ein- und Ausfuhren und	Verbringungen	 	2017.07.06 08:56:49								
+670	670	2	670	Transportnebenleistungen für den Straßenverkehr	 	 	2017.07.06 08:56:49								
+671	671	2	671	Sonstige Straßenfrachten	 	 	2017.07.06 08:56:49								
+674	674	2	674	Personenbeförderung auf der Straße	 	 	2017.07.06 08:56:49								
+676	676	2	676	Bahnfrachten im Zusammenhang mit den deutschen Ein- und Ausfuhren und	Verbringungen	 	2017.07.06 08:56:49								
+680	680	2	680	Allgemeine Transportnebenleistungen	 	 	2017.07.06 08:56:49								
+681	681	2	681	Sonstige Bahnfrachten	 	 	2017.07.06 08:56:49								
+690	690	2	690	Transportnebenleistungen für den Binnenschiffsverkehr	 	 	2017.07.06 08:56:49								
+691	691	2	691	Sonstige Post- und Kurierdienste	 	 	2017.07.06 08:56:49								
+694	694	2	694	Pacht	 	 	2017.07.06 08:56:49								
+695	695	2	695	Sonstige personenbezogene Dienstleistungen	 	 	2017.07.06 08:56:49								
+696	696	2	696	Post- und Kurierdienste im Zusammenhang mit den deutschen Ein- und	Ausfuhren und Verbringungen	 	2017.07.06 08:56:49								
+685	685	4	685	Erträge auf inländische Investmentanteile, die an Ausländer gezahlt	werden bzw. die Inländer von ausl. Lagerstellen erhalten	 	2017.07.06 08:56:49								
+689	689	4	689	Kred.v. Tochterunt. an Dir.Invest. : Zinsen für inl. Tochterunt. sowie	Zinsen für inl. Dir.Invest. von ihren ausl. Tochterunternehmen	 	2017.07.06 08:56:49								
+700	700	4	700	Einnahmen und Ausgaben der Bundeswehr	 	 	2017.07.06 08:56:49								
+701	701	2	701	Euro-Anleihen ausländischer öffentlicher Emittenten	 	 	2017.07.06 08:56:49								
+702	702	2	702	Euro-Anleihen ausländischer privater Emittenten	 	 	2017.07.06 08:56:49								
+710	710	4	710	Zahlungen des Bundes an die diplomatischen Vertretungen im Ausland zur	Bestreitung der laufenden Kosten	 	2017.07.06 08:56:49								
+712	712	4	712	Gehaltszahlungen an deutsche Beschäftigte bei deutschen Botschaften	und Konsulaten	 	2017.07.06 08:56:49								
+720	720	4	720	Wiedergutmachungsleistungen öffentlicher Stellen	 	 	2017.07.06 08:56:49								
+724	724	4	724	Wiedergutmachungsleistungen privater Stellen	 	 	2017.07.06 08:56:49								
+725	725	4	725	Schuldenerlass des Bundes	 	 	2017.07.06 08:56:49								
+727	727	4	727	Privater Schuldenerlass	 	 	2017.07.06 08:56:49								
+728	728	4	728	Unterstützungszahlungen zwischen privaten Haushalten	 	 	2017.07.06 08:56:49								
+729	729	4	729	Sonstige private Unterstützungszahlungen	 	 	2017.07.06 08:56:49								
+740	740	4	740	Transaktionen mit Internationalen Organisationen	 	 	2017.07.06 08:56:49								
+760	760	4	760	Sonstige Einnahmen und Ausgaben des Bundes, der Länder, Gemeinden	und anderer öffentlicher Stellen	 	2017.07.06 08:56:49								
+762	762	4	726	Einkommensteuer und Solidaritätszuschlag	 	 	2017.07.06 08:56:49								
+763	763	4	723	Kapitalertrags- und Körperschaftsteuer	 	 	2017.07.06 08:56:49								
+764	764	4	724	Mehrwertsteuer	 	 	2017.07.06 08:56:49								
+765	765	4	725	Gewerbesteuer	 	 	2017.07.06 08:56:49								
+769	769	4	769	Grund- und  Grunderwerbssteuer	 	 	2017.07.06 08:56:49								
+770	770	2	770	Lieferungen von Waren und Dienstleistungen an die im Inland	stationierten ausländischen Streitkräfte	 	2017.07.06 08:56:49								
+774	774	4	774	Sonstige Steuern	 	 	2017.07.06 08:56:49								
+782	782	4	782	Zinsen auf Wertpapiere ausländischer öffentlicher Emittenten, die von	inländischen Öffentlichen Haushalten vereinnahmt werden	 	2017.07.06 08:56:49								
+994	994	2	994	Handel mit elektischem Strom – Übergabepunkt im Inland	 	 	2017.07.06 08:56:49								
+995	995	2	995	Handel mit elektischem Strom – Übergabepunkt im Ausland	 	 	2017.07.06 08:56:49								
+997	997	2	997	Einnahmen und Ausgaben im Sonstigen Warenverkehr	 	 	2017.07.06 08:56:49								
+783	783	4	783	Zinsen auf Wertpapiere ausländischer privater Emittenten, die von inl.	Öffentlichen Haushalten vereinnahmt werden	 	2017.07.06 08:56:49								
+789	789	4	789	Kred.zw.Schwesterunternehmen : Zinsen f. verb. Unternehmen,	die einen gemeinsamen Direktinvestor haben	 	2017.07.06 08:56:49								
+810	810	4	810	Zahlungen im Verkehr mit ausländischen Behörden	 	 	2017.07.06 08:56:49								
+812	812	4	812	Subventionen der Europäischen Union	 	 	2017.07.06 08:56:49								
+820	820	4	820	OTC-Optionen mit ausländischen Stillhaltern	 	 	2017.07.06 08:56:49								
+821	821	4	821	Optionen, ausländische Terminbörsen	 	 	2017.07.06 08:56:49								
+827	827	2	827	Erwerb bzw. Veräußerung von Kapitalbeteil., Kapitaleinz., Kapitalerhöh	und Kapitalherab. bei ausländischen börsennotierten Aktiengesellschaft	 	2017.07.06 08:56:49								
+830	830	4	830	OTC-Optionen mit inländischen Stillhaltern	 	 	2017.07.06 08:56:49								
+831	831	4	831	Optionen, inländische Terminbörsen	 	 	2017.07.06 08:56:49								
+832	832	4	832	Mitarbeiteroptionen von inländischen Gesellschaften	 	 	2017.07.06 08:56:49								
+833	833	4	833	Mitarbeiteroptionen von ausländischen Gesellschaften	 	 	2017.07.06 08:56:49								
+840	840	4	840	Credit Default Swaps	 	 	2017.07.06 08:56:49								
+842	842	4	842	Financial Futures, inländische Terminbörsen	 	 	2017.07.06 08:56:49								
+847	847	4	847	Erw. bzw. Ver. Kap.bet. a. inl. börsenn. MFIs als AG sowie Kap.einz.	, Kap.erh., Kap.herabs. in F. v. inl. Aktien. ausg. durch börsenn. MFI	 	2017.07.06 08:56:49								
+850	850	4	850	Erbschaft, Vermächtnis, Schenkung, Restitution	 	 	2017.07.06 08:56:49								
+854	854	4	854	Sonstige Übertragungen	 	 	2017.07.06 08:56:49								
+861	861	4	861	Unterstützungszahlungen ausländischer Arbeitnehmer	 	 	2017.07.06 08:56:49								
+862	862	4	862	Kapitalanlagen ausländischer Arbeitnehmer	 	 	2017.07.06 08:56:49								
+882	882	4	882	Financial Futures, ausländische Terminbörsen	 	 	2017.07.06 08:56:49								
+883	883	4	883	Sonstige außerbörsliche Termingeschäfte	 	 	2017.07.06 08:56:49								
+889	889	4	889	Kred.v.Finanz.töchter an Dir.Invest.: Zinsen f. inl. Finanz.töchter	sowie Zinsen f. ausl. Finanz.töchter v. inl. Dir.Investoren	 	2017.07.06 08:56:49								
+898	898	4	898	Forward Rate Agreements	 	 	2017.07.06 08:56:49								
+950	950	2	950	Sonstige Transaktionen für Waren und Dienstleistungen	 	 	2017.07.06 08:56:49								
+951	951	4	951	Sonstige Transaktionen im Kapitalverkehr	 	 	2017.07.06 08:56:49								
+984	984	4	984	Equity Swaps	 	 	2017.07.06 08:56:49								
+989	989	2	989	Handel mit Gold	 	 	2017.07.06 08:56:49								
+990	990	2	990	Handel mit Gas – Übergabepunkt im Ausland	 	 	2017.07.06 08:56:49								
+941	941	4	941	Gew. u. Rückzahl. v. Krediten (sowie offene Abtret. v. Inl.ford.) m.	Lz. > 12M a. inl. Nichtfinanzielle Unternehmen u. Privatpersonen	 	2017.07.06 08:56:49								
+885	885	4	885	Erträge auf ausländische Investmentzertifikate, die von inländischen	Unternehmen, Pivatpers. und öffentl. Haushalte vereinnahmt o. gez. wer	 	2017.07.06 08:56:49								
+927	927	2	927	Erwerb bzw. Veräußerung von Kapitalbeteil., Kapitaleinz., Kapitalerhöh	und Kapitalherab. bei ausländischen börsennotierten Aktiengesellschaft	 	2017.07.06 08:56:49								
+947	947	4	947	Erw. bzw. Ver. Kap.bet. a. inl. börsenn. Unt. als AG sowie Kap.einz.	, Kap.erh., Kap.herabs. in F. v. inl. Aktien. ausg. d. börsenn. Unt.	 	2017.07.06 08:56:49								
+963	963	4	963	Erstabs. u. off. Abtret. sowie Til. o. Rückerw. v. lgfrist. n.börsenn.	(Lz > 12M) d. Inländer: Emissionen von nicht-finanz. Unternehmen	 	2017.07.06 08:56:49								
+975	975	4	975	St. Abtr. u. Til. v.kfr. Inl.ford. u.n. börsennot. Wertpap. (bis 12M)	d. Inländer, untersch. n. Schuldnergr.: Nichtfinanzielle Unternehmen	 	2017.07.06 08:56:49								
+976	976	4	976	St. Abtr. u. Til. v. lgfr. Inl.ford. und nicht-börsennot. Wertpap.	(Lz > 12M) d. Inl., untersch. n. Sculdnergr.: Nicht-finan. Unternehmen	 	2017.07.06 08:56:49								
+985	985	4	985	Erträge aus ausländischen Aktien oder Genussscheinen, die von inländ.	Untenhemen u. Privatpersonen vereinahmt werden	 	2017.07.06 08:56:49								
+998	998	2	998	Handel mit Gas – Übergabepunkt im Inland	 	 	2017.07.06 08:56:49								

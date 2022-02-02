@@ -1,0 +1,4 @@
+LEGACY_CRT_NUMBER	CRT_NUMBER	CRT_NUMBER_TXT_GBL	CRT_NUMBER_TXT_LCL	DI_TIMESTAMP											
+1	1	Simples Nacional	Simples Nacional	2018.06.19 05:33:47											
+2	2	Simples Nacional # excesso de sublimite da receita bruta	Simples Nacional - Bruttoertrag über der unteren Begrenzung	2018.06.19 05:33:47											
+3	3	Regime Normal (não simples)	Regime Normal (nao simples)	2018.06.19 05:33:47											

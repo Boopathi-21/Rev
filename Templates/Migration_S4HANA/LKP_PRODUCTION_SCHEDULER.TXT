@@ -1,0 +1,11 @@
+LEGACY_PRODUCTION_SCHEDULER	PRODUCTION_SCHEDULER	PLANT	PRODUCTION_SCHEDULER_TXT_GBL	PRODUCTION_SCHEDULER_TXT_LCL	DI_TIMESTAMP										
+YB1	YB1	1010	MTS DI - Valuated	MTS DI - Valuated	2017.07.06 08:56:49										
+YB1	YB1	1710	MTS DI - Valuated	MTS DI - Valuated	2017.07.06 08:56:49										
+YB2	YB2	1010	MTS PI valuated	MTS PI valuated	2017.07.06 08:56:49										
+YB2	YB2	1710	MTS PI valuated	MTS PI valuated	2017.07.06 08:56:49										
+YB3	YB3	1010	MTO VC - Valuated	MTO VC - Valuated	2017.07.06 08:56:49										
+YB3	YB3	1710	MTO VC - Valuated	MTO VC - Valuated	2017.07.06 08:56:49										
+YB4	YB4	1010	MTO w/o VC - Val.	MTO w/o VC - Val.	2017.07.06 08:56:49										
+YB4	YB4	1710	MTO w/o VC - Val.	MTO w/o VC - Val.	2017.07.06 08:56:49										
+YBR	YBR	1010	REM - Rep. Man.	REM - Rep. Man.	2017.07.06 08:56:49										
+YBR	YBR	1710	REM - Rep. Man.	REM - Rep. Man.	2017.07.06 08:56:49										

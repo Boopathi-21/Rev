@@ -1,0 +1,3 @@
+LEGACY_DUNNING_PROCEDURE	DUNNING_PROCEDURE	DUNNING_PROCEDURE_TXT_GBL	DUNNING_PROCEDURE_TXT_LCL	DI_TIMESTAMP											
+1001	1001	Four-level dunning notice, every two weeks	Vierstufige Mahnung, 14-tägig	2018.06.19 05:33:47											
+1002	1002	One-level dunning notice, every 30 days	Einstufige Mahnung, alle 30 Tage	2018.06.19 05:33:47											

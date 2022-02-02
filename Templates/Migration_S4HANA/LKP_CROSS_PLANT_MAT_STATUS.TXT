@@ -1,0 +1,6 @@
+LEGACY_MATERIAL_STATUS	MATERIAL_STATUS	MATERIAL_STATUS_TXT_GBL	MATERIAL_STATUS_TXT_LCL	DI_TIMESTAMP											
+01	01	Design	Entwurf	2017.07.06 08:56:49											
+02	02	Design & Plan	Entwurf und Plan	2017.07.06 08:56:49											
+03	03	Use	Verwendung	2017.07.06 08:56:49											
+04	04	Phase-out	Auslauf	2017.07.06 08:56:49											
+05	05	Obsolete	Obsolet	2017.07.06 08:56:49											

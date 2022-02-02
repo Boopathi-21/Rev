@@ -1,0 +1,6 @@
+LEGACY_BLOCK_FUNCTION	BLOCK_FUNCTION	BLOCK_FUNCTION_TXT_GBL	BLOCK_FUNCTION_TXT_LCL	DI_TIMESTAMP											
+01	01	Block purchase order	Sperre Bestellung	2017.07.06 08:56:49											
+02	02	Block quot. request and purchase order	Sperre Anfrage und Bestellung	2017.07.06 08:56:49											
+03	03	Block quot. req., order, goods receipt	Sperre Anfrage, Bestellung, Wareneingang	2017.07.06 08:56:49											
+04	04	Block source determination	Sperre Bezugsquellenfindung	2017.07.06 08:56:49											
+99	99	Total block	Sperre total	2017.07.06 08:56:49											

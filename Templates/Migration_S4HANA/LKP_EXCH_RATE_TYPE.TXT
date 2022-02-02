@@ -1,0 +1,11 @@
+LEGACY_EXCHANGE_RATE_TYPE	EXCHANGE_RATE_TYPE	REF_CURRENCY	EXCHANGE_RATE_TYPE_TXT_GBL	EXCHANGE_RATE_TYPE_TXT_LCL	DI_TIMESTAMP										
+AVG	AVG	EUR	Consolidation Monthly Average Rate	Konsolidierung - monatl. Mittelkurs	2018.06.19 05:33:47										
+AVG1	AVG1	 	BudgetConsolidation Monthly Ave. Rate	Budgetkonsolidier. - monatl. Mittelkurs	2018.06.19 05:33:47										
+AVG2	AVG2	 	Consolidation Simulation Ave. Rate	Konsolidierungssimulation - Mittelkurs	2018.06.19 05:33:47										
+CLO	CLO	EUR	Consolidation Monthly Closing Rate	Konsolidierung - monatl. Schlusskurs	2018.06.19 05:33:47										
+CLO1	CLO1	 	Budget Consolidation Monthly Clos.Rate	Budgetkonsolidier. - monatl. Schlusskurs	2018.06.19 05:33:47										
+CLO2	CLO2	 	Consolidation Simulation Clos.Rate	Konsolidierungssimulation  - Schlusskurs	2018.06.19 05:33:47										
+INC1	INC1	 	Incoming at Beginning of Year Rate	Budgetkonsolidier. - monatl. Mittelkurs	2018.06.19 05:33:47										
+INC2	INC2	EUR	Incoming during the Year Rate	Budgetkonsolidier. - monatl. Mittelkurs	2018.06.19 05:33:47										
+M	M	 	Standard translation at average rate	Standardumrechnung zum Mittelkurs	2018.06.19 05:33:47										
+P	P	 	Standard translation for cost planning	Standardumrechnung für die Kostenplanung	2018.06.19 05:33:47										

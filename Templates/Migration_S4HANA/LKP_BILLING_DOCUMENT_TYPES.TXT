@@ -1,0 +1,43 @@
+LEGACY_BILLING_TYPE	BILLING_TYPE	BILLING_TYPE_TXT_GBL	BILLING_TYPE_TXT_LCL	DI_TIMESTAMP											
+J3G3	J3G3	CEM Invoice List Int	ETM RechListe int.	2017.07.06 08:56:49											
+J3G4	J3G4	CEM Mat. Repur. Int.		2017.07.06 08:56:49											
+J3G6	J3G6	CEM Cancellation Int		2017.07.06 08:56:49											
+J3G7	J3G7	CEM Cancellation Ext		2017.07.06 08:56:49											
+J3G8	J3G8	CEM Mat. Sales Ext.	ETM MatVerkauf ext.	2017.07.06 08:56:49											
+J3G9	J3G9	CEM Mat. Repur. Ext.		2017.07.06 08:56:49											
+J3GA	J3GA	CEM Revrsl GC Int/Ex		2017.07.06 08:56:49											
+J3GB	J3GB	CEM GC Internal		2017.07.06 08:56:49											
+J3GC	J3GC	CEM GU External		2017.07.06 08:56:49											
+JEX	JEX	Excise Invoice India		2017.07.06 08:56:49											
+JLL	JLL	Debit Memo	Lastschrift	2017.07.06 08:56:49											
+L2	L2	Debit Memo	Lastschrift	2017.07.06 08:56:49											
+LG	LG	Credit Memo List	Gutschriftsliste	2017.07.06 08:56:49											
+LR	LR	Invoice List	Rechnungsliste	2017.07.06 08:56:49											
+LRS	LRS	Invoice List Cancellation	Storno Rechnungsliste	2017.07.06 08:56:49											
+S1	S1	Invoice Cancellation	Rechn. storn.	2017.07.06 08:56:49											
+S2	S2	Credit Memo Cancellation	Storno Gutschrift	2017.07.06 08:56:49											
+S3	S3	Cancel Invoice	Rechn. storn.	2017.07.06 08:56:49											
+CBRE	CBRE	Credit Memo for Returns	Retourengutschrift	2017.07.06 08:56:49											
+CI01	CI01	Invoice	Rechnung	2017.07.06 08:56:49											
+CIC1	CIC1	Invoice Cancellation	Rechnungsstorno	2017.07.06 08:56:49											
+CM01	CM01	Credit Memo Project Services	Projektservices: Gutschrift	2017.07.06 08:56:49											
+CMC1	CMC1	Credit Memo Cancellation ProjectServices	Projektservices: Storno Gutschrift	2017.07.06 08:56:49											
+F1	F1	Invoice	Rechnung	2017.07.06 08:56:49											
+F2	F2	F2 Invoice	F2 Rechnung	2017.07.06 08:56:49											
+F5	F5	Pro Forma for Order	Pro-forma für Auftrag	2017.07.06 08:56:49											
+F8	F8	Pro Forma Invoice for Delivery	Pro-f.-Rechn. Lief.	2017.07.06 08:56:49											
+FADP	FADP	Down payment Request	Anzahlungsanford.	2017.07.06 08:56:49											
+FAS	FAS	Down Payment Request Cancellation	Storno AnzahlAnford.	2017.07.06 08:56:49											
+FAZ	FAZ	Down Payment Request	Anzahlungsanford.	2017.07.06 08:56:49											
+FXG	FXG	Credit Memo S-b w.i.	Gutschr. GSV m.R.	2017.07.06 08:56:49											
+FXL	FXL	Debit Memo S-b w.i.		2017.07.06 08:56:49											
+G2	G2	Credit Memo	Gutschrift	2017.07.06 08:56:49											
+G2S	G2S	Cred. Memo 3rd Party		2017.07.06 08:56:49											
+IG	IG	Internal Credit Memo	Interne Gutschrift	2017.07.06 08:56:49											
+IGA	IGA	ICM Order-Related		2017.07.06 08:56:49											
+IGS	IGS	Internal Credit Memo Cancellation	Storno Interne Gutschrift	2017.07.06 08:56:49											
+IV	IV	Intercompany Billing	Interne Verrechnung	2017.07.06 08:56:49											
+IVA	IVA	IB Order-Related		2017.07.06 08:56:49											
+IVS	IVS	Intercompany Billing Cancellation	Storno Interne Verrechnung	2017.07.06 08:56:49											
+J3G1	J3G1	CEM Internal		2017.07.06 08:56:49											
+J3G2	J3G2	CEM External	ETM extern	2017.07.06 08:56:49											

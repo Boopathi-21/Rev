@@ -1,0 +1,9 @@
+LEGACY_PERSON_RESPONSIBLE	PERSON_RESPONSIBLE	PLANT	PERSON_RESPONSIBLE_TXT_GBL	PERSON_RESPONSIBLE_TXT_LCL	DI_TIMESTAMP										
+001	001	1010	Work center supervisor	Work center supervisor	2017.07.06 08:56:49										
+001	001	1710	Work center supervisor	Work center supervisor	2017.07.06 08:56:49										
+YME	YME	1010	Plant Maintenance Ele Supervisor	Plant Maintenance Ele Supervisor	2017.07.06 08:56:49										
+YME	YME	1710	Plant Maintenance Ele Supervisor	Plant Maintenance Ele Supervisor	2017.07.06 08:56:49										
+YMI	YMI	1010	Plant Maintenance Instr Supervisor	Plant Maintenance Instr Supervisor	2017.07.06 08:56:49										
+YMI	YMI	1710	Plant Maintenance Instr Supervisor	Plant Maintenance Instr Supervisor	2017.07.06 08:56:49										
+YMM	YMM	1010	Plant Maintenance Mech Supervisor	Plant Maintenance Mech Supervisor	2017.07.06 08:56:49										
+YMM	YMM	1710	Plant Maintenance Mech Supervisor	Plant Maintenance Mech Supervisor	2017.07.06 08:56:49										

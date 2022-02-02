@@ -1,0 +1,45 @@
+LEGACY_INDUSTRY	INDUSTRY_SYSTEM	INDUSTRY	INDUSTRY_TXT_GBL	INDUSTRY_TXT_LCL	DI_TIMESTAMP										
+0001	0001	0001	Std. Industry	Standardbranche	2018.06.19 05:33:47										
+01	0001	01	Div. Holding Comp.	Div. Holding-Gesell.	2018.06.19 05:33:47										
+02	0001	02	Financial Services	Finanzdienstleist.	2018.06.19 05:33:47										
+03	0001	03	Real Estate	Immobilien	2018.06.19 05:33:47										
+10	0001	10	Energy	Energie	2018.06.19 05:33:47										
+11	0001	11	Oil, Gas	Öl und Gas	2018.06.19 05:33:47										
+12	0001	12	Raw Materials	Rohstoffe	2018.06.19 05:33:47										
+13	0001	13	Precious Metals	Edelmetalle	2018.06.19 05:33:47										
+21	0001	21	Chemical Industry	Chemie	2018.06.19 05:33:47										
+22	0001	22	Health	Gesundheit	2018.06.19 05:33:47										
+23	0001	23	Glass	Glas	2018.06.19 05:33:47										
+24	0001	24	Construction Indus.	Bauindustrie	2018.06.19 05:33:47										
+25	0001	25	Building Supplier	Bauzulieferer	2018.06.19 05:33:47										
+26	0001	26	Paper and Pulp	Papier/Zellstoff	2018.06.19 05:33:47										
+27	0001	27	Timber/Infrastructur	Holz/Infrastruktur	2018.06.19 05:33:47										
+31	0001	31	Spin., Weav., Textil	Spinn., Web., Textil	2018.06.19 05:33:47										
+32	0001	32	Apparel	Bekleidung	2018.06.19 05:33:47										
+41	0001	41	Iron and Steel	Eisen und Stahl	2018.06.19 05:33:47										
+42	0001	42	Vehicles	Fahrzeuge	2018.06.19 05:33:47										
+43	0001	43	Vehicle Supplier	Fahrzeuglieferant	2018.06.19 05:33:47										
+44	0001	44	Mech. Engineerng	Maschinenbau	2018.06.19 05:33:47										
+45	0001	45	Spec.Mechanical Eng.	Spezialmaschinenbau	2018.06.19 05:33:47										
+46	0001	46	Machine Tool Engin.	Werkzeugmaschinenbau	2018.06.19 05:33:47										
+47	0001	47	Aircraft Constructn	Flugzeugbau	2018.06.19 05:33:47										
+51	0001	51	Brew., Bev., Tobacco	Brau., Getr., Tabak	2018.06.19 05:33:47										
+52	0001	52	Nutrition	Ernährung	2018.06.19 05:33:47										
+61	0001	61	Electricals	Elektrogeräte	2018.06.19 05:33:47										
+62	0001	62	Comp.s and Data Proc	Comp./Datenverarbei.	2018.06.19 05:33:47										
+63	0001	63	Software	Software	2018.06.19 05:33:47										
+64	0001	64	Telecommunications	Telekommunikation	2018.06.19 05:33:47										
+71	0001	71	Consumer Products	Konsumgüterindustrie	2018.06.19 05:33:47										
+72	0001	72	Traffic, Transport	Verkehr, Transport	2018.06.19 05:33:47										
+73	0001	73	Leisure and Hotel	Freizeit und Hotel	2018.06.19 05:33:47										
+81	0001	81	Commercial Banks	Geschäftsbanken	2018.06.19 05:33:47										
+82	0001	82	Mortgage Banks	Hypothekenbanken	2018.06.19 05:33:47										
+83	0001	83	Life Insurances	Lebensversicherungen	2018.06.19 05:33:47										
+84	0001	84	Non-Life Insurances	Sachversicherungen	2018.06.19 05:33:47										
+85	0001	85	Reinsurances	Rückversicherungen	2018.06.19 05:33:47										
+86	0001	86	Insurance Holdings	Versicherungshold.	2018.06.19 05:33:47										
+91	0001	91	Trading	Handel	2018.06.19 05:33:47										
+92	0001	92	Pharmaceutical Trade	Pharmahandel	2018.06.19 05:33:47										
+93	0001	93	Publishing, Media	Verlag und Medien	2018.06.19 05:33:47										
+94	0001	94	Environment	Umwelt	2018.06.19 05:33:47										
+99	0001	99	Miscellaneous	Sonstiges	2018.06.19 05:33:47										

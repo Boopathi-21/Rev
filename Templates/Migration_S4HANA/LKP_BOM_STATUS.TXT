@@ -1,0 +1,4 @@
+LEGACY_BOM_STATUS	BOM_STATUS	BOM_STATUS_TXT_GBL	BOM_STATUS_TXT_LCL	DI_TIMESTAMP											
+01	01	Active	Aktiv	2017.07.06 08:56:49											
+02	02	Inactive	Inaktiv	2017.07.06 08:56:49											
+03	03	Active with history reqmt	Aktiv mit Historienpflicht	2017.07.06 08:56:49											

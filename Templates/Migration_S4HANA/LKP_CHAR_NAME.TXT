@@ -1,0 +1,195 @@
+LEGACY_CHARACTERISTIC_NAME	CHARACTERISTIC_NAME	CHARACTERISTIC_NAME_TXT_GBL	CHARACTERISTIC_NAME_TXT_LCL	DI_TIMESTAMP											
+MTA_NUM_N700	MTA_NUM_N700	Num 5.1 Interval mandatory	Num 5.1 Interval mandatory	2017.07.06 08:56:49											
+MTA_NUM_N701	MTA_NUM_N701	Num 5.1 Interval mandatory	Num 5.1 Interval mandatory	2017.07.06 08:56:49											
+MTA_NUM_N8	MTA_NUM_N8	Num 5.2 Multiple value with In		2017.07.06 08:56:49											
+MTA_NUM_N800	MTA_NUM_N800	Num 5.2 Multiple value with In		2017.07.06 08:56:49											
+MTA_NUM_N801	MTA_NUM_N801	Num 5.2 Multiple value with In		2017.07.06 08:56:49											
+MTA_NUM_T1	MTA_NUM_T1	Time	Zeit	2017.07.06 08:56:49											
+MTA_NUM_T1000	MTA_NUM_T1000	Time	Zeit	2017.07.06 08:56:49											
+MTA_NUM_T1001	MTA_NUM_T1001	Time	Zeit	2017.07.06 08:56:49											
+MTA_TIME_9080	MTA_TIME_9080	TIME single value		2017.07.06 08:56:49											
+MIG_CHAR_HIER_NCS_9010	MIG_CHAR_HIER_NCS_9010	Hierarchy not case sensitive E		2017.07.06 08:56:49											
+MIG_CHAR_HIER_NCS_9020	MIG_CHAR_HIER_NCS_9020	Hierarchy not case sensitive C		2017.07.06 08:56:49											
+MIG_CHAR_HIER_NCS_9030	MIG_CHAR_HIER_NCS_9030	Hierarchy case sensitive Char		2017.07.06 08:56:49											
+MIG_CURR_ADDATA_9070	MIG_CURR_ADDATA_9070	CURR w/ Add.Data (templ) Class		2017.07.06 08:56:49											
+MIG_CURR_C10	MIG_CURR_C10	CURR 13.2 EUR Multiple value		2017.07.06 08:56:49											
+MIG_CURR_C20	MIG_CURR_C20	CURR 15 JPY Multiple value wit		2017.07.06 08:56:49											
+MIG_CURR_C30	MIG_CURR_C30	CURR 13.2 EUR allowed values 5		2017.07.06 08:56:49											
+MIG_CURR_C40	MIG_CURR_C40	CURR 13.3 KWD +/-		2017.07.06 08:56:49											
+MIG_CURR_INTV_9110	MIG_CURR_INTV_9110	CURR 13.2 Interval -1000 +2000		2017.07.06 08:56:49											
+MIG_DATE_9040	MIG_DATE_9040	Date multiple value		2017.07.06 08:56:49											
+MIG_DATE_INTV_9090	MIG_DATE_INTV_9090	DATE interval / single value		2017.07.06 08:56:49											
+MIG_NUM_D10	MIG_NUM_D10	Date	Datum	2017.07.06 08:56:49											
+MIG_NUM_D20	MIG_NUM_D20	Date with reference to table f		2017.07.06 08:56:49											
+MIG_NUM_INTERVAL0	MIG_NUM_INTERVAL0	NUM interval diff. Units		2017.07.06 08:56:49											
+MIG_NUM_INTV_9051	MIG_NUM_INTV_9051	Numerical with Interval differ		2017.07.06 08:56:49											
+MIG_NUM_N10	MIG_NUM_N10	Num 10	Num 10	2017.07.06 08:56:49											
+LOBM_COUNTRY_OK	LOBM_COUNTRY_OK	Suitable for Country	zulässig für Land	2017.07.06 08:56:49											
+MIG_NUM_N20	MIG_NUM_N20	Num 5.3  Template	Num 5.3  Template	2017.07.06 08:56:49											
+MIG_NUM_N30	MIG_NUM_N30	Num 10.2	Num 10.2	2017.07.06 08:56:49											
+MIG_NUM_N40	MIG_NUM_N40	Num 12.3 Multiple value	Num 12.3 Multiple value	2017.07.06 08:56:49											
+MIG_NUM_N50	MIG_NUM_N50	Num 5	Num 5	2017.07.06 08:56:49											
+MIG_NUM_N60	MIG_NUM_N60	Num 5 Interval +/-	Num 5 Interval +/-	2017.07.06 08:56:49											
+MIG_NUM_N70	MIG_NUM_N70	Num 5.1 Interval mandatory	Num 5.1 Interval mandatory	2017.07.06 08:56:49											
+MIG_NUM_N80	MIG_NUM_N80	Num 5.2 Multiple value with In		2017.07.06 08:56:49											
+MIG_NUM_T10	MIG_NUM_T10	Time	Zeit	2017.07.06 08:56:49											
+MIG_TIME_9080	MIG_TIME_9080	TIME single value		2017.07.06 08:56:49											
+MIG_TIME_INTV_9100	MIG_TIME_INTV_9100	TIME interval / multiple value		2017.07.06 08:56:49											
+MM_EBAN_BSART	MM_EBAN_BSART	Purchase Requisition Document	Purchase requisition Document	2017.07.06 08:56:49											
+MM_EBAN_EKGRP	MM_EBAN_EKGRP	Purchasing Group	Einkäufergruppe	2017.07.06 08:56:49											
+MM_EBAN_EKORG	MM_EBAN_EKORG	Purchasing organization	Purchasing Organization	2017.07.06 08:56:49											
+MTA_TIME_90801	MTA_TIME_90801	TIME single value		2017.07.06 08:56:49											
+MTA_TIME_INTV_9100	MTA_TIME_INTV_9100	TIME interval / multiple value		2017.07.06 08:56:49											
+MTA_TIME_INTV_91001	MTA_TIME_INTV_91001	TIME interval / multiple value		2017.07.06 08:56:49											
+R2R_PURCH_GRP	R2R_PURCH_GRP	Purchasing Group	Einkäufergruppe	2017.07.06 08:56:49											
+R2R_PURCH_ORD_TYPE	R2R_PURCH_ORD_TYPE	Order Type (Purchasing)	Bestellart	2017.07.06 08:56:49											
+R2R_PURCH_ORD_VALUE	R2R_PURCH_ORD_VALUE	Total net order value	Nettobestellwert	2017.07.06 08:56:49											
+YB_BATCH_NUMBER	YB_BATCH_NUMBER	Batch Number	Chargennummer	2017.07.06 08:56:49											
+YB_SUPPLIER_BATCH_NUMBER	YB_SUPPLIER_BATCH_NUMBER	Vendor Batch Number	Lieferantenchargennummer	2017.07.06 08:56:49											
+AVC_CR_BCAPACITY_V00	AVC_CR_BCAPACITY_V00	Battery Capacity [Ah]	Battery Capacity [Ah]	2017.07.06 08:56:49											
+AVC_CR_COUNTERWEIGHT_VXX	AVC_CR_COUNTERWEIGHT_VXX	Counterweight		2017.07.06 08:56:49											
+AVC_CR_FORKLENGTH_VXX	AVC_CR_FORKLENGTH_VXX	Fork Length		2017.07.06 08:56:49											
+AVC_CR_FORKSIZE_VXX	AVC_CR_FORKSIZE_VXX	Fork Size		2017.07.06 08:56:49											
+AVC_CR_LIFTERMODEL_VXX	AVC_CR_LIFTERMODEL_VXX	Lifter Model		2017.07.06 08:56:49											
+AVC_CR_POWERSOURCE_VXX	AVC_CR_POWERSOURCE_VXX	Power Source		2017.07.06 08:56:49											
+AVC_CR_SDCOMVKOND_VXX	AVC_CR_SDCOMVKOND_VXX	Variant condition	Variantenkondition	2017.07.06 08:56:49											
+AVC_CR_STPOQTY_VXX	AVC_CR_STPOQTY_VXX	Component quantity	Komponentenmenge	2017.07.06 08:56:49											
+AVC_CR_WHEELTYPE_VXX	AVC_CR_WHEELTYPE_VXX	Wheel Type		2017.07.06 08:56:49											
+LOBM_APO_SL_MAX	LOBM_APO_SL_MAX	Max Shelf-Life/Shlf-Lfe in Sec	Max. Haltbark./ Haltb. in Sek.	2017.07.06 08:56:49											
+LOBM_APO_SL_MIN	LOBM_APO_SL_MIN	Min Shelf-Life/Maturity in Sec	Min. Haltbark. / Reife in Sek.	2017.07.06 08:56:49											
+LOBM_APO_SL_UTC	LOBM_APO_SL_UTC	Reference Time Stamp of Batch	Referenzzeitstempel der Charge	2017.07.06 08:56:49											
+LOBM_BPRIO	LOBM_BPRIO	Stock Determination: Priority	Bestandsfindung: Priorität	2017.07.06 08:56:49											
+LOBM_BWTAR	LOBM_BWTAR	Value Assignment Type	Bewertungsart	2017.07.06 08:56:49											
+LOBM_COUNTRY_NOK	LOBM_COUNTRY_NOK	Not Suitable for Country	nicht zulässig für Land	2017.07.06 08:56:49											
+MIG_CHAR_ADDDATA_9060	MIG_CHAR_ADDDATA_9060	CHAR with Add.Data + Class typ		2017.07.06 08:56:49											
+MIG_CHAR_C11	MIG_CHAR_C11	CHAR11		2017.07.06 08:56:49											
+MIG_CHAR_C20	MIG_CHAR_C20	CHAR30 default 'MIGRATION'		2017.07.06 08:56:49											
+MIG_CHAR_HIER_CS_9000	MIG_CHAR_HIER_CS_9000	Hierarchy case sensitive Char	Hierarchy nicht case sensitiv	2017.07.06 08:56:49											
+MM_EBAN_GFWRT_EUR	MM_EBAN_GFWRT_EUR	Total value of requisition for	Total value of requisition for	2017.07.06 08:56:49											
+MM_EBAN_GFWRT_GBP	MM_EBAN_GFWRT_GBP	Total value of requisition for	Total value of requisition for	2017.07.06 08:56:49											
+MM_EBAN_GFWRT_INR	MM_EBAN_GFWRT_INR	Total value of requisition for	Total value of requisition for	2017.07.06 08:56:49											
+MM_EBAN_GFWRT_JPY	MM_EBAN_GFWRT_JPY	Total value of requisition for	Total value of requisition for	2017.07.06 08:56:49											
+MM_EBAN_GFWRT_USD	MM_EBAN_GFWRT_USD	Total value of requisition for	Total value of requisition for	2017.07.06 08:56:49											
+MM_EBAN_MATKL	MM_EBAN_MATKL	Material Group	Material Group	2017.07.06 08:56:49											
+MM_EBAN_WERKS	MM_EBAN_WERKS	Plant	Plant	2017.07.06 08:56:49											
+MM_EKKO_BSART	MM_EKKO_BSART	Order Type (Purchasing)	Bestellart	2017.07.06 08:56:49											
+MM_EKKO_BUKRS	MM_EKKO_BUKRS	Company Code	Company Code	2017.07.06 08:56:49											
+MM_EKKO_EKGRP	MM_EKKO_EKGRP	Purchasing Group	Einkäufergruppe	2017.07.06 08:56:49											
+MM_EKKO_EKORG	MM_EKKO_EKORG	Order Type (Purchasing)	Purchasing Organization	2017.07.06 08:56:49											
+MM_EKKO_GNETW_EUR	MM_EKKO_GNETW_EUR	Total net order value	Total net order value	2017.07.06 08:56:49											
+MM_EKKO_GNETW_GBP	MM_EKKO_GNETW_GBP	Total net order value	Total net order value	2017.07.06 08:56:49											
+LOBM_CUSTOMER_NOK	LOBM_CUSTOMER_NOK	Not Suitable for Customer	nicht zulässig für Kunde	2017.07.06 08:56:49											
+LOBM_CUSTOMER_OK	LOBM_CUSTOMER_OK	Suitable for Customer	zulässig für Kunde	2017.07.06 08:56:49											
+LOBM_FVDT1	LOBM_FVDT1	Date for Unrestricted Use 1	Datum zur freien Verwendung 1	2017.07.06 08:56:49											
+LOBM_FVDT2	LOBM_FVDT2	Date for Unrestricted Use 2	Datum zur freien Verwendung 2	2017.07.06 08:56:49											
+LOBM_FVDT3	LOBM_FVDT3	Date for Unrestricted Use 3	Datum zur freien Verwendung 3	2017.07.06 08:56:49											
+LOBM_FVDT4	LOBM_FVDT4	Date for Unrestricted Use 4	Datum zur freien Verwendung 4	2017.07.06 08:56:49											
+LOBM_FVDT5	LOBM_FVDT5	Date for Unrestricted Use 5	Datum zur freien Verwendung 5	2017.07.06 08:56:49											
+LOBM_FVDT6	LOBM_FVDT6	Date for Unrestricted Use 6	Datum zur freien Verwendung 6	2017.07.06 08:56:49											
+LOBM_HERKL	LOBM_HERKL	Country of Origin	Ursprungsland	2017.07.06 08:56:49											
+LOBM_HERKR	LOBM_HERKR	Region of Origin of Material	Ursprungsregion des Materials	2017.07.06 08:56:49											
+LOBM_HSDAT	LOBM_HSDAT	Date when Batch Was Produced	Datum, an dem die Charge herge	2017.07.06 08:56:49											
+LOBM_KRT	LOBM_KRT	Waiting Period of a Batch	Geforderte Karenztage Charge	2017.07.06 08:56:49											
+LOBM_LFDAT	LOBM_LFDAT	Batch Determin. Delivery Date	Lieferdatum Chargenfindung	2017.07.06 08:56:49											
+LOBM_LGORT	LOBM_LGORT	Storage Location	Lagerort	2017.07.06 08:56:49											
+LOBM_LICHA	LOBM_LICHA	Vendor Batch Number	Lieferantenchargennummer	2017.07.06 08:56:49											
+LOBM_LIFNR	LOBM_LIFNR	Vendor Account Number	Kontonummer des Lieferanten	2017.07.06 08:56:49											
+LOBM_LVORM	LOBM_LVORM	Deletion Ind. for Batches	Löschvormerkung für Chargen	2017.07.06 08:56:49											
+LOBM_LWEDT	LOBM_LWEDT	Date of Last Goods Receipt	Datum des letzten Wareneingang	2017.07.06 08:56:49											
+LOBM_MBDAT	LOBM_MBDAT	Material Availability Date	Materialbereitstellungsdatum	2017.07.06 08:56:49											
+LOBM_MENGE	LOBM_MENGE	Batch Determination Sort. Qty	Sortierbare Menge Chargenfdg.	2017.07.06 08:56:49											
+LOBM_MTVER	LOBM_MTVER	Material Group Export	Materialgruppe Export	2017.07.06 08:56:49											
+LOBM_QNDAT	LOBM_QNDAT	Next Insp. Date for Batch	Nächstes Prüfdatum der Charge	2017.07.06 08:56:49											
+LOBM_QSCORE	LOBM_QSCORE	Quality Score Usage Decision	Qualitätskennzahl aus VE	2017.07.06 08:56:49											
+LOBM_RLZ	LOBM_RLZ	Remaining Shelf Life for Batch	Geforderte Restlaufzeit Charge	2017.07.06 08:56:49											
+LOBM_RLZ_OP	LOBM_RLZ_OP	Comp.Op. for Remaining Runtime	Vergleichsop. der Restlaufzeit	2017.07.06 08:56:49											
+MM_EKKO_GNETW_INR	MM_EKKO_GNETW_INR	Total net order value	Total net order value	2017.07.06 08:56:49											
+LOBM_RLZ_PROZ	LOBM_RLZ_PROZ	Req. Remaining Runtme in Proc.	Geford. Restlaufzeit in Proz.	2017.07.06 08:56:49											
+MM_EKKO_GNETW_JPY	MM_EKKO_GNETW_JPY	Total net order value	Total net order value	2017.07.06 08:56:49											
+MM_EKKO_GNETW_USD	MM_EKKO_GNETW_USD	Total net order value	Total net order value	2017.07.06 08:56:49											
+MM_EKKO_MATKL	MM_EKKO_MATKL	Purchasing Group	Material Group	2017.07.06 08:56:49											
+MM_EKKO_WERKS	MM_EKKO_WERKS	Purchasing Group	Plant	2017.07.06 08:56:49											
+MTA1_CHAR_C1	MTA1_CHAR_C1	CHAR10		2017.07.06 08:56:49											
+MTA1_CHAR_C2	MTA1_CHAR_C2	CHAR30 default 'MTA1RATION'		2017.07.06 08:56:49											
+MTA1_CURR_C1	MTA1_CURR_C1	CURR 13.2 EUR Multiple value		2017.07.06 08:56:49											
+MTA1_CURR_C2	MTA1_CURR_C2	CURR 15 JPY Multiple value wit		2017.07.06 08:56:49											
+MTA1_CURR_C3	MTA1_CURR_C3	CURR 13.2 EUR allowed values 5		2017.07.06 08:56:49											
+MTA1_CURR_C4	MTA1_CURR_C4	CURR 13.3 KWD +/-		2017.07.06 08:56:49											
+MTA1_HIERARCHY	MTA1_HIERARCHY	Char with hierarchy		2017.07.06 08:56:49											
+MTA1_NUM_D2	MTA1_NUM_D2	Shelf Life Expiration or Best-		2017.07.06 08:56:49											
+MTA1_NUM_INTERVAL	MTA1_NUM_INTERVAL	NUM interval diff. Units		2017.07.06 08:56:49											
+MTA1_NUM_N8	MTA1_NUM_N8	Num 5.2 Multiple value with In		2017.07.06 08:56:49											
+MTA_CHAR_ADDDATA_9060	MTA_CHAR_ADDDATA_9060	CHAR with Add.Data + Class typ		2017.07.06 08:56:49											
+MTA_CHAR_ADDDATA_90601	MTA_CHAR_ADDDATA_90601	CHAR with Add.Data + Class typ		2017.07.06 08:56:49											
+MTA_CHAR_C1	MTA_CHAR_C1	CHAR10		2017.07.06 08:56:49											
+MTA_CHAR_C110	MTA_CHAR_C110	CHAR11		2017.07.06 08:56:49											
+MTA_CHAR_C111	MTA_CHAR_C111	CHAR11		2017.07.06 08:56:49											
+MTA_CHAR_C2	MTA_CHAR_C2	CHAR30 default 'MTARATION'		2017.07.06 08:56:49											
+MTA_CHAR_C200	MTA_CHAR_C200	CHAR30 default 'MIGRATION'		2017.07.06 08:56:49											
+MTA_CHAR_C201	MTA_CHAR_C201	CHAR30 default 'MIGRATION'		2017.07.06 08:56:49											
+MTA_CHAR_HIER_CS_9000	MTA_CHAR_HIER_CS_9000	Hierarchy case sensitive Char	Hierarchy nicht case sensitiv	2017.07.06 08:56:49											
+MTA_CHAR_HIER_CS_90001	MTA_CHAR_HIER_CS_90001	Hierarchy case sensitive Char	Hierarchy nicht case sensitiv	2017.07.06 08:56:49											
+MTA_CHAR_HIER_NCS_9010	MTA_CHAR_HIER_NCS_9010	Hierarchy not case sensitive E		2017.07.06 08:56:49											
+MTA_CHAR_HIER_NCS_90101	MTA_CHAR_HIER_NCS_90101	Hierarchy not case sensitive E		2017.07.06 08:56:49											
+MTA_CHAR_HIER_NCS_9020	MTA_CHAR_HIER_NCS_9020	Hierarchy not case sensitive C		2017.07.06 08:56:49											
+MTA_CHAR_HIER_NCS_90201	MTA_CHAR_HIER_NCS_90201	Hierarchy not case sensitive C		2017.07.06 08:56:49											
+LOBM_UCCHA	LOBM_UCCHA	Original Batch	Ursprungscharge	2017.07.06 08:56:49											
+LOBM_UCMAT	LOBM_UCMAT	Material for Original Batch	Material zur Ursprungscharge	2017.07.06 08:56:49											
+LOBM_UCWRK	LOBM_UCWRK	Plant from Original Batch	Werk der Ursprungscharge	2017.07.06 08:56:49											
+LOBM_UDCODE	LOBM_UDCODE	Usage Decision	Verwendungsentscheid	2017.07.06 08:56:49											
+LOBM_VERAB	LOBM_VERAB	Availability Date	Verfügbarkeitsdatum	2017.07.06 08:56:49											
+LOBM_VFDAT	LOBM_VFDAT	Expiration date, shelf life	Verfallsdatum, Mindesthaltbark	2017.07.06 08:56:49											
+LOBM_ZUSTD	LOBM_ZUSTD	Status of Batch	Zustand der Charge	2017.07.06 08:56:49											
+MTA_CHAR_HIER_NCS_9030	MTA_CHAR_HIER_NCS_9030	Hierarchy case sensitive Char		2017.07.06 08:56:49											
+MTA_CHAR_HIER_NCS_90301	MTA_CHAR_HIER_NCS_90301	Hierarchy case sensitive Char		2017.07.06 08:56:49											
+MTA_CURR_ADDATA_9070	MTA_CURR_ADDATA_9070	CURR w/ Add.Data (templ) Class		2017.07.06 08:56:49											
+MTA_CURR_ADDATA_90701	MTA_CURR_ADDATA_90701	CURR w/ Add.Data (templ) Class		2017.07.06 08:56:49											
+MTA_CURR_C1	MTA_CURR_C1	CURR 13.2 EUR Multiple value		2017.07.06 08:56:49											
+MTA_CURR_C100	MTA_CURR_C100	CURR 13.2 EUR Multiple value		2017.07.06 08:56:49											
+MTA_CURR_C101	MTA_CURR_C101	CURR 13.2 EUR Multiple value		2017.07.06 08:56:49											
+MTA_CURR_C2	MTA_CURR_C2	CURR 15 JPY Multiple value wit		2017.07.06 08:56:49											
+MTA_CURR_C200	MTA_CURR_C200	CURR 15 JPY Multiple value wit		2017.07.06 08:56:49											
+MTA_CURR_C201	MTA_CURR_C201	CURR 15 JPY Multiple value wit		2017.07.06 08:56:49											
+MTA_CURR_C3	MTA_CURR_C3	CURR 13.2 EUR allowed values 5		2017.07.06 08:56:49											
+MTA_CURR_C300	MTA_CURR_C300	CURR 13.2 EUR allowed values 5		2017.07.06 08:56:49											
+MTA_CURR_C301	MTA_CURR_C301	CURR 13.2 EUR allowed values 5		2017.07.06 08:56:49											
+MTA_CURR_C4	MTA_CURR_C4	CURR 13.3 KWD +/-		2017.07.06 08:56:49											
+MTA_CURR_C400	MTA_CURR_C400	CURR 13.3 KWD +/-		2017.07.06 08:56:49											
+MTA_CURR_C401	MTA_CURR_C401	CURR 13.3 KWD +/-		2017.07.06 08:56:49											
+MTA_CURR_INTV_9110	MTA_CURR_INTV_9110	CURR 13.2 Interval -1000 +2000		2017.07.06 08:56:49											
+MTA_CURR_INTV_91101	MTA_CURR_INTV_91101	CURR 13.2 Interval -1000 +2000		2017.07.06 08:56:49											
+MTA_DATE_9040	MTA_DATE_9040	Date multiple value		2017.07.06 08:56:49											
+MTA_DATE_90401	MTA_DATE_90401	Date multiple value		2017.07.06 08:56:49											
+MTA_DATE_INTV_9090	MTA_DATE_INTV_9090	DATE interval / single value		2017.07.06 08:56:49											
+MTA_DATE_INTV_90901	MTA_DATE_INTV_90901	DATE interval / single value		2017.07.06 08:56:49											
+MTA_HIERARCHY	MTA_HIERARCHY	Char with hierarchy		2017.07.06 08:56:49											
+MTA_NUM_D1	MTA_NUM_D1	Date	Datum	2017.07.06 08:56:49											
+MTA_NUM_D1000	MTA_NUM_D1000	Date	Datum	2017.07.06 08:56:49											
+MTA_NUM_D1001	MTA_NUM_D1001	Date	Datum	2017.07.06 08:56:49											
+MTA_NUM_D2	MTA_NUM_D2	Date with reference to table f		2017.07.06 08:56:49											
+MTA_NUM_D2000	MTA_NUM_D2000	Date with reference to table f		2017.07.06 08:56:49											
+MTA_NUM_D2001	MTA_NUM_D2001	Date with reference to table f		2017.07.06 08:56:49											
+MTA_NUM_INTERVAL	MTA_NUM_INTERVAL	NUM interval diff. Units		2017.07.06 08:56:49											
+MTA_NUM_INTERVAL00	MTA_NUM_INTERVAL00	NUM interval diff. Units		2017.07.06 08:56:49											
+MTA_NUM_INTERVAL01	MTA_NUM_INTERVAL01	NUM interval diff. Units		2017.07.06 08:56:49											
+MTA_NUM_INTV_9051	MTA_NUM_INTV_9051	Numerical with Interval differ		2017.07.06 08:56:49											
+MTA_NUM_INTV_90511	MTA_NUM_INTV_90511	Numerical with Interval differ		2017.07.06 08:56:49											
+MTA_NUM_N1	MTA_NUM_N1	Num 10	Num 10	2017.07.06 08:56:49											
+MTA_NUM_N100	MTA_NUM_N100	Num 10	Num 10	2017.07.06 08:56:49											
+MTA_NUM_N101	MTA_NUM_N101	Num 10	Num 10	2017.07.06 08:56:49											
+MTA_NUM_N2	MTA_NUM_N2	Num 5.3  Template	Num 5.3  Template	2017.07.06 08:56:49											
+MTA_NUM_N2000	MTA_NUM_N2000	Num 5.3  Template	Num 5.3  Template	2017.07.06 08:56:49											
+MTA_NUM_N2001	MTA_NUM_N2001	Num 5.3  Template	Num 5.3  Template	2017.07.06 08:56:49											
+MTA_NUM_N3	MTA_NUM_N3	Num 10.2	Num 10.2	2017.07.06 08:56:49											
+MTA_NUM_N300	MTA_NUM_N300	Num 10.2	Num 10.2	2017.07.06 08:56:49											
+MTA_NUM_N301	MTA_NUM_N301	Num 10.2	Num 10.2	2017.07.06 08:56:49											
+MTA_NUM_N4	MTA_NUM_N4	Num 12.3 Multiple value	Num 12.3 Multiple value	2017.07.06 08:56:49											
+MTA_NUM_N400	MTA_NUM_N400	Num 12.3 Multiple value	Num 12.3 Multiple value	2017.07.06 08:56:49											
+MTA_NUM_N401	MTA_NUM_N401	Num 12.3 Multiple value	Num 12.3 Multiple value	2017.07.06 08:56:49											
+MTA_NUM_N5	MTA_NUM_N5	Num 5	Num 5	2017.07.06 08:56:49											
+MTA_NUM_N500	MTA_NUM_N500	Num 5	Num 5	2017.07.06 08:56:49											
+MTA_NUM_N501	MTA_NUM_N501	Num 5	Num 5	2017.07.06 08:56:49											
+MTA_NUM_N6	MTA_NUM_N6	Num 5 Interval +/-	Num 5 Interval +/-	2017.07.06 08:56:49											
+MTA_NUM_N600	MTA_NUM_N600	Num 5 Interval +/-	Num 5 Interval +/-	2017.07.06 08:56:49											
+MTA_NUM_N601	MTA_NUM_N601	Num 5 Interval +/-	Num 5 Interval +/-	2017.07.06 08:56:49											
+MTA_NUM_N7	MTA_NUM_N7	Num 5.1 Interval mandatory	Num 5.1 Interval mandatory	2017.07.06 08:56:49											

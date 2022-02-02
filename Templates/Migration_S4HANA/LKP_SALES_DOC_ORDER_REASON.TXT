@@ -1,0 +1,14 @@
+LEGACY_ORDER_REASON	ORDER_REASON	ORDER_REASON_TXT_GBL	ORDER_REASON_TXT_LCL	DI_TIMESTAMP											
+001	001	Sales Call	Besuch	2017.07.06 08:56:49											
+002	002	Trade Fair Sales Activity	Messe-Vertriebsaktivität	2017.07.06 08:56:49											
+003	003	Television Commercial	Fernsehwerbung	2017.07.06 08:56:49											
+004	004	Customer Recommendation	Kundenempfehlung	2017.07.06 08:56:49											
+005	005	Newspaper Advertisement	Zeitungsanzeige	2017.07.06 08:56:49											
+006	006	Excellent Price	Hervorragender Preis	2017.07.06 08:56:49											
+007	007	Fast Delivery	Schnelle Lieferung	2017.07.06 08:56:49											
+008	008	Good Service	Guter Service	2017.07.06 08:56:49											
+009	009	Accelerated Return	Beschleunigte Retoure	2017.07.06 08:56:49											
+101	101	Poor Quality	Schlechte Qualität	2017.07.06 08:56:49											
+102	102	Damaged in Transit	Transportschaden	2017.07.06 08:56:49											
+105	105	Free of Charge Sample	Kostenloses Muster	2017.07.06 08:56:49											
+200	200	Price Difference: Price was too low	Preisdifferenz: Preis war zu niedrig	2017.07.06 08:56:49											

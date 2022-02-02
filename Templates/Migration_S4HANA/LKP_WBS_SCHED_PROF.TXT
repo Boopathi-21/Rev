@@ -1,0 +1,2 @@
+LEGACY_WBS_SCHED_PROF	WBS_SCHED_PROF	WBS_SCHED_PROF_TXT_GBL	WBS_SCHED_PROF_TXT_LCL	DI_TIMESTAMP											
+P00000000001	P00000000001	Project Based Services - Sched. Profile	Projektbez. Services - TerminierProfil	2017.07.06 08:56:49											

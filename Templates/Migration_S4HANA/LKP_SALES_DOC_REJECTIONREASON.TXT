@@ -1,0 +1,20 @@
+LEGACY_REJECTIONREASON	REJECTIONREASON	REJECTIONREASON_TXT_GBL	REJECTIONREASON_TXT_LCL	DI_TIMESTAMP											
+00	00	Assigned by the System (Internal)	Vom System zugewiesen (intern)	2017.07.06 08:56:49											
+12	12	Technical Change	Technische Änderung	2017.07.06 08:56:49											
+56	56	Customer not eligible	Kunde ist nicht berechtigt	2017.07.06 08:56:49											
+57	57	Warranty period expired	Gewährleistungszeitraum abgelaufen	2017.07.06 08:56:49											
+58	58	Other compensation	Sonstige Entschädigung	2017.07.06 08:56:49											
+59	59	Damaged by customer	Beschädigt durch Kunden	2017.07.06 08:56:49											
+60	60	Order cancelled due to Error	Bestellung wegen Fehler storniert	2017.07.06 08:56:49											
+61	61	Item cancelled & substituted by new one	Position storniert und d. neue ersetzt	2017.07.06 08:56:49											
+62	62	Rejected by Selling Company	Vom verkaufenden Unternehmen abgelehnt	2017.07.06 08:56:49											
+63	63	Rejected by Seller - Business Reasons	Vom Verkäufer abgelehnt-Geschäftsgründe	2017.07.06 08:56:49											
+64	64	Rejected by Seller - No Availability	Vom Verkäufer abgelehnt - Nicht verfügb.	2017.07.06 08:56:49											
+70	70	Rejected by Customer	Vom Kunden abgelehnt	2017.07.06 08:56:49											
+71	71	Rejected by Customer - Incorrect Order	Vom Kunden abgelehnt - Falsche Bestell.	2017.07.06 08:56:49											
+72	72	Rejected by Customer - Incorrect Item	Vorm Kunden abgelehnt - Falscher Artikel	2017.07.06 08:56:49											
+73	73	Rejected by Customer - Delay in Delivery	Vom Kunden abgelehnt - Lieferverzögerung	2017.07.06 08:56:49											
+74	74	Rejected by Customer - Delay in Service	Vom Kunden abgelehnt - Service-Verzög.	2017.07.06 08:56:49											
+75	75	Rejected by Customer - Pricing Reasons	Vom Kunden abgelehnt - Preisgründe	2017.07.06 08:56:49											
+76	76	Customer rejects open Quantity / Service	Kunde lehnt offene(n) Menge/Service ab	2017.07.06 08:56:49											
+80	80	Due to invoice error	Aufgrund von Rechnungsfehler	2017.07.06 08:56:49											

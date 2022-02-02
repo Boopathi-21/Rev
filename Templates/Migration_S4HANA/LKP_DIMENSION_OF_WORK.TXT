@@ -1,0 +1,54 @@
+LEGACY_DIMENSION_KEY	DIMENSION_KEY	DIMENSION_KEY_TXT_GBL	DIMENSION_KEY_TXT_LCL	DI_TIMESTAMP											
+AAAADL	AAAADL	(no dimensions)	(dimensionslos)	2017.07.06 08:56:49											
+ACBAC	ACBAC	Acid/Base capacity	Säure/Basekapazität	2017.07.06 08:56:49											
+ACCEL	ACCEL	Acceleration	Beschleunigung	2017.07.06 08:56:49											
+ACTCON	ACTCON	Activ. Concentration	Aktiv.konzentration	2017.07.06 08:56:49											
+CAPACI	CAPACI	Capacitance	Elektr. Kapazität	2017.07.06 08:56:49											
+CONDUC	CONDUC	Conductivity	Leifähigkeit	2017.07.06 08:56:49											
+DENSI	DENSI	Density	Dichte	2017.07.06 08:56:49											
+ECURR	ECURR	Electric Current	Elektr. Strom	2017.07.06 08:56:49											
+ENERGY	ENERGY	Energy	Energie	2017.07.06 08:56:49											
+EVARA	EVARA	Evaporation Rate	Verdampfungsgeschw.	2017.07.06 08:56:49											
+FORCE	FORCE	Force	Kraft	2017.07.06 08:56:49											
+FREQU	FREQU	Frequency	Frequenz	2017.07.06 08:56:49											
+HYDROL	HYDROL	Hydrolysis Rate	Hydrolysegeschwind.	2017.07.06 08:56:49											
+LENGTH	LENGTH	Length	Länge	2017.07.06 08:56:49											
+LIGHT	LIGHT	Luminous intensity	Lichtstärke	2017.07.06 08:56:49											
+MAGNFD	MAGNFD	Magnet. Flux Density	Magnet. Flußdichte	2017.07.06 08:56:49											
+MAPER	MAPER	Mass per Energy	Masse pro Energie	2017.07.06 08:56:49											
+MASFLO	MASFLO	Mass Flow Rate	Massenstrom	2017.07.06 08:56:49											
+MASS	MASS	Mass	Masse	2017.07.06 08:56:49											
+MASSBD	MASSBD	Mass Coverage	Massenbedeckung	2017.07.06 08:56:49											
+MOENER	MOENER	Molar energy	Molare Energie	2017.07.06 08:56:49											
+MOLMAS	MOLMAS	Molar Mass	Molmasse	2017.07.06 08:56:49											
+MOLQU	MOLQU	Mole quantity	Molmenge	2017.07.06 08:56:49											
+MPROPO	MPROPO	Mass Proportion	Massenverhältnis	2017.07.06 08:56:49											
+PERMEA	PERMEA	Permeability	Permeabilität	2017.07.06 08:56:49											
+POINTS	POINTS	Points	Punkte	2017.07.06 08:56:49											
+POWER	POWER	Power	Leistung	2017.07.06 08:56:49											
+PRESS	PRESS	Pressure	Druck	2017.07.06 08:56:49											
+PROPOR	PROPOR	Proportion	Verhältnis	2017.07.06 08:56:49											
+RESIST	RESIST	Elec. Resistance	Elektr. Widerstand	2017.07.06 08:56:49											
+SNDPLV	SNDPLV	Sound Pressure Level	Schalldruckpegel	2017.07.06 08:56:49											
+SPAEQU	SPAEQU	Specific Equivalent	Spez Äquivalentmenge	2017.07.06 08:56:49											
+SPARAD	SPARAD	Spec. Act. Rad. Sub.	Spez Akt radioak Sub	2017.07.06 08:56:49											
+SPEED	SPEED	Speed	Geschwindigkeit	2017.07.06 08:56:49											
+SPENER	SPENER	Specific energy	Spezifische Energie	2017.07.06 08:56:49											
+SPHCAP	SPHCAP	Spec. Heat Capacity	Spez. Wärmekapazität	2017.07.06 08:56:49											
+SPREST	SPREST	Sp. Elec. Resistance	Spez. el. Widerstand	2017.07.06 08:56:49											
+STEXKZ	STEXKZ	Dust explosion ratio	Staubexplosionskennz	2017.07.06 08:56:49											
+SURFAC	SURFAC	Area	Fläche	2017.07.06 08:56:49											
+SURFTE	SURFTE	Surface tension	Oberflächenspannung	2017.07.06 08:56:49											
+SURINV	SURINV	Inverse Surface Area	Inverse Fläche	2017.07.06 08:56:49											
+TEMP	TEMP	Temperature	Temperatur	2017.07.06 08:56:49											
+TEMPRT	TEMPRT	Rate of temp. change	Temper.änderungsrate	2017.07.06 08:56:49											
+THCOND	THCOND	Heat Conductivity	Wärmeleitfähigkeit	2017.07.06 08:56:49											
+TIME	TIME	Time	Zeit	2017.07.06 08:56:49											
+TKONZ	TKONZ	Particle concentrat.	Teilchenkonzentratio	2017.07.06 08:56:49											
+VISDYN	VISDYN	Dynamic viscosity	Zähigkeit, dynamisch	2017.07.06 08:56:49											
+VISKIN	VISKIN	Kinematic viscosity	Zähigkeit, kinemat.	2017.07.06 08:56:49											
+VOLFLO	VOLFLO	Volumetric Flow Rate	Volumenstrom	2017.07.06 08:56:49											
+VOLTAG	VOLTAG	Electrical Tension	Elektr. Spannung	2017.07.06 08:56:49											
+VOLUME	VOLUME	Volume	Volumen	2017.07.06 08:56:49											
+VOLWTF	VOLWTF	VOLWTF		2017.07.06 08:56:49											
+VPROPO	VPROPO	Volume proportion	Volumenverhältnis	2017.07.06 08:56:49											

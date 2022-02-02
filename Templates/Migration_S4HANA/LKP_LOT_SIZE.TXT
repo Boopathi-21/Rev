@@ -1,0 +1,8 @@
+LEGACY_LOT_SIZE	LOT_SIZE	LOTSIZEPROCED	LS_IND_SHORT_TERM	NO_OF_PERIODS	LS_PROC_LONG_TERM	LS_IND_LONG_TERM	LOT_SIZE_TXT_GBL	LOT_SIZE_TXT_LCL	DI_TIMESTAMP						
+EX	EX	S	E	 0	 	 	Lot-for-lot order quantity	Exakte Losgröße	2017.07.06 08:56:49						
+FX	FX	S	F	 0	 	 	Fixed order quantity	Feste Bestellmenge	2017.07.06 08:56:49						
+H1	H1	S	H	 0	 	 	Replenish to maximum stock level	Auffüllen bis Höchstbest. nach BedDeck.	2017.07.06 08:56:49						
+HB	HB	S	H	 0	 	 	Replenish to maximum stock level	Auffüllen bis Höchstbestand vor BedDeck.	2017.07.06 08:56:49						
+MB	MB	P	M	 1	 	 	Monthly lot size	Monatslosgröße	2017.07.06 08:56:49						
+TB	TB	P	T	 1	 	 	Daily lot size	Tageslosgröße	2017.07.06 08:56:49						
+WB	WB	P	W	 1	 	 	Weekly lot size	Wochenlosgröße	2017.07.06 08:56:49						

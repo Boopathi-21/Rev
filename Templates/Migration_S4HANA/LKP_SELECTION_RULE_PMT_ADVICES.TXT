@@ -1,0 +1,3 @@
+LEGACY_SELECTION_RULE	SELECTION_RULE	SELECTION_RULE_TXT_GBL	SELECTION_RULE_TXT_LCL	DI_TIMESTAMP											
+001	001	Selection rule 001	Selektionsregel 001	2017.07.06 08:56:49											
+002	002	Selection rule 002	Selektionsregel 002	2017.07.06 08:56:49											

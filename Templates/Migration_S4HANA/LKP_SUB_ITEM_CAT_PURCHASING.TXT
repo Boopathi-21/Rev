@@ -1,0 +1,16 @@
+LEGACY_SUBITEM_CAT	SUBITEM_CAT	SUBITEM_CAT_TXT_GBL	SUBITEM_CAT_TXT_LCL	DI_TIMESTAMP											
+1	1	Variant	Variante	2017.07.06 08:56:49											
+2	2	Discount in Kind: Inclusive Bonus Qty	Naturalrabatt, Dreingabe	2017.07.06 08:56:49											
+3	3	Empties	Leergut	2017.07.06 08:56:49											
+4	4	Discount in Kind: Exclusive Bonus Qty	Naturalrabatt, Draufgabe	2017.07.06 08:56:49											
+5	5	Prepack Item	Lotposition	2017.07.06 08:56:49											
+6	6	Display Item	Displayposition	2017.07.06 08:56:49											
+7	7	Set Item	Setposition	2017.07.06 08:56:49											
+8	8	Interchangeable Items (IBU: A&D)	Austauschpositionen (IBU: A&D)	2017.07.06 08:56:49											
+9	9	Pre-Packing (SLS Items)	Vorkommissionierung (SLS-Positionen)	2017.07.06 08:56:49											
+F	F	Forward Exchange (A&D Industry)	Vorabaustausch (IBU: A&D)	2017.07.06 08:56:49											
+H	H	GT BOM, Header Relevant	GT Stückliste, Kopf relevant	2017.07.06 08:56:49											
+I	I	GT BOM, Item Relevant	GT Stückliste, Position relevant	2017.07.06 08:56:49											
+P	P	SCM Product Replacement (Stock Transfer)	SCM Produktaustausch (Umlagerung)	2017.07.06 08:56:49											
+S	S	TPOP SUS Product Replacement	TPOP SUS Produktaustausch	2017.07.06 08:56:49											
+U	U	IUID Embedded Item	IUID Eingebettete Position	2017.07.06 08:56:49											

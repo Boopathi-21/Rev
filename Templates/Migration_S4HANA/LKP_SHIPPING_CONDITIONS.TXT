@@ -1,0 +1,7 @@
+LEGACY_SHIPPING_CONDITIONS	SHIPPING_CONDITIONS	SHIPPING_CONDITIONS_TXT_GBL	SHIPPING_CONDITIONS_TXT_LCL	DI_TIMESTAMP											
+01	01	Standard	Standard	2018.06.19 05:33:47											
+02	02	Pick-up	Abholung	2018.06.19 05:33:47											
+03	03	Immediately	Sofort	2018.06.19 05:33:47											
+04	04	Transport Service	Transportservice	2018.06.19 05:33:47											
+CC	CC	Consi / Ret. Issue	Konsi./Ret. Ausgang	2018.06.19 05:33:47											
+RE	RE	Returns	Retouren	2018.06.19 05:33:47											

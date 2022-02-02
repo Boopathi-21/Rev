@@ -1,0 +1,18 @@
+LEGACY_ASSET_CLASS	ASSET_CLASS	ASSET_CLASS_TXT_GBL	ASSET_CLASS_TXT_LCL	DI_TIMESTAMP											
+00001000	00001000	Real Estate (Land)		2017.07.06 08:56:49											
+00001100	00001100	Buildings		2017.07.06 08:56:49											
+00001200	00001200	Land Improvements		2017.07.06 08:56:49											
+00001500	00001500	Leasehold Improvements		2017.07.06 08:56:49											
+00002000	00002000	Machinery and Equipment		2017.07.06 08:56:49											
+00003000	00003000	Fixtures and Fittings		2017.07.06 08:56:49											
+00003100	00003100	Vehicles		2017.07.06 08:56:49											
+00003200	00003200	Computer Hardware		2017.07.06 08:56:49											
+00003210	00003210	Computer Software		2017.07.06 08:56:49											
+00004000	00004000	Assets under Construction	Anlagen im Bau	2017.07.06 08:56:49											
+00004001	00004001	AuC as Investment Measure	AiB als Investitionsmaßnahme	2017.07.06 08:56:49											
+00005000	00005000	Low-value Assets		2017.07.06 08:56:49											
+00006000	00006000	Leased Assets (Operating Lease)		2017.07.06 08:56:49											
+00006100	00006100	Leased Assets (Capital Lease)		2017.07.06 08:56:49											
+00008200	00008200	Goodwill		2017.07.06 08:56:49											
+00008300	00008300	Other Intangible Assets		2017.07.06 08:56:49											
+00009000	00009000	Tax only Assets & negative Value Assets		2017.07.06 08:56:49											

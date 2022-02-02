@@ -1,0 +1,7 @@
+LEGACY_SAMPLE_PROC_INSP	SAMPLE_PROC_INSP	SAMPLE_PROC_INSP_TXT_GBL	SAMPLE_PROC_INSP_TXT_LCL	DI_TIMESTAMP											
+YFIXFIP1	YFIXFIP1	Fix n=1, insp.points, char.attr.code		2017.07.06 08:56:49											
+YFIXFIP2	YFIXFIP2	Fix n=1, insp.points, mean value		2017.07.06 08:56:49											
+YPERCIN1	YPERCIN1	10% Inspection; char.attrib. code		2017.07.06 08:56:49											
+YPERCIN2	YPERCIN2	10% Inspection, mean value		2017.07.06 08:56:49											
+YSCHMIN1	YSCHMIN1	Sampling scheme, char.attrib. code		2017.07.06 08:56:49											
+YSCHMIN2	YSCHMIN2	Sampling scheme, mean value		2017.07.06 08:56:49											

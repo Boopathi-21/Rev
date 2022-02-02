@@ -1,0 +1,8 @@
+LEGACY_BOM_CATEGORY	BOM_CATEGORY	BOM_CATEGORY_TXT_GBL	BOM_CATEGORY_TXT_LCL	DI_TIMESTAMP											
+D	D	Document Structure	Dokumentstückliste	2017.07.06 08:56:49											
+E	E	Equipment BOM	Equipmentstückliste	2017.07.06 08:56:49											
+K	K	Order BOM	Kundenauftragsstückliste	2017.07.06 08:56:49											
+M	M	Material BOM	Materialstückliste	2017.07.06 08:56:49											
+P	P	Work Breakdown Structure BOM	Projektstückliste	2017.07.06 08:56:49											
+S	S	Standard BOM	Standardstückliste	2017.07.06 08:56:49											
+T	T	Functional Location BOM	TechnPlatzStückliste	2017.07.06 08:56:49											

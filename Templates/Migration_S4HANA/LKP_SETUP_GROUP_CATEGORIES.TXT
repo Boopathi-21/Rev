@@ -1,0 +1,5 @@
+LEGACY_SETUP_GROUP_CAT	PLANT	SETUP_GROUP_CAT	SETUP_GROUP_CAT_TXT_GBL	SETUP_GROUP_CAT_TXT_LCL	DI_TIMESTAMP										
+1	1010	1	Setup group cat. 1	Rüstfamiliengruppe 1	2017.07.06 08:56:49										
+2	1010	2	Setup group Cat. 2	Rüstfamiliengruppe 2	2017.07.06 08:56:49										
+1	1710	1	Setup group cat. 1	Rüstfamiliengruppe 1	2017.07.06 08:56:49										
+2	1710	2	Setup group Cat. 2	Rüstfamiliengruppe 2	2017.07.06 08:56:49										

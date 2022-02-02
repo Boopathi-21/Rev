@@ -1,0 +1,7 @@
+LEGACY_ACADEMIC_TITLE_KEY	ACADEMIC_TITLE_KEY	ACADEMIC_TITLE_KEY_TXT_GBL	ACADEMIC_TITLE_KEY_TXT_LCL	DI_TIMESTAMP											
+0001	0001	Dr	Dr.	2017.07.06 08:56:49											
+0002	0002	Professor	Professor	2017.07.06 08:56:49											
+0003	0003	Professor Dr	Professor Dr.	2017.07.06 08:56:49											
+0004	0004	Bachelor of Arts	Bachelor of Arts	2017.07.06 08:56:49											
+0005	0005	Master of Business Administration	Betriebswirt	2017.07.06 08:56:49											
+0006	0006	Doctor of Philosophy	Doktor der Philosophie	2017.07.06 08:56:49											

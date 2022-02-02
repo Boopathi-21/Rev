@@ -1,0 +1,36 @@
+LEGACY_PARTNER_FUNCTION	PARTNER_FUNCTION	PARTNER_FUNCTION_TXT_GBL	PARTNER_FUNCTION_TXT_LCL	DI_TIMESTAMP											
+3R	3R	3rd Party Return-To	Rücklief. an Dritten	2018.06.19 05:33:47											
+3S	3S	3rd Party Supplier	Drittlieferant	2018.06.19 05:33:47											
+AA	AA	SP Contract Rel.ord	SP Kontraktabruf	2018.06.19 05:33:47											
+AB	AB	Department resp.	Verantw. Abteilung	2018.06.19 05:33:47											
+AD	AD	Additionals	Verkaufshilfsmittel	2018.06.19 05:33:47											
+AG	AG	Sold-To Party	Auftraggeber	2018.06.19 05:33:47											
+AO	AO	Author	Autor	2018.06.19 05:33:47											
+AP	AP	Contact Person	Ansprechpartner	2018.06.19 05:33:47											
+AZ	AZ	Alt. Payt. Recipient	Alt. Zahlungsempf.	2018.06.19 05:33:47											
+BA	BA	Ordering Address	Bestelladresse	2018.06.19 05:33:47											
+BU	BU	Obsolete		2018.06.19 05:33:47											
+ED	ED	EDI Mail Recipient	EDI-Mail-Empfänger	2018.06.19 05:33:47											
+EK	EK	Buyer	Einkäufer	2018.06.19 05:33:47											
+ES	ES	External Agent	Ext. Dienstleister	2018.06.19 05:33:47											
+FS	FS	Freight supplier	Frachtlieferant	2018.06.19 05:33:47											
+HR	HR	Manufacturer	Hersteller	2018.06.19 05:33:47											
+IT	IT	Interested Party	Interessent	2018.06.19 05:33:47											
+KU	KU	Coordinator (user)	Koordinator (Ben.)	2018.06.19 05:33:47											
+LF	LF	Supplier	Lieferant	2018.06.19 05:33:47											
+LW	LW	Delivering Plant	Auslieferungswerk	2018.06.19 05:33:47											
+ME	ME	Buyer	Einkäufer	2018.06.19 05:33:47											
+MP	MP	Mail Partner	Mailpartner	2018.06.19 05:33:47											
+RE	RE	Bill-To Party	Rechnungsempfänger	2018.06.19 05:33:47											
+RG	RG	Payer	Regulierer	2018.06.19 05:33:47											
+RS	RS	Invoicing Party	Rechnungssteller	2018.06.19 05:33:47											
+SB	SB	Special Stk Partner	Sonderbestandsführer	2018.06.19 05:33:47											
+SP	SP	Forwarding Agent	Spediteur	2018.06.19 05:33:47											
+ST	ST	Position resp.	Verantw. Planstelle	2018.06.19 05:33:47											
+VA	VA	Contract Address	Vertragsadresse	2018.06.19 05:33:47											
+VE	VE	Sales Employee	Vertriebsmitarbeiter	2018.06.19 05:33:47											
+VU	VU	User responsible	Verantw. Benutzer	2018.06.19 05:33:47											
+VW	VW	Person respons.	Verantwortlicher	2018.06.19 05:33:47											
+WE	WE	Ship-To Party	Warenempfänger	2018.06.19 05:33:47											
+WL	WL	Goods Supplier	Warenlieferant	2018.06.19 05:33:47											
+ZM	ZM	Employee Responsible	Zuständ. Mitarbeiter	2018.06.19 05:33:47											

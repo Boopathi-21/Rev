@@ -1,0 +1,12 @@
+LEGACY_COST_CENTER_CATEGORY	COST_CENTER_CATEGORY	COST_CENTER_CATEGORY_TXT_GBL	COST_CENTER_CATEGORY_TXT_LCL	DI_TIMESTAMP											
+9	9	Marketing	Marketing	2017.07.06 08:56:49											
+C	C	Professional Service		2017.07.06 08:56:49											
+E	E	Development	Entwicklung	2017.07.06 08:56:49											
+F	F	Production	Produktion	2017.07.06 08:56:49											
+G	G	Logistics	Logistik	2017.07.06 08:56:49											
+H	H	Service cost center	Hilfskostenstelle	2017.07.06 08:56:49											
+L	L	Management	Management	2017.07.06 08:56:49											
+M	M	Material	Material	2017.07.06 08:56:49											
+S	S	Social	Sozial	2017.07.06 08:56:49											
+V	V	Sales	Verkauf	2017.07.06 08:56:49											
+W	W	Administration	Verwaltung	2017.07.06 08:56:49											

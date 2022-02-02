@@ -1,0 +1,4 @@
+LEGACY_EQUIPMENT_CATEGORY	EQUIPMENT_CATEGORY	EQUIPMENT_CATEGORY_TXT_GBL	EQUIPMENT_CATEGORY_TXT_LCL	DI_TIMESTAMP											
+M	M	Machines	Maschinen	2017.07.06 08:56:49											
+P	P	PRT Categoory		2017.07.06 08:56:49											
+X	X	Equipment Services	Equipment-Services	2017.07.06 08:56:49											

@@ -1,0 +1,7 @@
+LEGACY_PLANNER_GROUP	PLANNING_PLANT	PLANNER_GROUP	PLANNER_GROUP_TXT_GBL	PLANNER_GROUP_TXT_LCL	DI_TIMESTAMP										
+910	1010	910	PM-Planner Elec.	PM-Planner Elec.	2017.07.06 08:56:49										
+920	1010	920	PM-Planner Mech.	PM-Planner Mech.	2017.07.06 08:56:49										
+930	1010	930	PM-Planner INST.	PM-Planner INST.	2017.07.06 08:56:49										
+910	1710	910	PM-Planner Elec.	PM-Planner Elec.	2017.07.06 08:56:49										
+920	1710	920	PM-Planner Mech.	PM-Planner Mech.	2017.07.06 08:56:49										
+930	1710	930	PM-Planner INST.	PM-Planner INST.	2017.07.06 08:56:49										

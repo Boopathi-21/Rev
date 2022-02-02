@@ -1,0 +1,9 @@
+LEGACY_PAYMENT_CARDS_TYPE	PAYMENT_CARDS_TYPE	PAYMENT_CARDS_TYPE_TXT_GBL	PAYMENT_CARDS_TYPE_TXT_LCL	DI_TIMESTAMP											
+DP1P	DP1P	PayPal Direct Capture	PayPal Direct Capture	2018.06.19 05:33:47											
+DP2P	DP2P	PayPal with Authorization	PayPal mit Autorisierung	2018.06.19 05:33:47											
+DPAM	DPAM	American Express	American Express	2018.06.19 05:33:47											
+DPDI	DPDI	Diners Club	Diners Club	2018.06.19 05:33:47											
+DPDS	DPDS	Discover Card	Discover-Karte	2018.06.19 05:33:47											
+DPJC	DPJC	JCB Card	JCB Card	2018.06.19 05:33:47											
+DPMC	DPMC	Master -/Euro Card	Master-/Eurocard	2018.06.19 05:33:47											
+DPVI	DPVI	Visa Card	Visa-Karte	2018.06.19 05:33:47											

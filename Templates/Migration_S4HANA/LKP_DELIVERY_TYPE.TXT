@@ -1,0 +1,13 @@
+LEGACY_DELIVERY_TYPE	DELIVERY_TYPE	DELIVERY_TYPE_TXT_GBL	DELIVERY_TYPE_TXT_LCL	DI_TIMESTAMP											
+CBG5	CBG5	Pallet Returns	Palettenretoure	2017.07.06 08:56:49											
+CCLF	CCLF	Consi/Ret.Issue Dely	Consi/Ret.Issue Dely	2017.07.06 08:56:49											
+CCLR	CCLR	ConsiReturn Delivery	KonsigRetoure Liefng	2017.07.06 08:56:49											
+EL	EL	Inbound Delivery	Anlieferung	2017.07.06 08:56:49											
+LB	LB	Delivery for Subcon.	Lief. für Lohnbearb.	2017.07.06 08:56:49											
+LF	LF	Delivery	Lieferung	2017.07.06 08:56:49											
+LO	LO	Delivery w/o Ref.	Lieferung ohne Ref.	2017.07.06 08:56:49											
+LO2	LO2	Return to Customer	Rücklief. an Kunde	2017.07.06 08:56:49											
+LR	LR	Returns Delivery	Retourenlieferung	2017.07.06 08:56:49											
+LR2	LR2	Adv.Returns Delivery	Erw. Retourenanlief.	2017.07.06 08:56:49											
+NL	NL	IntPlant Stock Dely	Werksübergr. Umlag.	2017.07.06 08:56:49											
+RL	RL	Returns (Pur.Ord.)	Retoure (Bestellung)	2017.07.06 08:56:49											

@@ -1,0 +1,29 @@
+LEGACY_SCHED_LINE_CAT	SCHED_LINE_CAT	SCHED_LINE_CAT_TXT_GBL	SCHED_LINE_CAT_TXT_LCL	DI_TIMESTAMP											
+AC	AC	Return to Customer	Rücklief. an Kunde	2017.07.06 08:56:49											
+AR	AR	Advanced Returns	Erweiterte Retouren	2017.07.06 08:56:49											
+AT	AT	Inquiry Sched.Line	Anfrageeinteilung	2017.07.06 08:56:49											
+BN	BN	No MRP	Keine Disposition	2017.07.06 08:56:49											
+BP	BP	MRP	dispo-/lieferrel.	2017.07.06 08:56:49											
+C0	C0	Cons. Issue w/o AvCh	KonsEntn. o. VerfPf.	2017.07.06 08:56:49											
+C1	C1	Cons. Issue w. AvCh.	KonsEntn. m. VerfPr.	2017.07.06 08:56:49											
+C2	C2	Issue RetPck w/o AC	Leihg.nachb. o. ATP	2017.07.06 08:56:49											
+C3	C3	Issue RetPck with AC	Leihg.nachb. mit ATP	2017.07.06 08:56:49											
+CB	CB	Indiv.Purchase Order	Einzelbestellung	2017.07.06 08:56:49											
+CD	CD	Without Delivery	Ohne Lieferung	2017.07.06 08:56:49											
+CN	CN	No Mat.Planning	Keine Disposition	2017.07.06 08:56:49											
+CP	CP	MRP	dispo-/lieferrel.	2017.07.06 08:56:49											
+CS	CS	Leg	Strecke	2017.07.06 08:56:49											
+CT	CT	3rd Party w/o SN	Strecke ohne LA	2017.07.06 08:56:49											
+CV	CV	Consumption MRP	Verbrg. Disposition	2017.07.06 08:56:49											
+CX	CX	No Inventory Mgmt	Keine Bestandsführg	2017.07.06 08:56:49											
+D0	D0	Consignment Return	Konsignationsretoure	2017.07.06 08:56:49											
+DN	DN	Returns	Retoure	2017.07.06 08:56:49											
+E0	E0	StoTranToCons.w/o AC	Uml.in Konsi./o.Vfp.	2017.07.06 08:56:49											
+E1	E1	StoTranToCons. w. AC	Uml.in Konsi./m.Vfp.	2017.07.06 08:56:49											
+E3	E3	StoTranRetPck. w. AC	Uml. Leihgut m. Vfp.	2017.07.06 08:56:49											
+F0	F0	Cons.Pickup w/o AvCh	KonsAbhol. ohne Vfp.	2017.07.06 08:56:49											
+F1	F1	Cons.Pickup w. AvCh	KonsAbhol. m. VerfP.	2017.07.06 08:56:49											
+F2	F2	RetPckPickup w/o AC	Leihgutabh. oh. Vfp.	2017.07.06 08:56:49											
+RN	RN	Returns w/o planning	Retoure ohne Dispo	2017.07.06 08:56:49											
+WN	WN	Returns (653)	Retoure (653)	2017.07.06 08:56:49											
+WS	WS	3rd Party w SN	Strecke mit LA	2017.07.06 08:56:49											

@@ -1,0 +1,4 @@
+LEGACY_DME_INDICATOR	DME_INDICATOR	DME_INDICATOR_TXT_GBL	DME_INDICATOR_TXT_LCL	DI_TIMESTAMP											
+ 	 	Use house bank default value	Defaultwert der Hausbank benutzen	2018.06.19 05:33:47											
+0	0	Single data record can be forwarded to the Bundesbank	Einzeldatensatz kann an die Bundesbank weitergegeben werden	2018.06.19 05:33:47											
+1	1	Single data record not to be forwarded to the Bundesbank	Einzeldatensatz nicht an die Bundesbank weitergeben	2018.06.19 05:33:47											

@@ -1,0 +1,5 @@
+LEGACY_CONFIRM_CONTROL_KEY	CONFIRM_CONTROL_KEY	CONFIRM_CONTROL_KEY_TXT_GBL	CONFIRM_CONTROL_KEY_TXT_LCL	DI_TIMESTAMP											
+0001	0001	Confirmations	Bestätigungen	2018.06.19 05:33:47											
+0002	0002	Rough GR	Grob-WE	2018.06.19 05:33:47											
+0003	0003	Inb. Deliv./Rough GR	Anlieferung/Grob-WE	2018.06.19 05:33:47											
+0004	0004	Inbound Delivery	Anlieferung	2018.06.19 05:33:47											

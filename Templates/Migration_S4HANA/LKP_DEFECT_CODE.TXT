@@ -1,0 +1,103 @@
+LEGACY_CODE	CODE	CODE_GROUP	CATALOG	VERSION	CODE_TXT_GBL	CODE_TXT_LCL	DI_TIMESTAMP								
+0001	0001	YBMSRDEC	3	000001	OK	OK	2017.07.06 08:56:49								
+0002	0002	YBMSRDEC	3	000001	Not OK	Nicht OK	2017.07.06 08:56:49								
+0003	0003	YBMSRDEC	3	000001	Partly OK	Teilweise OK	2017.07.06 08:56:49								
+0004	0004	YBMSRDEC	3	000001	Decision not possible	Entscheidung nicht möglich	2017.07.06 08:56:49								
+0010	0010	DEF-FUNC	9	000001	No Function		2017.07.06 08:56:49								
+0010	0010	DEF-SURF	9	000001	Surface Issue		2017.07.06 08:56:49								
+0010	0010	DEF-TOL	9	000001	Tolerance Issue		2017.07.06 08:56:49								
+0010	0010	SURFACE	1	000001	Rough		2017.07.06 08:56:49								
+0020	0020	DEF-FUNC	9	000001	Bad Performance		2017.07.06 08:56:49								
+0020	0020	DEF-TOL	9	000001	Out of Lower Tolerance		2017.07.06 08:56:49								
+0020	0020	SURFACE	1	000001	Smooth		2017.07.06 08:56:49								
+0030	0030	DEF-TOL	9	000001	Out of Upper Tolerance		2017.07.06 08:56:49								
+0030	0030	SURFACE	1	000001	Scratches		2017.07.06 08:56:49								
+0040	0040	SURFACE	1	000001	Dents		2017.07.06 08:56:49								
+0100	0100	YB-PM001	0	000001	Waiting for Parts		2017.07.06 08:56:49								
+0200	0200	YB-PM001	0	000001	Waiting for Approval		2017.07.06 08:56:49								
+0300	0300	YB-PM001	0	000001	Waiting for Tool		2017.07.06 08:56:49								
+0400	0400	YB-PM001	0	000001	Waiting for Trade		2017.07.06 08:56:49								
+1	1	SURF3017	1	000001	Frosted	Frosted	2017.07.06 08:56:49								
+2	2	SURF3017	1	000001	Frosted	Frosted	2017.07.06 08:56:49								
+3	3	SURF3017	1	000001	Frosted	Frosted	2017.07.06 08:56:49								
+4	4	SURF2022	1	000001	Frosted	Frosted	2017.07.06 08:56:49								
+5	5	SURF2022	1	000001	Frosted	Frosted	2017.07.06 08:56:49								
+6	6	SURF2022	1	000001	Frosted	Frosted	2017.07.06 08:56:49								
+9000	9000	SURFACE	1	000001	Miscellaneous		2017.07.06 08:56:49								
+A	A	UD03	3	000001	Accepted	Angenommen	2017.07.06 08:56:49								
+A	A	UD10	3	000001	Accepted	Angenommen	2017.07.06 08:56:49								
+A0	A0	SURFACE9	1	000001	ALB	DE ALB	2017.07.06 08:56:49								
+A1	A1	SURFACE9	1	000001	ROSU	DE ROSU	2017.07.06 08:56:49								
+A1	A1	UD01	3	000001	Accepted-unrestricted stock	Angenommen - freier Bestand	2017.07.06 08:56:49								
+A1	A1	UD04	3	000001	Accepted-unrestricted stock	Angenommen - freier Bestand	2017.07.06 08:56:49								
+A1	A1	UD08	3	000001	Accepted-unrestricted stock	Angenommen - freier Bestand	2017.07.06 08:56:49								
+A1	A1	UD1701	3	000001	Accepted-unrestricted stock		2017.07.06 08:56:49								
+A1	A1	UD1701P	3	000001	Accepted-unrestricted stock		2017.07.06 08:56:49								
+A2	A2	SURFACE9	1	000001	ALBASTRU	DE ALBASTRU	2017.07.06 08:56:49								
+A2	A2	UD01	3	000001	Accepted-unrestricted – minor quality	Angenommen - freier Bestand - MindQual.	2017.07.06 08:56:49								
+A2	A2	UD1701	3	000001	Accepted-unrestricted minor quality stoc		2017.07.06 08:56:49								
+A3	A3	UD01	3	000001	Accepted-unrestricted-sample consumption	Angenommen - fr. Bestand/StichprobVerbr.	2017.07.06 08:56:49								
+A9	A9	UD01	3	000001	Accepted-Automatic Usage Decision	Angenommen - autom. Verwendungsentscheid	2017.07.06 08:56:49								
+DEF1	DEF1	DETEST	9	000001	Klar	Matt	2017.07.06 08:56:49								
+DEF1	DEF1	DETEST1	1	000001	Klar	Matt	2017.07.06 08:56:49								
+DEF2	DEF2	DETEST	9	000001	Frosted	Frosted	2017.07.06 08:56:49								
+DEF2	DEF2	DETEST1	1	000001	Frosted	Frosted	2017.07.06 08:56:49								
+EL00	EL00	YB-PMEL1	2	000001	Check controls	Steuerungen prüfen	2017.07.06 08:56:49								
+EL00	EL00	YB-PMEL1	5	000001	Short circuit	Kurzschluss	2017.07.06 08:56:49								
+EL00	EL00	YB-PMEL1	A	000001	Part replaced	Teil ersetzt	2017.07.06 08:56:49								
+EL00	EL00	YB-PMEL1	B	000001	Fuses	Sicherungen	2017.07.06 08:56:49								
+EL00	EL00	YB-PMEL1	C	000001	Protective device activated	Schutzeinrichtung aktiviert	2017.07.06 08:56:49								
+EL01	EL01	YB-PMEL1	2	000001	Measure Current	Strom messen	2017.07.06 08:56:49								
+EL01	EL01	YB-PMEL1	5	000001	Loose connector	Loser Stecker	2017.07.06 08:56:49								
+EL01	EL01	YB-PMEL1	A	000001	Process checked	Prozess geprüft	2017.07.06 08:56:49								
+EL01	EL01	YB-PMEL1	B	000001	Protective device	Schutzeinrichtung	2017.07.06 08:56:49								
+EL01	EL01	YB-PMEL1	C	000001	Contact fault	Kontaktfehler	2017.07.06 08:56:49								
+EL02	EL02	YB-PMEL1	2	000001	Change drawing	Zeichnung ändern	2017.07.06 08:56:49								
+EL02	EL02	YB-PMEL1	5	000001	Operating sequence error	Fehler im Arbeitsablauf	2017.07.06 08:56:49								
+EL02	EL02	YB-PMEL1	A	000001	Temporarily repaired	Vorübergehend repariert	2017.07.06 08:56:49								
+EL02	EL02	YB-PMEL1	B	000001	PLC	SPS	2017.07.06 08:56:49								
+EL02	EL02	YB-PMEL1	C	000001	Control unit fault	Steuereinheitsfehler	2017.07.06 08:56:49								
+EL03	EL03	YB-PMEL1	2	000001	Replace part	Teil ersetzen	2017.07.06 08:56:49								
+EL03	EL03	YB-PMEL1	5	000001	Incorrect set point	Falscher Sollwert	2017.07.06 08:56:49								
+EL03	EL03	YB-PMEL1	A	000001	Parameter set up	Parameter eingerichtet	2017.07.06 08:56:49								
+EL03	EL03	YB-PMEL1	B	000001	Motors and drives	Motoren und Antriebe	2017.07.06 08:56:49								
+EL03	EL03	YB-PMEL1	C	000001	Drive fault	Antriebsfehler	2017.07.06 08:56:49								
+EL04	EL04	YB-PMEL1	2	000001	Order part	Teil bestellen	2017.07.06 08:56:49								
+EL04	EL04	YB-PMEL1	5	000001	Operating error	Bedienungsfehler	2017.07.06 08:56:49								
+EL04	EL04	YB-PMEL1	C	000001	Transmitter fault	Senderfehler	2017.07.06 08:56:49								
+ME00	ME00	YB-PMME1	2	000001	Check lubrication	Schmierung prüfen	2017.07.06 08:56:49								
+ME00	ME00	YB-PMME1	5	000001	Insufficient Lubrication	Unzureichende Schmierung	2017.07.06 08:56:49								
+ME00	ME00	YB-PMME1	A	000001	Part replaced	Teil ersetzt	2017.07.06 08:56:49								
+ME00	ME00	YB-PMME1	B	000001	Shaft	Welle	2017.07.06 08:56:49								
+ME00	ME00	YB-PMME1	C	000001	Breakage	Bruch	2017.07.06 08:56:49								
+ME01	ME01	YB-PMME1	2	000001	Carry out adjustment	Anpassung vornehmen	2017.07.06 08:56:49								
+ME01	ME01	YB-PMME1	5	000001	Deflection	Durchbiegung	2017.07.06 08:56:49								
+ME01	ME01	YB-PMME1	A	000001	Temporarily repaired	Vorübergehend repariert	2017.07.06 08:56:49								
+ME01	ME01	YB-PMME1	B	000001	Bearing	Lager	2017.07.06 08:56:49								
+ME01	ME01	YB-PMME1	C	000001	Crack	Riss	2017.07.06 08:56:49								
+ME02	ME02	YB-PMME1	2	000001	Replace part	Teil ersetzen	2017.07.06 08:56:49								
+ME02	ME02	YB-PMME1	5	000001	Corrosion	Korrosion	2017.07.06 08:56:49								
+ME02	ME02	YB-PMME1	A	000001	Part lubricated	Teil geschmiert	2017.07.06 08:56:49								
+ME02	ME02	YB-PMME1	B	000001	Gear box	Getriebe	2017.07.06 08:56:49								
+ME02	ME02	YB-PMME1	C	000001	Difficult to move	Schwer zu bewegen	2017.07.06 08:56:49								
+ME03	ME03	YB-PMME1	2	000001	Order part	Teil bestellen	2017.07.06 08:56:49								
+ME03	ME03	YB-PMME1	5	000001	Breakage	Bruch	2017.07.06 08:56:49								
+ME03	ME03	YB-PMME1	A	000001	Part adjusted	Teil angepasst	2017.07.06 08:56:49								
+ME03	ME03	YB-PMME1	B	000001	Belts	Riemen	2017.07.06 08:56:49								
+ME03	ME03	YB-PMME1	C	000001	Bearing damage	Lagerschaden	2017.07.06 08:56:49								
+ME04	ME04	YB-PMME1	2	000001	Change drawing	Zeichnung ändern	2017.07.06 08:56:49								
+ME04	ME04	YB-PMME1	5	000001	Abrasion	Verschleiß	2017.07.06 08:56:49								
+ME04	ME04	YB-PMME1	C	000001	Gear box damage	Getriebeschaden	2017.07.06 08:56:49								
+R	R	UD03	3	000001	Rejected	Rückgewiesen	2017.07.06 08:56:49								
+R	R	UD10	3	000001	Rejected	Rückgewiesen	2017.07.06 08:56:49								
+R1	R1	UD01	3	000001	Rejected-blocked stock	Rückgewiesen - gesperrter Bestand	2017.07.06 08:56:49								
+R1	R1	UD04	3	000001	Rejected-blocked Stock	Rückgewiesen - gesperrter Bestand	2017.07.06 08:56:49								
+R1	R1	UD08	3	000001	Rejected-blocked Stock	Rückgewiesen - gesperrter Bestand	2017.07.06 08:56:49								
+R1	R1	UD1701	3	000001	Rejected-blocked stock		2017.07.06 08:56:49								
+R1	R1	UD1701P	3	000001	Rejected-blocked stock		2017.07.06 08:56:49								
+R210	R210	UD01	3	000001	Rejected-return supplier w/o delivery	Rückgewiesen - Lieferantenret. ohne Lief	2017.07.06 08:56:49								
+R220	R220	UD01	3	000001	Rejected-return supplier with delivery	Rückgewiesen - Lieferantenret. mit Lief.	2017.07.06 08:56:49								
+R310	R310	UD04	3	000001	Rejected-scrap (partial quantity)	Rückgewiesen - Ausschuss (Teilmenge)	2017.07.06 08:56:49								
+R310	R310	UD08	3	000001	Rejected-scrap (partial quantity)	Rückgewiesen - Ausschuss (Teilmenge)	2017.07.06 08:56:49								
+R320	R320	UD04	3	000001	Rejected-scrap (complete quantity)	Rückgewiesen - Ausschuss (Gesamtmenge)	2017.07.06 08:56:49								
+R320	R320	UD08	3	000001	Rejected-scrap (complete quantity)	Rückgewiesen - Ausschuss (Gesamtmenge)	2017.07.06 08:56:49								

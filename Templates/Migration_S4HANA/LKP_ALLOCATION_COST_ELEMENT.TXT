@@ -1,0 +1,314 @@
+LEGACY_COST_ELEMENT	COST_ELEMENT	CONTROLLING_AREA	VALID_TO_DATE	COST_ELEMENT_TXT_GBL	COST_ELEMENT_TXT_LCL	DI_TIMESTAMP									
+0052541500	0052541500	A000	99991231	Gain Inventory Value Adjustment Ext. Pro	Ertrag Bestandswertkorrekt. Fremderzeugn	2017.07.14 01:39:20									
+0052542000	0052542000	A000	99991231	Gain Price Differences (PRV)	Ertrag aus Preisdifferenzen Vorst Eigenm	2017.07.14 01:39:20									
+0052543000	0052543000	A000	99991231	Gain Price Differences (PRY)	Ertrag aus Preisdifferenzen aus Mat. Led	2017.07.14 01:39:20									
+0052546000	0052546000	A000	99991231	Consumption Valuation  (COC)	Verbrauchsbewertung (COC)	2017.07.14 01:39:20									
+0052570000	0052570000	A000	99991231	Gain from Production Variances	Ertrag aus Preisdifferenzen Eigenerzeugn	2017.07.14 01:39:20									
+0071015000	0071015000	A000	99991231	Offsetting Account Revaluation ord. Depr	Gegenkonto Aufwertung Normalabschreibung	2017.07.14 01:39:20									
+0052570500	0052570500	A000	99991231	Gain Inventory Value Adjustment Own Prod	Ertrag Bestandswertkorrekt. Eigenerzeugn	2017.07.14 01:39:20									
+0000099083	0000099083	A000	99991231	Settlement Service Revenue1		2017.07.14 01:39:20									
+0000099084	0000099084	A000	99991231	Res.Anal.Technical1		2017.07.14 01:39:20									
+0000099085	0000099085	A000	99991231	Consulting1		2017.07.14 01:39:20									
+0000099086	0000099086	A000	99991231	Settlement Service Revenue2		2017.07.14 01:39:20									
+0000099087	0000099087	A000	99991231	Res.Anal.Technical2		2017.07.14 01:39:20									
+0000099088	0000099088	A000	99991231	Consulting2		2017.07.14 01:39:20									
+0000099089	0000099089	A000	99991231	Settlement Service Revenue3		2017.07.14 01:39:20									
+0000099090	0000099090	A000	99991231	Res.Anal.Technical3		2017.07.14 01:39:20									
+0000099091	0000099091	A000	99991231	Consulting3		2017.07.14 01:39:20									
+0041000000	0041000000	A000	99991231	Revenue Domestic - Product	Erlöse Inland - Erzeugnis	2017.07.14 01:39:20									
+0041000400	0041000400	A000	99991231	Sales Revenue w/ Cost Element	Umsatzerlöse mit Kostenart	2017.07.14 01:39:20									
+0041001000	0041001000	A000	99991231	Revenue Foreign - Product	Erlöse Ausland - Erzeugnis	2017.07.14 01:39:20									
+0041001500	0041001500	A000	99991231	Revenue Affiliate -  Product	Erlöse Verbundene - Erzeugnis	2017.07.14 01:39:20									
+0041003000	0041003000	A000	99991231	Accrued Revenue – EBR Adjustment	Aktive Abgrenzung - EBR-Anpassung	2017.07.14 01:39:20									
+0041004000	0041004000	A000	99991231	Sales Deductions with Cost Element	Erlösschmälerungen mit Kostenart	2017.07.14 01:39:20									
+0041007000	0041007000	A000	99991231	Revenue Expenses	Umsatzaufwendungen	2017.07.14 01:39:20									
+0041090000	0041090000	A000	99991231	Other Operating Revenue	Sonstige betriebliche Erträge	2017.07.14 01:39:20									
+0064021000	0064021000	A000	99991231	Depreciation Expense - Intangible Assets	Abschreibung auf immaterielle Vermögensg	2017.07.14 01:39:20									
+0064031000	0064031000	A000	99991231	Depr expense (Bk > Tax) - Exceptional de	Abschreibungsaufwand (SL > St.) - außero	2017.07.14 01:39:20									
+0064032000	0064032000	A000	99991231	Depr expense (Bk < Tax) - Exceptional de	Abschreibungsaufwand (SL < St.) - außero	2017.07.14 01:39:20									
+0064040000	0064040000	A000	99991231	Scheduled Deprec Fixed Assets below Asse	Planmä. Abschr. auf Sachanlagen unter An	2017.07.14 01:39:20									
+0044007000	0044007000	A000	99991231	(-) IPI on Sales (BR)	(-) IPI auf Umsatz (BR)	2017.07.14 01:39:20									
+0064060000	0064060000	A000	99991231	Accrued interest  (CO)	Kalkulatorische Zinsen (CO)	2017.07.14 01:39:20									
+0044007001	0044007001	A000	99991231	(-) ICMS on Sales (BR)	(-) ICMS auf Umsatz (BR)	2017.07.14 01:39:20									
+0044007002	0044007002	A000	99991231	(-) ISS on Sales (BR)	(-) ISS auf Umsatz (BR)	2017.07.14 01:39:20									
+0044007003	0044007003	A000	99991231	(-) PIS on Sales (BR)	(-) PIS auf Umsatz (BR)	2017.07.14 01:39:20									
+0044007004	0044007004	A000	99991231	(-) Cofins on Sales (BR)	(-) COFINS auf Umsatz (BR)	2017.07.14 01:39:20									
+0044420000	0044420000	A000	99991231	Revenue Adjustment - ERR		2017.07.14 01:39:20									
+0050301000	0050301000	A000	99991231	COGS Direct Material	UK Direktmaterial	2017.07.14 01:39:20									
+0050302000	0050302000	A000	99991231	COGS Third Party	UK Fremd.lst.	2017.07.14 01:39:20									
+0050303000	0050303000	A000	99991231	COGS Material Overhead	UK Materialgemeink.	2017.07.14 01:39:20									
+0050304000	0050304000	A000	99991231	COGS Personnel Time	Kosten des Umsatzes Arbeitszeit	2017.07.14 01:39:20									
+0050305000	0050305000	A000	99991231	COGS Machine Time	Kosten des Umsatzes Maschinenzeit	2017.07.14 01:39:20									
+0050306000	0050306000	A000	99991231	COGS Setup Time	Kosten des Umsatzes Rüstzeit	2017.07.14 01:39:20									
+0050307000	0050307000	A000	99991231	COGS Production Overhead	UK FertigGemKosten	2017.07.14 01:39:20									
+0050308000	0050308000	A000	99991231	COGS Credits (Co/By-Pr)	Kosten des Umsatzes Ertrag aus Std-Koste	2017.07.14 01:39:20									
+0051100000	0051100000	A000	99991231	Consumption - Raw Material	Verbrauch Rohstoffe	2017.07.14 01:39:20									
+0051500000	0051500000	A000	99991231	Consumption - Packaging Material	Verbrauch Verpackung	2017.07.14 01:39:20									
+0051600000	0051600000	A000	99991231	Consumption - Trading Goods	Verbrauch Handelswaren	2017.07.14 01:39:20									
+0051700000	0051700000	A000	99991231	Consumption - Repair Material	Verbrauch Reparaturmaterial	2017.07.14 01:39:20									
+0044000000	0044000000	A000	99991231	Over/Underpayments and Unallowed Deducti	Unberechtigte Kundenabzüge	2017.07.14 01:39:20									
+0071010600	0071010600	A000	99991231	Clearing Depreciation local GAAP	Verrechnung AfA - Lokale Rechnungslegung	2017.07.14 01:39:20									
+0071010700	0071010700	A000	99991231	Estimated depreciation (FI-AA)	Kalkulatorische Abschreibungen (Ermittlu	2017.07.14 01:39:20									
+0071010800	0071010800	A000	99991231	Depreciation local GAAP	Abschreibung nach lokalem Recht	2017.07.14 01:39:20									
+0071040000	0071040000	A000	99991231	Discount lost using Net Procedure	Skontoverlust beim Nettoverfahren	2017.07.14 01:39:20									
+0071050000	0071050000	A000	99991231	Cash Discounts Expense	Aufwände für Skonto	2017.07.14 01:39:20									
+0061003000	0061003000	A000	99991231	Travel Expenses - Hotel and Accommodatio	Reisekosten Unterkunft (Belege/Pauschale	2017.07.14 01:39:20									
+0052580000	0052580000	A000	99991231	Gain from allowed Differences GL Account	Ertrag aus tol. Differenzen Sachkontenau	2017.07.14 01:39:20									
+0052590000	0052590000	A000	99991231	Freight Revenue - Recovery	Frachterlös - Rückgewinnung	2017.07.14 01:39:20									
+0094311000	0094311000	A000	99991231	Personnel hours	Personalstunden	2017.07.14 01:39:20									
+0054011000	0054011000	A000	99991231	Inventory Change - Purch.Offset.Acct (Ra	Bestandsveränderung - Einkaufsgegenkonto	2017.07.14 01:39:20									
+0054011100	0054011100	A000	99991231	Inventory Change - Purch.offset.acct (Pa	Bestandsveränderung - Einkaufsgegenkonto	2017.07.14 01:39:20									
+0054011200	0054011200	A000	99991231	Inventory Change - Purch.offset.acct (Tr	Bestandsveränderung - Einkaufsgegenkonto	2017.07.14 01:39:20									
+0054013000	0054013000	A000	99991231	Inventory Change - Purch.Offset.Acct (SF	Bestandsveränderung - Einkaufsgegenkonto	2017.07.14 01:39:20									
+0054051000	0054051000	A000	99991231	Inventory Change - Scrap External Produc	Verschrottung Fremderzeugnisse	2017.07.14 01:39:20									
+0054053000	0054053000	A000	99991231	Inventory Change - Scrap own Products	Verschrottung Eigenerzeugnisse	2017.07.14 01:39:20									
+0054083000	0054083000	A000	99991231	Inventory Change - Cost of own Goods sol	Bestandsveränderung - Verk. Eigenerz. m.	2017.07.14 01:39:20									
+0054084000	0054084000	A000	99991231	Inventory Change Cost own Goods sold SO		2017.07.14 01:39:20									
+0054093000	0054093000	A000	99991231	Inventory Change - QM cons.own prod. w/	Bestandsveränderung Verbrauch QM Eigener	2017.07.14 01:39:20									
+0054300000	0054300000	A000	99991231	Inventory Change - Semi Finished goods	Bestandsveränderung - unfertige Erzeugni	2017.07.14 01:39:20									
+0054400000	0054400000	A000	99991231	Inventory Change - Finished Goods	Bestandsveränderung fertige Erzeugnisse	2017.07.14 01:39:20									
+0051950000	0051950000	A000	99991231	Consumption - Subcontracting	Verbrauch Lohnbearbeitung	2017.07.14 01:39:20									
+0052001000	0052001000	A000	99991231	Loss Inventory Variance (Raw & Trade)	Aufwand aus Inventur-Differenzen (Roh/Ha	2017.07.14 01:39:20									
+0052030000	0052030000	A000	99991231	Loss from Revaluation	Aufwand aus Neubewertung	2017.07.14 01:39:20									
+0052041000	0052041000	A000	99991231	Loss Price Variance (PRD)	Aufwand Preisabweichung (PRD)	2017.07.14 01:39:20									
+0052042000	0052042000	A000	99991231	Loss Price Differences (PRV)	Aufwand aus Preisdifferenzen (PRV)	2017.07.14 01:39:20									
+0065000000	0065000000	A000	99991231	Postage and Shipping	Porto und Versand	2017.07.14 01:39:20									
+0065000500	0065000500	A000	99991231	Non Production - Material Consumption	Materialverbrauch ohne Produktion	2017.07.14 01:39:20									
+0065001000	0065001000	A000	99991231	Purchased Services	Bezogene Dienstleistungen	2017.07.14 01:39:20									
+0065002000	0065002000	A000	99991231	Advertising and Sales Costs	Werbe- und Vertreterkosten	2017.07.14 01:39:20									
+0065003000	0065003000	A000	99991231	Vehicle Costs	Kraftfahrzeugkosten	2017.07.14 01:39:20									
+0065004000	0065004000	A000	99991231	Donations	Spenden	2017.07.14 01:39:20									
+0065008000	0065008000	A000	99991231	Purchased Services-Time	Bezogene Dienstleistungen - Zeit	2017.07.14 01:39:20									
+0065008300	0065008300	A000	99991231	Services - General	Dienstleistungen - allgemein	2017.07.14 01:39:20									
+0065008500	0065008500	A000	99991231	Subcontracting Services	Lohnbearbeitungsleistungen	2017.07.14 01:39:20									
+0065009000	0065009000	A000	99991231	Other Activity Costs	Sonstige Aufwendungen für bezogene Leist	2017.07.14 01:39:20									
+0065050000	0065050000	A000	99991231	Unplanned Delivery costs	Ungeplante Bezugsnebenkosten	2017.07.14 01:39:20									
+0065100000	0065100000	A000	99991231	Office Supplies	Büromaterial	2017.07.14 01:39:20									
+0065150000	0065150000	A000	99991231	Computer Supplies	EDV-Material	2017.07.14 01:39:20									
+0065200000	0065200000	A000	99991231	Other Supplies	Sonstiges Material	2017.07.14 01:39:20									
+0065300000	0065300000	A000	99991231	Legal and Audit Services	Rechts- und Beratungskosten	2017.07.14 01:39:20									
+0065301000	0065301000	A000	99991231	Marketing Expenses	Marketingaufwendungen	2017.07.14 01:39:20									
+0065400000	0065400000	A000	99991231	Freight	Frachten und Fremdlager	2017.07.14 01:39:20									
+0065900000	0065900000	A000	99991231	Loss in the Event of Damage	Verlust aus Schadensfällen	2017.07.14 01:39:20									
+0054441000	0054441000	A000	99991231	Reserves for Unrealized Costs		2017.07.14 01:39:20									
+0055100000	0055100000	A000	99991231	Plant Activity Production Order	Fabrikleistung Fertigungsaufträge (BV)	2017.07.14 01:39:20									
+0059900000	0059900000	A000	99991231	Cost of Goods Sold (Affiliated)	Umsatzkosten (Verbundene)	2017.07.14 01:39:20									
+0061002000	0061002000	A000	99991231	3rd party material	Streckenmaterial	2017.07.14 01:39:20									
+0061004000	0061004000	A000	99991231	Travel Expenses - Meals	Reisekosten Verpflegung (Belege/Pauschal	2017.07.14 01:39:20									
+0061005000	0061005000	A000	99991231	Travel Expenses - Ground Transportation	Reisekosten - Fahrtkosten	2017.07.14 01:39:20									
+0071100000	0071100000	A000	99991231	Interest Expense	Zinsaufwendungen	2017.07.14 01:39:20									
+0061006000	0061006000	A000	99991231	Travel Expenses - Entertainment	Bewirtung und Präsentation	2017.07.14 01:39:20									
+0061104000	0061104000	A000	99991231	Payroll Expense - Indirect Labor Cost	Hilfslöhne	2017.07.14 01:39:20									
+0061200000	0061200000	A000	99991231	Payroll Expense - Tax and Soc Security -	Arbeitgeberanteil zur Sozialversicherung	2017.07.14 01:39:20									
+0061201000	0061201000	A000	99991231	Payroll Expense - Tax and Soc Security -	Arbeitgeberanteil zur Sozialversicherung	2017.07.14 01:39:20									
+0061310000	0061310000	A000	99991231	INSS (Direct Production Cost) (BR)	INSS (Fertigungseinzelkosten) (BR)	2017.07.14 01:39:20									
+0061400000	0061400000	A000	99991231	Training and Education	Fort- und Weiterbildung	2017.07.14 01:39:20									
+0061401000	0061401000	A000	99991231	HR Recruitement	HR-Personalbeschaffung	2017.07.14 01:39:20									
+0061500000	0061500000	A000	99991231	Sales Commissions	Verkäuferprovisionen	2017.07.14 01:39:20									
+0062000000	0062000000	A000	99991231	Bad Debt Expense	Abschreibungen Forderungen wg Uneinbring	2017.07.14 01:39:20									
+0061101000	0061101000	A000	99991231	Payroll Expense - Other salary-related e	Sonstige Aufwendungen mit Gehaltscharakt	2017.07.14 01:39:20									
+0061102000	0061102000	A000	99991231	Payroll Expense - Other wage-related exp	Sonstige Aufwendungen mit Lohncharakter	2017.07.14 01:39:20									
+0071300000	0071300000	A000	99991231	Interest Expense - Subsidiaries	Zinsaufwendungen verbundene Unternehmen	2017.07.14 01:39:20									
+0071800000	0071800000	A000	99991231	Other Extraordinary Expenses	Ausserordentlicher Aufwand	2017.07.14 01:39:20									
+0072010000	0072010000	A000	99991231	Loss from Exchange Rate Differences	Kursverluste Forderungen in FW und Valut	2017.07.14 01:39:20									
+0066000000	0066000000	A000	99991231	Other Operating Expenses	Sonstiger betrieblicher Aufwand	2017.07.14 01:39:20									
+0066000500	0066000500	A000	99991231	Income - reduction in provisions	Erträge - Kürzung von Rückstellungen	2017.07.14 01:39:20									
+0066000600	0066000600	A000	99991231	Other Gains	Sonstige betriebliche Erträge	2017.07.14 01:39:20									
+0066010000	0066010000	A000	99991231	Expense of Discounting (ZKB)	Aufwand Abzinsung (ZKB)	2017.07.14 01:39:20									
+0066019900	0066019900	A000	99991231	Addition to Provisions (ZKK)	Zuführung zu Rückstellungen (ZKK)	2017.07.14 01:39:20									
+0052003000	0052003000	A000	99991231	Loss Inventory Variance (SF & Finish Goo	Aufwand aus Inventur-Differenzen (Halbf/	2017.07.14 01:39:20									
+0052011000	0052011000	A000	99991231	Loss Inventory Transfer (Raw & Trade)	Aufwand Bestandsumlagerung (Roh/Handel)	2017.07.14 01:39:20									
+0052013000	0052013000	A000	99991231	Loss Inventory Transfer (SF & Finish Goo	Aufwand aus Umlagerung (Halbfabr./Fertig	2017.07.14 01:39:20									
+0052021000	0052021000	A000	99991231	Loss Consumption for Quality Control (Ra	Aufwand Verbrauch Qualitätskontrolle (Ro	2017.07.14 01:39:20									
+0052023000	0052023000	A000	99991231	Loss Consumption for Quality Control (SF	Aufwand Verbrauch Qualitätskontr (Halbfa	2017.07.14 01:39:20									
+0052031000	0052031000	A000	99991231	Loss from Valuation of External Products	Aufwand aus Umbewertung Fremderzeugnisse	2017.07.14 01:39:20									
+0052033000	0052033000	A000	99991231	Loss from Valuation of own Products	Aufwand aus Umbewertung Eigenerzeugnisse	2017.07.14 01:39:20									
+0052041500	0052041500	A000	99991231	Loss Inventory Value Adjustment Ext. Pro	Aufw. Bestandswertkorrekt. Fremderzeugni	2017.07.14 01:39:20									
+0068000000	0068000000	A000	99991231	Purchase Account (Raw)	Einkaufskonto (Rohstoff)	2017.07.14 01:39:20									
+0052043000	0052043000	A000	99991231	Loss Price Differences (PRY)	Aufwand aus Preisdifferenzen Material Le	2017.07.14 01:39:20									
+0068001000	0068001000	A000	99991231	Purchase account (Packaging)	Einkaufskonto (Verpackung)	2017.07.14 01:39:20									
+0068002000	0068002000	A000	99991231	Purchase account (Trading)	Einkaufskonto (Handel)	2017.07.14 01:39:20									
+0068010000	0068010000	A000	99991231	Purchase Account (SF & Finish Goods)	Einkaufskonto (Halbfabrikat/Fertigerzeug	2017.07.14 01:39:20									
+0070010000	0070010000	A000	99991231	Revenue from Post Capitalization	Ertrag aus Nachaktivierung	2017.07.14 01:39:20									
+0070015000	0070015000	A000	99991231	Settlement of Asset u. Construction to C	Abrechnung Anlage im Bau auf CO-Objekt	2017.07.14 01:39:20									
+0070020000	0070020000	A000	99991231	Revenue from Fixed Asset Sale	Ertrag aus Anlagenabgang	2017.07.14 01:39:20									
+0072020000	0072020000	A000	99991231	Loss from Rounding Dif. Foreign Currency	Aufwand Rundungsdifferenzen Fremdwährung	2017.07.14 01:39:20									
+0072040000	0072040000	A000	99991231	Loss from Currency Valuation	Aufwand aus Währungsbewertung	2017.07.14 01:39:20									
+0072510000	0072510000	A000	99991231	Gain from exchange rate differences	Kursgewinne Forderungen in FW und Valuta	2017.07.14 01:39:20									
+0072520000	0072520000	A000	99991231	Gain from rounding dif. foreign currency	Ertrag Rundungsdifferenzen Fremdwährung	2017.07.14 01:39:20									
+0072530000	0072530000	A000	99991231	Gain from rebates differences	Ertrag aus Bonusdifferenzen	2017.07.14 01:39:20									
+0072540000	0072540000	A000	99991231	Gain from currency valuation	Ertrag aus Währungsbewertung	2017.07.14 01:39:20									
+0075001000	0075001000	A000	99991231	Excise Taxes	Verbrauchsteuern	2017.07.14 01:39:20									
+0075002000	0075002000	A000	99991231	Corporate Income Tax Expense	Aufwendungen für Körperschaftssteuer	2017.07.14 01:39:20									
+0075002100	0075002100	A000	99991231	Capital Gains Tax	Kapitalertragssteuer	2017.07.14 01:39:20									
+0075002200	0075002200	A000	99991231	Solidary Surcharge on Corporate Income T	Solidaritätszuschlag auf Körperschaftsst	2017.07.14 01:39:20									
+0075002300	0075002300	A000	99991231	Solidary surcharge for Interest Income T	Solidaritätszuschlag auf Zinsabschlagste	2017.07.14 01:39:20									
+0075003000	0075003000	A000	99991231	Deferred Tax	Latente Steuern	2017.07.14 01:39:20									
+0075004000	0075004000	A000	99991231	Other Taxes on Income	Sonstige Steuern vom Einkommen und Ertra	2017.07.14 01:39:20									
+0075005000	0075005000	A000	99991231	Input Tax non deductable (NAV)	Sonstige Steuern nicht abzugsfähig (NAV)	2017.07.14 01:39:20									
+0075007000	0075007000	A000	99991231	Property Taxes	Grundsteuer	2017.07.14 01:39:20									
+0075008000	0075008000	A000	99991231	Trade Tax	Gewerbesteuer	2017.07.14 01:39:20									
+0075008020	0075008020	A000	99991231	Tax Fringe Benefits Tax (AU)	Steuer auf Gehaltszusätze	2017.07.14 01:39:20									
+0075008050	0075008050	A000	99991231	Export Taxes (FR) (AU)	Ausfuhrsteuern	2017.07.14 01:39:20									
+0061007000	0061007000	A000	99991231	Travel Expenses - Airfare, Rail, Mileage	Reisekosten Flüge und Fahrten	2017.07.14 01:39:20									
+0061008000	0061008000	A000	99991231	Travel Expenses - Miscellaneous	Sonstige Reisekosten	2017.07.14 01:39:20									
+0061010000	0061010000	A000	99991231	Payroll - Other Personnel Expenses	Sonstige Personalkosten	2017.07.14 01:39:20									
+0061020000	0061020000	A000	99991231	Payroll - Bonus	Tarifliche Jahresleistungen Löhne	2017.07.14 01:39:20									
+0070030000	0070030000	A000	99991231	Clearing Account Asset Disposals	Verrechnungskonto Anlagenabgang	2017.07.14 01:39:20									
+0070040000	0070040000	A000	99991231	Discount Received	Lieferantenskonti	2017.07.14 01:39:20									
+0070050000	0070050000	A000	99991231	Clearing affiliated asset transfer	Verrechnung Anlagentransfer an verbund.	2017.07.14 01:39:20									
+0070100000	0070100000	A000	99991231	Interest Income	Zinserträge	2017.07.14 01:39:20									
+0070300000	0070300000	A000	99991231	Interest Income - Subsidiaries	Sonstige Zinsen u ähnliche Erträge Verbu	2017.07.14 01:39:20									
+0070300100	0070300100	A000	99991231	Gain from Long Term Investment	Ertrag aus Beteiligungen	2017.07.14 01:39:20									
+0070500000	0070500000	A000	99991231	Consumption of Provisions	Inanspruchnahme Rückstellungen	2017.07.14 01:39:20									
+0070800000	0070800000	A000	99991231	Other Extraordinary Income	Außerordentliche Erträge	2017.07.14 01:39:20									
+0070900000	0070900000	A000	99991231	Fines and Penalties	Bußgelder und Strafen	2017.07.14 01:39:20									
+0071000000	0071000000	A000	99991231	Bank Charges	Nebenkosten des Geldverkehrs	2017.07.14 01:39:20									
+0071010000	0071010000	A000	99991231	Loss from Asset Transactions	Mindererlös aus Anlagenabgang	2017.07.14 01:39:20									
+0071010100	0071010100	A000	99991231	Gain from Asset Transactions	Mehrerlös aus Anlagenabgang	2017.07.14 01:39:20									
+0071010200	0071010200	A000	99991231	Gain from Write Up of Fixed Assets	Ertrag aus Zuschreibungen des Anlageverm	2017.07.14 01:39:20									
+0071010400	0071010400	A000	99991231	Loss from Capitalization Differences	Aufwand aus Aktivierungsdifferenzen	2017.07.14 01:39:20									
+0000099080	0000099080	A000	99991231	Settlement Service Revenue		2017.07.14 01:39:20									
+0052051000	0052051000	A000	99991231	Loss Consumption of Consign. Mat (Raw &	Aufwand aus Konsignationsverbrauch (Rohs	2017.07.14 01:39:20									
+0052053000	0052053000	A000	99991231	Loss Consumption of Consign. Mat (SF & F	Aufwand aus Konsignationsverbrauch (HF/F	2017.07.14 01:39:20									
+0052060000	0052060000	A000	99991231	Loss Small Price Differences Invoice Rec	Aufwand aus Kleindifferenzen Rechnungsei	2017.07.14 01:39:20									
+0052070500	0052070500	A000	99991231	Loss Inventory Value Adjustment Own Prod	Aufw. Bestandswertkorrekt. Eigenerzeugni	2017.07.14 01:39:20									
+0052073000	0052073000	A000	99991231	Price Difference RSUV	Preisdifferenz RSUV	2017.07.14 01:39:20									
+0092105300	0092105300	A000	99991231	Other costs	Sonstige Kosten	2017.07.14 01:39:20									
+0092105400	0092105400	A000	99991231	Secondary costs	Sekundärkosten	2017.07.14 01:39:20									
+0061021000	0061021000	A000	99991231	Payroll - Overtime Salaries	Überstundenzuschläge Gehälter	2017.07.14 01:39:20									
+0061021100	0061021100	A000	99991231	Payroll - Overtime Wages	Überstundenzuschläge Löhne	2017.07.14 01:39:20									
+0061022000	0061022000	A000	99991231	Payroll - Vacation Pay Salaries	Tarifliche Urlaubsgehälter	2017.07.14 01:39:20									
+0061022010	0061022010	A000	99991231	Payroll - Sick Pay (AU)	Krankengeld	2017.07.14 01:39:20									
+0061022020	0061022020	A000	99991231	Payroll - Disability Pay (AU)	Krankheitslohnfortzahlung	2017.07.14 01:39:20									
+0061022030	0061022030	A000	99991231	Long Service Leave (AU)	Dienstalterurlaub	2017.07.14 01:39:20									
+0061022040	0061022040	A000	99991231	Workers' compensation assoc. contributio	Berufsgenossenschafts-Beitrag	2017.07.14 01:39:20									
+0061022100	0061022100	A000	99991231	Payroll - Vacation Pay Wages (AU)	Tarifliches Urlaubsgeld Löhne	2017.07.14 01:39:20									
+0061023010	0061023010	A000	99991231	payroll- medical insurance (CN)	Personalabrechnung - Krankenversicherung	2017.07.14 01:39:20									
+0061051000	0061051000	A000	99991231	Payroll Expense - Downtime Wages	Ausfalllöhne	2017.07.14 01:39:20									
+0061052000	0061052000	A000	99991231	Payroll Expense - Downtime Salaries	Ausfallgehälter	2017.07.14 01:39:20									
+0061060000	0061060000	A000	99991231	Payroll Expense - Pension Contributions	Aufwand für Altersversorgung	2017.07.14 01:39:20									
+0061061000	0061061000	A000	99991231	Payroll - Benefits	Arbeitgeberleistungen	2017.07.14 01:39:20									
+0061062000	0061062000	A000	99991231	Workers' Compensation Association Contri	Berufsgenossenschaftsbeitrag	2017.07.14 01:39:20									
+0061063000	0061063000	A000	99991231	Dues to Associations	Beiträge zu Wirtschaftsverb. u. Berufsve	2017.07.14 01:39:20									
+0061100000	0061100000	A000	99991231	Payroll Expense - Salaries	Gehälter	2017.07.14 01:39:20									
+0061103000	0061103000	A000	99991231	Payroll Expense - Direct Labor Cost	Fertigungslöhne	2017.07.14 01:39:20									
+0062010000	0062010000	A000	99991231	Individual Value Adjustments	Einstellung in Einzelwertberichtigung	2017.07.14 01:39:20									
+0075009000	0075009000	A000	99991231	Export Duty	Ausfuhrzölle	2017.07.14 01:39:20									
+0044003200	0044003200	A000	99991231	Customer Sales Deduction - Affiliated	Kunden Erlösschmälerungen - Verbundene	2017.07.14 01:39:20									
+0062020000	0062020000	A000	99991231	Flat-rate Value Adjustments	Einstellung in Pauschalwertberichtigung	2017.07.14 01:39:20									
+0063000000	0063000000	A000	99991231	Machine and Equipment Periodic Service	Maschinen und Geräte - periodischer Serv	2017.07.14 01:39:20									
+0092105500	0092105500	A000	99991231	Settlement Service Costs	Abrechnung Servicekosten	2017.07.14 01:39:20									
+0092110000	0092110000	A000	99991231	Settlement Revenue - Unit Based	Abrechnung Erlöse - einheitenbasiert	2017.07.14 01:39:20									
+0092111000	0092111000	A000	99991231	Settlement Costs - Unit Based	Abrechnung Kosten - einheitenbasiert	2017.07.14 01:39:20									
+0093100000	0093100000	A000	99991231	Result Analysis Technical	Ergebnisermittlung Technik	2017.07.14 01:39:20									
+0093111100	0093111100	A000	99991231	Result Analysis Primary Costs	Ergebnisermittlung Primärkosten	2017.07.14 01:39:20									
+0093112000	0093112000	A000	99991231	Result Analysis COP Reserv.	Rückstellungen primär	2017.07.14 01:39:20									
+0093113000	0093113000	A000	99991231	Result Analysis SEC Costs	Ergebnisermittlung Sekundärkosten	2017.07.14 01:39:20									
+0093114000	0093114000	A000	99991231	Result Analysis COS Reserv.	Rückstellungen sekundär	2017.07.14 01:39:20									
+0093115000	0093115000	A000	99991231	Result Analysis OVH Costs	Ergebnisermittlung Gemeinkosten	2017.07.14 01:39:20									
+0093116000	0093116000	A000	99991231	Result Analysis OVH Reserv.	Ergebnisermittlung Gemeinkosten Rücklage	2017.07.14 01:39:20									
+0094111000	0094111000	A000	99991231	Overhead Material	Gemeinkosten Material	2017.07.14 01:39:20									
+0094112000	0094112000	A000	99991231	Overhead production	Gemeinkosten Fertigung	2017.07.14 01:39:20									
+0094113000	0094113000	A000	99991231	Overhead administration	Gemeinkosten Verwaltung	2017.07.14 01:39:20									
+0094114000	0094114000	A000	99991231	Overhead sales	Gemeinkosten Vertrieb	2017.07.14 01:39:20									
+0094201000	0094201000	A000	99991231	Buildings & Periodic Service	Gebäude und periodischer Service	2017.07.14 01:39:20									
+0094202000	0094202000	A000	99991231	Assessment Quality costs	Umlage Qualitätskosten	2017.07.14 01:39:20									
+0094220000	0094220000	A000	99991231	COPA Assessment	CO-PA Umlage	2017.07.14 01:39:20									
+0094221000	0094221000	A000	99991231	COPA-overhead cost	CO-PA - Gemeinkosten	2017.07.14 01:39:20									
+0094222000	0094222000	A000	99991231	COPA-Marketing	CO-PA - Marketing	2017.07.14 01:39:20									
+0094223000	0094223000	A000	99991231	COPA -R&D	CO-PA - F&E	2017.07.14 01:39:20									
+0094224000	0094224000	A000	99991231	COPA -Admin. Overhead	CO-PA Verwaltung Gemeinkosten	2017.07.14 01:39:20									
+0071010500	0071010500	A000	99991231	Clearing-estimated Depreciation on Fixed	Verrechnung kalkulatorische AfA auf Sach	2017.07.14 01:39:20									
+0000099081	0000099081	A000	99991231	Res.Anal.Technical		2017.07.14 01:39:20									
+0000099082	0000099082	A000	99991231	Consulting		2017.07.14 01:39:20									
+0052074000	0052074000	A000	99991231	Price Difference INPV	Preisdifferenz INPV	2017.07.14 01:39:20									
+0063000500	0063000500	A000	99991231	Qualtiy Control Consumption Ext. Prod. w	Verbrauch Qualitätskontrolle Fremderz m.	2017.07.14 01:39:20									
+0063001000	0063001000	A000	99991231	Electricity and other Utilities	Strom- und Gaskosten	2017.07.14 01:39:20									
+0063002000	0063002000	A000	99991231	Water	Wasser	2017.07.14 01:39:20									
+0063003000	0063003000	A000	99991231	Other Periodic Service	Sonstiger periodischer Service	2017.07.14 01:39:20									
+0063004000	0063004000	A000	99991231	Insurance	Versicherungen	2017.07.14 01:39:20									
+0063005000	0063005000	A000	99991231	Office/Building Rent	Mieten Pachten Erbbauzinsen	2017.07.14 01:39:20									
+0063006000	0063006000	A000	99991231	Telephone and other Communication	Telefon und Sonstiges	2017.07.14 01:39:20									
+0063007000	0063007000	A000	99991231	Fax and Internet	Fax und Internet	2017.07.14 01:39:20									
+0063008000	0063008000	A000	99991231	Building Periodic Service	Gebäude - periodischer Service	2017.07.14 01:39:20									
+0063009000	0063009000	A000	99991231	Leasing Expense	Leasingaufwand	2017.07.14 01:39:20									
+0064001000	0064001000	A000	99991231	Depreciation Expense - Buildings	Abschreibungen auf Grundstücke und Gebäu	2017.07.14 01:39:20									
+0064002000	0064002000	A000	99991231	Depreciation Expense - Machinery & Equip	Abschreibungen auf technische Anlagen u.	2017.07.14 01:39:20									
+0064003000	0064003000	A000	99991231	Depreciation Expense - Building Improvem	Abschreibungen auf Gebäudeeinrichtungen	2017.07.14 01:39:20									
+0064004000	0064004000	A000	99991231	Depreciation Expense - Motor Vehicles	Abschreibungen auf Fahrzeuge	2017.07.14 01:39:20									
+0064005000	0064005000	A000	99991231	Depreciation Expense - Office Equipment	Abschreib. auf Betriebs- und Geschäftsau	2017.07.14 01:39:20									
+0064006000	0064006000	A000	99991231	Depreciation Expense - Furniture	Abschreibungen auf Möbel	2017.07.14 01:39:20									
+0064030000	0064030000	A000	99991231	Unplanned Depreciation Expense	Aufwand für außerplanmäßige Abschreibung	2017.07.14 01:39:20									
+0064043000	0064043000	A000	99991231	Amortization Expense - Goodwill	Abschreibungen auf Geschäfts- oder Firme	2017.07.14 01:39:20									
+0064050000	0064050000	A000	99991231	Estimated Depreciation (CO)	Kalkulatorische Abschreibungen (Ermittlu	2017.07.14 01:39:20									
+0075009900	0075009900	A000	99991231	Other Company Taxes	Sonstige betriebliche Steuern	2017.07.14 01:39:20									
+0080000002	0080000002	A000	99991231	test account		2017.07.14 01:39:20									
+0092100000	0092100000	A000	99991231	Settlement Technical RA	Abrechnung technisch - Ergebnisermittlun	2017.07.14 01:39:20									
+0094225000	0094225000	A000	99991231	COPA -Sales. Overhead	CO-PA Vertrieb Gemeinkosten	2017.07.14 01:39:20									
+0094226000	0094226000	A000	99991231	COPA-Non-Operating Expense	CO-PA - nicht betriebliche Aufwendungen	2017.07.14 01:39:20									
+0094227000	0094227000	A000	99991231	COPA-Non-Operating Income	CO-PA nicht betriebliche Erträge	2017.07.14 01:39:20									
+0094228000	0094228000	A000	99991231	COPA -Taxes	CO-PA - Steuern	2017.07.14 01:39:20									
+0094229000	0094229000	A000	99991231	COPA -cash Discount	CO-PA - Skonto	2017.07.14 01:39:20									
+0094229900	0094229900	A000	99991231	COPA -consulting overhead	CO-PA - Beratungsgemeinkosten	2017.07.14 01:39:20									
+0094301000	0094301000	A000	99991231	Machine hours 1	Maschinenstunden 1	2017.07.14 01:39:20									
+0094302000	0094302000	A000	99991231	Machine hours 2	Maschinenstunden 2	2017.07.14 01:39:20									
+0094303000	0094303000	A000	99991231	Setup Production	Rüsten	2017.07.14 01:39:20									
+0094304000	0094304000	A000	99991231	Water	Wasser	2017.07.14 01:39:20									
+0094305000	0094305000	A000	99991231	Industry Effluent	Industrieabwasser	2017.07.14 01:39:20									
+0094306000	0094306000	A000	99991231	Environmental	Umweltschutz	2017.07.14 01:39:20									
+0094307000	0094307000	A000	99991231	Internal Transport	Innerbetrieblicher Transport	2017.07.14 01:39:20									
+0094308000	0094308000	A000	99991231	Consulting	Beratung	2017.07.14 01:39:20									
+0094308010	0094308010	A000	99991231	Training	Training	2017.07.14 01:39:20									
+0094308020	0094308020	A000	99991231	QualityReview	Qualitätsprüfung	2017.07.14 01:39:20									
+0094309000	0094309000	A000	99991231	Development	Entwicklung	2017.07.14 01:39:20									
+0094310000	0094310000	A000	99991231	QM Control	Q-Prüfung	2017.07.14 01:39:20									
+0052044000	0052044000	A000	99991231	Loss Price Differences - Material Ledger	Abgrenzungskonto Material Ledger Fremdma	2017.07.14 01:39:20									
+0052045000	0052045000	A000	99991231	Loss Price Differences own Products (PRK	Aufwand aus Preisdifferenzen Eigenerzeug	2017.07.14 01:39:20									
+0052046000	0052046000	A000	99991231	Loss Price Diff fm Lower Lev.own Mats ML	Abgrenzungskonto Material Ledger Eigenma	2017.07.14 01:39:20									
+0052070000	0052070000	A000	99991231	Loss from Production Variances	Aufwand aus Preisdifferenzen Eigenerzeug	2017.07.14 01:39:20									
+0052071000	0052071000	A000	99991231	Price Difference PRIV	Preisdifferenz PRIV	2017.07.14 01:39:20									
+0052072000	0052072000	A000	99991231	Price Difference QTYV	Preisdifferenz QTYV	2017.07.14 01:39:20									
+0052544000	0052544000	A000	99991231	Gain Price Differences - Material Ledger	Ertrag Preisdifferenzen aus Material Led	2017.07.14 01:39:20									
+0052545000	0052545000	A000	99991231	Posterior Real Rate Activity Allocation	LeistVerrechnung Leistungstarif Perioden	2017.07.14 01:39:20									
+0052551000	0052551000	A000	99991231	Gain Consumption of Consign. Mat (Raw &	Ertrag aus Konsignationsverbrauch (Rohst	2017.07.14 01:39:20									
+0052552000	0052552000	A000	99991231	Gain Consumption of Consign. Mat (SF & F	Ertrag aus Verbrauch Konsignations-Mat.	2017.07.14 01:39:20									
+0052560000	0052560000	A000	99991231	Gain Small Price Difference Invoices Rec	Ertrag aus Kleindifferenzen Rechnungsein	2017.07.14 01:39:20									
+0052075000	0052075000	A000	99991231	Price Difference MXPV	Preisdifferenz MXPV	2017.07.14 01:39:20									
+0052076000	0052076000	A000	99991231	Price Difference OPPV	Preisdifferenz OPPV	2017.07.14 01:39:20									
+0052077000	0052077000	A000	99991231	Price Difference LSFV	Preisdifferenz LSFV	2017.07.14 01:39:20									
+0052078000	0052078000	A000	99991231	Price Difference REMV	Preisdifferenz REMV	2017.07.14 01:39:20									
+0052079000	0052079000	A000	99991231	Price Difference SCRP	Preisdifferenz SCRP	2017.07.14 01:39:20									
+0052080000	0052080000	A000	99991231	Loss from allowed Differences GL Account	Aufwand aus tol. Differenzen Sachkontena	2017.07.14 01:39:20									
+0052501000	0052501000	A000	99991231	Gain Inventory Variance (Raw & Trade)	Ertrag aus Inventur-Differenzen (Roh/Han	2017.07.14 01:39:20									
+0052503000	0052503000	A000	99991231	Gain Inventory Variance (SF & Finish Goo	Ertrag aus Inventur-Differenzen (Halbf/F	2017.07.14 01:39:20									
+0052511000	0052511000	A000	99991231	Gain Inventory Transfer (Raw & Trade)	Ertrag Bestandsumlagerung (Roh/Handel)	2017.07.14 01:39:20									
+0052513000	0052513000	A000	99991231	Gain Inventory Transfer (SF & Finish Goo	Ertrag aus Umlagerung (Halbfabr./Fertige	2017.07.14 01:39:20									
+0052521000	0052521000	A000	99991231	Gain Consumption for Quality Control (Ra	Ertrag Verbrauch Qualitätskontrolle (Roh	2017.07.14 01:39:20									
+0052523000	0052523000	A000	99991231	Gain Consumption for QM (SF & Finish Goo	Ertrag aus Verbrauch für QM (Halbfabr./F	2017.07.14 01:39:20									
+0052530000	0052530000	A000	99991231	Gain from Revaluation	Ertrag aus Neubewertung	2017.07.14 01:39:20									
+0052531000	0052531000	A000	99991231	Gain from Valuation of External Products	Ertrag aus Umbewertung Fremderzeugnisse	2017.07.14 01:39:20									
+0052532000	0052532000	A000	99991231	Gain from Valuation own Products	Ertrag aus Umbewertung von Eigenerzeugni	2017.07.14 01:39:20									
+0052541000	0052541000	A000	99991231	Gain Price Variance (PRD)	Ertrag Preisabw. (Ware)	2017.07.14 01:39:20									
+0092101000	0092101000	A000	99991231	Settl.Material	Abrechnung Materialkosten	2017.07.14 01:39:20									
+0092101500	0092101500	A000	99991231	Settl. Rework	Abrechnung Nacharbeit	2017.07.14 01:39:20									
+0092101800	0092101800	A000	99991231	Settlement R&D	Abrechnung Forschung und Entwicklung	2017.07.14 01:39:20									
+0092101900	0092101900	A000	99991231	Settlement Sales Order	Abrechnung Kundenauftrag	2017.07.14 01:39:20									
+0092102000	0092102000	A000	99991231	Settlement Third Party Material	Abrechnung Streckenmaterial	2017.07.14 01:39:20									
+0092103000	0092103000	A000	99991231	Settlement Internal Activity	Abrechnung interne Kosten	2017.07.14 01:39:20									
+0092104000	0092104000	A000	99991231	Settlement External Service	Abrechnung externer Service	2017.07.14 01:39:20									
+0092105000	0092105000	A000	99991231	Settlement Service Revenue	Abrechnung Serviceerlöse	2017.07.14 01:39:20									
+0092105100	0092105100	A000	99991231	Personnel costs	Personalkosten	2017.07.14 01:39:20									
+0044001000	0044001000	A000	99991231	Sales Rebates	Kundenboni	2017.07.14 01:39:20									
+0092105200	0092105200	A000	99991231	Spare/Service/Ext Material con	Verbrauch Ersatzteile/Leistungen/Fremdma	2017.07.14 01:39:20									
+0044002000	0044002000	A000	99991231	Sales Discounts - Domestic	Kundenskonti - Inland	2017.07.14 01:39:20									
+0044002100	0044002100	A000	99991231	Sales Discounts - Foreign	Kundenskonti - Ausland	2017.07.14 01:39:20									
+0044002200	0044002200	A000	99991231	Sales Discounts - Affiliated	Kundenskonti - Verbundene	2017.07.14 01:39:20									
+0044003000	0044003000	A000	99991231	Customer Sales Deduction - Domestic	Kunden Erlösschmälerungen - Inland	2017.07.14 01:39:20									
+0044003100	0044003100	A000	99991231	Customer Sales Deduction - Foreign	Kunden Erlösschmälerungen - Ausland	2017.07.14 01:39:20									
+0044004000	0044004000	A000	99991231	Sales Deduction - Material	Erlösschmälerung - Material	2017.07.14 01:39:20									
+0044005000	0044005000	A000	99991231	Free Goods and Discount in kind	Naturalrabatte	2017.07.14 01:39:20									
+0044006000	0044006000	A000	99991231	Sales Deduction - Menge	Erlösschmälerung - Menge	2017.07.14 01:39:20									
+0064007000	0064007000	A000	99991231	Depreciation Expense - Computer Hardware	Abschreibungsaufwand - Computer-Hardware	2017.07.14 01:39:20									
+0064008000	0064008000	A000	99991231	Depreciation Expense - Computer Software	Abschreibungen auf Computer-Software	2017.07.14 01:39:20									
+0064020000	0064020000	A000	99991231	Depreciation Expense - Low Value Assets	Abschreibungen auf Geringwertige Wirtsch	2017.07.14 01:39:20									

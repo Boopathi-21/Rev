@@ -1,0 +1,66 @@
+LEGACY_PRICING_PROCEDURE	PRICING_PROCEDURE	USAGE_OF_THE_CONDITION_TABLE	APPLICATION	PRICING_PROCEDURE_TXT_GBL	PRICING_PROCEDURE_TXT_LCL	DI_TIMESTAMP									
+0001	0001	B	PA	Output procedures quantity rel	Nachrichtenschemata MAbruf	2017.07.06 08:56:49									
+0TXD	0TXD	A	TX	Sales Tax - Germany	Umsatzsteuer - Deutschland	2017.07.06 08:56:49									
+0TXUSX	0TXUSX	A	TX	Tax USA m Jurisdictions (ext.)	Steuer USA SteuerstOrte (ext.)	2017.07.06 08:56:49									
+1010PC	1010PC	A	KA	Costing Sheet Production-DE	Kalkulationsschema Fertig.-DE	2017.07.06 08:56:49									
+1010PP	1010PP	A	KA	Costing Sheet Planning-DE	Kalkulationsschema Planung-DE	2017.07.06 08:56:49									
+1710PC	1710PC	A	KA	Costing Sheet Production-US	Kalkulationsschema Fertig.-US	2017.07.06 08:56:49									
+1710PP	1710PP	A	KA	Costing Sheet Planning-US	Kalkulationsschema Planung-US	2017.07.06 08:56:49									
+A00000	A00000	A	KA	Standard	Standard	2017.07.06 08:56:49									
+A00001	A00001	A	KA	Standard/Surcharge Key	Standard/Zuschlagsschlüssel	2017.07.06 08:56:49									
+A00002	A00002	A	KA	Standard/Plant	Standard/Werk	2017.07.06 08:56:49									
+A00003	A00003	A	KA	Standard/Company Code	Standard/Buchungskreis	2017.07.06 08:56:49									
+A00004	A00004	A	KA	Standard/Business Area	Standard/Geschäftsbereich	2017.07.06 08:56:49									
+A00005	A00005	A	KA	Standard/Order Type	Standard/Auftragsart	2017.07.06 08:56:49									
+A00006	A00006	A	KA	Standard/Order Category	Standard/Auftragstyp	2017.07.06 08:56:49									
+A00007	A00007	A	KA	Standard Base Cost Ctr/ActTyp	Standard Basis Kostenst/LstArt	2017.07.06 08:56:49									
+A10001	A10001	A	M	Services/Materials (DE)	Leistungen/Materialien (DE)	2017.07.06 08:56:49									
+A10001	A10001	A	V	Services (Germany)	Dienstleistungen (Deutschland)	2017.07.06 08:56:49									
+A10002	A10002	A	V	Materials (Germany)	Materialien (Deutschland)	2017.07.06 08:56:49									
+A10004	A10004	A	V	Value Contract Procedure - DE	Wertkontraktschema - DE	2017.07.06 08:56:49									
+A10005	A10005	A	V	Rebates (Germany)	Boni (Deutschland)	2017.07.06 08:56:49									
+A10006	A10006	A	V	Rebates Delta Accrual(Germany)	Delta-Bonusrückst. (Deutschl.)	2017.07.06 08:56:49									
+A10007	A10007	A	V	Rebates (Goods Rel.) (Germany)	Boni (Deutschland)	2017.07.06 08:56:49									
+A17001	A17001	A	M	Services/Materials (US)	Leistungen/Materialien (USA)	2017.07.06 08:56:49									
+A17001	A17001	A	V	Services (US)	Dienstleistungen (USA)	2017.07.06 08:56:49									
+A17002	A17002	A	V	Materials (US)	Materialien (USA)	2017.07.06 08:56:49									
+A17004	A17004	A	V	Value Contract (US)	Wertkontrakt (US)	2017.07.06 08:56:49									
+A17005	A17005	A	V	Rebates (US)	Boni (US)	2017.07.06 08:56:49									
+A17006	A17006	A	V	Rebates Delta Accrual (US)	Delta-Bonusrückstellungen (US)	2017.07.06 08:56:49									
+A17007	A17007	A	V	Rebates (Goods Related) (US)		2017.07.06 08:56:49									
+A17J01	A17J01	A	V	Services (US)_Non-Vertex	Dienstleist. (US) Nicht-Vertex	2017.07.06 08:56:49									
+A17J02	A17J02	A	V	Materials (US)_Non-Vertex	Materialien (US) Nicht-Vertex	2017.07.06 08:56:49									
+A17J04	A17J04	A	V	Value Contract (US)_Non-Vertex	Wertkontrakt (US) Nicht-Vertex	2017.07.06 08:56:49									
+A17J05	A17J05	A	V	Rebates (US)_Non-Vertex	Boni (US) Nicht-Vertex	2017.07.06 08:56:49									
+A17J07	A17J07	A	V	Rebates(Goods Related)(US)_NV		2017.07.06 08:56:49									
+AXX001	AXX001	A	M	Serv/Mat. (XX) for cond. suppl	Serv./Mat. (XX) für ZusKondit.	2017.07.06 08:56:49									
+CAACTL	CAACTL	A	CA	Actual Variant	Istvariante	2017.07.06 08:56:49									
+CAPLAN	CAPLAN	A	CA	Plan Variant	Planvariante	2017.07.06 08:56:49									
+KOFI00	KOFI00	C	V	Account determination	Kontenfindung	2017.07.06 08:56:49									
+MR0002	MR0002	B	MR	Logistics Inv. Ver. (MR1M)	Logistik-RePrü    (MR1M)	2017.07.06 08:56:49									
+MR0007	MR0007	B	MR	Network Messages	Netzwerknachrichten	2017.07.06 08:56:49									
+PP-PC1	PP-PC1	A	KA	PP-PC Standard	PP-PC-Standard	2017.07.06 08:56:49									
+PP-PC2	PP-PC2	A	KA	PP-PC Surch.on CostOfGoodsManu	PP-PC-Zuschläge auf HK	2017.07.06 08:56:49									
+PP-PC3	PP-PC3	A	KA	Surcharges for manuf. costs	Zuschläge auf HK (MTO)	2017.07.06 08:56:49									
+RMBEA1	RMBEA1	B	EA	Purchasing RFQ	Einkauf Anfrage	2017.07.06 08:56:49									
+RMBEF1	RMBEF1	B	EF	Purchase Order	Bestellung	2017.07.06 08:56:49									
+RMBEL1	RMBEL1	B	EL	Purchasing Sched.Line	Einkauf Lieferplaneinteilung	2017.07.06 08:56:49									
+RMBES1	RMBES1	B	ES	Entry of Srvc Prfrmd	Leistungserfassung	2017.07.06 08:56:49									
+TAXUSJ	TAXUSJ	A	TX	Sales Tax USA w. Jurisdictions	Umsatzsteuer USA m SteuStOrten	2017.07.06 08:56:49									
+V05000	V05000	B	V1	Inquiry Output		2017.07.06 08:56:49									
+V06000	V06000	B	V1	Quotation Output	Angebotsnachrichten	2017.07.06 08:56:49									
+V08000	V08000	B	V1	Contract Output	Kontraktnachrichten	2017.07.06 08:56:49									
+V10000	V10000	B	V1	Order Output	Auftragsnachrichten	2017.07.06 08:56:49									
+V10000	V10000	B	V2	Header Output	Kopfnachrichten	2017.07.06 08:56:49									
+Y00001	Y00001	D	V	Material Determination	Materialfindung	2017.07.06 08:56:49									
+Y10101	Y10101	A	V	Materials (Germany)	Materialien (Deutschland)	2017.07.06 08:56:49									
+Y17101	Y17101	A	V	Materials (US)	Materialien (USA)	2017.07.06 08:56:49									
+Y17J01	Y17J01	A	V	Materials (US)_Non-Vertex	Materialien (US) Nicht-Vertex	2017.07.06 08:56:49									
+YA0001	YA0001	N	V	Free Goods SD	Naturalrabatt SD	2017.07.06 08:56:49									
+YB0001	YB0001	H	CO	BP: Search procedure	BP: Suchschema	2017.07.06 08:56:49									
+YB0001	YB0001	H	ME	BP: Search procedure	BP: Suchschema	2017.07.06 08:56:49									
+YB0001	YB0001	H	V	BP: SD Search Procedure	BP: SD-Suchschema	2017.07.06 08:56:49									
+YBDEL0	YBDEL0	A	V	Delivery (Freight)	Lieferung (Fracht)	2017.07.06 08:56:49									
+YBL	YBL	A	CS	Sum wages and salaries	Summe Löhne und Gehälter	2017.07.06 08:56:49									
+ZA0002	ZA0002	G	V	Listing w Org Units	Listung mit OrgEinheiten	2017.07.06 08:56:49									
+ZB0002	ZB0002	G	V	Exclusion w Org Units	Ausschluss mit OrgEinheiten	2017.07.06 08:56:49									

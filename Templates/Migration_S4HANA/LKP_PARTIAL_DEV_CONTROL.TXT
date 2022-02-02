@@ -1,0 +1,6 @@
+LEGACY_PARTIAL_DEV_CONTROL	PARTIAL_DEV_CONTROL	PARTIAL_DEV_CONTROL_TXT_GBL	PARTIAL_DEV_CONTROL_TXT_LCL	DI_TIMESTAMP											
+ 	 	Partial delivery allowed	Teillieferung erlaubt	2018.06.19 05:33:47											
+A	A	Create a delivery with quantity greater than zero	Eine Lieferung mit Menge ungleich null erzeugen	2018.06.19 05:33:47											
+B	B	Create only one delivery (also with quantity = 0)	Nur eine Lieferung (auch mit Menge = 0) erzeugen	2018.06.19 05:33:47											
+C	C	Only complete delivery allowed	Lieferung darf nur vollständig erfolgen	2018.06.19 05:33:47											
+D	D	No limit to subsequent deliveries	Beliebige Nachlieferung	2018.06.19 05:33:47											

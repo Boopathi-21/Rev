@@ -1,0 +1,5 @@
+LEGACY_LOCATION_GROUP	PLANT	LOCATION_GROUP	LOCATION_GROUP_TXT_GBL	LOCATION_GROUP_TXT_LCL	DI_TIMESTAMP										
+A	1010	A	Location group A	Ortsgruppe A	2017.07.06 08:56:49										
+B	1010	B	Location group B	Ortsgruppe B	2017.07.06 08:56:49										
+A	1710	A	Location group A	Ortsgruppe A	2017.07.06 08:56:49										
+B	1710	B	Location group B	Ortsgruppe B	2017.07.06 08:56:49										

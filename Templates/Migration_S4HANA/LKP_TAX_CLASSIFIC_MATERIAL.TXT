@@ -1,0 +1,16 @@
+LEGACY_TAX_CLASSIFIC	TAX_CLASSIFIC	TAX_CATEGORY	TAX_CLASSIFIC_TXT_GBL	TAX_CLASSIFIC_TXT_LCL	DI_TIMESTAMP										
+0	0	TTX1	Exempt, in VATreturn	Befreit, in UStMeld.	2017.07.06 08:56:49										
+0	0	UTXJ	No tax	Keine Steuer	2017.07.06 08:56:49										
+1	1	TTX1	Full tax	Volle Steuer	2017.07.06 08:56:49										
+1	1	UTXJ	Full tax	Volle Steuer	2017.07.06 08:56:49										
+2	2	TTX1	Reduced Tax	Ermäßigte Steuer	2017.07.06 08:56:49										
+2	2	UTXJ	Half tax	Halbe Steuer	2017.07.06 08:56:49										
+3	3	TTX1	Low Tax	Reduzierte Steuer	2017.07.06 08:56:49										
+4	4	TTX1	Not taxab. noVATret.	NichtSteuBarKUStMel.	2017.07.06 08:56:49										
+5	5	TTX1	Exempt Serv.inVATret	BefrServ. in UStMel.	2017.07.06 08:56:49										
+6	6	TTX1	Full Tax (Services)	Volle Steuer (Serv.)	2017.07.06 08:56:49										
+7	7	TTX1	Reduced Tax(Service)	Ermäß. Steu. (Serv.)	2017.07.06 08:56:49										
+8	8	TTX1	Low Tax (Services)	ReduzSt. (Services)	2017.07.06 08:56:49										
+9	9	TTX1	N. taxab.noVATret.Sv	NSteuBarKUStMeldSrv	2017.07.06 08:56:49										
+A	A	TTX1	Full Tax-MediatServ.	VolleSteuVermDienst.	2017.07.06 08:56:49										
+B	B	TTX1	0% tax, in VATreturn	0%Steu., in UStMeld.	2017.07.06 08:56:49										

@@ -1,0 +1,2 @@
+LEGACY_SCHEMA_GRP_VNDR	SCHEMA_GRP_VNDR	SCHEMA_GRP_VNDR_TXT_GBL	SCHEMA_GRP_VNDR_TXT_LCL	DI_TIMESTAMP											
+01	01	Default vendor schema group	Standardlieferant Schemagruppe	2018.06.19 05:33:47											

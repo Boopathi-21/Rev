@@ -1,0 +1,5 @@
+LEGACY_METHOD_FOR_ALT_BOMS	METHOD_FOR_ALT_BOMS	METHOD_FOR_ALT_BOMS_TXT_GBL	METHOD_FOR_ALT_BOMS_TXT_LCL	DI_TIMESTAMP											
+ 	 	Selection by order quant.	Auswahl nach Auftragsmenge	2017.07.06 08:56:49											
+1	1	Selection by explosion date	Auswahl nach Auflösungstermin	2017.07.06 08:56:49											
+2	2	Selection by production version	Auswahl nach Fertigungsversion	2017.07.06 08:56:49											
+3	3	Selection only by production version	Auswahl zwingend nach Fertigungsversion	2017.07.06 08:56:49											

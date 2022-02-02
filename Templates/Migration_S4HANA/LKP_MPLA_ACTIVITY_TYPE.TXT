@@ -1,0 +1,10 @@
+LEGACY_MPLA_ACTIVITY_TYPE	MPLA_ACTIVITY_TYPE	MPLA_ACTIVITY_TYPE_TXT_GBL	MPLA_ACTIVITY_TYPE_TXT_LCL	DI_TIMESTAMP											
+YB1	YB1	Fault Clearance	Störungsbeseitigung	2017.07.20 01:56:28											
+YB2	YB2	Modification	Umbau	2017.07.20 01:56:28											
+YB3	YB3	Optimization	Optimierung	2017.07.20 01:56:28											
+YB4	YB4	Preventive Maintenance	Vorbeugende Instandhaltung	2017.07.20 01:56:28											
+YB5	YB5	Inspection	Inspektion	2017.07.20 01:56:28											
+YB6	YB6	Revision project	Revisionsprojekt	2017.07.20 01:56:28											
+YB7	YB7	Investment activities	Investitionstätigkeiten	2017.07.20 01:56:28											
+YB8	YB8	Major Overhaul	Grundüberholung	2017.07.20 01:56:28											
+YB9	YB9	Corrective Maintenance	Planbare Instandhaltung	2017.07.20 01:56:28											

@@ -1,0 +1,4 @@
+LEGACY_PROFILE	PROFILE	APPLICATION	VALUE_TYPE	PROFILE_TXT_GBL	PROFILE_TXT_LCL	DI_TIMESTAMP									
+000001	000001	O	01	General plan profile	Allgemeines Planprofil	2017.07.06 08:56:49									
+000001	000001	O	41	General budget profile	Allgemeines Budgetprofil	2017.07.06 08:56:49									
+000002	000002	O	01	CO production order plan prof.	Planprofil CO-FertigAufträge	2017.07.06 08:56:49									

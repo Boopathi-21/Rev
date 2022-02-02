@@ -1,0 +1,5 @@
+LEGACY_SUITABILITY	PLANT	SUITABILITY	SUITABILITY_TXT_GBL	SUITABILITY_TXT_LCL	DI_TIMESTAMP										
+10	1010	10	Suitability 10	Eignung 10	2017.07.06 08:56:49										
+20	1010	20	Suitability 20	Eignung 20	2017.07.06 08:56:49										
+10	1710	10	Suitability 10	Eignung 10	2017.07.06 08:56:49										
+20	1710	20	Suitability 10	Eignung 10	2017.07.06 08:56:49										

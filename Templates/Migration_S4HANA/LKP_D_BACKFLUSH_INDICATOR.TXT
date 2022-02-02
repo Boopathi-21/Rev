@@ -1,0 +1,3 @@
+LEGACY_BACKFLUSH_INDICATOR	BACKFLUSH_INDICATOR	BACKFLUSH_INDICATOR_TXT_GBL	BACKFLUSH_INDICATOR_TXT_LCL	DI_TIMESTAMP											
+1	1	Always Backflush	Grundsätzlich retrograd entnehmen	2017.07.06 08:56:49											
+2	2	Work center decides whether to backflush	Arbeitsplatz entscheidet, ob retrograde Entnahme	2017.07.06 08:56:49											

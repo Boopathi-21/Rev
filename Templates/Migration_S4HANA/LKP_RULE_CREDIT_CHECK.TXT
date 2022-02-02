@@ -1,0 +1,4 @@
+LEGACY_RULE_CREDIT	RULE_CREDIT	RULE_CREDIT_TXT_GBL	RULE_CREDIT_TXT_LCL	DI_TIMESTAMP											
+01	01	Default - All Checks Active (Stat. Credit Limit)	Default - alle Prüfungen aktiv (stat. Kreditlimit)	2019.09.06 09:19:45											
+02	02	Credit Limit Check Only (Statistical)	Nur Kredtilimitprüfung (statisch)	2019.09.06 09:19:45											
+03	03	Credit Limit Check Only (Dynamic)	Nur Kreditlimitprüfung (dynamisch)	2019.09.06 09:19:45											

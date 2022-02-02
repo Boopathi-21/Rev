@@ -1,0 +1,4 @@
+LEGACY_CREDIT_GROUP	CREDIT_GROUP	CREDIT_GROUP_TXT_GBL	CREDIT_GROUP_TXT_LCL	DI_TIMESTAMP											
+0001	0001	Corporates	Konzerne	2019.09.06 09:19:45											
+0002	0002	Small / Medium Customers	Kleine/Mittelständische Kunden	2019.09.06 09:19:45											
+0003	0003	Subsidiaries	Tochtergesellschaften	2019.09.06 09:19:45											

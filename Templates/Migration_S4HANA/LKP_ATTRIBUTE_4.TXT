@@ -1,0 +1,4 @@
+LEGACY_ATTRIBUTE_4	ATTRIBUTE_4	ATTRIBUTE_4_TXT_GBL	ATTRIBUTE_4_TXT_LCL	DI_TIMESTAMP											
+G1	G1	Campaign	Kampagne	2017.07.06 08:56:49											
+G2	G2	Identify Buyer	Käufer identifizier.	2017.07.06 08:56:49											
+G3	G3	Donation	Spende	2017.07.06 08:56:49											

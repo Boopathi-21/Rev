@@ -1,0 +1,5 @@
+LEGACY_STATUS	STATUS	STATUS_TXT_GBL	STATUS_TXT_LCL	DI_TIMESTAMP											
+1	1	Created	Angelegt	2017.07.06 08:56:49											
+2	2	Released for order	Freigegeben für Auftrag	2017.07.06 08:56:49											
+3	3	Released for costing	Freigegeben für Kalkulation	2017.07.06 08:56:49											
+4	4	Released (general)	Freigegeben allgemein	2017.07.06 08:56:49											

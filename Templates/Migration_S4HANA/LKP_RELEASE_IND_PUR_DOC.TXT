@@ -1,0 +1,4 @@
+LEGACY_RELEASE_IND	RELEASE_IND	RELEASE_IND_TXT_GBL	RELEASE_IND_TXT_LCL	DI_TIMESTAMP											
+B	B	Blocked, changeable with value	Gesperrt, änderbar mit Wert	2017.07.06 08:56:49											
+G	G	Released	Freigegeben	2017.07.06 08:56:49											
+R	R	Released, no changes	Freigegeben, keine Änderungen	2017.07.06 08:56:49											

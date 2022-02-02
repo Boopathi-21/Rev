@@ -1,0 +1,5 @@
+LEGACY_RESULTS_ANALYSIS_KEY	RESULTS_ANALYSIS_KEY	RESULTS_ANALYSIS_KEY_TXT_GBL	RESULTS_ANALYSIS_KEY_TXT_LCL	DI_TIMESTAMP											
+MBMF01	MBMF01	WIP actual cost	WIP-Istkosten	2017.07.06 08:56:49											
+MBMF03	MBMF03	 WIP target costs	WIP-Sollkosten	2017.07.06 08:56:49											
+SFS	SFS	Sell From Stock-Manuf/Trade		2017.07.06 08:56:49											
+SFSEP	SFSEP	Sell From Stock-Manuf/Trade-Ext Products		2017.07.06 08:56:49											

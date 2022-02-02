@@ -1,0 +1,255 @@
+LEGACY_FUNCTIONAL_LOCATION	FUNCTIONAL_LOCATION	FUNCTIONAL_LOCATION_TXT_GBL	FUNCTIONAL_LOCATION_TXT_LCL	DI_TIMESTAMP											
+0000	0000	Cooling Tower Fan		2017.07.06 08:56:49											
+0000-CWS	0000-CWS	Cooling Towers		2017.07.06 08:56:49											
+0000-CWS-CTW	0000-CWS-CTW	Cooling Tower#01		2017.07.06 08:56:49											
+0000-CWS-CTW-CTW01	0000-CWS-CTW-CTW01	Cooling Tower Fan		2017.07.06 08:56:49											
+0000-CWS-CTW-CTW01-IWIV	0000-CWS-CTW-CTW01-IWIV	Inlet Water Isolation Valve		2017.07.06 08:56:49											
+0000-CWS-CTW-CTW01-IWPS	0000-CWS-CTW-CTW01-IWPS	Inlet Water Pipes		2017.07.06 08:56:49											
+0000-CWS-CTW-CTW02	0000-CWS-CTW-CTW02	Cooling Tower#02		2017.07.06 08:56:49											
+0000-CWS-CTW-CTW02-CTFN	0000-CWS-CTW-CTW02-CTFN	Cooling Tower Fan		2017.07.06 08:56:49											
+0000-CWS-CTW-CTW02-IWIV	0000-CWS-CTW-CTW02-IWIV	Inlet Water Isolation Valve		2017.07.06 08:56:49											
+0000-CWS-CTW-CTW02-IWPS	0000-CWS-CTW-CTW02-IWPS	Inlet Water Pipes		2017.07.06 08:56:49											
+0000-CWT	0000-CWT	Cooling Water Circulation System		2017.07.06 08:56:49											
+0000-CWT-001	0000-CWT-001	Cooling Water Circulation Pump#01		2017.07.06 08:56:49											
+0000-CWT-WCT-001	0000-CWT-WCT-001	Cooling Water Circulation Pump#02		2017.07.06 08:56:49											
+0001	0001	Cooling Tower Fan		2017.07.06 08:56:49											
+0001-001	0001-001	Cooling Tower#01		2017.07.06 08:56:49											
+0001-001-001	0001-001-001	Inlet Water Isolation Valve		2017.07.06 08:56:49											
+0002-120	0002-120	Cooling Tower Fan		2017.07.06 08:56:49											
+0002-122	0002-122	Cooling Tower Fan		2017.07.06 08:56:49											
+0002-124	0002-124	Cooling Tower Fan		2017.07.06 08:56:49											
+0002-126	0002-126	Cooling Tower Fan		2017.07.06 08:56:49											
+0002-128	0002-128	Cooling Tower Fan		2017.07.06 08:56:49											
+0003-121	0003-121	Compr1 - Inlet: Control Valve		2017.07.06 08:56:49											
+0003-123	0003-123	Compr1 - Inlet: Control Valve		2017.07.06 08:56:49											
+0003-125	0003-125	Compr1 - Inlet: Control Valve		2017.07.06 08:56:49											
+0003-127	0003-127	Compr1 - Inlet: Control Valve		2017.07.06 08:56:49											
+0003-129	0003-129	Compr1 - Inlet: Control Valve		2017.07.06 08:56:49											
+0003-131	0003-131	Compr2 - Inlet: Control Valve		2017.07.06 08:56:49											
+0003-133	0003-133	Compr2 - Inlet: Control Valve		2017.07.06 08:56:49											
+1010	1010	Central Services	Zentrale Dienste	2017.07.06 08:56:49											
+1010-CWS	1010-CWS	Cooling Water System	Kühlwassersystem	2017.07.06 08:56:49											
+1010-CWS-CTW	1010-CWS-CTW	Cooling Towers	Kühltürme	2017.07.06 08:56:49											
+1010-CWS-CTW-CTW01	1010-CWS-CTW-CTW01	Cooling Tower#01	Kühlturm#01	2017.07.06 08:56:49											
+1010-CWS-CTW-CTW01-CTFN	1010-CWS-CTW-CTW01-CTFN	Cooling Tower Fan	Kühlturmventilator	2017.07.06 08:56:49											
+1010-CWS-CTW-CTW01-IWIV	1010-CWS-CTW-CTW01-IWIV	Inlet Water Isolation Valve	Absperrventil für Wassereinlass	2017.07.06 08:56:49											
+1010-CWS-CTW-CTW01-IWPS	1010-CWS-CTW-CTW01-IWPS	Inlet Water Pipes	Wassereinlassrohre	2017.07.06 08:56:49											
+1010-CWS-CTW-CTW02	1010-CWS-CTW-CTW02	Cooling Tower#02	Kühlturm#02	2017.07.06 08:56:49											
+1010-CWS-CTW-CTW02-CTFN	1010-CWS-CTW-CTW02-CTFN	Cooling Tower Fan	Kühlturmventilator	2017.07.06 08:56:49											
+1010-CWS-CTW-CTW02-IWIV	1010-CWS-CTW-CTW02-IWIV	Inlet Water Isolation Valve	Absperrventil für Wassereinlass	2017.07.06 08:56:49											
+1010-CWS-CTW-CTW02-IWPS	1010-CWS-CTW-CTW02-IWPS	Inlet Water Pipes	Wassereinlassrohre	2017.07.06 08:56:49											
+1010-CWS-WCS	1010-CWS-WCS	Cooling Water Circulation System	Kühlwasserkreislauf	2017.07.06 08:56:49											
+1010-CWS-WCS-CWCP1	1010-CWS-WCS-CWCP1	Cooling Water Circulation Pump#01	Kühlwasserumwälzpumpe#01	2017.07.06 08:56:49											
+1010-CWS-WCS-CWCP2	1010-CWS-WCS-CWCP2	Cooling Water Circulation Pump#02	Kühlwasserumwälzpumpe#02	2017.07.06 08:56:49											
+1010-SPA	1010-SPA	Plant Air System	Anlagenluftsystem	2017.07.06 08:56:49											
+1010-SPA-ADR	1010-SPA-ADR	Air Dryer System	Lufttrocknersystem	2017.07.06 08:56:49											
+1010-SPA-ADR-DRY01	1010-SPA-ADR-DRY01	Dryer#01	Trockner#01	2017.07.06 08:56:49											
+1010-SPA-ADR-DRY01-D1IV	1010-SPA-ADR-DRY01-D1IV	Inlet Valve	Einlassventil	2017.07.06 08:56:49											
+1010-SPA-ADR-DRY01-D1OV	1010-SPA-ADR-DRY01-D1OV	Outlet Valve	Auslassventil	2017.07.06 08:56:49											
+1010-SPA-ADR-DRY01-D2IV	1010-SPA-ADR-DRY01-D2IV	Inlet Valve	Einlassventil	2017.07.06 08:56:49											
+1010-SPA-ADR-DRY01-D2OV	1010-SPA-ADR-DRY01-D2OV	Outlet Valve	Auslassventil	2017.07.06 08:56:49											
+1010-SPA-ADR-DRY02	1010-SPA-ADR-DRY02	Dryer#02	Trockner#02	2017.07.06 08:56:49											
+1010-SPA-SAC	1010-SPA-SAC	Air Compressor Plant	Luftdruckkompressoranlage	2017.07.06 08:56:49											
+1010-SPA-SAC-PLAR1	1010-SPA-SAC-PLAR1	Compressor # 1	Kompressor # 1	2017.07.06 08:56:49											
+1010-SPA-SAC-PLAR1-CGB1	1010-SPA-SAC-PLAR1-CGB1	Compr1 - Gear Box	Kompressor 1 - Getriebe	2017.07.06 08:56:49											
+1010-SPA-SAC-PLAR1-CLR1	1010-SPA-SAC-PLAR1-CLR1	Compr1 - Air Cooler 1	Kompressor 1 - Luftkühler 1	2017.07.06 08:56:49											
+1010-SPA-SAC-PLAR1-CLR2	1010-SPA-SAC-PLAR1-CLR2	Compr1 - Air Cooler 2	Kompressor 1 - Luftkühler 2	2017.07.06 08:56:49											
+1010-SPA-SAC-PLAR1-CLR3	1010-SPA-SAC-PLAR1-CLR3	Compr1 - Air Cooler 3	Kompressor 1 - Luftkühler 3	2017.07.06 08:56:49											
+1010-SPA-SAC-PLAR1-CMT1	1010-SPA-SAC-PLAR1-CMT1	Compr1 - Motor	Kompressor 1 - Motor	2017.07.06 08:56:49											
+1010-SPA-SAC-PLAR1-CST1	1010-SPA-SAC-PLAR1-CST1	Compr1 - Stage 1	Kompressor 1 - Stufe 1	2017.07.06 08:56:49											
+1010-SPA-SAC-PLAR1-CST2	1010-SPA-SAC-PLAR1-CST2	Compr1 - Stage 2	Kompressor 1 - Stufe 2	2017.07.06 08:56:49											
+1010-SPA-SAC-PLAR1-CST3	1010-SPA-SAC-PLAR1-CST3	Compr1 - Stage 3	Kompressor 1 - Stufe 3	2017.07.06 08:56:49											
+1010-SPA-SAC-PLAR1-DCTV	1010-SPA-SAC-PLAR1-DCTV	Compr1 - Discharge: Control Valve	Kompressor 1 - Ausgang: Regelventil	2017.07.06 08:56:49											
+1010-SPA-SAC-PLAR1-DMIV	1010-SPA-SAC-PLAR1-DMIV	Compr1 - Discharge Manual Isolat. Valve	Kompressor 1 - Ausg.: man. Absperrventil	2017.07.06 08:56:49											
+1010-SPA-SAC-PLAR1-DSBA	1010-SPA-SAC-PLAR1-DSBA	Compr1 - DE side Bearing Assembly	Kompressor 1 - A-seitige Lagerung	2017.07.06 08:56:49											
+1010-SPA-SAC-PLAR1-INLT	1010-SPA-SAC-PLAR1-INLT	Compr1 - Inlet	Kompressor 1 - Einlass	2017.07.06 08:56:49											
+1010-SPA-SAC-PLAR1-INLT-SF01	1010-SPA-SAC-PLAR1-INLT-SF01	Compr1 - Inlet Filter	Kompressor 1 - Einlassfilter	2017.07.06 08:56:49											
+1010-SPA-SAC-PLAR1-INLT-SP01	1010-SPA-SAC-PLAR1-INLT-SP01	Compr1 - Inlet Pipe	Kompressor 1 - Einlassrohr	2017.07.06 08:56:49											
+1010-SPA-SAC-PLAR1-INLT-SCTV	1010-SPA-SAC-PLAR1-INLT-SCTV	Compr1 - Inlet: Control Valve	Kompressor 1 - Einlass: Regelventil	2017.07.06 08:56:49											
+1010-SPA-SAC-PLAR2-NDBA	1010-SPA-SAC-PLAR2-NDBA	Compr2 - NDE side Bearing Assembly	Kompressor 2 - B-seitige Lagerung	2017.07.06 08:56:49											
+1010-SPA-SAC-PLAR1-INLT-SMIV	1010-SPA-SAC-PLAR1-INLT-SMIV	Compr1 - Inlet:Manual Isolation Valve	Kompressor 1 - Einl.: man. Absperrventil	2017.07.06 08:56:49											
+1010-SPA-SAC-PLAR1-NDBA	1010-SPA-SAC-PLAR1-NDBA	Compr1 - NDE side Bearing Assembly	Kompressor 1 - B-seitige Lagerung	2017.07.06 08:56:49											
+1010-SPA-SAC-PLAR2	1010-SPA-SAC-PLAR2	Compressor # 2	Kompressor # 2	2017.07.06 08:56:49											
+1010-SPA-SAC-PLAR2-CGB1	1010-SPA-SAC-PLAR2-CGB1	Compr2 - Gear Box	Kompressor 2 - Getriebe	2017.07.06 08:56:49											
+1010-SPA-SAC-PLAR2-CLR1	1010-SPA-SAC-PLAR2-CLR1	Compr2 - Air Cooler 1	Kompressor 2 - Luftkühler 1	2017.07.06 08:56:49											
+1010-SPA-SAC-PLAR2-CLR2	1010-SPA-SAC-PLAR2-CLR2	Compr2 - Air Cooler 2	Kompressor 2 - Luftkühler 2	2017.07.06 08:56:49											
+1010-SPA-SAC-PLAR2-CLR3	1010-SPA-SAC-PLAR2-CLR3	Compr2 - Air Cooler 3	Kompressor 2 - Luftkühler 3	2017.07.06 08:56:49											
+1010-SPA-SAC-PLAR2-CMT1	1010-SPA-SAC-PLAR2-CMT1	Compr2 - Motor	Kompressor 2 - Motor	2017.07.06 08:56:49											
+1010-SPA-SAC-PLAR2-CST1	1010-SPA-SAC-PLAR2-CST1	Compr2 - Stage 1	Kompressor 2 - Stufe 1	2017.07.06 08:56:49											
+1010-SPA-SAC-PLAR2-CST2	1010-SPA-SAC-PLAR2-CST2	Compr2 - Stage 2	Kompressor 2 - Stufe 2	2017.07.06 08:56:49											
+1010-SPA-SAC-PLAR2-CST3	1010-SPA-SAC-PLAR2-CST3	Compr2 - Stage 3	Kompressor 2 - Stufe 3	2017.07.06 08:56:49											
+1010-SPA-SAC-PLAR2-DCTV	1010-SPA-SAC-PLAR2-DCTV	Compr2 - Discharge: Control Valve	Kompressor 2 - Ausgang: Regelventil	2017.07.06 08:56:49											
+1010-SPA-SAC-PLAR2-DMIV	1010-SPA-SAC-PLAR2-DMIV	Compr2 - Discharge Manual Isolat. Valve	Kompressor 2 - Ausg.: man. Absperrventil	2017.07.06 08:56:49											
+1010-SPA-SAC-PLAR2-DSBA	1010-SPA-SAC-PLAR2-DSBA	Compr2 - DE side Bearing Assembly	Kompressor 2 - A-seitige Lagerung	2017.07.06 08:56:49											
+1010-SPA-SAC-PLAR2-INLT	1010-SPA-SAC-PLAR2-INLT	Compr2 - Inlet	Kompressor 2 - Einlass	2017.07.06 08:56:49											
+1010-SPA-SAC-PLAR2-INLT-SCTV	1010-SPA-SAC-PLAR2-INLT-SCTV	Compr2 - Inlet: Control Valve	Kompressor 2 - Einlass: Regelventil	2017.07.06 08:56:49											
+1010-SPA-SAC-PLAR2-INLT-SF01	1010-SPA-SAC-PLAR2-INLT-SF01	Compr2 - Inlet Filter	Kompressor 2 - Einlassfilter	2017.07.06 08:56:49											
+1010-SPA-SAC-PLAR4-CLR1	1010-SPA-SAC-PLAR4-CLR1	Compr4 - Air Cooler 1	Kompressor 4 - Luftkühler 1	2017.07.06 08:56:49											
+1010-SPA-SAC-PLAR4-CLR2	1010-SPA-SAC-PLAR4-CLR2	Compr4 - Air Cooler 2	Kompressor 4 - Luftkühler 2	2017.07.06 08:56:49											
+1010-SPA-SAC-PLAR2-INLT-SMIV	1010-SPA-SAC-PLAR2-INLT-SMIV	Compr2 - Inlet:Manual Isolation Valve	Kompressor 2 - Einl.: man. Absperrventil	2017.07.06 08:56:49											
+1010-SPA-SAC-PLAR2-INLT-SP01	1010-SPA-SAC-PLAR2-INLT-SP01	Compr2 - Inlet Pipe	Kompressor 2 - Einlassrohr	2017.07.06 08:56:49											
+1010-SPA-SAC-PLAR3	1010-SPA-SAC-PLAR3	Compressor # 3	Kompressor # 3	2017.07.06 08:56:49											
+1010-SPA-SAC-PLAR3-CGB1	1010-SPA-SAC-PLAR3-CGB1	Compr3 - Gear Box	Kompressor 3 - Getriebe	2017.07.06 08:56:49											
+1010-SPA-SAC-PLAR3-CLR1	1010-SPA-SAC-PLAR3-CLR1	Compr3 - Air Cooler 1	Kompressor 3 - Luftkühler 1	2017.07.06 08:56:49											
+1010-SPA-SAC-PLAR3-CLR2	1010-SPA-SAC-PLAR3-CLR2	Compr3 - Air Cooler 2	Kompressor 3 - Luftkühler 2	2017.07.06 08:56:49											
+1010-SPA-SAC-PLAR3-CLR3	1010-SPA-SAC-PLAR3-CLR3	Compr3 - Air Cooler 3	Kompressor 3 - Luftkühler 3	2017.07.06 08:56:49											
+1010-SPA-SAC-PLAR3-CMT1	1010-SPA-SAC-PLAR3-CMT1	Compr3 - Motor	Kompressor 3 - Motor	2017.07.06 08:56:49											
+1010-SPA-SAC-PLAR3-CST1	1010-SPA-SAC-PLAR3-CST1	Compr3 - Stage 1	Kompressor 3 - Stufe 1	2017.07.06 08:56:49											
+1010-SPA-SAC-PLAR3-CST2	1010-SPA-SAC-PLAR3-CST2	Compr3 - Stage 2	Kompressor 3 - Stufe 2	2017.07.06 08:56:49											
+1010-SPA-SAC-PLAR3-CST3	1010-SPA-SAC-PLAR3-CST3	Compr3 - Stage 3	Kompressor 3 - Stufe 3	2017.07.06 08:56:49											
+1010-SPA-SAC-PLAR3-DCTV	1010-SPA-SAC-PLAR3-DCTV	Compr3 - Discharge: Control Valve	Kompressor 3 - Ausgang: Regelventil	2017.07.06 08:56:49											
+1010-SPA-SAC-PLAR3-DMIV	1010-SPA-SAC-PLAR3-DMIV	Compr3 - Discharge Manual Isolat. Valve	Kompressor 3 - Ausg.: man. Absperrventil	2017.07.06 08:56:49											
+1010-SPA-SAC-PLAR3-DSBA	1010-SPA-SAC-PLAR3-DSBA	Compr3 - DE side Bearing Assembly	Kompressor 3 - A-seitige Lagerung	2017.07.06 08:56:49											
+1010-SPA-SAC-PLAR3-INLT	1010-SPA-SAC-PLAR3-INLT	Compr3 - Inlet	Kompressor 3 - Einlass	2017.07.06 08:56:49											
+1010-SPA-SAC-PLAR3-INLT-SCTV	1010-SPA-SAC-PLAR3-INLT-SCTV	Compr3 - Inlet: Control Valve	Kompressor 3 - Einlass: Regelventil	2017.07.06 08:56:49											
+1010-SPA-SAC-PLAR3-INLT-SF01	1010-SPA-SAC-PLAR3-INLT-SF01	Compr3 - Inlet Filter	Kompressor 3 - Einlassfilter	2017.07.06 08:56:49											
+1010-SPA-SAC-PLAR3-INLT-SP01	1010-SPA-SAC-PLAR3-INLT-SP01	Compr3 - Inlet Pipe	Kompressor 3 - Einlassrohr	2017.07.06 08:56:49											
+1010-SPA-SAC-PLAR4	1010-SPA-SAC-PLAR4	Compressor # 4	Kompressor # 4	2017.07.06 08:56:49											
+1010-SPA-SAC-PLAR4-CGB1	1010-SPA-SAC-PLAR4-CGB1	Compr4 - Gear Box	Kompressor 4 - Getriebe	2017.07.06 08:56:49											
+1010-SPA-SAC-PLAR3-INLT-SMIV	1010-SPA-SAC-PLAR3-INLT-SMIV	Compr3 - Inlet:Manual Isolation Valve	Kompressor 3 - Einl.: man. Absperrventil	2017.07.06 08:56:49											
+1010-SPA-SAC-PLAR3-NDBA	1010-SPA-SAC-PLAR3-NDBA	Compr3 - NDE side Bearing Assembly	Kompressor 3 - B-seitige Lagerung	2017.07.06 08:56:49											
+1010-SPA-SAC-PLAR4-CLR3	1010-SPA-SAC-PLAR4-CLR3	Compr4 - Air Cooler 3	Kompressor 4 - Luftkühler 3	2017.07.06 08:56:49											
+1010-SPA-SAC-PLAR4-CMT1	1010-SPA-SAC-PLAR4-CMT1	Compr4 - Motor	Kompressor 4 - Motor	2017.07.06 08:56:49											
+1010-SPA-SAC-PLAR4-CST1	1010-SPA-SAC-PLAR4-CST1	Compr4 - Stage 1	Kompressor 4 - Stufe 1	2017.07.06 08:56:49											
+1010-SPA-SAC-PLAR4-CST2	1010-SPA-SAC-PLAR4-CST2	Compr4 - Stage 2	Kompressor 4 - Stufe 2	2017.07.06 08:56:49											
+1010-SPA-SAC-PLAR4-CST3	1010-SPA-SAC-PLAR4-CST3	Compr4 - Stage 3	Kompressor 4 - Stufe 3	2017.07.06 08:56:49											
+1010-SPA-SAC-PLAR4-DCTV	1010-SPA-SAC-PLAR4-DCTV	Compr4 - Discharge: Control Valve	Kompressor 4 - Ausgang: Regelventil	2017.07.06 08:56:49											
+1010-SPA-SAC-PLAR4-DMIV	1010-SPA-SAC-PLAR4-DMIV	Compr4 - Discharge Manual Isolat. Valve	Kompressor 4 - Ausg.: man. Absperrventil	2017.07.06 08:56:49											
+1010-SPA-SAC-PLAR4-DSBA	1010-SPA-SAC-PLAR4-DSBA	Compr4 - DE side Bearing Assembly	Kompressor 4 - A-seitige Lagerung	2017.07.06 08:56:49											
+1010-SPA-SAC-PLAR4-INLT	1010-SPA-SAC-PLAR4-INLT	Compr4 - Inlet	Kompressor 4 - Einlass	2017.07.06 08:56:49											
+1010-SPA-SAC-PLAR4-INLT-SCTV	1010-SPA-SAC-PLAR4-INLT-SCTV	Compr4 - Inlet: Control Valve	Kompressor 4 - Einlass: Regelventil	2017.07.06 08:56:49											
+1010-SPA-SAC-PLAR4-INLT-SF01	1010-SPA-SAC-PLAR4-INLT-SF01	Compr4 - Inlet Filter	Kompressor 4 - Einlassfilter	2017.07.06 08:56:49											
+1010-SPA-SAC-PLAR4-INLT-SMIV	1010-SPA-SAC-PLAR4-INLT-SMIV	Compr4 - Inlet:Manual Isolation Valve	Kompressor 4 - Einl.: man. Absperrventil	2017.07.06 08:56:49											
+1010-SPA-SAC-PLAR4-INLT-SP01	1010-SPA-SAC-PLAR4-INLT-SP01	Compr4 - Inlet Pipe	Kompressor 4 - Einlassrohr	2017.07.06 08:56:49											
+1010-SPA-SAC-PLAR4-NDBA	1010-SPA-SAC-PLAR4-NDBA	Compr4 - NDE side Bearing Assembly	Kompressor 4 - B-seitige Lagerung	2017.07.06 08:56:49											
+1710	1710	Central Services	Zentrale Dienste	2017.07.06 08:56:49											
+1710-CWS	1710-CWS	Cooling Water System	Kühlwassersystem	2017.07.06 08:56:49											
+1710-CWS-CTW	1710-CWS-CTW	Cooling Towers	Kühltürme	2017.07.06 08:56:49											
+1710-CWS-CTW-CTW01	1710-CWS-CTW-CTW01	Cooling Tower#01	Kühlturm#01	2017.07.06 08:56:49											
+1710-CWS-CTW-CTW01-CTFN	1710-CWS-CTW-CTW01-CTFN	Cooling Tower Fan	Kühlturmventilator	2017.07.06 08:56:49											
+1710-CWS-CTW-CTW01-IWIV	1710-CWS-CTW-CTW01-IWIV	Inlet Water Isolation Valve	Absperrventil für Wassereinlass	2017.07.06 08:56:49											
+1710-CWS-CTW-CTW01-IWPS	1710-CWS-CTW-CTW01-IWPS	Inlet Water Pipes	Wassereinlassrohre	2017.07.06 08:56:49											
+1710-CWS-CTW-CTW02	1710-CWS-CTW-CTW02	Cooling Tower#02	Kühlturm#02	2017.07.06 08:56:49											
+1710-CWS-CTW-CTW02-CTFN	1710-CWS-CTW-CTW02-CTFN	Cooling Tower Fan	Kühlturmventilator	2017.07.06 08:56:49											
+1710-CWS-CTW-CTW02-IWIV	1710-CWS-CTW-CTW02-IWIV	Inlet Water Isolation Valve	Absperrventil für Wassereinlass	2017.07.06 08:56:49											
+1710-CWS-CTW-CTW02-IWPS	1710-CWS-CTW-CTW02-IWPS	Inlet Water Pipes	Wassereinlassrohre	2017.07.06 08:56:49											
+1710-CWS-WCS	1710-CWS-WCS	Cooling Water Circulation System	Kühlwasserkreislauf	2017.07.06 08:56:49											
+1710-CWS-WCS-CWCP1	1710-CWS-WCS-CWCP1	Cooling Water Circulation Pump#01	Kühlwasserumwälzpumpe#01	2017.07.06 08:56:49											
+1710-CWS-WCS-CWCP2	1710-CWS-WCS-CWCP2	Cooling Water Circulation Pump#02	Kühlwasserumwälzpumpe#02	2017.07.06 08:56:49											
+1710-SPA	1710-SPA	Plant Air System	Anlagenluftsystem	2017.07.06 08:56:49											
+1710-SPA-ADR	1710-SPA-ADR	Air Dryer System	Lufttrocknersystem	2017.07.06 08:56:49											
+1710-SPA-ADR-DRY01	1710-SPA-ADR-DRY01	Dryer#01	Trockner#01	2017.07.06 08:56:49											
+1710-SPA-ADR-DRY01-D1IV	1710-SPA-ADR-DRY01-D1IV	Inlet Valve	Einlassventil	2017.07.06 08:56:49											
+1710-SPA-ADR-DRY01-D1OV	1710-SPA-ADR-DRY01-D1OV	Outlet Valve	Auslassventil	2017.07.06 08:56:49											
+1710-SPA-ADR-DRY01-D2IV	1710-SPA-ADR-DRY01-D2IV	Inlet Valve	Einlassventil	2017.07.06 08:56:49											
+1710-SPA-ADR-DRY01-D2OV	1710-SPA-ADR-DRY01-D2OV	Outlet Valve	Auslassventil	2017.07.06 08:56:49											
+1710-SPA-ADR-DRY02	1710-SPA-ADR-DRY02	Dryer#02	Trockner#02	2017.07.06 08:56:49											
+1710-SPA-SAC	1710-SPA-SAC	Air Compressor Plant	Luftdruckkompressoranlage	2017.07.06 08:56:49											
+1710-SPA-SAC-PLAR1	1710-SPA-SAC-PLAR1	Compressor # 1	Kompressor # 1	2017.07.06 08:56:49											
+1710-SPA-SAC-PLAR1-CGB1	1710-SPA-SAC-PLAR1-CGB1	Compr1 - Gear Box	Kompressor 1 - Getriebe	2017.07.06 08:56:49											
+1710-SPA-SAC-PLAR1-CLR1	1710-SPA-SAC-PLAR1-CLR1	Compr1 - Air Cooler 1	Kompressor 1 - Luftkühler 1	2017.07.06 08:56:49											
+1710-SPA-SAC-PLAR1-CLR2	1710-SPA-SAC-PLAR1-CLR2	Compr1 - Air Cooler 2	Kompressor 1 - Luftkühler 2	2017.07.06 08:56:49											
+1710-SPA-SAC-PLAR1-CLR3	1710-SPA-SAC-PLAR1-CLR3	Compr1 - Air Cooler 3	Kompressor 1 - Luftkühler 3	2017.07.06 08:56:49											
+1710-SPA-SAC-PLAR1-CMT1	1710-SPA-SAC-PLAR1-CMT1	Compr1 - Motor	Kompressor 1 - Motor	2017.07.06 08:56:49											
+1710-SPA-SAC-PLAR1-CST1	1710-SPA-SAC-PLAR1-CST1	Compr1 - Stage 1	Kompressor 1 - Stufe 1	2017.07.06 08:56:49											
+1710-SPA-SAC-PLAR1-CST2	1710-SPA-SAC-PLAR1-CST2	Compr1 - Stage 2	Kompressor 1 - Stufe 2	2017.07.06 08:56:49											
+1710-SPA-SAC-PLAR1-CST3	1710-SPA-SAC-PLAR1-CST3	Compr1 - Stage 3	Kompressor 1 - Stufe 3	2017.07.06 08:56:49											
+1710-SPA-SAC-PLAR1-DCTV	1710-SPA-SAC-PLAR1-DCTV	Compr1 - Discharge: Control Valve	Kompressor 1 - Ausgang: Regelventil	2017.07.06 08:56:49											
+1710-SPA-SAC-PLAR1-DMIV	1710-SPA-SAC-PLAR1-DMIV	Compr1 - Discharge Manual Isolat. Valve	Kompressor 1 - Ausg.: man. Absperrventil	2017.07.06 08:56:49											
+1710-SPA-SAC-PLAR1-DSBA	1710-SPA-SAC-PLAR1-DSBA	Compr1 - DE side Bearing Assembly	Kompressor 1 - A-seitige Lagerung	2017.07.06 08:56:49											
+1710-SPA-SAC-PLAR1-INLT	1710-SPA-SAC-PLAR1-INLT	Compr1 - Inlet	Kompressor 1 - Einlass	2017.07.06 08:56:49											
+1710-SPA-SAC-PLAR1-INLT-SCTV	1710-SPA-SAC-PLAR1-INLT-SCTV	Compr1 - Inlet: Control Valve	Kompressor 1 - Einlass: Regelventil	2017.07.06 08:56:49											
+1710-SPA-SAC-PLAR1-INLT-SF01	1710-SPA-SAC-PLAR1-INLT-SF01	Compr1 - Inlet Filter	Kompressor 1 - Einlassfilter	2017.07.06 08:56:49											
+1710-SPA-SAC-PLAR1-INLT-SMIV	1710-SPA-SAC-PLAR1-INLT-SMIV	Compr1 - Inlet:Manual Isolation Valve	Kompressor 1 - Einl.: man. Absperrventil	2017.07.06 08:56:49											
+1710-SPA-SAC-PLAR1-INLT-SP01	1710-SPA-SAC-PLAR1-INLT-SP01	Compr1 - Inlet Pipe	Kompressor 1 - Einlassrohr	2017.07.06 08:56:49											
+1710-SPA-SAC-PLAR1-NDBA	1710-SPA-SAC-PLAR1-NDBA	Compr1 - NDE side Bearing Assembly	Kompressor 1 - B-seitige Lagerung	2017.07.06 08:56:49											
+1710-SPA-SAC-PLAR2	1710-SPA-SAC-PLAR2	Compressor # 2	Kompressor # 2	2017.07.06 08:56:49											
+1710-SPA-SAC-PLAR2-CGB1	1710-SPA-SAC-PLAR2-CGB1	Compr2 - Gear Box	Kompressor 2 - Getriebe	2017.07.06 08:56:49											
+1710-SPA-SAC-PLAR2-CLR1	1710-SPA-SAC-PLAR2-CLR1	Compr2 - Air Cooler 1	Kompressor 2 - Luftkühler 1	2017.07.06 08:56:49											
+1710-SPA-SAC-PLAR2-CLR2	1710-SPA-SAC-PLAR2-CLR2	Compr2 - Air Cooler 2	Kompressor 2 - Luftkühler 2	2017.07.06 08:56:49											
+1710-SPA-SAC-PLAR2-CLR3	1710-SPA-SAC-PLAR2-CLR3	Compr2 - Air Cooler 3	Kompressor 2 - Luftkühler 3	2017.07.06 08:56:49											
+1710-SPA-SAC-PLAR2-CMT1	1710-SPA-SAC-PLAR2-CMT1	Compr2 - Motor	Kompressor 2 - Motor	2017.07.06 08:56:49											
+1710-SPA-SAC-PLAR2-CST1	1710-SPA-SAC-PLAR2-CST1	Compr2 - Stage 1	Kompressor 2 - Stufe 1	2017.07.06 08:56:49											
+1710-SPA-SAC-PLAR2-CST2	1710-SPA-SAC-PLAR2-CST2	Compr2 - Stage 2	Kompressor 2 - Stufe 2	2017.07.06 08:56:49											
+1710-SPA-SAC-PLAR2-CST3	1710-SPA-SAC-PLAR2-CST3	Compr2 - Stage 3	Kompressor 2 - Stufe 3	2017.07.06 08:56:49											
+1710-SPA-SAC-PLAR2-DCTV	1710-SPA-SAC-PLAR2-DCTV	Compr2 - Discharge: Control Valve	Kompressor 2 - Ausgang: Regelventil	2017.07.06 08:56:49											
+1710-SPA-SAC-PLAR2-DMIV	1710-SPA-SAC-PLAR2-DMIV	Compr2 - Discharge Manual Isolat. Valve	Kompressor 2 - Ausg.: man. Absperrventil	2017.07.06 08:56:49											
+1710-SPA-SAC-PLAR2-DSBA	1710-SPA-SAC-PLAR2-DSBA	Compr2 - DE side Bearing Assembly	Kompressor 2 - A-seitige Lagerung	2017.07.06 08:56:49											
+1710-SPA-SAC-PLAR2-INLT	1710-SPA-SAC-PLAR2-INLT	Compr2 - Inlet	Kompressor 2 - Einlass	2017.07.06 08:56:49											
+1710-SPA-SAC-PLAR2-INLT-SCTV	1710-SPA-SAC-PLAR2-INLT-SCTV	Compr2 - Inlet: Control Valve	Kompressor 2 - Einlass: Regelventil	2017.07.06 08:56:49											
+1710-SPA-SAC-PLAR2-INLT-SF01	1710-SPA-SAC-PLAR2-INLT-SF01	Compr2 - Inlet Filter	Kompressor 2 - Einlassfilter	2017.07.06 08:56:49											
+1710-SPA-SAC-PLAR2-INLT-SMIV	1710-SPA-SAC-PLAR2-INLT-SMIV	Compr2 - Inlet:Manual Isolation Valve	Kompressor 2 - Einl.: man. Absperrventil	2017.07.06 08:56:49											
+1710-SPA-SAC-PLAR2-INLT-SP01	1710-SPA-SAC-PLAR2-INLT-SP01	Compr2 - Inlet Pipe	Kompressor 2 - Einlassrohr	2017.07.06 08:56:49											
+1710-SPA-SAC-PLAR2-NDBA	1710-SPA-SAC-PLAR2-NDBA	Compr2 - NDE side Bearing Assembly	Kompressor 2 - B-seitige Lagerung	2017.07.06 08:56:49											
+1710-SPA-SAC-PLAR3	1710-SPA-SAC-PLAR3	Compressor # 3	Kompressor # 3	2017.07.06 08:56:49											
+1710-SPA-SAC-PLAR3-CGB1	1710-SPA-SAC-PLAR3-CGB1	Compr3 - Gear Box	Kompressor 3 - Getriebe	2017.07.06 08:56:49											
+1710-SPA-SAC-PLAR3-CLR1	1710-SPA-SAC-PLAR3-CLR1	Compr3 - Air Cooler 1	Kompressor 3 - Luftkühler 1	2017.07.06 08:56:49											
+1710-SPA-SAC-PLAR3-CLR2	1710-SPA-SAC-PLAR3-CLR2	Compr3 - Air Cooler 2	Kompressor 3 - Luftkühler 2	2017.07.06 08:56:49											
+1710-SPA-SAC-PLAR3-CLR3	1710-SPA-SAC-PLAR3-CLR3	Compr3 - Air Cooler 3	Kompressor 3 - Luftkühler 3	2017.07.06 08:56:49											
+1710-SPA-SAC-PLAR3-CMT1	1710-SPA-SAC-PLAR3-CMT1	Compr3 - Motor	Kompressor 3 - Motor	2017.07.06 08:56:49											
+1710-SPA-SAC-PLAR3-CST1	1710-SPA-SAC-PLAR3-CST1	Compr3 - Stage 1	Kompressor 3 - Stufe 1	2017.07.06 08:56:49											
+1710-SPA-SAC-PLAR3-CST2	1710-SPA-SAC-PLAR3-CST2	Compr3 - Stage 2	Kompressor 3 - Stufe 2	2017.07.06 08:56:49											
+1710-SPA-SAC-PLAR3-CST3	1710-SPA-SAC-PLAR3-CST3	Compr3 - Stage 3	Kompressor 3 - Stufe 3	2017.07.06 08:56:49											
+1710-SPA-SAC-PLAR3-INLT	1710-SPA-SAC-PLAR3-INLT	Compr3 - Inlet	Kompressor 3 - Einlass	2017.07.06 08:56:49											
+1710-SPA-SAC-PLAR3-INLT-SF01	1710-SPA-SAC-PLAR3-INLT-SF01	Compr3 - Inlet Filter	Kompressor 3 - Einlassfilter	2017.07.06 08:56:49											
+1710-SPA-SAC-PLAR3-DCTV	1710-SPA-SAC-PLAR3-DCTV	Compr3 - Discharge: Control Valve	Kompressor 3 - Ausgang: Regelventil	2017.07.06 08:56:49											
+1710-SPA-SAC-PLAR3-DMIV	1710-SPA-SAC-PLAR3-DMIV	Compr3 - Discharge Manual Isolat. Valve	Kompressor 3 - Ausg.: man. Absperrventil	2017.07.06 08:56:49											
+1710-SPA-SAC-PLAR3-DSBA	1710-SPA-SAC-PLAR3-DSBA	Compr3 - DE side Bearing Assembly	Kompressor 3 - A-seitige Lagerung	2017.07.06 08:56:49											
+1710-SPA-SAC-PLAR3-INLT-SCTV	1710-SPA-SAC-PLAR3-INLT-SCTV	Compr3 - Inlet: Control Valve	Kompressor 3 - Einlass: Regelventil	2017.07.06 08:56:49											
+1710-SPA-SAC-PLAR3-INLT-SMIV	1710-SPA-SAC-PLAR3-INLT-SMIV	Compr3 - Inlet:Manual Isolation Valve	Kompressor 3 - Einl.: man. Absperrventil	2017.07.06 08:56:49											
+1710-SPA-SAC-PLAR3-INLT-SP01	1710-SPA-SAC-PLAR3-INLT-SP01	Compr3 - Inlet Pipe	Kompressor 3 - Einlassrohr	2017.07.06 08:56:49											
+1710-SPA-SAC-PLAR3-NDBA	1710-SPA-SAC-PLAR3-NDBA	Compr3 - NDE side Bearing Assembly	Kompressor 3 - B-seitige Lagerung	2017.07.06 08:56:49											
+1710-SPA-SAC-PLAR4	1710-SPA-SAC-PLAR4	Compressor # 4	Kompressor # 4	2017.07.06 08:56:49											
+1710-SPA-SAC-PLAR4-CGB1	1710-SPA-SAC-PLAR4-CGB1	Compr4 - Gear Box	Kompressor 4 - Getriebe	2017.07.06 08:56:49											
+1710-SPA-SAC-PLAR4-CLR1	1710-SPA-SAC-PLAR4-CLR1	Compr4 - Air Cooler 1	Kompressor 4 - Luftkühler 1	2017.07.06 08:56:49											
+1710-SPA-SAC-PLAR4-CLR2	1710-SPA-SAC-PLAR4-CLR2	Compr4 - Air Cooler 2	Kompressor 4 - Luftkühler 2	2017.07.06 08:56:49											
+1710-SPA-SAC-PLAR4-CLR3	1710-SPA-SAC-PLAR4-CLR3	Compr4 - Air Cooler 3	Kompressor 4 - Luftkühler 3	2017.07.06 08:56:49											
+1710-SPA-SAC-PLAR4-CMT1	1710-SPA-SAC-PLAR4-CMT1	Compr4 - Motor	Kompressor 4 - Motor	2017.07.06 08:56:49											
+1710-SPA-SAC-PLAR4-CST1	1710-SPA-SAC-PLAR4-CST1	Compr4 - Stage 1	Kompressor 4 - Stufe 1	2017.07.06 08:56:49											
+1710-SPA-SAC-PLAR4-CST2	1710-SPA-SAC-PLAR4-CST2	Compr4 - Stage 2	Kompressor 4 - Stufe 2	2017.07.06 08:56:49											
+1710-SPA-SAC-PLAR4-CST3	1710-SPA-SAC-PLAR4-CST3	Compr4 - Stage 3	Kompressor 4 - Stufe 3	2017.07.06 08:56:49											
+1710-SPA-SAC-PLAR4-DCTV	1710-SPA-SAC-PLAR4-DCTV	Compr4 - Discharge: Control Valve	Kompressor 4 - Ausgang: Regelventil	2017.07.06 08:56:49											
+3001-137	3001-137	Cooling Tower Fan		2017.07.06 08:56:49											
+3001-138	3001-138	Cooling Tower Fan		2017.07.06 08:56:49											
+3001-139	3001-139	Compr1 - Inlet: Control Valve		2017.07.06 08:56:49											
+3001-140	3001-140	Cooling Tower Fan		2017.07.06 08:56:49											
+3001-141	3001-141	Compr1 - Inlet: Control Valve		2017.07.06 08:56:49											
+1710-SPA-SAC-PLAR4-DMIV	1710-SPA-SAC-PLAR4-DMIV	Compr4 - Discharge Manual Isolat. Valve	Kompressor 4 - Ausg.: man. Absperrventil	2017.07.06 08:56:49											
+1710-SPA-SAC-PLAR4-DSBA	1710-SPA-SAC-PLAR4-DSBA	Compr4 - DE side Bearing Assembly	Kompressor 4 - A-seitige Lagerung	2017.07.06 08:56:49											
+1710-SPA-SAC-PLAR4-INLT	1710-SPA-SAC-PLAR4-INLT	Compr4 - Inlet	Kompressor 4 - Einlass	2017.07.06 08:56:49											
+1710-SPA-SAC-PLAR4-INLT-SCTV	1710-SPA-SAC-PLAR4-INLT-SCTV	Compr4 - Inlet: Control Valve	Kompressor 4 - Einlass: Regelventil	2017.07.06 08:56:49											
+1710-SPA-SAC-PLAR4-INLT-SF01	1710-SPA-SAC-PLAR4-INLT-SF01	Compr4 - Inlet Filter	Kompressor 4 - Einlassfilter	2017.07.06 08:56:49											
+1710-SPA-SAC-PLAR4-INLT-SMIV	1710-SPA-SAC-PLAR4-INLT-SMIV	Compr4 - Inlet:Manual Isolation Valve	Kompressor 4 - Einl.: man. Absperrventil	2017.07.06 08:56:49											
+1710-SPA-SAC-PLAR4-INLT-SP01	1710-SPA-SAC-PLAR4-INLT-SP01	Compr4 - Inlet Pipe	Kompressor 4 - Einlassrohr	2017.07.06 08:56:49											
+1710-SPA-SAC-PLAR4-NDBA	1710-SPA-SAC-PLAR4-NDBA	Compr4 - NDE side Bearing Assembly	Kompressor 4 - B-seitige Lagerung	2017.07.06 08:56:49											
+3001-120	3001-120	Cooling Tower Fan		2017.07.06 08:56:49											
+3001-121	3001-121	Compr1 - Inlet: Control Valve		2017.07.06 08:56:49											
+3001-122	3001-122	Cooling Tower Fan		2017.07.06 08:56:49											
+3001-123	3001-123	Compr1 - Inlet: Control Valve		2017.07.06 08:56:49											
+3001-124	3001-124	Cooling Tower Fan		2017.07.06 08:56:49											
+3001-125	3001-125	Compr1 - Inlet: Control Valve		2017.07.06 08:56:49											
+3001-126	3001-126	Cooling Tower Fan		2017.07.06 08:56:49											
+3001-127	3001-127	Compr1 - Inlet: Control Valve		2017.07.06 08:56:49											
+3001-128	3001-128	Cooling Tower Fan		2017.07.06 08:56:49											
+3001-129	3001-129	Cooling Tower Fan		2017.07.06 08:56:49											
+3001-130	3001-130	Compr1 - Inlet: Control Valve		2017.07.06 08:56:49											
+3001-131	3001-131	Cooling Tower Fan		2017.07.06 08:56:49											
+3001-132	3001-132	Compr1 - Inlet: Control Valve		2017.07.06 08:56:49											
+3001-133	3001-133	Cooling Tower Fan		2017.07.06 08:56:49											
+3001-134	3001-134	Compr1 - Inlet: Control Valve		2017.07.06 08:56:49											
+3001-135	3001-135	Cooling Tower Fan		2017.07.06 08:56:49											
+3001-136	3001-136	Compr1 - Inlet: Control Valve		2017.07.06 08:56:49											
+3001-142	3001-142	Cooling Tower Fan		2017.07.06 08:56:49											
+3001-143	3001-143	Compr1 - Inlet: Control Valve		2017.07.06 08:56:49											
+3001-144	3001-144	Cooling Tower Fan		2017.07.06 08:56:49											
+3001-145	3001-145	Compr1 - Inlet: Control Valve		2017.07.06 08:56:49											
+3001-146	3001-146	Cooling Tower Fan		2017.07.06 08:56:49											
+4001-100	4001-100	Cooling Tower Fan		2017.07.06 08:56:49											
+4001-101	4001-101	Compr1 - Inlet: Control Valve		2017.07.06 08:56:49											
+4001-102	4001-102	Cooling Tower Fan		2017.07.06 08:56:49											
+4001-103	4001-103	Compr1 - Inlet: Control Valve		2017.07.06 08:56:49											
+4001-104	4001-104	Cooling Tower Fan		2017.07.06 08:56:49											
+4001-105	4001-105	Compr1 - Inlet: Control Valve		2017.07.06 08:56:49											
+4001-106	4001-106	Cooling Tower Fan		2017.07.06 08:56:49											
+4001-107	4001-107	Compr1 - Inlet: Control Valve		2017.07.06 08:56:49											
+4001-108	4001-108	Cooling Tower Fan		2017.07.06 08:56:49											

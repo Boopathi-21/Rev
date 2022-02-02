@@ -1,0 +1,15 @@
+LEGACY_RECONCILIATION_ACCT	RECONCILIATION_ACCT	RECONCILIATION_ACCT_TXT_GBL	RECONCILIATION_ACCT_TXT_LCL	DI_TIMESTAMP											
+0012100000	0012100000	Receivables Domestic	Forderungen Inland	2017.07.06 08:56:49											
+0012100100	0012100100	Receivables Domestic - One Time Accounts	Forderungen Inland - CpD-Konten	2017.07.06 08:56:49											
+0012120000	0012120000	Receivables Foreign	Forderungen Ausland	2017.07.06 08:56:49											
+0012120100	0012120100	Receivables Foreign - One Time Accounts	Forderungen Ausland - CpD-Konten	2017.07.06 08:56:49											
+0012300000	0012300000	Receivables affiliated Companies	Forderungen an verbundene Unternehmnen	2017.07.06 08:56:49											
+0012400000	0012400000	Allowance for Doubtful Receivables	Zweifelhafte Forderungen	2017.07.06 08:56:49											
+0012401000	0012401000	Individual Value Adjustments for Receivables	Einzelwertberichtigungen zu Forderungen	2017.07.06 08:56:49											
+0012402000	0012402000	Depreciation Receivables from Aff.Companies	Wertberichtigungen zu Forderungen gg. Verbundene	2017.07.06 08:56:49											
+0012411000	0012411000	Guarantees given to Customers	Gegebene Bürgschaften Debitoren	2017.07.06 08:56:49											
+0012420000	0012420000	Security Deposit Customers	Sicherheitseinbehalt Debitoren	2017.07.06 08:56:49											
+0012500000	0012500000	Interest Receivables	Zins-Forderungen	2017.07.06 08:56:49											
+0014107000	0014107000	Loans to Staff	Mitarbeiterdarlehen	2017.07.06 08:56:49											
+0021190000	0021190000	Down Payments - Customers	Erhaltene Anzahlungen	2017.07.06 08:56:49											
+0021191000	0021191000	Down Payment Requests Customers	Anzahlungsanforderungen Debitoren	2017.07.06 08:56:49											

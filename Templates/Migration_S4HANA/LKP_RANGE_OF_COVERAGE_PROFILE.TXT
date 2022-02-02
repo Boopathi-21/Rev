@@ -1,0 +1,3 @@
+LEGACY_COVERAGE_PROF	PLANT	COVERAGE_PROF	COVERAGE_PROF_TXT_GBL	COVERAGE_PROF_TXT_LCL	DI_TIMESTAMP										
+001	1010	001	3 days in the next month, then 5 days	3 Tage im nächsten Monat, dann 5 Tage	2017.07.06 08:56:49										
+001	1710	001	3 days in the next month, then 5 days	3 Tage im nächsten Monat, dann 5 Tage	2017.07.06 08:56:49										

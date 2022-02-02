@@ -1,0 +1,7 @@
+LEGACY_REFERENCE_DATE	REFERENCE_DATE	REFERENCE_DATE_TXT_GBL	REFERENCE_DATE_TXT_LCL	DI_TIMESTAMP											
+01	01	Start date for setup	Starttermin Rüsten	2017.07.06 08:56:49											
+02	02	Start date for processing	Starttermin Bearbeiten	2017.07.06 08:56:49											
+03	03	Start date for teardown	Starttermin Abrüsten	2017.07.06 08:56:49											
+04	04	Start date for execution	Endtermin Durchführen	2017.07.06 08:56:49											
+05	05	Start date for wait	Starttermin Liegen	2017.07.06 08:56:49											
+06	06	Finish date for wait	Endtermin Liegen	2017.07.06 08:56:49											

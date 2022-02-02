@@ -1,0 +1,2 @@
+LEGACY_VIP	VIP	VIP_TXT_GBL	VIP_TXT_LCL	DI_TIMESTAMP											
+1	1	Managing Director	Geschäftsführer	2018.06.19 05:33:47											

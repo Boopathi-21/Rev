@@ -1,0 +1,2 @@
+LEGACY_Q_SCORE_PROC	Q_SCORE_PROC	Q_SCORE_PROC_TXT_GBL	Q_SCORE_PROC_TXT_LCL	DI_TIMESTAMP											
+06	06	From usage decision code	Aus Verwendungsentscheid-Code	2017.07.06 08:56:49											

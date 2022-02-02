@@ -1,0 +1,15 @@
+LEGACY_MATERIAL_TYPE	MATERIAL_TYPE	NUMBER_RANGE_NUMBER_INT	NUMBER_RANGE_NUMBER_EXT	MATERIAL_TYPE_TXT_GBL	MATERIAL_TYPE_TXT_LCL	DI_TIMESTAMP									
+ERSA	ERSA	01	02	Spare Parts	Ersatzteile	2018.06.19 05:33:47									
+FERT	FERT	01	02	Finished Product	Fertigerzeugnis	2018.06.19 05:33:47									
+HALB	HALB	01	02	Semifinished Product	Halbfabrikat	2018.06.19 05:33:47									
+HAWA	HAWA	01	02	Trading Goods	Handelsware	2018.06.19 05:33:47									
+HIBE	HIBE	01	02	Operating supplies	Rohstoff	2018.06.19 05:33:47									
+KMAT	KMAT	01	02	Configurable materials	Konfigurierbares Material	2018.06.19 05:33:47									
+LEIH	LEIH	01	02	Returnable packaging	Leihgut	2018.06.19 05:33:47									
+MAT	MAT	02	02	Material general	Material allgemein	2018.06.19 05:33:47									
+NLAG	NLAG	01	02	Non-Stock Material	Nichtlagermaterial	2018.06.19 05:33:47									
+ROH	ROH	01	02	Raw materials	Rohstoffe	2018.06.19 05:33:47									
+SERV	SERV	01	02	Services	Dienstleistungen	2018.06.19 05:33:47									
+SWNV	SWNV	01	02	Software Non-Valuated	Software unbewertet	2018.06.19 05:33:47									
+UNBW	UNBW	01	02	nonvaluated material	Unbewertetes Material	2018.06.19 05:33:47									
+VERP	VERP	01	02	Packaging	Verpackung	2018.06.19 05:33:47									

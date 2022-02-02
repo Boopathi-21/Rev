@@ -1,0 +1,11 @@
+LEGACY_BP_LEGAL_ENTITY	BP_LEGAL_ENTITY	BP_LEGAL_ENTITY_TXT_GBL	BP_LEGAL_ENTITY_TXT_LCL	DI_TIMESTAMP											
+01	01	Public Sector Bank	öffentlich-rechtliches Kreditinstitut	2018.06.19 05:33:47											
+02	02	Private Law Bank	privatrechtliches Kreditinstitut	2018.06.19 05:33:47											
+03	03	Private Law Company: Insurance	Privatrechtliches Unternehmen: Versicherung	2018.06.19 05:33:47											
+04	04	Private Law Company: Industry	Privatrechtliches Unternehmen: Industrie	2018.06.19 05:33:47											
+05	05	Other Body of Public Law	Sonstige Körperschaft des öffentlichen Rechts	2018.06.19 05:33:47											
+06	06	Municipal Body	Kommunale Körperschaft	2018.06.19 05:33:47											
+07	07	Rail	Bahn	2018.06.19 05:33:47											
+08	08	Mail	Post	2018.06.19 05:33:47											
+09	09	Public Law Bodies	Öffentlich rechtliche Körperschaften	2018.06.19 05:33:47											
+10	10	Private Law Property Companies	Privatrechtliche Grundstücksgesellschaften	2018.06.19 05:33:47											

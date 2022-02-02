@@ -1,0 +1,18 @@
+LEGACY_COST_ELEMENT_CATEGORY	COST_ELEMENT_CATEGORY	COST_ELEMENT_CATEGORY_TXT_GBL	COST_ELEMENT_CATEGORY_TXT_LCL	DI_TIMESTAMP											
+01	01	Primary costs/cost-reducing revenues	Primärkosten / kostenmindernde Erlöse	2017.07.06 08:56:49											
+03	03	Accrual/deferral per surcharge	Abgrenzung per Zuschlag	2017.07.06 08:56:49											
+04	04	Accrual/deferral per debit = actual	Abgrenzung per Soll = Ist	2017.07.06 08:56:49											
+11	11	Revenues	Erlöse	2017.07.06 08:56:49											
+12	12	Sales deduction	Erlösschmälerung	2017.07.06 08:56:49											
+21	21	Internal settlement	Abrechnung intern	2017.07.06 08:56:49											
+22	22	External settlement	Abrechnung extern	2017.07.06 08:56:49											
+31	31	Order/project results analysis	Auftrags-/Projektabgrenzung	2017.07.06 08:56:49											
+41	41	Overhead Rates	Gemeinkostenzuschläge	2017.07.06 08:56:49											
+42	42	Assessment	Umlage	2017.07.06 08:56:49											
+43	43	Internal activity allocation	Verrechnung Leistungen/Prozesse	2017.07.06 08:56:49											
+50	50	Project-related incoming orders: Sales revenue	Projektbez. Auftragseingang: Umsatzerlöse	2017.07.06 08:56:49											
+51	51	Project-related incoming orders: Other revenues	Projektbez. Auftragseingang: Sonstige Erträge	2017.07.06 08:56:49											
+52	52	Project-related incoming orders: Costs	Projektbez. Auftragseingang: Kosten	2017.07.06 08:56:49											
+61	61	Earned value	Fortschrittswert	2017.07.06 08:56:49											
+66	66	Reporting Cost Element CO-PA	Berichtskostenart CO-PA	2017.07.06 08:56:49											
+90	90	Statistical cost element for balance sheet account	Statistische Kostenart für Bilanzkonto	2017.07.06 08:56:49											

@@ -1,0 +1,15 @@
+LEGACY_TASK_LIST_TYPE	TASK_LIST_TYPE	TASK_LIST_TYPE_TXT_GBL	TASK_LIST_TYPE_TXT_LCL	DI_TIMESTAMP											
+ 	 			2017.07.06 08:56:49											
+*	*	Wildcard	Wildcard	2017.07.06 08:56:49											
+0	0	Standard Network	Standardnetz	2017.07.06 08:56:49											
+2	2	Master Recipe	Planungsrezept	2017.07.06 08:56:49											
+3	3	Rough-cut Planning Profile	Grobplanungsprofil	2017.07.06 08:56:49											
+A	A	General maintenance task list	IH-Anleitung	2017.07.06 08:56:49											
+E	E	Equipment Task List	Equipmentplan	2017.07.06 08:56:49											
+M	M	Reference Rate Routing	Standardlinienplan	2017.07.06 08:56:49											
+N	N	Routing	Normalarbeitsplan	2017.07.06 08:56:49											
+Q	Q	Inspection Plan	Prüfplan	2017.07.06 08:56:49											
+R	R	Rate Routing	Linienplan	2017.07.06 08:56:49											
+S	S	Reference Operation Set	Standardplan	2017.07.06 08:56:49											
+T	T	Task List for Funct. Location	Plan für Technischen Platz	2017.07.06 08:56:49											
+V	V	Shop Floor Routing	Fertigungsarbeitsplan	2017.07.06 08:56:49											

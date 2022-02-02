@@ -1,0 +1,11 @@
+LEGACY_INSPECTION_TYPE	INSPECTION_TYPE	INSPECTION_TYPE_TXT_GBL	INSPECTION_TYPE_TXT_LCL	DI_TIMESTAMP											
+01	01	Goods Receipt Insp. for Purchase Order	Eingangsprüfung beim WE zur Bestellung	2017.07.06 08:56:49											
+03	03	In-process insp. for production order	Zwischenprüfung beim Produktionsauftrag	2017.07.06 08:56:49											
+04	04	Goods receipt inspection from production	Prüfung beim WE aus der Produktion	2017.07.06 08:56:49											
+08	08	Stock transfer inspection	Prüfung bei einer Umlagerung	2017.07.06 08:56:49											
+10	10	Insp. for delivery to cust. (w/ order)	Prüfg. bei Liefg. zum Kunden mit Auftrag	2017.07.06 08:56:49											
+17	17	Extended Warehouse Inspection	Prüfung im EWM	2017.07.06 08:56:49											
+1701	1701	EWM Inspection External System	EWM: WE-Prüfung für Bestellung	2017.07.06 08:56:49											
+1704	1704	EWM: Goods Receipt Insp. from production	EWM: WE-Prüfung aus der Produktion	2017.07.06 08:56:49											
+1708	1708	EWM: Stock transfer inspection	EWM: Umlagerungsprüfung	2017.07.06 08:56:49											
+1709	1709	EWM: Recurring inspection of batches	EWM: wiederkehrende Prüfung von Chargen	2017.07.06 08:56:49											

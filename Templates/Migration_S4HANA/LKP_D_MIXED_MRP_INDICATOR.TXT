@@ -1,0 +1,4 @@
+LEGACY_MIXED_MRP_INDICATOR	MIXED_MRP_INDICATOR	MIXED_MRP_INDICATOR_TXT_GBL	MIXED_MRP_INDICATOR_TXT_LCL	DI_TIMESTAMP											
+1	1	Subassembly planning with final assembly	Baugruppenvorplanung mit Endmontage	2017.07.06 08:56:49											
+2	2	Gross requirements planning	Bruttoplanung	2017.07.06 08:56:49											
+3	3	Subassembly planning without final assembly	Baugruppenvorplanung ohne Endmontage	2017.07.06 08:56:49											

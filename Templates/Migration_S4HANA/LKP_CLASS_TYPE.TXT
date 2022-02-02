@@ -1,0 +1,24 @@
+LEGACY_CLASS_TYPE	CLASS_TYPE	CLASS_TYPE_TXT_GBL	CLASS_TYPE_TXT_LCL	DI_TIMESTAMP											
+017	017	Document Management	Dokumentenverwaltung	2017.07.06 08:56:49											
+018	018	Task List Class	Planklasse	2017.07.06 08:56:49											
+019	019	Work Center Class	Arbeitsplatzklasse	2017.07.06 08:56:49											
+022	022	Batch	Charge	2017.07.06 08:56:49											
+023	023	Batch	Charge	2017.07.06 08:56:49											
+032	032	Release Strategy	Freigabestrategie	2017.07.06 08:56:49											
+040	040	Sort Sequence	Sortierreihenfolge	2017.07.06 08:56:49											
+052	052	Customer-material info record	Kunden-Material-Infosatz	2017.07.06 08:56:49											
+100	100	Substance Value Assignments	Stoffbewertungen	2017.07.06 08:56:49											
+104	104	Recipe	Rezept	2017.07.06 08:56:49											
+105	105	Process Parameter	Prozessparameter	2017.07.06 08:56:49											
+200	200	Material (Configurable Objects)	Material(konfigurierbare Objekte)	2017.07.06 08:56:49											
+300	300	Variants	Varianten	2017.07.06 08:56:49											
+399	399	HANA View Generation (VC)	HANA View Generierung (VC)	2017.07.06 08:56:49											
+001	001	Material Class	Materialklasse	2017.07.06 08:56:49											
+002	002	Equipment Class	Equipmentklasse	2017.07.06 08:56:49											
+003	003	Functional Location	Technischer Platz	2017.07.06 08:56:49											
+005	005	Inspection Characteristics	Prüfmerkmale	2017.07.06 08:56:49											
+006	006	Inspection Methods	Prüfmethoden	2017.07.06 08:56:49											
+007	007	Code Groups	Codegruppen	2017.07.06 08:56:49											
+008	008	Selected Sets	Auswahlmengen	2017.07.06 08:56:49											
+010	010	Vendor Class	Kreditorenklasse	2017.07.06 08:56:49											
+011	011	Customer Class	Debitorenklasse	2017.07.06 08:56:49											

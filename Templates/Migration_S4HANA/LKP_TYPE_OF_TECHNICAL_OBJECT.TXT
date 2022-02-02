@@ -1,0 +1,9 @@
+LEGACY_OBJECT_TYPE	OBJECT_TYPE	OBJECT_TYPE_TXT_GBL	OBJECT_TYPE_TXT_LCL	DI_TIMESTAMP											
+9100	9100	Motors	Motoren	2017.07.06 08:56:49											
+9200	9200	Rotary Compressors	Rotationsverdichter	2017.07.06 08:56:49											
+9300	9300	Coolers	Kühler	2017.07.06 08:56:49											
+9400	9400	Valve	Ventil	2017.07.06 08:56:49											
+9500	9500	Pumps	Pumpen	2017.07.06 08:56:49											
+9600	9600	Dryer	Trockner	2017.07.06 08:56:49											
+9700	9700	Gear Box	Getriebe	2017.07.06 08:56:49											
+9800	9800	Cooler	Kühler	2017.07.06 08:56:49											

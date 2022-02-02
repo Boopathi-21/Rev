@@ -1,0 +1,85 @@
+LEGACY_ITEM_CATEGORY	ITEM_CATEGORY	ITEM_CATEGORY_TXT_GBL	ITEM_CATEGORY_TXT_LCL	DI_TIMESTAMP											
+AFN	AFN	Inquiry Item	Anfrageposition	2017.07.06 08:56:49											
+AFX	AFX	Non-Stock / Service	Nichtlager / Service	2017.07.06 08:56:49											
+AGN	AGN	Standard Item	Normalposition	2017.07.06 08:56:49											
+AGX	AGX	Non-Stock / Service	Nichtlager / Service	2017.07.06 08:56:49											
+ARTX	ARTX	Returns Text Item	Retouren-Textpos.	2017.07.06 08:56:49											
+CB05	CB05	Batch Split Item	Chargensplitposition	2017.07.06 08:56:49											
+CB1	CB1	3rd Party with SN	Strecke mit LA	2017.07.06 08:56:49											
+CB10	CB10	Returnables Item	Returnables Item	2017.07.06 08:56:49											
+CB11	CB11	Ret. Packaging	Leihgut	2017.07.06 08:56:49											
+CB1I	CB1I	Ret.Packaging Issue	Leihgutnachbelastung	2017.07.06 08:56:49											
+CB2	CB2	3rd Party w/o SN	Strecke ohne LA	2017.07.06 08:56:49											
+CB3	CB3	3rd Pty with SN free	Strecke mit LA kstl.	2017.07.06 08:56:49											
+CB4	CB4	3rd Pty w/o SN free	Strecke oh. LA kstl.	2017.07.06 08:56:49											
+CB97	CB97	Batch Sub Item DP	Chargenunterpos. DP	2017.07.06 08:56:49											
+CB98	CB98	Btch Sub Item Return	Ret. ChargUnterpos.	2017.07.06 08:56:49											
+CB99	CB99	Batch Sub Item	Chargenunterposition	2017.07.06 08:56:49											
+CB9F	CB9F	Batch Consi Fill-Up	Charge KonsignBesch.	2017.07.06 08:56:49											
+CB9I	CB9I	Batch Consi Issue	Charge KonsignBesch.	2017.07.06 08:56:49											
+CB9P	CB9P	Batch Consi Pick-Up	Charge KonsignAbhol.	2017.07.06 08:56:49											
+CB9R	CB9R	Batch Consi Return	Charge KonsigRetoure	2017.07.06 08:56:49											
+CBAB	CBAB	Bought-In Item	Eingekaufte Position	2017.07.06 08:56:49											
+CBAG	CBAG	MTO Quotation	KDE-Angebot	2017.07.06 08:56:49											
+CBAO	CBAO	Milestone-Bill.Plan	TeilfakturierPlan	2017.07.06 08:56:49											
+CBEN	CBEN	Standard Item	Normalposition	2017.07.06 08:56:49											
+CBLN	CBLN	Free of Charge Exps	Kostenlos	2017.07.06 08:56:49											
+CBNF	CBNF	Std Itm w/ Freight	Normalpos. m. Fracht	2017.07.06 08:56:49											
+CBQ3	CBQ3	3rd Pty qot w.SN fr.	VAbwckl m SG m LAvis	2017.07.06 08:56:49											
+CBQ4	CBQ4	3rd Pty qut w/o SN f	VAbwckl m SG o LAvis	2017.07.06 08:56:49											
+CBQX	CBQX	FOC Quote Enh	Erw. kostenlos. Angb	2017.07.06 08:56:49											
+CBTA	CBTA	MTO Standard Item	KDE-Normalposition	2017.07.06 08:56:49											
+CBTC	CBTC	Config.at Mat.Level	Konfig. auf Mat.-Ebe	2017.07.06 08:56:49											
+CBXN	CBXN	Free of Charge Enh	Kostenlose Erweiter.	2017.07.06 08:56:49											
+CFN	CFN	Consignment Fill-Up	KonsignatBeschickung	2017.07.06 08:56:49											
+CIN	CIN	Consignment Issue	KonsignatEntnahme	2017.07.06 08:56:49											
+CPN	CPN	Consignment Pick-Up	KonsignationAbholung	2017.07.06 08:56:49											
+CRN	CRN	Consignment Return	Konsignationsretoure	2017.07.06 08:56:49											
+DLN	DLN	Stndard Itm w/o Ord.	Normalpos. ohne Auf.	2017.07.06 08:56:49											
+DLN3	DLN3	Ret.to Customer Item	Rückl. an Kunde Pos.	2017.07.06 08:56:49											
+ELN	ELN	Inbound Delivery	Anlieferung	2017.07.06 08:56:49											
+ELP	ELP	Inb. Delvy Packaging	Packmittel Anliefer.	2017.07.06 08:56:49											
+ELSH	ELSH	Inb. Dely SLS MItem	Anlieferung SLS HP	2017.07.06 08:56:49											
+ELSM	ELSM			2017.07.06 08:56:49											
+ELSU	ELSU	Inb.Dely SLS Subitem	Anlieferung SLS UP	2017.07.06 08:56:49											
+ELSW	ELSW			2017.07.06 08:56:49											
+G2N	G2N	Request	Anforderung	2017.07.06 08:56:49											
+G2TX	G2TX	Text Item	Textposition	2017.07.06 08:56:49											
+G2W	G2W	Request	Anforderung	2017.07.06 08:56:49											
+GAN2	GAN2	Advanced CMR	Erw. GS-Anforderung	2017.07.06 08:56:49											
+GFN	GFN	Request Billing Plan	Anforderung FaktPlan	2017.07.06 08:56:49											
+KEN	KEN	Consignment Issue	KonsignatEntnahme	2017.07.06 08:56:49											
+KLN	KLN	Free of Charge Item	Kostenlose Position	2017.07.06 08:56:49											
+KMN	KMN	Qty Contract Item	Mengenkontraktpos.	2017.07.06 08:56:49											
+L2N	L2N	Request	Anforderung	2017.07.06 08:56:49											
+L2W	L2W	Request	Anforderung	2017.07.06 08:56:49											
+LAN	LAN	Ret.Packaging Pickup	Leihgutabholung	2017.07.06 08:56:49											
+LBN	LBN	Mat. Provided Item	Beistellposition	2017.07.06 08:56:49											
+LBR	LBR	PM Item for Reserv.	PM-Pos. für Reservrg	2017.07.06 08:56:49											
+LFN	LFN	Request Billing Plan	Anforderung FaktPlan	2017.07.06 08:56:49											
+NLN	NLN	StandStockTransItem	Umlagerpos. normal	2017.07.06 08:56:49											
+PI	PI			2017.07.06 08:56:49											
+PS01	PS01	Fixed Price	Festpreis	2017.07.06 08:56:49											
+PS02	PS02	Time and Expenses	Zeit und Aufwand	2017.07.06 08:56:49											
+PS03	PS03	Request for Service	Serviceanforderung	2017.07.06 08:56:49											
+PS05	PS05	Statistische Pos.	Statistische Pos.	2017.07.06 08:56:49											
+PS06	PS06	Periodic Service	Periodischer Service	2017.07.06 08:56:49											
+PS13	PS13	Fixed Price	Festpreis	2017.07.06 08:56:49											
+PS23	PS23	Time and Expenses	Zeit und Aufwand	2017.07.06 08:56:49											
+PS33	PS33	Periodic Services	Periodische Services	2017.07.06 08:56:49											
+PS43	PS43	Payment on Account	Akontozahlung	2017.07.06 08:56:49											
+PSC1	PSC1	ReCredtmemo Service		2017.07.06 08:56:49											
+PVN	PVN	Item Proposal	Positionsvorschlag	2017.07.06 08:56:49											
+REN	REN	Standard Item	Normalposition	2017.07.06 08:56:49											
+REN2	REN2	Adv. Returns Item	Erw. Retourenpos.	2017.07.06 08:56:49											
+RENV	RENV	Acc. Return Non-Val.	Erw. Retoure Unbew.	2017.07.06 08:56:49											
+RLN	RLN	Returns Order	Retourenauftrag	2017.07.06 08:56:49											
+TAD	TAD	Service Item	Leistung	2017.07.06 08:56:49											
+TAN	TAN	Standard Item	Normalposition	2017.07.06 08:56:49											
+TANN	TANN	Free of Charge Item	Kostenlose Position	2017.07.06 08:56:49											
+TAO	TAO	Milestone-Bill.Plan	TeilfakturierPlan	2017.07.06 08:56:49											
+TAQ	TAQ	Pric.at Header Level	Lieferumfang oben	2017.07.06 08:56:49											
+TAX	TAX	Non-Stock Item	Nichtlagerposition	2017.07.06 08:56:49											
+TPOP	TPOP	Inbound Delivery	Anlieferung	2017.07.06 08:56:49											
+UPOS	UPOS	Automotive Subitem	Automotive-Unterpos.	2017.07.06 08:56:49											
+VC01	VC01	Value Contract item	Wertkontraktposition	2017.07.06 08:56:49											

@@ -1,0 +1,8 @@
+LEGACY_DELIVERY_BLOCK	DELIVERY_BLOCK	DELIVERY_BLOCK_TXT_GBL	DELIVERY_BLOCK_TXT_LCL	DI_TIMESTAMP											
+01	01	Missing Credit limit	Kreditlimit fehlt	2018.06.19 05:33:47											
+02	02	Political Reasons	Politische Gründe	2018.06.19 05:33:47											
+04	04	No Export Documents	Keine Exportdokum.	2018.06.19 05:33:47											
+50	50	Check Shipping Data	Versanddaten prüfen	2018.06.19 05:33:47											
+51	51	Pricing Incomplete	Preisfind. unvollst.	2018.06.19 05:33:47											
+52	52	Check Payment Terms	ZahlBeding. prüfen	2018.06.19 05:33:47											
+53	53	Check Prepayment	Vorauszahlung prüfen	2018.06.19 05:33:47											

@@ -1,0 +1,8 @@
+LEGACY_TASK_LIST_USAGE	TASK_LIST_USAGE	TASK_LIST_USAGE_TXT_GBL	TASK_LIST_USAGE_TXT_LCL	DI_TIMESTAMP											
+1	1	Production	Fertigung	2017.07.06 08:56:49											
+2	2	Engineering/design	Konstruktion	2017.07.06 08:56:49											
+3	3	Universal	Universell	2017.07.06 08:56:49											
+4	4	Plant Maintenance	Instandhaltung	2017.07.06 08:56:49											
+5	5	Goods receipt	Wareneingang	2017.07.06 08:56:49											
+6	6	Goods issue	Warenausgang	2017.07.06 08:56:49											
+9	9	Material check	Materialprüfung	2017.07.06 08:56:49											

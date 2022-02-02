@@ -1,0 +1,18 @@
+LEGACY_ORDER_TYPE	ORDER_TYPE	ORDER_TYPE_TXT_GBL	ORDER_TYPE_TXT_LCL	DI_TIMESTAMP											
+CPOM	CPOM	Standard CO Production Order	CO-Fertigungsauftrag Standard	2017.07.06 08:56:49											
+Y020	Y020	Internal Order : Overhead costs	Innenauftrag: Gemeinkosten	2017.07.06 08:56:49											
+Y090	Y090	Internal Order: Statistical orders	Innenauftrag: statistische Aufträge	2017.07.06 08:56:49											
+Y100	Y100	Internal Order: Research and Development	Innenauftrag: Forschung und Entwicklung	2017.07.06 08:56:49											
+Y400	Y400	Internal Order: Marketing	Innenauftrag: Marketing	2017.07.06 08:56:49											
+Y600	Y600	Internal Order: Investment	Innenauftrag: Investition	2017.07.06 08:56:49											
+Y999	Y999	Migration FI Test		2017.07.06 08:56:49											
+Y9A0	Y9A0	Internal order: Accrual cost accounting	Innenauftrag: Abgrenzung Kostenrechnung	2017.07.06 08:56:49											
+YBA1	YBA1	Corrective Maintenance	Planbare Instandhaltung	2017.07.06 08:56:49											
+YBA2	YBA2	Preventive Maintenance	Vorbeugende Instandhaltung	2017.07.06 08:56:49											
+YBA3	YBA3	Unplanned Maintenance	Ungeplante Instandhaltung	2017.07.06 08:56:49											
+YBM1	YBM1	MTS Production Order	Lagerfertigung: Fertigungsauftrag	2017.07.06 08:56:49											
+YBM2	YBM2	MTS PI val.	Lagerfertigung PI-Wert	2017.07.06 08:56:49											
+YBM3	YBM3	Production Order Processing MTO		2017.07.06 08:56:49											
+YBM4	YBM4	Production Order Processing MTO	Fertigungsauftragsabwicklung KDE	2017.07.06 08:56:49											
+YBMR	YBMR	Product Cost Collector	Produktkostensammler	2017.07.06 08:56:49											
+YBW1	YBW1	Rework Prod. Order - Stock Manufac. Item	Nacharbeit: FAUF - FertigPosit. Bestand	2017.07.06 08:56:49											

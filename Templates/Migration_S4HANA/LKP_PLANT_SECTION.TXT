@@ -1,0 +1,9 @@
+LEGACY_PLANT_SECTION	PLANT	PLANT_SECTION	PERSON_RESPONSIBLE	DI_TIMESTAMP											
+YAG	1010	YAG	Betty Brown	2017.07.06 08:56:49											
+YIS	1010	YIS	Henry Miller	2017.07.06 08:56:49											
+YMA	1010	YMA	George Jones	2017.07.06 08:56:49											
+YOH	1010	YOH	Linda Yates	2017.07.06 08:56:49											
+YAG	1710	YAG	Betty Brown	2017.07.06 08:56:49											
+YIS	1710	YIS	Henry Miller	2017.07.06 08:56:49											
+YMA	1710	YMA	George Jones	2017.07.06 08:56:49											
+YOH	1710	YOH	Linda Yates	2017.07.06 08:56:49											

@@ -1,0 +1,13 @@
+LEGACY_EAN_CATEGORY	EAN_CATEGORY	EAN_CATEGORY_TXT_GBL	EAN_CATEGORY_TXT_LCL	DI_TIMESTAMP											
+E5	E5	PerishEAN, var. wt, indl art. no. 5-fig.	Frische-EAN, var. Gew., ind. ArtNr 5st.	2017.07.06 08:56:49											
+EA	EA	PerishEAN, var. pr, indl art. no. 4-fig.	Frische-EAN, var. Pr., ind. ArtNr 4stlg.	2017.07.06 08:56:49											
+HE	HE	Manufacturer	Hersteller	2017.07.06 08:56:49											
+HK	HK	Manufacturer short EAN	Hersteller-Kurz-EAN	2017.07.06 08:56:49											
+I6	I6	ITF code, 16-character	ITF-Code, 16stellig	2017.07.06 08:56:49											
+IC	IC	ITF code	ITF-Code	2017.07.06 08:56:49											
+IE	IE	Instore EAN (int. assignment possible)	Instore-EAN (int. Vergabe mögl.)	2017.07.06 08:56:49											
+IK	IK	Instore short EAN (int.assignment poss.)	Instore-Kurz-EAN (int. Vergabe mögl.)	2017.07.06 08:56:49											
+SA	SA	Perishables EAN, variable price, SAN	Frische-EAN, var. Preis, SAN	2017.07.06 08:56:49											
+SG	SG	PerishEAN, var. pr., SAN, trad. unit dgt	Frische-EAN, var. Preis, SAN + Gebindez.	2017.07.06 08:56:49											
+UC	UC	UPC	UPC	2017.07.06 08:56:49											
+VC	VC	Velocity code (int. assignment possible)	Velocity-Code (int. Vergabe mögl.)	2017.07.06 08:56:49											

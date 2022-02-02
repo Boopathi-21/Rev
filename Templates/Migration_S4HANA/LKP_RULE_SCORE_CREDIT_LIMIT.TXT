@@ -1,0 +1,3 @@
+LEGACY_RULE_LIMIT	RULE_LIMIT	RULE_LIMIT_TXT_GBL	RULE_LIMIT_TXT_LCL	DI_TIMESTAMP											
+SAP_ALL	SAP_ALL	All External Agencies & Int. Scoring & Limit rule	Alle ext. Agent., int. BonitErmitt. und Limitregel	2019.09.06 09:19:45											
+STANDARD	STANDARD	Standard rule with no automatic calculation	Standardregel ohne automatische Berechnung	2019.09.06 09:19:45											

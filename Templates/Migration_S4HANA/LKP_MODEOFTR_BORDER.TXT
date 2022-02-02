@@ -1,0 +1,9 @@
+LEGACY_MODEOFTR_BORDER	COUNTRY_KEY	MODEOFTR_BORDER	MODEOFTR_BORDER_TXT_GBL	MODEOFTR_BORDER_TXT_LCL	DI_TIMESTAMP										
+1	DE	1	Sea	Seeverkehr	2017.07.06 08:56:49										
+2	DE	2	Rail	Schienenverkehr	2017.07.06 08:56:49										
+3	DE	3	Road	Straßenverkehr	2017.07.06 08:56:49										
+4	DE	4	Air	Luftverkehr	2017.07.06 08:56:49										
+5	DE	5	Mail Traffic	Postsendung	2017.07.06 08:56:49										
+7	DE	7	Dedicated Transportation Systems	Festinstallierte Transporteinrichtungen	2017.07.06 08:56:49										
+8	DE	8	Inland Waterway Transport	Binnenschifffahrt	2017.07.06 08:56:49										
+9	DE	9	Automotive	Eigener Antrieb	2017.07.06 08:56:49										

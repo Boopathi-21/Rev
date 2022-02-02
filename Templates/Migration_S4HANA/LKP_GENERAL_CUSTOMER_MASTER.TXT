@@ -1,0 +1,61 @@
+LEGACY_CUSTOMER_NUMBER	CUSTOMER_NUMBER	CUSTOMER_NUMBER_TXT_GBL	CUSTOMER_NUMBER_TXT_LCL	DI_TIMESTAMP											
+0010100050	0010100050	Ausländischer Kunde 50 (US)		2018.06.19 05:33:47											
+0010200001	0010200001	Supplier/Customer for Intrastat (HU		2018.06.19 05:33:47											
+0017100001	0017100001	Domestic US Customer 1		2018.06.19 05:33:47											
+0017100002	0017100002	Domestic US Customer 2		2018.06.19 05:33:47											
+0017100003	0017100003	Domestic Customer US 3		2018.06.19 05:33:47											
+0017100004	0017100004	Domestic Customer US 4		2018.06.19 05:33:47											
+0017100005	0017100005	Domestic US Customer 5 (CMS)		2018.06.19 05:33:47											
+0017100006	0017100006	Domestic Customer US 6 (Returns)		2018.06.19 05:33:47											
+0017100007	0017100007	Domestic US Subcontractor A		2018.06.19 05:33:47											
+0017100008	0017100008	Domestic US Customer 8		2018.06.19 05:33:47											
+0017100009	0017100009	Domestic US Customer 9		2018.06.19 05:33:47											
+0017100010	0017100010	Domestic US Customer 10		2018.06.19 05:33:47											
+0017100011	0017100011	SAP SE		2018.06.19 05:33:47											
+0017100012	0017100012	Domestic Customer Invoice List		2018.06.19 05:33:47											
+0017100013	0017100013	Domestic Customer Invoice List		2018.06.19 05:33:47											
+0017100014	0017100014	PAYER - Central		2018.06.19 05:33:47											
+0017100051	0017100051	Foreign Customer 51 (CA)		2018.06.19 05:33:47											
+0017100100	0017100100	Domestic US Customer Direct Debit		2018.06.19 05:33:47											
+0017100273	0017100273	Domestic US CPD		2018.06.19 05:33:47											
+0017300010	0017300010	Domestic US Supplier 10		2018.06.19 05:33:47											
+0KPBP	0KPBP	Test customer for legal control		2018.06.19 05:33:47											
+0SUP	0SUP	Test bp for legal control		2018.06.19 05:33:47											
+CUS_EX0001	CUS_EX0001	Euclidus University		2018.06.19 05:33:47											
+CUS_EX0002	CUS_EX0002	World Banks		2018.06.19 05:33:47											
+CUS_EX0003	CUS_EX0003	22nd Century Fox		2018.06.19 05:33:47											
+CUS_EX0004	CUS_EX0004	Abarcombie & Finch		2018.06.19 05:33:47											
+CUS_EX0005	CUS_EX0005	Americans Apparels		2018.06.19 05:33:47											
+CUS_EX0006	CUS_EX0006	Ana Fields		2018.06.19 05:33:47											
+CUS_EX0007	CUS_EX0007	Ramis Inc.		2018.06.19 05:33:47											
+CUS_EX0008	CUS_EX0008	RedInk Corp.		2018.06.19 05:33:47											
+EWM17-CU01	EWM17-CU01	EWM Domestic Customer 01		2018.06.19 05:33:47											
+EWM17-CU02	EWM17-CU02	EWM Domestic Customer 02		2018.06.19 05:33:47											
+EWM17-CU03	EWM17-CU03	EWM Domestic Customer 03		2018.06.19 05:33:47											
+MIGCUS0001	MIGCUS0001	Euclidus University		2018.06.19 05:33:47											
+MIGCUS0002	MIGCUS0002	World Banks		2018.06.19 05:33:47											
+MIGCUS0003	MIGCUS0003	22nd Century Fox		2018.06.19 05:33:47											
+MIGCUS0004	MIGCUS0004	Abarcombie & Finch		2018.06.19 05:33:47											
+MIGCUS0005	MIGCUS0005	Americans Apparels		2018.06.19 05:33:47											
+MIGCUS0006	MIGCUS0006	Ana Fields		2018.06.19 05:33:47											
+MIGCUS0007	MIGCUS0007	Ramis Inc.		2018.06.19 05:33:47											
+MIGCUS0008	MIGCUS0008	RedInk Corp.		2018.06.19 05:33:47											
+MIGCUS1001	MIGCUS1001	Euclidus University		2018.06.19 05:33:47											
+MIGCUS1002	MIGCUS1002	World Banks		2018.06.19 05:33:47											
+MIGCUS1003	MIGCUS1003	22nd Century Fox		2018.06.19 05:33:47											
+MIGCUS1004	MIGCUS1004	Abarcombie & Finch		2018.06.19 05:33:47											
+MIGCUS1005	MIGCUS1005	Americans Apparels		2018.06.19 05:33:47											
+MIGCUS1006	MIGCUS1006	Ana Fields		2018.06.19 05:33:47											
+MIGCUS1007	MIGCUS1007	Ramis Inc.		2018.06.19 05:33:47											
+MIGCUS1008	MIGCUS1008	RedInk Corp.		2018.06.19 05:33:47											
+MIG_CPD_02	MIG_CPD_02	Migration CPD Cust 01		2018.06.19 05:33:47											
+MIG_USC001	MIG_USC001	Euclidus University		2018.06.19 05:33:47											
+MIG_USC002	MIG_USC002	World Banks		2018.06.19 05:33:47											
+MIG_USC003	MIG_USC003	22nd Century Fox		2018.06.19 05:33:47											
+MIG_USC004	MIG_USC004	Abarcombie & Finch		2018.06.19 05:33:47											
+MIG_USC005	MIG_USC005	Americans Apparels		2018.06.19 05:33:47											
+MIG_USC006	MIG_USC006	Ana Fields		2018.06.19 05:33:47											
+MIG_USC007	MIG_USC007	Ramis Inc.		2018.06.19 05:33:47											
+MIG_USC008	MIG_USC008	RedInk Corp.		2018.06.19 05:33:47											
+MIG_WTH01	MIG_WTH01	Migration WTH Customer 01		2018.06.19 05:33:47											
+MIG_WTH02	MIG_WTH02	Migration WTH Customer 02		2018.06.19 05:33:47											

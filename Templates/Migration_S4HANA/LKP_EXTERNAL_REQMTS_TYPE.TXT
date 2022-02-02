@@ -1,0 +1,13 @@
+LEGACY_REQUIREMENTS_TYPE	REQUIREMENTS_TYPE	REQUIREMENTS_TYPE_TXT_GBL	REQUIREMENTS_TYPE_TXT_LCL	DI_TIMESTAMP											
+041	041	Order/delivery requirement	Auftrag/Lieferbedarf	2017.07.06 08:56:49											
+BB6	BB6	MTO valuated @STD w/o RA	MTO bewert. STD ohne ErgErm.	2017.07.06 08:56:49											
+BSF	BSF	Gross planned indep. reqmts	Bruttoplanprimärbedarf	2017.07.06 08:56:49											
+CB4	CB4	Bought-In	Eingekauft	2017.07.06 08:56:49											
+KEK	KEK	MTO Config. Material Valuated	MTO Config. Material Valuated	2017.07.06 08:56:49											
+KSL	KSL	Sale frm stck w/o ind.req.red.	Sale frm stck w/o ind.req.red.	2017.07.06 08:56:49											
+KSV	KSV	Sales Ord w. consumpt/Delivery	KundAuftrag mit Verbr./Lief.	2017.07.06 08:56:49											
+LSF	LSF	Make-to-stock production	Anonyme Lagerfertigung	2017.07.06 08:56:49											
+MSR	MSR	Return: Non-Val. Special Stock	Return: Non-Val. Special Stock	2017.07.06 08:56:49											
+VSE	VSE	Planning w/o final assembly	Vorplanung ohne Endmontage	2017.07.06 08:56:49											
+VSF	VSF	Planning with Final Assembly	Vorplanung mit Endmontage	2017.07.06 08:56:49											
+VSFB	VSFB	Planning for assemblies	Vorplanung Baugruppen	2017.07.06 08:56:49											

@@ -1,0 +1,6 @@
+LEGACY_PRT_CATEGORY	PRT_CATEGORY	PRT_CATEGORY_TXT_GBL	PRT_CATEGORY_TXT_LCL	DI_TIMESTAMP											
+D	D	Document	Dokument	2017.07.06 08:56:49											
+E	E	Equipment	Equipment	2017.07.06 08:56:49											
+M	M	Material	Material	2017.07.06 08:56:49											
+P	P	Measuring Point	Messpunkt	2017.07.06 08:56:49											
+S	S	Miscellaneous	Sonstige	2017.07.06 08:56:49											

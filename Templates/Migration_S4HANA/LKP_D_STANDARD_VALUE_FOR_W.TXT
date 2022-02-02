@@ -1,0 +1,6 @@
+LEGACY_STANDARD_VALUE_FOR_W	STANDARD_VALUE_FOR_W	STANDARD_VALUE_FOR_W_TXT_GBL	STANDARD_VALUE_FOR_W_TXT_LCL	DI_TIMESTAMP											
+ 	 	no checking	keine Verprobung	2017.07.06 08:56:49											
+0	0	may not be entered	darf nicht angegeben werden	2017.07.06 08:56:49											
+1	1	should not be entered	soll nicht angegeben werden	2017.07.06 08:56:49											
+2	2	should be entered	soll angegeben werden	2017.07.06 08:56:49											
+3	3	must be entered	muß  angegeben werden	2017.07.06 08:56:49											

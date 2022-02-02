@@ -1,0 +1,15 @@
+LEGACY_BP_ROLE	BP_ROLE	BP_ROLE_TXT_GBL	BP_ROLE_TXT_LCL	DI_TIMESTAMP											
+000000	000000	Business Partner (General)	Geschäftspartner (allgemein)	2017.07.06 08:56:49											
+BBP005	BBP005	Service Performer	Leistungserbringer	2017.07.06 08:56:49											
+BBP010	BBP010	Freelancer	Freiberufler	2017.07.06 08:56:49											
+BUP001	BUP001	Contact Person	Ansprechpartner	2017.07.06 08:56:49											
+BUP003	BUP003	Employee	Mitarbeiter	2017.07.06 08:56:49											
+FLCU00	FLCU00	Customer (Financial Accounting)	Kunde (Finanzbuchhaltung)	2017.07.06 08:56:49											
+FLCU01	FLCU01	Customer	Kunde	2017.07.06 08:56:49											
+FLVN00	FLVN00	Supplier (Financial Accounting)	Lieferant (Finanzbuchhaltung)	2017.07.06 08:56:49											
+FLVN01	FLVN01	Supplier	Lieferant	2017.07.06 08:56:49											
+FS0000	FS0000	Financial Services Business Partner	Geschäftspartner Financial Services	2017.07.06 08:56:49											
+SLLSTL	SLLSTL	Clerk		2017.07.06 08:56:49											
+TR0703	TR0703	Bank	Bank	2017.07.06 08:56:49											
+UDM000	UDM000	Business Partner Collections Management	Geschäftspartner: Collections Management	2017.07.06 08:56:49											
+UKM000	UKM000	SAP Credit Management	SAP Credit Managment	2017.07.06 08:56:49											

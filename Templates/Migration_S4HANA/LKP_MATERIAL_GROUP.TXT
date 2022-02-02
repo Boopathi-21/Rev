@@ -1,0 +1,36 @@
+LEGACY_MATERIAL_GROUP	MATERIAL_GROUP	MATERIAL_GROUP_TXT_GBL	MATERIAL_GROUP_TXT_LCL	DI_TIMESTAMP											
+A001	A001	On Account Billed	Zu faktur. Akonto	2017.07.06 08:56:49											
+A002	A002	On Account Utilized	Zu verwend. Akonto	2017.07.06 08:56:49											
+B001	B001	One Time Credit	Einmalkredit	2017.07.06 08:56:49											
+B002	B002	Cloud Revenue	Cloud-Erlös	2017.07.06 08:56:49											
+E001	E001	Accommodation	Unterbringung	2017.07.06 08:56:49											
+E002	E002	Airfare	Flugkosten	2017.07.06 08:56:49											
+E003	E003	Ground Transp.	Fahrtkosten	2017.07.06 08:56:49											
+E004	E004	Travel Expenses misc	Sonstige Reisekosten	2017.07.06 08:56:49											
+L001	L001	Trading Materials	Handelswaren	2017.07.06 08:56:49											
+L002	L002	Raw Materials	Rohstoffe	2017.07.06 08:56:49											
+L003	L003	Semi-Finished Goods	Halbfabrikate	2017.07.06 08:56:49											
+L004	L004	Finished Goods	Fertigerzeugnisse	2017.07.06 08:56:49											
+L005	L005	Unvaluated Materials	Unbewertete Mat.	2017.07.06 08:56:49											
+L006	L006	Returnable Packaging	Leihgut	2017.07.06 08:56:49											
+L007	L007	Licenses	Lizenzen	2017.07.06 08:56:49											
+L008	L008	Hardware	Hardware	2017.07.06 08:56:49											
+P000	P000	Contract Type	Vertragsart	2017.07.06 08:56:49											
+P001	P001	Services	Dienstleistungen	2017.07.06 08:56:49											
+P002	P002	Expenses	Aufwendungen	2017.07.06 08:56:49											
+P003	P003	Periodic Service	Periodischer Service	2017.07.06 08:56:49											
+YBFA01	YBFA01	Real Estate (Land)	Immobilien (Grundst)	2017.07.06 08:56:49											
+YBFA02	YBFA02	Buildings	Gebäude	2017.07.06 08:56:49											
+YBFA03	YBFA03	Land Improvements	Bodenerschließungen	2017.07.06 08:56:49											
+YBFA04	YBFA04	Leasehold Improvemen	Pachterschließungen	2017.07.06 08:56:49											
+YBFA05	YBFA05	Machinery Equipment	Anlagen u. Maschinen	2017.07.06 08:56:49											
+YBFA06	YBFA06	Fixtures Fittings	Ausstattungen	2017.07.06 08:56:49											
+YBFA07	YBFA07	Vehicles	Fahrzeuge	2017.07.06 08:56:49											
+YBFA08	YBFA08	Computer Hardware	Computer-Hardware	2017.07.06 08:56:49											
+YBFA09	YBFA09	Computer Software	Computer-Software	2017.07.06 08:56:49											
+YBFA10	YBFA10	Low Value Assets	Geringw. WirtGüter	2017.07.06 08:56:49											
+YBFA11	YBFA11	Other Intangibles	Sons. immat. Vermög.	2017.07.06 08:56:49											
+YBMM00	YBMM00	Non-Sto Mat. w.o ID	NichtlagMat. ohne ID	2017.07.06 08:56:49											
+YBMM01	YBMM01	Non-Sto Mat. w. ID	NichtlagMat. mit ID	2017.07.06 08:56:49											
+YBPM01	YBPM01	Spare parts	Ersatzteile	2017.07.06 08:56:49											
+YBPM02	YBPM02	Spare parts services	Ersatzteileservices	2017.07.06 08:56:49											

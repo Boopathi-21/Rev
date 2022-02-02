@@ -1,0 +1,31 @@
+LEGACY_SALES_DOCUMENT_TYPE	SALES_DOCUMENT_TYPE	SALES_DOCUMENT_TYPE_TXT_GBL	SALES_DOCUMENT_TYPE_TXT_LCL	DI_TIMESTAMP											
+AF	AF	Inquiry	Anfrage	2017.07.06 08:56:49											
+AG	AG	Quotation	Angebot	2017.07.06 08:56:49											
+CBAR	CBAR	Accelerated Return	Beschleun. Retoure	2017.07.06 08:56:49											
+CBFD	CBFD	Deliv.Free of Charge	Kostenlose Lieferung	2017.07.06 08:56:49											
+CBG0	CBG0	Return Pack./Empties	Leihgut/Leergut	2017.07.06 08:56:49											
+CBII	CBII	Invoice Increase Req	RechnungserhöhAnfrd.	2017.07.06 08:56:49											
+CBMO	CBMO	MTO Standard Order	KDE-Terminauftrag	2017.07.06 08:56:49											
+CBMQ	CBMQ	MTO Quotation	KDE-Angebot	2017.07.06 08:56:49											
+CBRE	CBRE	Lean Return	Einfache Retoure	2017.07.06 08:56:49											
+CCFU	CCFU	Consignment Fill-Up	KonsignatBeschickung	2017.07.06 08:56:49											
+CCIS	CCIS	Consignment Issue	KonsignatEntnahme	2017.07.06 08:56:49											
+CCLN	CCLN	Ret. Packaging Issue	Leihgutnachbelastung	2017.07.06 08:56:49											
+CCPU	CCPU	Consignment Pick-Up	KonsignationAbholung	2017.07.06 08:56:49											
+CCRE	CCRE	Consignment Return	Konsignationsretoure	2017.07.06 08:56:49											
+CMR4	CMR4	Credit MemReq Manual	Man. Gutschriftsanf.	2017.07.06 08:56:49											
+DL	DL	Order Type Sched.Ag.	Auftragsart LiefPlan	2017.07.06 08:56:49											
+DL2	DL2	Return to Customer	Rücklief. an Kunde	2017.07.06 08:56:49											
+DMR1	DMR1	Debit MemReq Service	LSA-Service	2017.07.06 08:56:49											
+DMR4	DMR4	Debit MemoReq Manual	Man. Lastschriftanf.	2017.07.06 08:56:49											
+G2	G2	Credit Memo Request	Gutschriftsanford.	2017.07.06 08:56:49											
+GA2	GA2	Cred. Memo Rqt Ret.	Ret. GS-Anforderung	2017.07.06 08:56:49											
+KM	KM	Quantity Contract	Mengenkontrakt	2017.07.06 08:56:49											
+L2	L2	Debit Memo Request	Lastschriftsanford.	2017.07.06 08:56:49											
+OR	OR			2017.07.06 08:56:49											
+PV	PV	Item Proposal		2017.07.06 08:56:49											
+RK	RK	Invoice Correct. Req	RechnungskorrAnford.	2017.07.06 08:56:49											
+SD2	SD2	Replcmnt Deliv. Ord.	ErsatzliefAuftrag	2017.07.06 08:56:49											
+SO01	SO01	Sales Order	KundenauftragService	2017.07.06 08:56:49											
+TA	TA	Standard Order	Terminauftrag	2017.07.06 08:56:49											
+VC01	VC01	Value Contract	Wertkontrakt	2017.07.06 08:56:49											

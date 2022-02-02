@@ -1,0 +1,161 @@
+LEGACY_CURRENCY	CURRENCY	ISOCD	ALTWR	GDATU	XPRIMARY	CURRENCY_TXT_GBL	CURRENCY_TXT_LCL	DI_TIMESTAMP							
+AED	AED	AED	784	00000000	 	UAE Dirham	VAE-Dirham	2018.06.19 05:33:47							
+AFN	AFN	AFN	971	00000000	 	Afghani	Afghani	2018.06.19 05:33:47							
+ALL	ALL	ALL	008	00000000	 	Albanian Lek	Albanischer Lek	2018.06.19 05:33:47							
+AMD	AMD	AMD	051	00000000	 	Armenian Dram	Armenisch. Dram	2018.06.19 05:33:47							
+ANG	ANG	ANG	532	00000000	 	W. Ind. Guilder	Westind.-Gulden	2018.06.19 05:33:47							
+AOA	AOA	AOA	973	00000000	 	Angolan Kwanza	Angolan. Kwanza	2018.06.19 05:33:47							
+ARS	ARS	ARS	032	00000000	 	Argentine Peso	Argentin. Peso	2018.06.19 05:33:47							
+AUD	AUD	AUD	036	00000000	 	Austr. Dollar	Austr. Dollar	2018.06.19 05:33:47							
+AWG	AWG	AWG	533	00000000	 	Aruban Florin	Aruba-Florin	2018.06.19 05:33:47							
+AZN	AZN	AZN	944	00000000	 	Azerb. Manat	Aserbaid.-Manat	2018.06.19 05:33:47							
+BAM	BAM	BAM	977	00000000	 	B. + H. C. Mark	Kon. Mark (B+H)	2018.06.19 05:33:47							
+BBD	BBD	BBD	052	00000000	 	Barbados Dollar	Barbados-Dollar	2018.06.19 05:33:47							
+BDT	BDT	BDT	050	00000000	 	Bangladesh Taka	Taka	2018.06.19 05:33:47							
+BGN	BGN	BGN	975	00000000	 	Bulgarian Lev	Bulgarisch. Lew	2018.06.19 05:33:47							
+BHD	BHD	BHD	048	00000000	 	Bahrain Dinar	Bahrain-Dinar	2018.06.19 05:33:47							
+BIF	BIF	BIF	108	00000000	 	Burundi Franc	Burundi-Franc	2018.06.19 05:33:47							
+BMD	BMD	BMD	060	00000000	 	Bermudan Dollar	Bermuda-Dollar	2018.06.19 05:33:47							
+BND	BND	BND	096	00000000	 	Brunei Dollar	Brunei-Dollar	2018.06.19 05:33:47							
+BOB	BOB	BOB	068	00000000	 	Boliviano	Boliviano	2018.06.19 05:33:47							
+BRL	BRL	BRL	986	00000000	 	Brazilian Real	Brasilian. Real	2018.06.19 05:33:47							
+BSD	BSD	BSD	044	00000000	 	Bahaman Dollar	Bahama-Dollar	2018.06.19 05:33:47							
+BTN	BTN	BTN	064	00000000	 	Bhutan Ngultrum	Ngultrum	2018.06.19 05:33:47							
+BWP	BWP	BWP	072	00000000	 	Botswana Pula	Botswan. Pula	2018.06.19 05:33:47							
+BYN	BYN	BYN	933	00000000	 	Belarus. Ruble	Weißruss. Rubel	2018.06.19 05:33:47							
+BYR	BYR	BYR	974	00000000	 	Belorus. Ruble	Weißruss. Rubel	2018.06.19 05:33:47							
+BZD	BZD	BZD	084	00000000	 	Belize Dollar	Belize-Dollar	2018.06.19 05:33:47							
+CAD	CAD	CAD	124	00000000	 	Canadian Dollar	Kanad. Dollar	2018.06.19 05:33:47							
+CDF	CDF	CDF	976	00000000	 	Congolese Franc	Kongo-Franc	2018.06.19 05:33:47							
+CHF	CHF	CHF	756	00000000	 	Swiss Franc	Schw. Franken	2018.06.19 05:33:47							
+CLP	CLP	CLP	152	00000000	 	Chilean Peso	Chilen. Peso	2018.06.19 05:33:47							
+CNY	CNY	CNY	156	00000000	 	Chinese Yuan	Chines. Yuan	2018.06.19 05:33:47							
+COP	COP	COP	170	00000000	 	Colombian Peso	Kolumbian. Peso	2018.06.19 05:33:47							
+CRC	CRC	CRC	188	00000000	 	Cost.Rica Colon	Cos.-Rica-Colon	2018.06.19 05:33:47							
+CUC	CUC	CUC	931	00000000	 	Peso Convertib.	Peso convert.	2018.06.19 05:33:47							
+CUP	CUP	CUP	192	00000000	 	Cuban Peso	Kuban. Peso	2018.06.19 05:33:47							
+CVE	CVE	CVE	132	00000000	 	Cape V. Escudo	Kap-Ver.-Escudo	2018.06.19 05:33:47							
+CZK	CZK	CZK	203	00000000	 	Czech Krona	Tschech. Krone	2018.06.19 05:33:47							
+DJF	DJF	DJF	262	00000000	 	Djibouti Franc	Dschibuti-Franc	2018.06.19 05:33:47							
+DKK	DKK	DKK	208	00000000	 	Danish Krone	Dänische Krone	2018.06.19 05:33:47							
+DOP	DOP	DOP	214	00000000	 	Dominican Peso	Dominikan. Peso	2018.06.19 05:33:47							
+DZD	DZD	DZD	012	00000000	 	Algerian Dinar	Alger. Dinar	2018.06.19 05:33:47							
+EGP	EGP	EGP	818	00000000	 	Egyptian Pound	Ägypt. Pfund	2018.06.19 05:33:47							
+ERN	ERN	ERN	232	00000000	 	Eritrean Nafka	Eritr. Nakfa	2018.06.19 05:33:47							
+ETB	ETB	ETB	230	00000000	 	Ethiopian Birr	Äthiop. Birr	2018.06.19 05:33:47							
+EUR	EUR	EUR	978	00000000	 	Euro	Euro	2018.06.19 05:33:47							
+FJD	FJD	FJD	242	00000000	 	Fiji Dollar	Fidschi-Dollar	2018.06.19 05:33:47							
+FKP	FKP	FKP	238	00000000	 	Falkland Pound	Falkland-Pfund	2018.06.19 05:33:47							
+GBP	GBP	GBP	826	00000000	 	Pound	Brit. Pfund	2018.06.19 05:33:47							
+GEL	GEL	GEL	981	00000000	 	Georgian Lari	Georg. Lari	2018.06.19 05:33:47							
+GHS	GHS	GHS	936	00000000	 	Ghanian Cedi	Ghanaisch. Cedi	2018.06.19 05:33:47							
+GIP	GIP	GIP	292	00000000	 	Gibraltar Pound	Gibraltar-Pfund	2018.06.19 05:33:47							
+GMD	GMD	GMD	270	00000000	 	Gambian Dalasi	Gamb. Dalasi	2018.06.19 05:33:47							
+GNF	GNF	GNF	324	00000000	 	Guinean Franc	Guinea-Franc	2018.06.19 05:33:47							
+GTQ	GTQ	GTQ	320	00000000	 	Guatem. Quetzal	Guatem. Quetzal	2018.06.19 05:33:47							
+GYD	GYD	GYD	328	00000000	 	Guyana Dollar	Guyana-Dollar	2018.06.19 05:33:47							
+HKD	HKD	HKD	344	00000000	 	H.K.Dollar	Hongkong-Dollar	2018.06.19 05:33:47							
+HNL	HNL	HNL	340	00000000	 	Hond. Lempira	Hondur. Lempira	2018.06.19 05:33:47							
+HRK	HRK	HRK	191	00000000	 	Croatian Kuna	Kroatische Kuna	2018.06.19 05:33:47							
+HTG	HTG	HTG	332	00000000	 	Haitian Gourde	Haitian. Gourde	2018.06.19 05:33:47							
+HUF	HUF	HUF	348	00000000	 	Hung. Forint	Ungar. Forint	2018.06.19 05:33:47							
+IDR	IDR	IDR	360	00000000	 	ID Rupiah	Indon. Rupiah	2018.06.19 05:33:47							
+ILS	ILS	ILS	376	00000000	 	Israel Scheckel	Isr. Scheckel	2018.06.19 05:33:47							
+INR	INR	INR	356	00000000	 	Indian Rupee	Indische Rupie	2018.06.19 05:33:47							
+IQD	IQD	IQD	368	00000000	 	Iraqui Dinar	Irakisch. Dinar	2018.06.19 05:33:47							
+IRR	IRR	IRR	364	00000000	 	Iranian Rial	Iranischer Rial	2018.06.19 05:33:47							
+ISK	ISK	ISK	352	00000000	 	Iceland Krona	Isländ. Krone	2018.06.19 05:33:47							
+JMD	JMD	JMD	388	00000000	 	Jamaican Dollar	Jamaika-Dollar	2018.06.19 05:33:47							
+JOD	JOD	JOD	400	00000000	 	Jordanian Dinar	Jordan. Dinar	2018.06.19 05:33:47							
+JPY	JPY	JPY	392	00000000	 	Japanese Yen	Japanischer Yen	2018.06.19 05:33:47							
+KES	KES	KES	404	00000000	 	Keny. Shilling	Kenia-Schilling	2018.06.19 05:33:47							
+KGS	KGS	KGS	417	00000000	 	Kyrgyzstan Som	Kirgisisch. Som	2018.06.19 05:33:47							
+KHR	KHR	KHR	116	00000000	 	Cambodian Riel	Kambodsch. Riel	2018.06.19 05:33:47							
+KMF	KMF	KMF	174	00000000	 	Comoros Franc	Komoren-Franc	2018.06.19 05:33:47							
+KPW	KPW	KPW	408	00000000	 	N. Korean Won	Nordkorean. Won	2018.06.19 05:33:47							
+KRW	KRW	KRW	410	00000000	 	S. Korean Won	Südkorean. Won	2018.06.19 05:33:47							
+KWD	KWD	KWD	414	00000000	 	Kuwaiti Dinar	Kuwait-Dinar	2018.06.19 05:33:47							
+KYD	KYD	KYD	136	00000000	 	Cayman Dollar	Kaiman-Dollar	2018.06.19 05:33:47							
+KZT	KZT	KZT	398	00000000	 	Kazakst. Tenge	Kasach. Tenge	2018.06.19 05:33:47							
+LAK	LAK	LAK	418	00000000	 	Laotian Kip	Laotischer Kip	2018.06.19 05:33:47							
+LBP	LBP	LBP	422	00000000	 	Lebanese Pound	Libanes. Pfund	2018.06.19 05:33:47							
+LKR	LKR	LKR	144	00000000	 	Sri Lanka Rupee	Sri-Lanka-Rupie	2018.06.19 05:33:47							
+LRD	LRD	LRD	430	00000000	 	Liberian Dollar	Liberia. Dollar	2018.06.19 05:33:47							
+LSL	LSL	LSL	426	00000000	 	Lesotho Loti	Lesoth. Loti	2018.06.19 05:33:47							
+LYD	LYD	LYD	434	00000000	 	Libyan Dinar	Libyscher Dinar	2018.06.19 05:33:47							
+MAD	MAD	MAD	504	00000000	 	Moroccan Dirham	Marokk. Dirham	2018.06.19 05:33:47							
+MDL	MDL	MDL	498	00000000	 	Moldavian Leu	Moldauisch. Leu	2018.06.19 05:33:47							
+MGA	MGA	MGA	969	00000000	 	Madagasc.Ariary	Madagass.Ariary	2018.06.19 05:33:47							
+MKD	MKD	MKD	807	00000000	 	Maced. Denar	Mazedon. Denar	2018.06.19 05:33:47							
+MMK	MMK	MMK	104	00000000	 	Myanmar Kyat	Myanmar-Kyat	2018.06.19 05:33:47							
+MNT	MNT	MNT	496	00000000	 	Mong. Tugrik	Mongol. Tögrög	2018.06.19 05:33:47							
+MOP	MOP	MOP	446	00000000	 	Macao Pataca	Macao-Pataca	2018.06.19 05:33:47							
+MRO	MRO	MRO	478	00000000	 	Maurit. Ouguiya	Ouguiya	2018.06.19 05:33:47							
+MRU	MRU	MRU	929	00000000	 	Maurit. Ouguiya	Ouguiya	2018.06.19 05:33:47							
+MUR	MUR	MUR	480	00000000	 	Mauritian Rupee	Mauritius-Rupie	2018.06.19 05:33:47							
+MVR	MVR	MVR	462	00000000	 	Maldive Rufiyaa	Malediven-Rupie	2018.06.19 05:33:47							
+MWK	MWK	MWK	454	00000000	 	Malawi Kwacha	Malawi-Kwacha	2018.06.19 05:33:47							
+MXN	MXN	MXN	484	00000000	 	Mexican Pesos	Mexikan. Peso	2018.06.19 05:33:47							
+MYR	MYR	MYR	458	00000000	 	Mal. Ringgit	Malai. Ringgit	2018.06.19 05:33:47							
+MZN	MZN	MZN	943	00000000	 	Mozamb. Metical	Metical	2018.06.19 05:33:47							
+NAD	NAD	NAD	516	00000000	 	Namibian Dollar	Namibia-Dollar	2018.06.19 05:33:47							
+NGN	NGN	NGN	566	00000000	 	Nigerian Naira	Naira	2018.06.19 05:33:47							
+NIO	NIO	NIO	558	00000000	 	Nicar. Cor. Oro	Nicar. Cordoba	2018.06.19 05:33:47							
+NOK	NOK	NOK	578	00000000	 	Norwegian Krone	Norweg. Krone	2018.06.19 05:33:47							
+NPR	NPR	NPR	524	00000000	 	Nepalese Rupee	Nepales. Rupie	2018.06.19 05:33:47							
+NZD	NZD	NZD	554	00000000	 	N. Zeal. Dollar	Neuseel.-Dollar	2018.06.19 05:33:47							
+OMR	OMR	OMR	512	00000000	 	Omani Rial	Omanischer Rial	2018.06.19 05:33:47							
+PAB	PAB	PAB	590	00000000	 	Panam. Balboa	Panam. Balboa	2018.06.19 05:33:47							
+PEN	PEN	PEN	604	00000000	 	Peruvian Sol	Peruan. Sol	2018.06.19 05:33:47							
+PGK	PGK	PGK	598	00000000	 	Papua NG Kina	Papua-Neu.-Kina	2018.06.19 05:33:47							
+PHP	PHP	PHP	608	00000000	 	Philippine Peso	Philippin. Peso	2018.06.19 05:33:47							
+PKR	PKR	PKR	586	00000000	 	Pakistani Rupee	Pakistan. Rupie	2018.06.19 05:33:47							
+PLN	PLN	PLN	985	00000000	 	Polish Zloty	Poln. Zloty	2018.06.19 05:33:47							
+PYG	PYG	PYG	600	00000000	 	Parag. Guarani	Parag. Guaraní	2018.06.19 05:33:47							
+QAR	QAR	QAR	634	00000000	 	Qatar Rial	Katar-Riyal	2018.06.19 05:33:47							
+RON	RON	RON	946	00000000	 	Romanian Leu	Rumänischer Leu	2018.06.19 05:33:47							
+RSD	RSD	RSD	941	00000000	 	Serbian Dinar	Serb. Dinar	2018.06.19 05:33:47							
+RUB	RUB	RUB	643	00000000	 	Russian Ruble	Russisch. Rubel	2018.06.19 05:33:47							
+RWF	RWF	RWF	646	00000000	 	Rwandan Franc	Ruanda-Franc	2018.06.19 05:33:47							
+SAR	SAR	SAR	682	00000000	 	Saudi Riyal	Saudi-Rial	2018.06.19 05:33:47							
+SBD	SBD	SBD	090	00000000	 	Sol.Isl. Dollar	Solomon.-Dollar	2018.06.19 05:33:47							
+SCR	SCR	SCR	690	00000000	 	Seychel. Rupee	Seychell.-Rupie	2018.06.19 05:33:47							
+SDG	SDG	SDG	938	00000000	 	Sudanese Pound	Sudanes. Pfund	2018.06.19 05:33:47							
+SEK	SEK	SEK	752	00000000	 	Swedish Krona	Schwed. Krone	2018.06.19 05:33:47							
+SGD	SGD	SGD	702	00000000	 	Sing. Dollar	Singapur-Dollar	2018.06.19 05:33:47							
+SHP	SHP	SHP	654	00000000	 	St.Helena Pound	St.Helena-Pfund	2018.06.19 05:33:47							
+SLL	SLL	SLL	694	00000000	 	Sierra L. Leone	Sierra-l. Leone	2018.06.19 05:33:47							
+SOS	SOS	SOS	706	00000000	 	Soma. Shilling	Soma.-Schilling	2018.06.19 05:33:47							
+SRD	SRD	SRD	968	00000000	 	Surinam Dollar	Suriname-Dollar	2018.06.19 05:33:47							
+SSP	SSP	SSP	728	00000000	 	S. Sudan Pound	Südsudan. Pfund	2018.06.19 05:33:47							
+STN	STN	STN	930	00000000	 	Sao Tome Dobra	Sao-tom. Dobra	2018.06.19 05:33:47							
+SVC	SVC	SVC	222	00000000	 	El Salv. Colon	El-Salv.-Colon	2018.06.19 05:33:47							
+SYP	SYP	SYP	760	00000000	 	Syrian Pound	Syrisches Pfund	2018.06.19 05:33:47							
+SZL	SZL	SZL	748	00000000	 	Swaz. Lilangeni	Swas.-Lilangeni	2018.06.19 05:33:47							
+THB	THB	THB	764	00000000	 	Thailand Baht	Thailänd. Baht	2018.06.19 05:33:47							
+TJS	TJS	TJS	972	00000000	 	Tajik. Somoni	Tadsch. Somoni	2018.06.19 05:33:47							
+TMT	TMT	TMT	934	00000000	 	Turkmen. Manat	Turkmen.-Manat	2018.06.19 05:33:47							
+TND	TND	TND	788	00000000	 	Tunisian Dinar	Tunes. Dinar	2018.06.19 05:33:47							
+TOP	TOP	TOP	776	00000000	 	Tongan Pa'anga	Tong. Paanga	2018.06.19 05:33:47							
+TRY	TRY	TRY	949	00000000	 	Turkish Lira	Türkische Lira	2018.06.19 05:33:47							
+TTD	TTD	TTD	780	00000000	 	T. + T. Dollar	TT-Dollar	2018.06.19 05:33:47							
+TWD	TWD	TWD	901	00000000	 	Taiwan Dollar	Taiwan-Dollar	2018.06.19 05:33:47							
+TZS	TZS	TZS	834	00000000	 	Tanz. Shilling	Tans.-Schilling	2018.06.19 05:33:47							
+UAH	UAH	UAH	980	00000000	 	Ukraine Hryvnia	Ukrain. Hrywnja	2018.06.19 05:33:47							
+UGX	UGX	UGX	800	00000000	 	Ugan. Shilling	Ugan.-Schilling	2018.06.19 05:33:47							
+USD	USD	USD	840	00000000	 	US Dollar	US-Dollar	2018.06.19 05:33:47							
+UYU	UYU	UYU	858	00000000	 	Uruguayan Peso	Uruguay. Peso	2018.06.19 05:33:47							
+UZS	UZS	UZS	860	00000000	 	Uzbekistan Som	Usbekischer Som	2018.06.19 05:33:47							
+VEF	VEF	VEF	937	00000000	 	Venez. Bolivar	Venez. Bolivar	2018.06.19 05:33:47							
+VES	VES	VES	928	00000000	 	Bolivar	Bolivar Sober.	2018.06.19 05:33:47							
+VND	VND	VND	704	00000000	 	Vietnamese Dong	Vietnames. Dong	2018.06.19 05:33:47							
+VUV	VUV	VUV	548	00000000	 	Vanuatu Vatu	Vanuatu-Vatu	2018.06.19 05:33:47							
+WST	WST	WST	882	00000000	 	Samoan Tala	Samoan. Tala	2018.06.19 05:33:47							
+XAF	XAF	XAF	950	00000000	 	CFA Franc BEAC	CFA-Franc BEAC	2018.06.19 05:33:47							
+XCD	XCD	XCD	951	00000000	 	E. Carrib. Doll	Ostkar. Dollar	2018.06.19 05:33:47							
+XOF	XOF	XOF	952	00000000	 	CFA Franc BCEAO	CFA-Franc BCEAO	2018.06.19 05:33:47							
+XPF	XPF	XPF	953	00000000	 	CFP Franc	CFP-Franc	2018.06.19 05:33:47							
+YER	YER	YER	886	00000000	 	Yemeni Ryal	Jemen-Rial	2018.06.19 05:33:47							
+ZAR	ZAR	ZAR	710	00000000	 	S. Africa Rand	Südafrik. Rand	2018.06.19 05:33:47							
+ZMW	ZMW	ZMW	967	00000000	 	Zambian Kwacha	Samb. Kwacha	2018.06.19 05:33:47							
+ZWL	ZWL	ZWL	932	00000000	 	Zimbabwe Dollar	Simbabwe-Dollar	2018.06.19 05:33:47							

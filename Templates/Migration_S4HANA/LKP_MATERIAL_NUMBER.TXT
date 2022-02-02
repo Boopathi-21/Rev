@@ -1,0 +1,220 @@
+LEGACY_MATERIAL_NUMBER	MATERIAL_NUMBER	MATERIAL_TYPE	OLD_MATERIAL_NUMBER	MATERIAL_NUMBER_TXT_GBL	MATERIAL_NUMBER_TXT_LCL	DI_TIMESTAMP									
+CM-FL-V00	CM-FL-V00	KMAT	 	Forklift	Forklift	2017.07.06 08:56:49									
+CM-FL-V01	CM-FL-V01	KMAT	 	Forklift	Forklift	2017.07.06 08:56:49									
+EWMS4-01	EWMS4-01	HAWA	 	Small Part, Slow-Moving Item	Kleinteil, Langsamdreher	2017.07.06 08:56:49									
+EWMS4-02	EWMS4-02	HAWA	 	Small Part, Fast-Moving Item	Kleinteil, Schnelldreher	2017.07.06 08:56:49									
+EWMS4-03	EWMS4-03	HAWA	 	Large Part, Slow-Moving Item	Großteil, Langsamdreher	2017.07.06 08:56:49									
+EWMS4-10	EWMS4-10	HAWA	 	Large Part, Slow-Moving Item	Großteil, Langsamdreher	2017.07.06 08:56:49									
+EWMS4-11	EWMS4-11	HAWA	 	Large Part, Fast-Moving Item	Großteil, Schnelldreher	2017.07.06 08:56:49									
+EWMS4-20	EWMS4-20	HAWA	 	Large Part, Fast-Moving Item, Batches	Großteil, Schnelldreher, Chargen	2017.07.06 08:56:49									
+EWMS4-40	EWMS4-40	HAWA	 	Product for Bulk Storage A, Short Lane		2017.07.06 08:56:49									
+EWMS4-41	EWMS4-41	HAWA	 	Product for Bulk Storage A, Long Lane		2017.07.06 08:56:49									
+EWMS4-42	EWMS4-42	HAWA	 	Product for Bulk Storage B		2017.07.06 08:56:49									
+EWMS4-50	EWMS4-50	FERT	 	FIN50,Fast Moving	FIN50,Schnelldreher	2017.07.06 08:56:49									
+EWMS4-502	EWMS4-502	ROH	 	RAW502,Fast Moving	RAW502,Schnelldreher	2017.07.06 08:56:49									
+EWMS4-503	EWMS4-503	ROH	 	RAW503,Fast Moving	RAW503,Schnelldreher	2017.07.06 08:56:49									
+EWMS4-601	EWMS4-601	ROH	 	RAW601,Fast Moving	RAW601,Schnelldreher	2017.07.06 08:56:49									
+EWMS4-CAR00	EWMS4-CAR00	VERP	 	EWM Default Carton with SSCC generation	EWM: Standardkarton mit SSCC-Generierung	2017.07.06 08:56:49									
+EWMS4-PAL00	EWMS4-PAL00	VERP	 	EWM Default Pallet with SSCC generation	EWM: Standardpalette mit SSCC-Generier.	2017.07.06 08:56:49									
+EWMS4-PAL01	EWMS4-PAL01	VERP	 	EWM US Pallet with SSCC generation	EWM: US-Palette mit SSCC-Generierung	2017.07.06 08:56:49									
+EWMS4-PALISU	EWMS4-PALISU	VERP	 	EWM Pallet Init. Stock Upload (no SSCC#)	EWM: Palette init. Best.-Upl.(kein SSCC)	2017.07.06 08:56:49									
+EWMS4-STOCON00	EWMS4-STOCON00	VERP	 	EWM Default Storage Container / Box	EWM: Standardlagerbehälter/-kiste	2017.07.06 08:56:49									
+EWMS4-TRUCK00	EWMS4-TRUCK00	VERP	 	EWM Default Truck	EWM Lastkraftwagen	2017.07.06 08:56:49									
+EWMS4-WBTRO00	EWMS4-WBTRO00	VERP	 	EWM Default Wire Basket Trolley	EWM: Standardgitterboxwagen	2017.07.06 08:56:49									
+F-10A	F-10A	FERT	 	FIN10A,MTS-DDMRP,PD	FIN10A,MTS-DDMRP,PD	2017.07.06 08:56:49									
+F-10B	F-10B	FERT	 	FIN10B,MTS-DDMRP,PD	FIN10B,MTS-DDMRP,PD	2017.07.06 08:56:49									
+FG-FL-MV-V00	FG-FL-MV-V00	FERT	 	Forklift - Material variant	Forklift - Material variant	2017.07.06 08:56:49									
+FG126	FG126	FERT	 	FIN126,MTS-DI,PD,SerialNo	FIN126, MTS-DI, PD, Serialnummer	2017.07.06 08:56:49									
+FG126_PR1	FG126_PR1	ROH	 	PR Material Desc1		2017.07.06 08:56:49									
+FG126_PR2	FG126_PR2	ROH	 	PR Material Desc2		2017.07.06 08:56:49									
+FG126_PR3	FG126_PR3	ROH	 	PR Material Desc3		2017.07.06 08:56:49									
+FG126_PR4	FG126_PR4	ROH	 	PR Material Desc4		2017.07.06 08:56:49									
+FG126_PR5	FG126_PR5	ROH	 	PR Material Desc5		2017.07.06 08:56:49									
+FG126_PR6	FG126_PR6	ROH	 	PR Material Desc6		2017.07.06 08:56:49									
+FG129	FG129	FERT	 	FIN129,MTS-DI,PD,QM	FIN129,MTS-DI,PD,QM	2017.07.06 08:56:49									
+FG226	FG226	FERT	 	FIN226,MTO,PD,Batch-Fifo	FIN226, MTO, PD, FIFO Charge	2017.07.06 08:56:49									
+FG233	FG233	FERT	 	FERT 233, PD, Repetitive Manuf.	FERT 233, PD, Serienfertigung	2017.07.06 08:56:49									
+FG29	FG29	FERT	 	FIN29,MTS-PI,PD,Batch-ExpirationDate	FIN29, MTS-PI, PD, Charge-Verfalldatum	2017.07.06 08:56:49									
+MAT_33	MAT_33	HALB	 	test		2017.07.06 08:56:49									
+MAT_EXTEND1	MAT_EXTEND1	HALB	 	Test	MAT_EXTEND1 DE	2017.07.06 08:56:49									
+MAT_EXTEND2	MAT_EXTEND2	HALB	 	Test material extend	MAT_EXTEND2 DE	2017.07.06 08:56:49									
+MAT_EXTEND3	MAT_EXTEND3	HALB	 	Test material extend	MAT_EXTEND3 DE	2017.07.06 08:56:49									
+MEL_BWTAR	MEL_BWTAR	ROH	 	test		2017.07.06 08:56:49									
+MEL_EXTEND1	MEL_EXTEND1	HALB	 	test	MEL_EXTEND1 DE	2017.07.06 08:56:49									
+MEL_EXTEND2	MEL_EXTEND2	HALB	 	test	MEL_EXTEND2 DE	2017.07.06 08:56:49									
+MEL_EXTEND3	MEL_EXTEND3	HALB	 	test	MEL_EXTEND3 DE	2017.07.06 08:56:49									
+MEL_MVKE	MEL_MVKE	HALB	 	test		2017.07.06 08:56:49									
+MEL_MVKE1	MEL_MVKE1	HALB	 	test		2017.07.06 08:56:49									
+MEL_PRT	MEL_PRT	ZPRT	 	test		2017.07.06 08:56:49									
+MEL_TEST_COM1	MEL_TEST_COM1	ROH	 	test		2017.07.06 08:56:49									
+MEL_TEST_COM2	MEL_TEST_COM2	ROH	 	test		2017.07.06 08:56:49									
+MEL_TEST_COM3	MEL_TEST_COM3	ROH	 	Test Migration Commodity Code assignment		2017.07.06 08:56:49									
+MEL_WM	MEL_WM	ROH	 	test		2017.07.06 08:56:49									
+MIG1_BATCH_V1_02K	MIG1_BATCH_V1_02K	ROH	 	RAW Material	deutsche Beschreibung 1	2017.07.06 08:56:49									
+MIG1_EAN_V1_02K	MIG1_EAN_V1_02K	ROH	 	RAW Material		2017.07.06 08:56:49									
+MIG1_FERT_V1_02K	MIG1_FERT_V1_02K	FERT	 	FINISH Material	deutsche Beschreibung 2	2017.07.06 08:56:49									
+MIG1_FRCST_V1_02K	MIG1_FRCST_V1_02K	ROH	 	RAW Material	deutsche Beschreibung 1	2017.07.06 08:56:49									
+MIG1_PRT_02K	MIG1_PRT_02K	ZPRT	 	Material ZPRT		2017.07.06 08:56:49									
+MIG1_ROH_V1_02K	MIG1_ROH_V1_02K	ROH	 	RAW Material	deutsche Beschreibung 1	2017.07.06 08:56:49									
+MIG1_SERIAL_V1_02K	MIG1_SERIAL_V1_02K	HAWA	 	HAWA Material	deutsche Beschreibung	2017.07.06 08:56:49									
+MIG1_SERIAL_V2_02K	MIG1_SERIAL_V2_02K	HAWA	 	HAWA Material	deutsche Beschreibung	2017.07.06 08:56:49									
+MIG1_SPLIT_02K	MIG1_SPLIT_02K	ROH	 	Material for split valuation		2017.07.06 08:56:49									
+MIG1_WM_V1_02K	MIG1_WM_V1_02K	ROH	 	Material with WM data		2017.07.06 08:56:49									
+MIG2_BATCH_V1	MIG2_BATCH_V1	ROH	 	RAW Material	deutsche Beschreibung 1	2017.07.06 08:56:49									
+MIG2_EAN_V1	MIG2_EAN_V1	ROH	 	RAW Material		2017.07.06 08:56:49									
+MIG2_FERT_V1	MIG2_FERT_V1	FERT	 	FINISH Material	deutsche Beschreibung 2	2017.07.06 08:56:49									
+MIG2_FORECAST_V1	MIG2_FORECAST_V1	ROH	 	RAW Material	deutsche Beschreibung 1	2017.07.06 08:56:49									
+MIG2_PRT	MIG2_PRT	ZPRT	 	Material ZPRT		2017.07.06 08:56:49									
+MIG2_ROH_V1	MIG2_ROH_V1	ROH	 	RAW Material	deutsche Beschreibung 1	2017.07.06 08:56:49									
+MIG2_SERIAL_V1	MIG2_SERIAL_V1	HAWA	 	HAWA Material	deutsche Beschreibung	2017.07.06 08:56:49									
+MIG2_SERIAL_V2	MIG2_SERIAL_V2	HAWA	 	HAWA Material	deutsche Beschreibung	2017.07.06 08:56:49									
+MIG2_SPLIT	MIG2_SPLIT	ROH	 	Material for split valuation		2017.07.06 08:56:49									
+MIG2_WM_V1	MIG2_WM_V1	ROH	 	Material with WM data		2017.07.06 08:56:49									
+MIG_FG226	MIG_FG226	FERT	 	MIG-FIN226,MTO,PD,Batch-Fifo	MIG-FIN226, MTO, PD, FIFO Charge	2017.07.06 08:56:49									
+MIG_FG29	MIG_FG29	FERT	 	MIG-FIN29,MTS-PI,PD,Batch-ExpirationDate	MIG-FIN29, MTS-PI, PD, Charge-Verfalldat	2017.07.06 08:56:49									
+MIG_PRICE_1	MIG_PRICE_1	ROH	 	Test Migration Material Price Change		2017.07.06 08:56:49									
+MIG_PRICE_2	MIG_PRICE_2	ROH	 	Test Migration Material Price Change		2017.07.06 08:56:49									
+MIG_PRICE_3	MIG_PRICE_3	ROH	 	Test Migration Material Price Change		2017.07.06 08:56:49									
+MIG_PRT	MIG_PRT	ZPRT	 	test prt mat extend		2017.07.06 08:56:49									
+MIG_RM09	MIG_RM09	ROH	 	MIG-RAW09,PD,Batch-Fifo	MIG-RAW09, PD, FIFO Charge	2017.07.06 08:56:49									
+MIG_RM122	MIG_RM122	ROH	 	MIG-RAW122,PD,Batch-Fifo,ProcureImport	MIG-RAW122, PD, FIFO Charge, Import	2017.07.06 08:56:49									
+MIG_TEST_COM1	MIG_TEST_COM1	ROH	 	Test Migration Commodity Code assignment		2017.07.06 08:56:49									
+MIG_TEST_COM2	MIG_TEST_COM2	ROH	 	Test Migration Commodity Code assignment		2017.07.06 08:56:49									
+MIG_TEST_COM3	MIG_TEST_COM3	ROH	 	Test Migration Commodity Code assignment		2017.07.06 08:56:49									
+MM_PRT_01	MM_PRT_01	ZPRT	 	Voltmeter 1000V		2017.07.06 08:56:49									
+MTA1_INV1_RM128	MTA1_INV1_RM128	ROH	 	RAW128,PD,Consignment	RAW128, PD, Konsignation	2017.07.06 08:56:49									
+MTA1_INV1_TG14	MTA1_INV1_TG14	HAWA	 	MIG1 Material for Stock E	Handelsware 14, PD, Zukauf, H14	2017.07.06 08:56:49									
+MTA2_INV1_RM128	MTA2_INV1_RM128	ROH	 	RAW128,PD,Consignment	RAW128, PD, Konsignation	2017.07.06 08:56:49									
+MTA2_INV1_TG14	MTA2_INV1_TG14	HAWA	 	Mig Material for Stock E	Handelsware 14, PD, Zukauf, H14	2017.07.06 08:56:49									
+MTA_CHAR1	MTA_CHAR1	ROH	 	Testmaterial for batch classification		2017.07.06 08:56:49									
+MTA_CHAR2	MTA_CHAR2	ROH	 	Testmaterial for batch classification		2017.07.06 08:56:49									
+MTA_FG129	MTA_FG129	ROH	 	Material for test insp type		2017.07.06 08:56:49									
+MTA_INV1_RM128	MTA_INV1_RM128	ROH	 	RAW128,PD,Consignment	RAW128, PD, Konsignation	2017.07.06 08:56:49									
+MTA_INV1_TG14	MTA_INV1_TG14	HAWA	 	Mig Material for Stock E	Handelsware 14, PD, Zukauf, H14	2017.07.06 08:56:49									
+NL001	NL001	NLAG	 	Screw	Schraube	2017.07.06 08:56:49									
+NS0001	NS0001	NLAG	 	Non-Stock Goods for Consumption	Nichtlagerwaren für Verbrauch	2017.07.06 08:56:49									
+NS0002	NS0002	NLAG	 	Non-Stock Material 02		2017.07.06 08:56:49									
+P005	P005	HAWA	 	test		2017.07.06 08:56:49									
+PR001	PR001	HAWA	 	test		2017.07.06 08:56:49									
+PR002	PR002	HAWA	 	test		2017.07.06 08:56:49									
+PR003	PR003	HAWA	 	test		2017.07.06 08:56:49									
+PR004	PR004	HAWA	 	test		2017.07.06 08:56:49									
+PR006	PR006	HAWA	 	test		2017.07.06 08:56:49									
+QM001	QM001	HAWA	 	QM Regular	QM001, PD, QM	2017.07.06 08:56:49									
+QM002	QM002	HAWA	 	QM Q-Info-Record	QM002, PD, QM Qualitäts-Infosatz	2017.07.06 08:56:49									
+QM003	QM003	HAWA	 	QM Dynamic Modification	QM003, PD, QM Dynamisierung	2017.07.06 08:56:49									
+QM004	QM004	HAWA	 	QM Sampling Scheme	QM004,PD,QM	2017.07.06 08:56:49									
+R-302	R-302	ROH	 	RAW302,PD	RAW302,PD	2017.07.06 08:56:49									
+R-401	R-401	ROH	 	RAW401,D1	RAW401,D1	2017.07.06 08:56:49									
+RM09	RM09	ROH	 	RAW09,PD,Batch-Fifo	RAW09, PD, FIFO Charge	2017.07.06 08:56:49									
+RM12	RM12	ROH	 	RAW12,PD,RepetitiveManuf.	RAW12, PD, Serienfertigung	2017.07.06 08:56:49									
+RM120	RM120	ROH	 	RAW120,PD,QualityManaged	RAW120, PD, qualitätsgeprüft	2017.07.06 08:56:49									
+RM122	RM122	ROH	 	RAW122,PD,Batch-Fifo,ProcureImport	RAW122, PD, FIFO Charge, Import	2017.07.06 08:56:49									
+RM124	RM124	ROH	 	RAW124,VB,Consumption,FixedBin	RAW124, VB, Verbrauch, Fixlagerplatz	2017.07.06 08:56:49									
+RM128	RM128	ROH	 	RAW128,PD,Consignment	RAW128, PD, Konsignation	2017.07.06 08:56:49									
+RM129	RM129	ROH	 	RAW129,PD	RAW129, PD	2017.07.06 08:56:49									
+RM13	RM13	ROH	 	RAW13,PD,Subcontracting	RAW13, PD, Lohnbearbeitung	2017.07.06 08:56:49									
+RM14	RM14	ROH	 	RAW14,PD,Subcontracting	RAW14, PD, Lohnbearbeitung	2017.07.06 08:56:49									
+RM15	RM15	ROH	 	RAW15,PD	RAW15, PD	2017.07.06 08:56:49									
+RM16	RM16	ROH	 	RAW16,PD	RAW16, PD	2017.07.06 08:56:49									
+RM17	RM17	ROH	 	RAW17,PD	RAW17, PD	2017.07.06 08:56:49									
+RM18	RM18	ROH	 	RAW18,PD	RAW18, PD	2017.07.06 08:56:49									
+RM19	RM19	ROH	 	RAW19,PD,Batch-Fifo,LeanQM	RAW19, PD, FIFO Charge, Lean QM	2017.07.06 08:56:49									
+RM20	RM20	ROH	 	RAW20,PD	RAW20, PD	2017.07.06 08:56:49									
+RM233-1	RM233-1	ROH	 	RAW233-1, PD, KANBAN Stock Transfer	RAW233-1, PD, KANBAN, Umlagerung	2017.07.06 08:56:49									
+RM233-2	RM233-2	ROH	 	RAW233-2,ND,KANBAN,sched. agreements	RAW233-2, ND, KANBAN, Lieferpläne	2017.07.06 08:56:49									
+RM233-4	RM233-4	ROH	 	RAW233-4,ND,KANBAN,sched. agreements	RAW233-4, ND, KANBAN, Lieferpläne	2017.07.06 08:56:49									
+RM234	RM234	ROH	 	RAW234,VB,Repetitive Manuf.	RAW234, VB, Serienfertigung	2017.07.06 08:56:49									
+RM27	RM27	ROH	 	RAW27,PD,PackagingBox	RAW27, PD, Verpackungsbox	2017.07.06 08:56:49									
+RM28	RM28	ROH	 	RAW28,PD,PackagingFoil	RAW28, PD, Verpackungsfolie	2017.07.06 08:56:49									
+RM30	RM30	ROH	 	RAW30,VB,Batch-Fifo	RAW30, VB, FIFO Charge	2017.07.06 08:56:49									
+RMPI001	RMPI001	ROH	 	Dummy Text		2017.07.06 08:56:49									
+RMPI002	RMPI002	ROH	 	Dummy Text		2017.07.06 08:56:49									
+RMPI003	RMPI003	ROH	 	Dummy Text		2017.07.06 08:56:49									
+RMPI004	RMPI004	ROH	 	Dummy Text		2017.07.06 08:56:49									
+RMPI005	RMPI005	ROH	 	Dummy Text		2017.07.06 08:56:49									
+RMPI006	RMPI006	ROH	 	Dummy Text		2017.07.06 08:56:49									
+RMPI007	RMPI007	ROH	 	Dummy Text		2017.07.06 08:56:49									
+RMPI008	RMPI008	ROH	 	Dummy Text		2017.07.06 08:56:49									
+RMPI009	RMPI009	ROH	 	Dummy Text		2017.07.06 08:56:49									
+RMPI010	RMPI010	ROH	 	Dummy Text		2017.07.06 08:56:49									
+RMPI011	RMPI011	ROH	 	Dummy Text		2017.07.06 08:56:49									
+RMPI012	RMPI012	ROH	 	Dummy Text		2017.07.06 08:56:49									
+RMPI013	RMPI013	ROH	 	Dummy Text		2017.07.06 08:56:49									
+RMPI014	RMPI014	ROH	 	Dummy Text		2017.07.06 08:56:49									
+RP001	RP001	LEIH	 	Empties,ND	Leergut, ND	2017.07.06 08:56:49									
+S-201	S-201	HALB	 	SEMI201,MTS,D1,Subassembly	SEMI201,MTS,D1,Subassembly	2017.07.06 08:56:49									
+S-202	S-202	HALB	 	SEMI202,MTS,D1	SEMI202,MTS,D1	2017.07.06 08:56:49									
+S-301	S-301	HALB	 	SEMI301,MTS,PD,Subassembly	SEMI301,MTS,PD,Subassembly	2017.07.06 08:56:49									
+SF-FL-COMB	SF-FL-COMB	HALB	 	Forklift Base Combustion Model	Forklift Base Combustion Model	2017.07.06 08:56:49									
+SF-FL-CWEIGHT	SF-FL-CWEIGHT	HALB	 	Forklift Counterweight  Plate	Forklift Counterweight  Plate	2017.07.06 08:56:49									
+SF-FL-ELECTRIC	SF-FL-ELECTRIC	HALB	 	Forklift Base Electrical Model	Forklift Base Electrical Model	2017.07.06 08:56:49									
+SF-FL-FORK-L	SF-FL-FORK-L	HALB	 	Forklift Large Fork	Forklift Large Fork	2017.07.06 08:56:49									
+SF-FL-FORK-M	SF-FL-FORK-M	HALB	 	Forklift Medium Fork	Forklift Medium Fork	2017.07.06 08:56:49									
+SF-FL-FORK-S	SF-FL-FORK-S	HALB	 	Forklift Small Fork	Forklift Small Fork	2017.07.06 08:56:49									
+SF-FL-TIRE-CUSH	SF-FL-TIRE-CUSH	HALB	 	Forklift Cushion Tire	Forklift Cushion Tire	2017.07.06 08:56:49									
+SF-FL-TIRE-PNEU	SF-FL-TIRE-PNEU	HALB	 	Forklift Pneumatic Tire	Forklift Pneumatic Tire	2017.07.06 08:56:49									
+SG124	SG124	HALB	 	SEMI124,PD,Subassembly	SEMI124, PD, Zwischenbaugruppe	2017.07.06 08:56:49									
+SG21	SG21	HALB	 	SEMI21,PD,RepetitiveManuf.	SEMI21, PD, Serienfertigung	2017.07.06 08:56:49									
+SG22	SG22	HALB	 	SEMI22,PD,Phantom	SEMI22, PD, Dummy-Baugruppe	2017.07.06 08:56:49									
+SG224	SG224	HALB	 	SEMI224,MTO,PD,Subassembly	SEMI224, MTO, PD, Zwischenbaugruppe	2017.07.06 08:56:49									
+SG23	SG23	HALB	 	SEMI23,PD,Subcontracting	SEMI23, PD, Lohnbearbeitung	2017.07.06 08:56:49									
+SG233	SG233	HALB	 	SEMI233,PD,KANBAN, REM	SEMI233, PD, KANBAN, Serienfertigung	2017.07.06 08:56:49									
+SG24	SG24	HALB	 	SEMI24,PD,Batch-Fifo	SEMI24, PD, FIFO Charge	2017.07.06 08:56:49									
+SG25	SG25	HALB	 	SEMI25,PD,ExternalProcurement	SEMI25, PD, Fremdbeschaffung	2017.07.06 08:56:49									
+SG29	SG29	HALB	 	SEM29,PD,QM	SEM29,PD,QM	2017.07.06 08:56:49									
+SG325A	SG325A	HALB	 	SEMI325A,PLM,PD,ExternalProcurement	SEMI325A, PLM, PD, Fremdbeschaffung	2017.07.06 08:56:49									
+SG325B	SG325B	HALB	 	SEMI325B,ECM,PD,ExternalProcurement	SEMI325B, ECM, PD, Fremdbeschaffung	2017.07.06 08:56:49									
+SGPI001	SGPI001	HALB	 	Dummy Text		2017.07.06 08:56:49									
+SGPI002	SGPI002	HALB	 	Dummy Text		2017.07.06 08:56:49									
+SGPI003	SGPI003	HALB	 	Dummy Text		2017.07.06 08:56:49									
+SGPI004	SGPI004	HALB	 	Dummy Text		2017.07.06 08:56:49									
+SGPI005	SGPI005	HALB	 	Dummy Text		2017.07.06 08:56:49									
+SM0001	SM0001	SERV	 	Service Material 01		2017.07.06 08:56:49									
+SP001	SP001	ERSA	 	Bearing	Lager	2017.07.06 08:56:49									
+SP002	SP002	ERSA	 	Coupling	Kupplung	2017.07.06 08:56:49									
+SP003	SP003	ERSA	 	Shaft	Welle	2017.07.06 08:56:49									
+SP004	SP004	ERSA	 	Gaskets 1mm	Dichtungsringe 1 mm	2017.07.06 08:56:49									
+SP005	SP005	ERSA	 	Mechanical Seal	Gleitringdichtung	2017.07.06 08:56:49									
+SP006	SP006	ERSA	 	Spur gear IS651	Stirnradgetriebe IS651	2017.07.06 08:56:49									
+TG0001	TG0001	MAT	 	Trading Good for Consumption	Handelsware für Verbrauch	2017.07.06 08:56:49									
+TG0011	TG0011	MAT	 	Trading Good 0011,PD,Regular Proc.	Handelsware 0011, PD, Reguläre Beschaff.	2017.07.06 08:56:49									
+TG0012	TG0012	MAT	 	Trad. Good 0012,Reord. Pt.,Regular Proc.	HandWare 0012, Meldebest., reg. Besch.	2017.07.06 08:56:49									
+TG0013	TG0013	MAT	 	Trading Good 0013,PD,Regular Proc.	Handelsware 0013, PD, Reguläre Beschaff.	2017.07.06 08:56:49									
+TG10	TG10	HAWA	 	Trad.Good 10,PD,Third Party	Handelsware 10, PD, Strecke	2017.07.06 08:56:49									
+TG11	TG11	HAWA	 	Trad.Good 11,PD,Reg.Trading	Handelsware 11, PD, normaler Handel	2017.07.06 08:56:49									
+TG12	TG12	HAWA	 	Trad.Good 12,Reorder Point,Reg.Trad.	HAWA 12, Bestellpunkt, normaler Handel	2017.07.06 08:56:49									
+TG13	TG13	HAWA	 	Trad.Good 13,Reorder Point,Thrd Party	Handelsware 13, Bestellpunkt, Strecke	2017.07.06 08:56:49									
+TG14	TG14	HAWA	 	Trad.Good 14,PD,Bought-In,H14	Handelsware 14, PD, Zukauf, H14	2017.07.06 08:56:49									
+TG20	TG20	HAWA	 	Trad.Good 20,Reorder Point,SerialNo	Handelsware 20, Bestellpunkt, Serialnr.	2017.07.06 08:56:49									
+TG21	TG21	HAWA	 	Trad.Good 21,Reorder Point,Batch-FIFO	HAWA 21, Bestellpunkt, FIFO Charge	2017.07.06 08:56:49									
+TG22	TG22	HAWA	 	Trad.Good 22,Reorder Point,Batch-ExpD	HAWA 22, Bestellpkt, Verfalldatum Charge	2017.07.06 08:56:49									
+ZFG126	ZFG126	FERT	 	TEST FIN126,MTS-DI,PD,SerialNo	FIN126, MTS-DI, PD, Serialnummer	2017.07.06 08:56:49									
+ZFG164	ZFG164	FERT	 	FIN126,MTS-DI,PD,SerialNo	FIN126, MTS-DI, PD, Serialnummer	2017.07.06 08:56:49									
+ZFG165	ZFG165	FERT	 	FIN126,MTS-DI,PD,SerialNo	FIN126, MTS-DI, PD, Serialnummer	2017.07.06 08:56:49									
+ZFG166	ZFG166	FERT	 	FIN126,MTS-DI,PD,SerialNo	FIN126, MTS-DI, PD, Serialnummer	2017.07.06 08:56:49									
+ZFG167	ZFG167	FERT	 	FIN126,MTS-DI,PD,SerialNo	FIN126, MTS-DI, PD, Serialnummer	2017.07.06 08:56:49									
+ZMATFG12613	ZMATFG12613	FERT	 	FIN126,MTS-DI,PD,SerialNo	FIN126, MTS-DI, PD, Serialnummer	2017.07.06 08:56:49									
+ZMATFG12713	ZMATFG12713	FERT	 	FIN126,MTS-DI,PD,SerialNo	FIN126, MTS-DI, PD, Serialnummer	2017.07.06 08:56:49									
+ZMATFG12813	ZMATFG12813	FERT	 	FIN126,MTS-DI,PD,SerialNo	FIN126, MTS-DI, PD, Serialnummer	2017.07.06 08:56:49									
+ZMTA_FG226	ZMTA_FG226	FERT	 	MTA-FIN226,MTO,PD,Batch-Fifo	MTA-FIN226, MTO, PD, FIFO Charge	2017.07.06 08:56:49									
+ZMTA_FG29	ZMTA_FG29	FERT	 	MTA-FIN29,MTS-PI,PD,Batch-ExpirationDate	MTA-FIN29, MTS-PI, PD, Charge-Verfalldat	2017.07.06 08:56:49									
+ZMTA_RM09	ZMTA_RM09	ROH	 	MTA-RAW09,PD,Batch-Fifo	MTA-RAW09, PD, FIFO Charge	2017.07.06 08:56:49									
+ZMTA_RM122	ZMTA_RM122	ROH	 	MTA-RAW122,PD,Batch-Fifo,ProcureImport	MTA-RAW122, PD, FIFO Charge, Import	2017.07.06 08:56:49									
+ZRM122	ZRM122	ROH	 	RAW122,PD,Batch-Fifo,ProcureImport	RAW122, PD, FIFO Charge, Import	2017.07.06 08:56:49									
+ZRM124	ZRM124	ROH	 	RAW124,VB,Consumption,FixedBin	RAW124, VB, Verbrauch, Fixlagerplatz	2017.07.06 08:56:49									
+ZRM1244	ZRM1244	ROH	 	RAW124,VB,Consumption,FixedBin	RAW124, VB, Verbrauch, Fixlagerplatz	2017.07.06 08:56:49									
+ZRM124_RETEST	ZRM124_RETEST	ROH	 	RAW124,VB,Consumption,FixedBin	RAW124, VB, Verbrauch, Fixlagerplatz	2017.07.06 08:56:49									
+ZRM124_TEST	ZRM124_TEST	ROH	 	RAW124,VB,Consumption,FixedBin	RAW124, VB, Verbrauch, Fixlagerplatz	2017.07.06 08:56:49									
+ZRM128	ZRM128	ROH	 	RAW128,PD,Consignment	RAW128, PD, Konsignation	2017.07.06 08:56:49									
+ZRM1282	ZRM1282	ROH	 	RAW128,PD,Consignment	RAW128, PD, Konsignation	2017.07.06 08:56:49									
+ZRM128_CK	ZRM128_CK	ROH	 	RAW128,PD,Consignment	RAW128, PD, Konsignation	2017.07.06 08:56:49									
+ZRM128_CK2	ZRM128_CK2	ROH	 	RAW128,PD,Consignment2	RAW128, PD, Konsignation	2017.07.06 08:56:49									
+ZRM128_CK3	ZRM128_CK3	ROH	 	RAW128,PD,Consignment3	RAW128, PD, Konsignation	2017.07.06 08:56:49									
+ZRM128_CK4	ZRM128_CK4	ROH	 	RAW128,PD,Consignment3	RAW128, PD, Konsignation	2017.07.06 08:56:49									
+ZRM128_CK5	ZRM128_CK5	ROH	 	RAW128,PD,Consignment3	RAW128, PD, Konsignation	2017.07.06 08:56:49									
+ZRM128_CK6	ZRM128_CK6	ROH	 	RAW128,PD,Consignment3	RAW128, PD, Konsignation	2017.07.06 08:56:49									
+ZRM_222	ZRM_222	ROH	 	RAW124,VB,Consumption,FixedBin	RAW124, VB, Verbrauch, Fixlagerplatz	2017.07.06 08:56:49									
+ZRM_223	ZRM_223	ROH	 	RAW124,VB,Consumption,FixedBin	RAW124, VB, Verbrauch, Fixlagerplatz	2017.07.06 08:56:49									
+ZTG10	ZTG10	HAWA	 	TEST Trad.Good 10,PD,Third Party	Handelsware 10, PD, Strecke	2017.07.06 08:56:49									
+ZTG14	ZTG14	HAWA	 	Mig Material for Stock E	Handelsware 14, PD, Zukauf, H14	2017.07.06 08:56:49									

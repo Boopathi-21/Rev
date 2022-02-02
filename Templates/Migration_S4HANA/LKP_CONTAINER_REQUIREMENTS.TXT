@@ -1,0 +1,5 @@
+LEGACY_QM_CONTROL_KEY	QM_CONTROL_KEY	QM_CONTROL_KEY_TXT_GBL	QM_CONTROL_KEY_TXT_LCL	DI_TIMESTAMP											
+0000	0000	No active functions, info message	Keine Funktion aktiv, Info-Meldung	2017.07.06 08:56:49											
+0001	0001	Delivery release	Lieferfreigabe	2017.07.06 08:56:49											
+8888	8888	Del. block inactive	Liefersperre inaktiv	2017.07.06 08:56:49											
+9001	9001	Delivery release (with error message)	Lieferfreigabe (mit Fehlermeldung)	2017.07.06 08:56:49											

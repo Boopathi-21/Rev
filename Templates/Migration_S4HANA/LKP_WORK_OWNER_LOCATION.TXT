@@ -1,0 +1,15 @@
+LEGACY_LOCATION	LOCATION	PLANT	LOCATION_TXT_GBL	LOCATION_TXT_LCL	DI_TIMESTAMP										
+YB_1001	YB_1001	1010	Compressor # 1	Compressor # 1	2017.07.06 08:56:49										
+YB_1002	YB_1002	1010	Compressor # 2	Compressor # 2	2017.07.06 08:56:49										
+YB_1003	YB_1003	1010	Compressor # 3	Compressor # 3	2017.07.06 08:56:49										
+YB_1004	YB_1004	1010	Compressor # 4	Compressor # 4	2017.07.06 08:56:49										
+YB_1005	YB_1005	1010	Air Dryer	Air Dryer	2017.07.06 08:56:49										
+YB_1006	YB_1006	1010	Cooling Water System	Cooling Water System	2017.07.06 08:56:49										
+YB_1007	YB_1007	1010	Cooling Towers	Cooling Towers	2017.07.06 08:56:49										
+YB_1701	YB_1701	1710	Compressor # 1	Compressor # 1	2017.07.06 08:56:49										
+YB_1702	YB_1702	1710	Compressor # 2	Compressor # 2	2017.07.06 08:56:49										
+YB_1703	YB_1703	1710	Compressor # 3	Compressor # 3	2017.07.06 08:56:49										
+YB_1704	YB_1704	1710	Compressor # 4	Compressor # 4	2017.07.06 08:56:49										
+YB_1705	YB_1705	1710	Air Dryer	Air Dryer	2017.07.06 08:56:49										
+YB_1706	YB_1706	1710	Cooling Water System	Cooling Water System	2017.07.06 08:56:49										
+YB_1707	YB_1707	1710	Cooling Towers	Cooling Towers	2017.07.06 08:56:49										

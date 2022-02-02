@@ -1,0 +1,18 @@
+LEGACY_INCOTERMS_PART1	INCOTERMS_PART1	INCOTERMS_PART1_TXT_GBL	INCOTERMS_PART1_TXT_LCL	DI_TIMESTAMP											
+CFR	CFR	Costs and Freight	Kosten und Fracht	2018.06.19 05:33:47											
+CIF	CIF	Costs, Insurance & Freight	Kosten, Versicherung & Fracht	2018.06.19 05:33:47											
+CIP	CIP	Carriage and Insurance Paid to	Frachtfrei versichert	2018.06.19 05:33:47											
+CPT	CPT	Carriage Paid to	Frachtfrei	2018.06.19 05:33:47											
+DAF	DAF	Delivered at Frontier	Geliefert Grenze	2018.06.19 05:33:47											
+DAP	DAP	Delivered at Place	Geliefert benannter Ort	2018.06.19 05:33:47											
+DAT	DAT	Delivered at Terminal	Geliefert Terminal	2018.06.19 05:33:47											
+DDP	DDP	Delivered Duty Paid	Geliefert verzollt	2018.06.19 05:33:47											
+DDU	DDU	Delivered Duty Unpaid	Geliefert unverzollt	2018.06.19 05:33:47											
+DEQ	DEQ	Delivered ex Quay (duty paid)	Geliefert ab Kai (verzollt)	2018.06.19 05:33:47											
+DES	DES	Delivered ex Ship	Geliefert ab Schiff	2018.06.19 05:33:47											
+EXW	EXW	Ex Works	Ab Werk	2018.06.19 05:33:47											
+FAS	FAS	Free Alongside Ship	Frei Längsseite Seeschiff	2018.06.19 05:33:47											
+FCA	FCA	Free Carrier	Frei Frachtführer	2018.06.19 05:33:47											
+FH	FH	Free House	Frei Haus	2018.06.19 05:33:47											
+FOB	FOB	Free on Board	Frei an Bord	2018.06.19 05:33:47											
+UN	UN	Not Free	Unfrei	2018.06.19 05:33:47											

@@ -1,0 +1,6 @@
+LEGACY_CREDIT_RISK_CATEGORY	CREDIT_RISK_CATEGORY	CREDIT_CONTROL_AREA	CREDIT_RISK_CATEGORY_TXT_GBL	CREDIT_RISK_CATEGORY_TXT_LCL	DI_TIMESTAMP										
+A	A	A000	No Default Risk	Kein Ausfallrisiko	2017.07.06 08:56:49										
+B	B	A000	Low Default Risk	Niedriges Ausfallrisiko	2017.07.06 08:56:49										
+C	C	A000	Medium Default Risk	Mittleres Ausfallrisiko	2017.07.06 08:56:49										
+D	D	A000	High Default Risk	Hohes Ausfallrisiko	2017.07.06 08:56:49										
+E	E	A000	Very High Default Risk	Sehr hohes Ausfallrisiko	2017.07.06 08:56:49										

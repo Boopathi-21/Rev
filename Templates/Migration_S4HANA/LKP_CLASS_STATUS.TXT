@@ -1,0 +1,70 @@
+LEGACY_CLASS_STATUS	CLASS_STATUS	CLASS_TYPE	CLASS_STATUS_TXT_GBL	CLASS_STATUS_TXT_LCL	DI_TIMESTAMP										
+0	0	001	In preparation	In Vorbereitung	2017.07.06 08:56:49										
+0	0	002	In preparation	In Vorbereitung	2017.07.06 08:56:49										
+0	0	003	In preparation	In Vorbereitung	2017.07.06 08:56:49										
+0	0	005	In preparation	In Vorbereitung	2017.07.06 08:56:49										
+0	0	006	In preparation	In Vorbereitung	2017.07.06 08:56:49										
+0	0	007	In Preparation	In Vorbereitung	2017.07.06 08:56:49										
+0	0	008	In Preparation	In Vorbereitung	2017.07.06 08:56:49										
+0	0	010	In preparation	In Vorbereitung	2017.07.06 08:56:49										
+0	0	011	In preparation	In Vorbereitung	2017.07.06 08:56:49										
+0	0	017	In preparation	In Vorbereitung	2017.07.06 08:56:49										
+0	0	018	In Preparation	In Vorbereitung	2017.07.06 08:56:49										
+0	0	019	In Preparation	In Vorbereitung	2017.07.06 08:56:49										
+0	0	022	In preparation	In Vorbereitung	2017.07.06 08:56:49										
+0	0	023	In preparation	In Vorbereitung	2017.07.06 08:56:49										
+0	0	032	In preparation	In Vorbereitung	2017.07.06 08:56:49										
+0	0	040	In preparation	In Vorbereitung	2017.07.06 08:56:49										
+0	0	052	In Preparation	In Anlage	2017.07.06 08:56:49										
+0	0	100	In Preparation	In Vorbereitung	2017.07.06 08:56:49										
+0	0	104	In Preparation	In Vorbereitung	2017.07.06 08:56:49										
+0	0	105	In Preparation	In Vorbereitung	2017.07.06 08:56:49										
+0	0	200	In Preparation	In Vorbereitung	2017.07.06 08:56:49										
+0	0	300	In Preparation	In Vorbereitung	2017.07.06 08:56:49										
+0	0	399	In Preparation	In Anlage	2017.07.06 08:56:49										
+1	1	001	Released	Freigegeben	2017.07.06 08:56:49										
+1	1	002	Released	Freigegeben	2017.07.06 08:56:49										
+1	1	003	Released	Freigegeben	2017.07.06 08:56:49										
+1	1	005	Released	Freigegeben	2017.07.06 08:56:49										
+1	1	006	Released	Freigegeben	2017.07.06 08:56:49										
+1	1	007	Released	Freigegeben	2017.07.06 08:56:49										
+1	1	008	Released	Freigegeben	2017.07.06 08:56:49										
+1	1	010	Released	Freigegeben	2017.07.06 08:56:49										
+1	1	011	Released	Freigegeben	2017.07.06 08:56:49										
+1	1	017	Released	Freigegeben	2017.07.06 08:56:49										
+1	1	018	Released	Freigegeben	2017.07.06 08:56:49										
+1	1	019	Released	Freigegeben	2017.07.06 08:56:49										
+1	1	022	Released	Freigegeben	2017.07.06 08:56:49										
+1	1	023	Released	Freigegeben	2017.07.06 08:56:49										
+1	1	032	Released	Freigegeben	2017.07.06 08:56:49										
+1	1	040	Released	Freigegeben	2017.07.06 08:56:49										
+1	1	052	Released	Freigegeben	2017.07.06 08:56:49										
+1	1	100	Released	Freigegeben	2017.07.06 08:56:49										
+1	1	104	Released	Freigegeben	2017.07.06 08:56:49										
+1	1	105	Released	Freigegeben	2017.07.06 08:56:49										
+1	1	200	Released	Freigegeben	2017.07.06 08:56:49										
+1	1	300	Released	Freigegeben	2017.07.06 08:56:49										
+1	1	399	Released	Freigegeben	2017.07.06 08:56:49										
+2	2	001	Locked	Gesperrt	2017.07.06 08:56:49										
+2	2	002	Locked	Gesperrt	2017.07.06 08:56:49										
+2	2	003	Locked	Gesperrt	2017.07.06 08:56:49										
+2	2	005	Locked	Gesperrt	2017.07.06 08:56:49										
+2	2	006	Locked	Gesperrt	2017.07.06 08:56:49										
+2	2	007	Locked	Gesperrt	2017.07.06 08:56:49										
+2	2	008	Locked	Gesperrt	2017.07.06 08:56:49										
+2	2	010	Locked	Gesperrt	2017.07.06 08:56:49										
+2	2	011	Locked	Gesperrt	2017.07.06 08:56:49										
+2	2	017	Locked	Gesperrt	2017.07.06 08:56:49										
+2	2	018	Locked	Gesperrt	2017.07.06 08:56:49										
+2	2	019	Locked	Gesperrt	2017.07.06 08:56:49										
+2	2	022	Locked	Gesperrt	2017.07.06 08:56:49										
+2	2	023	Locked	Gesperrt	2017.07.06 08:56:49										
+2	2	032	Locked	Gesperrt	2017.07.06 08:56:49										
+2	2	040	Locked	Gesperrt	2017.07.06 08:56:49										
+2	2	052	Locked	Gesperrt	2017.07.06 08:56:49										
+2	2	100	Locked	Gesperrt	2017.07.06 08:56:49										
+2	2	104	Locked	Gesperrt	2017.07.06 08:56:49										
+2	2	105	Locked	Gesperrt	2017.07.06 08:56:49										
+2	2	200	Locked	Gesperrt	2017.07.06 08:56:49										
+2	2	300	Locked	Gesperrt	2017.07.06 08:56:49										
+2	2	399	Locked	Gesperrt	2017.07.06 08:56:49										

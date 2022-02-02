@@ -1,0 +1,3 @@
+LEGACY_DYN_MOD_RULE	DYN_MOD_RULE	DYN_MOD_RULE_TXT_GBL	DYN_MOD_RULE_TXT_LCL	DI_TIMESTAMP											
+QM1	QM1	Inspection/Skip		2017.07.06 08:56:49											
+QM2	QM2	Reduced/Normal/Tightened and Skip		2017.07.06 08:56:49											

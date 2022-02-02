@@ -1,0 +1,9 @@
+LEGACY_CUSTOMER_GROUP	CUSTOMER_GROUP	CUSTOMER_GROUP_TXT_GBL	CUSTOMER_GROUP_TXT_LCL	DI_TIMESTAMP											
+01	01	Customer Group 01	Kundengruppe 01	2018.06.19 05:33:47											
+02	02	Customer Group 02	Kundengruppe 02	2018.06.19 05:33:47											
+03	03	Customer Group 03	Kundengruppe 03	2018.06.19 05:33:47											
+04	04	Customer Group 04	Kundengruppe 04	2018.06.19 05:33:47											
+05	05	Customer Group 05	Kundengruppe 05	2018.06.19 05:33:47											
+06	06	Customer Group 06	Kundengruppe 06	2018.06.19 05:33:47											
+07	07	Customer Group 07	Kundengruppe 07	2018.06.19 05:33:47											
+08	08	Customer Group 08	Kundengruppe 08	2018.06.19 05:33:47											

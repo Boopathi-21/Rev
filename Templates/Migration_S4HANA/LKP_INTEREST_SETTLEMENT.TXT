@@ -1,0 +1,5 @@
+LEGACY_INTEREST_INDIC	INTEREST_INDIC	INTEREST_INDIC_TXT_GBL	INTEREST_INDIC_TXT_LCL	DI_TIMESTAMP											
+01	01	Standard itm int.cal	Postenverz. Standard	2017.07.06 08:56:49											
+02	02	Standard bal.int.cal	Saldenverz. Standard	2017.07.06 08:56:49											
+12	12	G/L Acc. bal.int.cal	VerzinsArt SachkoSld	2017.07.06 08:56:49											
+D1	D1	Int.cal. for Dunning	Verzins. für Mahnung	2017.07.06 08:56:49											

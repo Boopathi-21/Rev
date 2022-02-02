@@ -1,0 +1,45 @@
+LEGACY_INDUSTRY_KEY	INDUSTRY_KEY	INDUSTRY_KEY_TXT_GBL	INDUSTRY_KEY_TXT_LCL	DI_TIMESTAMP											
+0001	0001	Standard Industry	Standardbranche	2018.06.19 05:33:47											
+01	01	Diversified Holding	Diversifiz. Holdings	2018.06.19 05:33:47											
+02	02	Financial Services	Finanzdienstleist.	2018.06.19 05:33:47											
+03	03	Real Estate	Immobilien	2018.06.19 05:33:47											
+10	10	Energy Supply / Dist	EnergVers./-verteil.	2018.06.19 05:33:47											
+11	11	Oil, Gas	Öl und Gas	2018.06.19 05:33:47											
+12	12	Raw Materials	Rohstoffe	2018.06.19 05:33:47											
+13	13	Precious Metals	Edelmetalle	2018.06.19 05:33:47											
+21	21	Chemical Industry	Chemie	2018.06.19 05:33:47											
+22	22	Health	Gesundheitswesen	2018.06.19 05:33:47											
+23	23	Glass	Glas	2018.06.19 05:33:47											
+24	24	Construction Industr	Bauindustrie	2018.06.19 05:33:47											
+25	25	Building Supplier	Bauzulieferer	2018.06.19 05:33:47											
+26	26	Paper and Pulp	Papier/Zellstoff	2018.06.19 05:33:47											
+27	27	Timber and Infrastru	Holz/Infrastruktur	2018.06.19 05:33:47											
+31	31	Spinning Mill, Weavi	Spinnerei, Weberei	2018.06.19 05:33:47											
+32	32	Apparel	Bekleidung	2018.06.19 05:33:47											
+41	41	Iron and Steel	Eisen und Stahl	2018.06.19 05:33:47											
+42	42	Vehicles	Fahrzeuge	2018.06.19 05:33:47											
+43	43	Vehicle Supplier	Fahrzeuglieferant	2018.06.19 05:33:47											
+44	44	Mechanical Engineeri	Maschinenbau	2018.06.19 05:33:47											
+45	45	Specialized Mechanic	Spezialmaschinenbau	2018.06.19 05:33:47											
+46	46	Machine Tool Enginee	Werkzeugmaschinenbau	2018.06.19 05:33:47											
+47	47	Aircraft Constructio	Flugzeugbau	2018.06.19 05:33:47											
+51	51	Breweries, Beverages	Brauereien, Getränke	2018.06.19 05:33:47											
+52	52	Nutrition	Ernährung	2018.06.19 05:33:47											
+61	61	Electricals / Electr	ElekGer/ElekTechnik	2018.06.19 05:33:47											
+62	62	Computers and Data P	Comp./Datenverarb.	2018.06.19 05:33:47											
+63	63	Software	Software	2018.06.19 05:33:47											
+64	64	Telecommunications	Telekommunikation	2018.06.19 05:33:47											
+71	71	Consumer Products	Konsumgüterindustrie	2018.06.19 05:33:47											
+72	72	Traffic and Transpor	Verkehr und Transp.	2018.06.19 05:33:47											
+73	73	Leisure and Hotel	Freizeit und Hotel	2018.06.19 05:33:47											
+81	81	Commercial Banks	Geschäftsbanken	2018.06.19 05:33:47											
+82	82	Mortgage Banks	Hypothekenbanken	2018.06.19 05:33:47											
+83	83	Life Insurances	Lebensversicherungen	2018.06.19 05:33:47											
+84	84	Non-Life Insurances	Sachversicherungen	2018.06.19 05:33:47											
+85	85	Reinsurances	Rückversicherungen	2018.06.19 05:33:47											
+86	86	Insurance Holdings	Versicherungshold.	2018.06.19 05:33:47											
+91	91	Trading	Handel	2018.06.19 05:33:47											
+92	92	Pharmaceutical Trade	Pharmahandel	2018.06.19 05:33:47											
+93	93	Publishing and Media	Verlag und Medien	2018.06.19 05:33:47											
+94	94	Environment	Umgebung	2018.06.19 05:33:47											
+99	99	Miscellaneous	Sonstiges	2018.06.19 05:33:47											

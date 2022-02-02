@@ -1,0 +1,9 @@
+LEGACY_PAYMENT_BLOCK_KEY	PAYMENT_BLOCK_KEY	PAYMENT_BLOCK_KEY_TXT_GBL	PAYMENT_BLOCK_KEY_TXT_LCL	DI_TIMESTAMP											
+ 	 	Free for payment	Frei für Zahlung	2018.06.19 05:33:47											
+*	*	Skip account	Konto auslassen	2018.06.19 05:33:47											
+A	A	Blocked for payment	Gesperrt für Zahlung	2018.06.19 05:33:47											
+B	B	Manual paym blocked	Man. Zahl. gesperrt	2018.06.19 05:33:47											
+N	N	Postprocess inc.pmnt	Zhlgeing. nachbearb.	2018.06.19 05:33:47											
+P	P	Payment request	Zahlungsanforderung	2018.06.19 05:33:47											
+R	R	Invoice verification	Rechnungsprüfung	2018.06.19 05:33:47											
+V	V	Payment clearing	Zahlungsausgleich	2018.06.19 05:33:47											

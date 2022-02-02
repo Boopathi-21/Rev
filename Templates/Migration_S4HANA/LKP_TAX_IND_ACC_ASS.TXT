@@ -1,0 +1,5 @@
+LEGACY_TAX_IND_ACCASS	COUNTRY_DEST_GOODS	TAX_IND_ACCASS	TAX_IND_ACCASS_TXT_GBL	TAX_IND_ACCASS_TXT_LCL	DI_TIMESTAMP										
+0	DE	0	Exempt	Steuerfrei	2017.07.06 08:56:49										
+1	DE	1	Taxable	Besteuert	2017.07.06 08:56:49										
+0	US	0	Exempt	Steuerfrei	2017.07.06 08:56:49										
+1	US	1	Taxable	Besteuert	2017.07.06 08:56:49										

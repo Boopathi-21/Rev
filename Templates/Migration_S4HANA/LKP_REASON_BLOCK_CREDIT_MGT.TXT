@@ -1,0 +1,11 @@
+LEGACY_CREDIT_BLK_REASON	CREDIT_BLK_REASON	BLK_REASON_TXT_GBL	BLK_REASON_TXT_LCL	DI_TIMESTAMP											
+01	01	Credit Limit Exceeded	Kreditlimit überschritten	2019.09.06 09:19:45											
+02	02	No Insurance available	Kein Versicherung verfügbar	2019.09.06 09:19:45											
+03	03	Fraud possible	Betrug möglich	2019.09.06 09:19:45											
+04	04	Insufficient credit worthiness	Unzureichende Bonität	2019.09.06 09:19:45											
+20	20	Credit limit to be approved	Zu genehmigendes Kreditlimit	2019.09.06 09:19:45											
+21	21	Credit limit changed	Kreditlimit geändert	2019.09.06 09:19:45											
+22	22	Credit limit rejected	Kreditlimit abgelehnt	2019.09.06 09:19:45											
+23	23	Credit limit invalid	Kreditlimit ungültig	2019.09.06 09:19:45											
+24	24	Score invalid	Interne Bonität ungültig	2019.09.06 09:19:45											
+Z9	Z9	Manual Block	Manuelle Sperre	2019.09.06 09:19:45											

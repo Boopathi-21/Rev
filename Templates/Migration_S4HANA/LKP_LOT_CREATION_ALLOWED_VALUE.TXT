@@ -1,0 +1,23 @@
+LEGACY_INSP_LOT_ORIGIN	INSP_LOT_ORIGIN	INSLOT_CREATION	INSP_LOT_ORIGIN_TXT_GBL	INSP_LOT_ORIGIN_TXT_LCL	DI_TIMESTAMP										
+01	01	 	For each material document item	je Materialbelegposition	2017.07.06 08:56:49										
+01	01	1	For each material document, material, batch and storage loc.	je Materialbeleg, Material, Charge und Lagerort	2017.07.06 08:56:49										
+01	01	2	For each material, batch and storage location	je Material, Charge und Lagerort	2017.07.06 08:56:49										
+01	01	X	For each purchase order item, batch and storage location	je Bestellposition, Charge und Lagerort	2017.07.06 08:56:49										
+04	04	 	For each material document item	je Materialbelegposition	2017.07.06 08:56:49										
+04	04	2	For each material, batch and storage location	je Material, Charge und Lagerort	2017.07.06 08:56:49										
+04	04	1	For each material document, material, batch and storage loc.	je Materialbeleg, Material, Charge und Lagerort	2017.07.06 08:56:49										
+04	04	X	For each order item, batch and storage location	je Auftragsposition, Charge und Lagerort	2017.07.06 08:56:49										
+04	04	Y	Early lot creation for the order item	frühe Loseröffnung zur Auftragsposition	2017.07.06 08:56:49										
+05	05	 	For each material document item	je Materialbelegposition	2017.07.06 08:56:49										
+05	05	1	For each material document, material, batch and storage loc.	je Materialbeleg, Material, Charge und Lagerort	2017.07.06 08:56:49										
+05	05	2	For each material, batch and storage location	je Material, Charge und Lagerort	2017.07.06 08:56:49										
+08	08	 	For each material document item	je Materialbelegposition	2017.07.06 08:56:49										
+08	08	1	For each material document, material, batch and storage loc.	je Materialbeleg, Material, Charge und Lagerort	2017.07.06 08:56:49										
+08	08	2	For each material, batch and storage location	je Material, Charge und Lagerort	2017.07.06 08:56:49										
+08	08	X	For each stock transport order item, batch, storage location	je Umlagerbestellposition, Charge und Lagerort	2017.07.06 08:56:49										
+10	10	 	One Inspection Lot for Each Main Item	je Hauptposition ein Prüflos	2017.07.06 08:56:49										
+10	10	3	One Inspection Lot for Each Batch Split Item	je Chargensplittposition ein Prüflos	2017.07.06 08:56:49										
+11	11	 	One Inspection Lot for Each Main Item	je Hauptposition ein Prüflos	2017.07.06 08:56:49										
+11	11	3	One Inspection Lot for Each Batch Split Item	je Chargensplittposition ein Prüflos	2017.07.06 08:56:49										
+12	12	 	One Inspection Lot for Each Main Item	je Hauptposition ein Prüflos	2017.07.06 08:56:49										
+12	12	3	One Inspection Lot for Each Batch Split Item	je Chargensplittposition ein Prüflos	2017.07.06 08:56:49										

@@ -1,0 +1,10 @@
+LEGACY_STORAGETYPEIND	STORAGETYPEIND	WAREHOUSE_NUMBER	STORAGETYPEIND_TXT_GBL	STORAGETYPEIND_TXT_LCL	DI_TIMESTAMP										
+001	001	101	Raw materials (HRS)		2017.07.06 08:56:49										
+002	002	101	Shelf goods		2017.07.06 08:56:49										
+004	004	101	Block storage mat.		2017.07.06 08:56:49										
+007	007	101	Pallet goods		2017.07.06 08:56:49										
+008	008	101	Pallet goods		2017.07.06 08:56:49										
+010	010	101	HRS with SU mgmt		2017.07.06 08:56:49										
+012	012	101	Bl.stor.with SU mgmt		2017.07.06 08:56:49										
+SIN	SIN	101	Sineads Indicator		2017.07.06 08:56:49										
+UF	UF	101	removal dokucharge		2017.07.06 08:56:49										

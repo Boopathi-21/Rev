@@ -1,0 +1,3 @@
+LEGACY_BLOCK_REASON	BLOCK_REASON	BLOCK_REASON_TXT_GBL	BLOCK_REASON_TXT_LCL	DI_TIMESTAMP											
+01	01	Card lost or stolen	Karte verloren oder gestohlen	2018.06.19 05:33:47											
+02	02	Other reason	Anderer Grund	2018.06.19 05:33:47											

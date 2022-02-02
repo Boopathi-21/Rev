@@ -1,0 +1,9 @@
+LEGACY_DISTRIBUTION	DISTRIBUTION	DISTRIBUTION_TXT_GBL	DISTRIBUTION_TXT_LCL	DI_TIMESTAMP											
+SAP000	SAP000	Overall load for latest start date	Gesamtbelastung zum spätesten Startterm.	2017.07.06 08:56:49											
+SAP010	SAP010	Overall load for earliest start date	Gesamtbelastung zum frühesten Startterm.	2017.07.06 08:56:49											
+SAP020	SAP020	Equal distrib. earliest dates, fact.cal.	Gleichverteilung früheste Lage, Fabrikka	2017.07.06 08:56:49											
+SAP030	SAP030	Equal distrib. latest dates, fact. cal.	Gleichverteilung späteste Lage, Fabrikka	2017.07.06 08:56:49											
+SAP040	SAP040	Equal distrib. latest dates, discrete	Gleichverteilung späteste Lage, diskret	2017.07.06 08:56:49											
+SAP050	SAP050	Equal distrib. earliest dates, oper.time	Gleichvert. früheste Lage, Einsatzzeit	2017.07.06 08:56:49											
+SAP060	SAP060	Equal distr. latest dates, operat. time	Gleichvert. späteste Lage, Einsatzzeit	2017.07.06 08:56:49											
+SAP070	SAP070	Overall load at latest finish date	Gesamtbelastung zum spätesten Endtermin	2017.07.06 08:56:49											
